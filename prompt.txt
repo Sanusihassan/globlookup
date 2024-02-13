@@ -1,0 +1,26 @@
+on this article: https://en.wikipedia.org/wiki/List_of_country_calling_codes there is a table with class: "wikitable sortable jquery-tablesorter" inside that table's tbody each tr contains 4 td elements inside the second tr of each there is a link which is the actual link of each country page
+i want to visit these pages one by one and extract the text of each page then extract structured content and store it inside a json file for each country.
+USING AI to get only the relevant information i.e ignoring texts like: 
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+navigation search
+Retrieved from "https://en.wikipedia.org
+For the lists of codes
+This article needs additional citations
+Please help improve this article
+Edit links
+This article has multiple issues
+This article possibly contains original research
+External links
+Categories
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Article
+Talk
+Read
+Edit
+View history
