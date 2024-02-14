@@ -1,0 +1,170 @@
+{
+  "title": "Barbados telephone area code",
+  "description": "Area code  246 is the telephone area code in the North American Numbering Plan (NANP) for Barbados. The sequence  246 spells BIM on an alpha-numeric telephone keypad, a nickname for the island.",
+  "coordinates": {
+    "degreesDecimal": "13.17000°N  59.55250°W",
+    "degreesMinutesSeconds": "13°10′12″N  59°33′09″W"
+  },
+  "areaCodes": {
+    "commonCities": [
+      {
+        "city": "North",
+        "codes": ["Atlantic Ocean"]
+      },
+      {
+        "city": "West",
+        "codes": ["758", "784"]
+      },
+      {
+        "city": "South",
+        "codes": ["868"]
+      }
+    ],
+    "allocationTable": [
+      {
+        "location": "Christ Church",
+        "numbers": ["418", "420", "428"]
+      },
+      {
+        "location": "Grazettes",
+        "numbers": ["417", "421", "424", "425", "438"]
+      },
+      {
+        "location": "St. James",
+        "numbers": ["432"]
+      },
+      {
+        "location": "St. John",
+        "numbers": ["433"]
+      },
+      {
+        "location": "St. Lucy",
+        "numbers": ["439"]
+      },
+      {
+        "location": "St. Philip",
+        "numbers": ["423"]
+      },
+      {
+        "location": "Telebarbados",
+        "numbers": ["620-629"]
+      },
+      {
+        "location": "Special services",
+        "numbers": ["978"]
+      },
+      {
+        "location": "Speightstown",
+        "numbers": ["419", "422"]
+      },
+      {
+        "location": "Windsor Lodge",
+        "numbers": [
+          "228",
+          "426",
+          "427",
+          "429",
+          "430",
+          "431",
+          "434",
+          "435",
+          "436",
+          "437"
+        ]
+      },
+      {
+        "location": "Cellular",
+        "numbers": ["230"]
+      },
+      {
+        "location": "Spare",
+        "numbers": ["220"]
+      }
+    ]
+  },
+  "mobilePhoneCodes": [
+    {
+      "operator": "Digicel",
+      "codes": [
+        "258",
+        "260",
+        "261",
+        "262",
+        "263",
+        "264",
+        "265",
+        "266",
+        "267",
+        "268",
+        "269",
+        "820",
+        "821",
+        "822",
+        "823",
+        "824",
+        "825",
+        "826",
+        "827",
+        "828",
+        "829"
+      ]
+    },
+    {
+      "operator": "Liberty Latin America",
+      "codes": [
+        "230",
+        "231",
+        "232",
+        "233",
+        "234",
+        "235",
+        "236",
+        "237",
+        "238",
+        "239",
+        "240",
+        "241",
+        "242",
+        "243",
+        "244",
+        "245",
+        "246",
+        "247",
+        "248",
+        "249",
+        "250",
+        "251",
+        "252",
+        "253",
+        "254"
+      ]
+    },
+    {
+      "operator": "Ozone",
+      "codes": ["695", "696", "697"]
+    },
+    {
+      "operator": "Sunbeach",
+      "codes": [
+        "450",
+        "451",
+        "452",
+        "453",
+        "454",
+        "455",
+        "456",
+        "457",
+        "458",
+        "459"
+      ]
+    },
+    {
+      "operator": "Ace Communications International Telephony",
+      "codes": ["776", "777", "778", "223"]
+    }
+  ],
+  "notes": [
+    "When in Barbados, only the seven-digit number is required for local calls.",
+    "To call Barbados from other countries within the North American Numbering Plan, e.g., the United States and Canada, the local number is prefixed with  1 and  246."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Telephone numbers in Afghanistan",
+  "description": "Area codes in Afghanistan are two digits long. It is common to write phone numbers as (0xx) yyy-yyyy, where xx is the area code. The  0 prefix is for long-distance dialing from within the country. International callers should dial +93 xx yyyyyyy.",
+  "location": "Afghanistan",
+  "continent": "Asia",
+  "type": "closed",
+  "accessCodes": {
+    "countryCode": "+93",
+    "internationalAccess": "00",
+    "longDistance": "0"
+  },
+  "fixedLandlineCodes": {
+    "afghanistan": "094",
+    "kabul": "020",
+    "daykundi": "026",
+    "kandahar": "030",
+    "herat": "040",
+    "mazarSharif": "050",
+    "jalalabad": "060",
+    "gardez": "070"
+  },
+  "mobilePhoneCodes": {
+    "awcc": ["070", "071"],
+    "roshanTdc": ["079", "072"],
+    "etisalatAfghanistan": ["078", "073"],
+    "mtnAfghanistan": ["077", "076"],
+    "salaam": ["074"],
+    "afghanTelecomCmda": ["075"],
+    "wasl": ["07*"]
+  }
+}

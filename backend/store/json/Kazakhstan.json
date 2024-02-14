@@ -1,0 +1,73 @@
+{
+  "title": "Telephone numbers in Kazakhstan and Russia",
+  "description": "+7 is an ITU country code for telephone numbering. It was originally assigned to the Soviet Union. After the dissolution of the Soviet Union, the code continued to be used by the successor states, including Kazakhstan and Russia. Currently, the +7 country code is only assigned by ITU to these two countries.",
+  "areaCodes": {
+    "commonCities": [
+      {
+        "city": "Kazakhstan",
+        "codes": [
+          "(02) xxx-xx-xx",
+          "(06) xxx-xx-xx",
+          "(07) xxx-xx-xx",
+          "(07) xxx-xx-xx"
+        ]
+      },
+      {
+        "city": "Russia",
+        "codes": [
+          "(03) xxx-xx-xx",
+          "(04) xxx-xx-xx",
+          "(08) xxx-xx-xx",
+          "(09) xxx-xx-xx"
+        ]
+      }
+    ],
+    "allocationTable": [
+      {
+        "digit": "0",
+        "routedTo": "Reserved for trunk prefix"
+      },
+      {
+        "digit": "1",
+        "routedTo": "Reserved for special services"
+      },
+      {
+        "digit": "2",
+        "routedTo": "Kazakhstan – reserved for common usage"
+      },
+      {
+        "digit": "3",
+        "routedTo": "Russia – geographic numbering"
+      },
+      {
+        "digit": "4",
+        "routedTo": "Russia – geographic numbering"
+      },
+      {
+        "digit": "5",
+        "routedTo": "Reserved"
+      },
+      {
+        "digit": "6",
+        "routedTo": "Kazakhstan"
+      },
+      {
+        "digit": "7",
+        "routedTo": "Kazakhstan – geographic numbering (71x and   72x), mobile telephony (70x and   77x) and other services (75x and   76x)"
+      },
+      {
+        "digit": "8",
+        "routedTo": "Russia – geographic numbering (including   869 Sevastopol,   840 Abkhazia and   850 South Ossetia), Toll-Free, and Pay-Line (for common usage with Kazakhstan and Abkhazia)"
+      },
+      {
+        "digit": "9",
+        "routedTo": "Russia – mobile telephony (including   940 Abkhazia and   998 South Ossetia) and paylines"
+      }
+    ]
+  },
+  "mobilePhoneCodes": [],
+  "notes": [
+    "- \"-\" may not appear sometimes",
+    "- \"~\" means \"wait for the next dial tone\""
+  ]
+}

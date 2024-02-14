@@ -1,0 +1,38 @@
+{
+  "title": "Cayman Islands telephone area code",
+  "description": "Area code  345 is the local telephone area code of the Cayman Islands. The  345 area code was created during a split from the original  809 area code which began permissive dialing on September  1,  1996, and ended on August  31,  1997. When in the Cayman Islands, the seven digits are used alone. When calling to Cayman Islands from anywhere in the United States or Canada,  1(345) is dialed along with the other seven digits of the phone number.",
+  "coordinates": {
+    "degreesDecimal": "19.500°N  80.533°W",
+    "degreesMinutesSeconds": "19°30′N  80°32′W"
+  },
+  "areaCodes": {
+    "commonCities": [
+      {
+        "city": "North",
+        "codes": ["Country code +53 in Cuba"]
+      },
+      {
+        "city": "West",
+        "codes": ["Caribbean Sea, country code +52 in Mexico"]
+      },
+      {
+        "city": "Area code  345",
+        "codes": []
+      },
+      {
+        "city": "East",
+        "codes": ["876/658"]
+      },
+      {
+        "city": "South",
+        "codes": ["Caribbean Sea"]
+      }
+    ],
+    "additionalInformation": [
+      {
+        "territory": "Jamaica",
+        "codes": ["876/658"]
+      }
+    ]
+  }
+}

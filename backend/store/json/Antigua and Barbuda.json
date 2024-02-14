@@ -1,0 +1,41 @@
+{
+  "title": "Antigua and Barbuda telephone area code",
+  "description": "Area code  268 is the telephone area code in the North American Numbering Plan (NANP) for Antigua and Barbuda. The area code digit sequence translates to ANT on a standard US alphanumeric telephone keypad, providing a mnemonic designation. The area code was activated on April  1,  1996, by division of numbering plan area  809 which used to comprise all Caribbean countries and Bermuda. A permissive dialing period was in effect for one year until March  31,  1997. For local calling in Antigua and Barbuda, seven-digit dialing is in effect. Calling to Antigua and Barbuda from NANP countries requires dialing the long-distance trunk prefix  1 before the area code and local telephone number.",
+  "coordinates": {
+    "degreesDecimal": "17.050°N  61.800°W",
+    "degreesMinutesSeconds": "17°03′N  61°48′W"
+  },
+  "areaCodes": {
+    "commonCities": [
+      {
+        "city": "North",
+        "codes": ["Atlantic Ocean"]
+      },
+      {
+        "city": "West",
+        "codes": ["664", "869"]
+      },
+      {
+        "city": "East",
+        "codes": ["Atlantic Ocean"]
+      },
+      {
+        "city": "South",
+        "codes": ["664", "country code  590 in Guadeloupe"]
+      }
+    ],
+    "additionalInformation": [
+      {
+        "territory": "Montserrat",
+        "codes": ["664"]
+      },
+      {
+        "territory": "Saint Kitts and Nevis",
+        "codes": ["869"]
+      }
+    ]
+  },
+  "notes": [
+    "Foreign NPA direct dialed toll calls must be prefixed by the digit  1 (1 +  10 digits) while operator-assisted calls require  0 (0 +  10 digits)."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Telephone area code of Bermuda",
+  "description": "Area code  441 is the telephone area code in the North American Numbering Plan (NANP) for Bermuda. The numbering plan area (NPA) was created on  1 October  1995 in a split of area code  809.",
+  "coordinates": {
+    "degreesDecimal": "32.300°N  64.767°W",
+    "degreesMinutesSeconds": "32°18′N  64°46′W"
+  },
+  "areaCodes": {
+    "commonCities": [
+      {
+        "city": "North",
+        "codes": ["Atlantic Ocean"]
+      },
+      {
+        "city": "West",
+        "codes": ["Atlantic Ocean", "843/854", "912"]
+      },
+      {
+        "city": "Area code  441",
+        "codes": []
+      },
+      {
+        "city": "East",
+        "codes": ["Atlantic Ocean"]
+      },
+      {
+        "city": "South",
+        "codes": ["Atlantic Ocean", "284"]
+      }
+    ],
+    "additionalInformation": [
+      {
+        "territory": "South Carolina",
+        "codes": ["803/839", "843/854", "864"]
+      },
+      {
+        "territory": "Georgia",
+        "codes": ["229", "404", "470/678", "478", "706/762", "770", "912"]
+      },
+      {
+        "territory": "British Virgin Islands",
+        "codes": ["284"]
+      }
+    ]
+  }
+}
