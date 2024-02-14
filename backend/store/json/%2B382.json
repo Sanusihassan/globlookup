@@ -1,0 +1,787 @@
+{
+    "tables": [
+        [
+            [
+                "Location of Montenegro (dark green)"
+            ],
+            [],
+            [
+                "Montenegro"
+            ],
+            [
+                "Europe"
+            ],
+            [
+                "Agency of Telecommunications of Montenegro"
+            ],
+            [
+                "Open"
+            ],
+            [
+                "0XX XXX XXX"
+            ],
+            [],
+            [
+                "+382"
+            ],
+            [
+                "00"
+            ],
+            [
+                "0"
+            ]
+        ],
+        [
+            [],
+            [
+                "20",
+                "81",
+                "Podgorica,Danilovgrad,Kolašin"
+            ],
+            [
+                "30",
+                "85",
+                "Bar,Ulcinj"
+            ],
+            [
+                "31",
+                "88",
+                "Herceg Novi"
+            ],
+            [
+                "32",
+                "82",
+                "Kotor,Tivat"
+            ],
+            [
+                "33",
+                "86",
+                "Budva,"
+            ],
+            [
+                "40",
+                "83",
+                "Nikšić,Plužine,Šavnik"
+            ],
+            [
+                "41",
+                "86",
+                "Cetinje"
+            ],
+            [
+                "50",
+                "84",
+                "Bijelo Polje,Mojkovac"
+            ],
+            [
+                "51",
+                "87",
+                "Berane,Plav,Rožaje,Andrijevica"
+            ],
+            [
+                "52",
+                "89",
+                "Pljevlja,Žabljak"
+            ],
+            [
+                "77",
+                "—",
+                "Corporate telephony"
+            ],
+            [
+                "78",
+                "—",
+                "VoIP operators (includingm:tel,Telemach Crna Gora, etc.)"
+            ],
+            [
+                "80",
+                "—",
+                "Toll-free"
+            ],
+            [
+                "94",
+                "44",
+                "Pay-per-call"
+            ],
+            [
+                "95",
+                "45",
+                "Pay-per-call"
+            ]
+        ],
+        [
+            [],
+            [
+                "100-000 to 119-999",
+                "m:tel"
+            ],
+            [
+                "300-000 to 309-999",
+                "Telemach"
+            ],
+            [
+                "500-000 to 504-999",
+                "VoIP Telekom"
+            ],
+            [
+                "700-000 to 709-999",
+                "Dimal Telcom"
+            ],
+            [
+                "800-000 to 819-999",
+                "Dynacom"
+            ],
+            [
+                "900-000 to 909-999",
+                "PTT Engineering"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlbaniaAndorraArmeniaAustriaAzerbaijanBelarusBelgiumBosnia and HerzegovinaBulgariaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGeorgiaGermanyGreeceHungaryIcelandIrelandItalyKazakhstanLatviaLiechtensteinLithuaniaLuxembourgMaltaMoldovaMonacoMontenegroNetherlandsNorth MacedoniaNorwayPolandPortugalRomaniaRussiaSan MarinoSerbiaSlovakiaSloveniaSpainSwedenSwitzerlandTurkeyUkraineUnited KingdomVatican City"
+            ],
+            [
+                "AbkhaziaKosovoNorthern CyprusSouth OssetiaTransnistria"
+            ],
+            [
+                "ÅlandFaroe IslandsGibraltarGuernseyIsle of ManJerseySvalbard"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "60–m:tel",
+            "63–Telenor",
+            "66–T-Mobile",
+            "67–T-Mobile",
+            "68–m:tel",
+            "69–Telenor"
+        ],
+        [
+            "112– Emergency",
+            "122– Police",
+            "123– Fire brigade",
+            "124– Ambulance",
+            "125– Exact time",
+            "126– Telegram sales over phone",
+            "127– Telephone faults"
+        ],
+        [
+            "92– Police",
+            "93– Fire brigade",
+            "94– Ambulance",
+            "95– Exact time",
+            "96– Telegram sales over phone",
+            "977– Telephone faults",
+            "9802–T-Com Montenegrodial-up number",
+            "9811– Sports results",
+            "9890– Information on ISDN services",
+            "0 800 800 00– Customer service"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Albania",
+            "Andorra",
+            "Armenia",
+            "Austria",
+            "Azerbaijan",
+            "Belarus",
+            "Belgium",
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Estonia",
+            "Finland",
+            "France",
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Iceland",
+            "Ireland",
+            "",
+            "Italy",
+            "Kazakhstan",
+            "Latvia",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Malta",
+            "Moldova",
+            "Monaco",
+            "Montenegro",
+            "Netherlands",
+            "North Macedonia",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russia",
+            "San Marino",
+            "Serbia",
+            "Slovakia",
+            "Slovenia",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Turkey",
+            "Ukraine",
+            "United Kingdom",
+            "Vatican City"
+        ],
+        [
+            "Abkhazia",
+            "Kosovo",
+            "Northern Cyprus",
+            "South Ossetia",
+            "Transnistria"
+        ],
+        [
+            "Åland",
+            "Faroe Islands",
+            "Gibraltar",
+            "Guernsey",
+            "Isle of Man",
+            "Jersey",
+            "Svalbard"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+382",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Montenegro",
+            "href": null
+        },
+        {
+            "text": "Europe",
+            "href": null
+        },
+        {
+            "text": "Agency of Telecommunications of Montenegro",
+            "href": null
+        },
+        {
+            "text": "Open",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "Montenegro",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Serbia and Montenegro",
+            "href": null
+        },
+        {
+            "text": "international dialing code",
+            "href": null
+        },
+        {
+            "text": "Serbia",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "citation needed",
+            "href": null
+        },
+        {
+            "text": "Podgorica",
+            "href": null
+        },
+        {
+            "text": "Danilovgrad",
+            "href": null
+        },
+        {
+            "text": "Kolašin",
+            "href": null
+        },
+        {
+            "text": "Bar",
+            "href": null
+        },
+        {
+            "text": "Ulcinj",
+            "href": null
+        },
+        {
+            "text": "Herceg Novi",
+            "href": null
+        },
+        {
+            "text": "Kotor",
+            "href": null
+        },
+        {
+            "text": "Tivat",
+            "href": null
+        },
+        {
+            "text": "Budva",
+            "href": null
+        },
+        {
+            "text": "Nikšić",
+            "href": null
+        },
+        {
+            "text": "Plužine",
+            "href": null
+        },
+        {
+            "text": "Šavnik",
+            "href": null
+        },
+        {
+            "text": "Cetinje",
+            "href": null
+        },
+        {
+            "text": "Bijelo Polje",
+            "href": null
+        },
+        {
+            "text": "Mojkovac",
+            "href": null
+        },
+        {
+            "text": "Berane",
+            "href": null
+        },
+        {
+            "text": "Plav",
+            "href": null
+        },
+        {
+            "text": "Rožaje",
+            "href": null
+        },
+        {
+            "text": "Andrijevica",
+            "href": null
+        },
+        {
+            "text": "Pljevlja",
+            "href": null
+        },
+        {
+            "text": "Žabljak",
+            "href": null
+        },
+        {
+            "text": "m:tel",
+            "href": null
+        },
+        {
+            "text": "Telemach Crna Gora",
+            "href": null
+        },
+        {
+            "text": "Toll-free",
+            "href": null
+        },
+        {
+            "text": "Pay-per-call",
+            "href": null
+        },
+        {
+            "text": "m:tel",
+            "href": null
+        },
+        {
+            "text": "Telemach",
+            "href": null
+        },
+        {
+            "text": "VoIP Telekom",
+            "href": null
+        },
+        {
+            "text": "Dimal Telcom",
+            "href": null
+        },
+        {
+            "text": "Dynacom",
+            "href": null
+        },
+        {
+            "text": "PTT Engineering",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "m:tel",
+            "href": null
+        },
+        {
+            "text": "Telenor",
+            "href": null
+        },
+        {
+            "text": "T-Mobile",
+            "href": null
+        },
+        {
+            "text": "T-Mobile",
+            "href": null
+        },
+        {
+            "text": "m:tel",
+            "href": null
+        },
+        {
+            "text": "Telenor",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "112",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "T-Com Montenegro",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "Montenegro Agency for Electronic Communications and Postal Services – numbering scheme",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Europe",
+            "href": null
+        },
+        {
+            "text": "Albania",
+            "href": null
+        },
+        {
+            "text": "Andorra",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Austria",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Belarus",
+            "href": null
+        },
+        {
+            "text": "Belgium",
+            "href": null
+        },
+        {
+            "text": "Bosnia and Herzegovina",
+            "href": null
+        },
+        {
+            "text": "Bulgaria",
+            "href": null
+        },
+        {
+            "text": "Croatia",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "Czech Republic",
+            "href": null
+        },
+        {
+            "text": "Denmark",
+            "href": null
+        },
+        {
+            "text": "Estonia",
+            "href": null
+        },
+        {
+            "text": "Finland",
+            "href": null
+        },
+        {
+            "text": "France",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "Germany",
+            "href": null
+        },
+        {
+            "text": "Greece",
+            "href": null
+        },
+        {
+            "text": "Hungary",
+            "href": null
+        },
+        {
+            "text": "Iceland",
+            "href": null
+        },
+        {
+            "text": "Ireland",
+            "href": null
+        },
+        {
+            "text": "Italy",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "Latvia",
+            "href": null
+        },
+        {
+            "text": "Liechtenstein",
+            "href": null
+        },
+        {
+            "text": "Lithuania",
+            "href": null
+        },
+        {
+            "text": "Luxembourg",
+            "href": null
+        },
+        {
+            "text": "Malta",
+            "href": null
+        },
+        {
+            "text": "Moldova",
+            "href": null
+        },
+        {
+            "text": "Monaco",
+            "href": null
+        },
+        {
+            "text": "Montenegro",
+            "href": null
+        },
+        {
+            "text": "Netherlands",
+            "href": null
+        },
+        {
+            "text": "North Macedonia",
+            "href": null
+        },
+        {
+            "text": "Norway",
+            "href": null
+        },
+        {
+            "text": "Poland",
+            "href": null
+        },
+        {
+            "text": "Portugal",
+            "href": null
+        },
+        {
+            "text": "Romania",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "San Marino",
+            "href": null
+        },
+        {
+            "text": "Serbia",
+            "href": null
+        },
+        {
+            "text": "Slovakia",
+            "href": null
+        },
+        {
+            "text": "Slovenia",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "Sweden",
+            "href": null
+        },
+        {
+            "text": "Switzerland",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Ukraine",
+            "href": null
+        },
+        {
+            "text": "United Kingdom",
+            "href": null
+        },
+        {
+            "text": "Vatican City",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Kosovo",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Transnistria",
+            "href": null
+        },
+        {
+            "text": "Åland",
+            "href": null
+        },
+        {
+            "text": "Faroe Islands",
+            "href": null
+        },
+        {
+            "text": "Gibraltar",
+            "href": null
+        },
+        {
+            "text": "Guernsey",
+            "href": null
+        },
+        {
+            "text": "Isle of Man",
+            "href": null
+        },
+        {
+            "text": "Jersey",
+            "href": null
+        },
+        {
+            "text": "Svalbard",
+            "href": null
+        }
+    ]
+}

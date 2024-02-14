@@ -1,0 +1,1352 @@
+{
+    "tables": [
+        [
+            [
+                ""
+            ],
+            [],
+            [
+                "Israel"
+            ],
+            [
+                "Asia"
+            ],
+            [
+                "Israeli Ministry of Communications"
+            ],
+            [
+                "closed"
+            ],
+            [
+                "8 or 9 (landline)10 (mobile)"
+            ],
+            [
+                "(0A) XXX-XXXX (landline)05N-XXX-XXXX (mobile)"
+            ],
+            [],
+            [
+                "+972"
+            ],
+            [
+                "00 or 01x"
+            ],
+            [
+                "0"
+            ]
+        ],
+        [
+            [],
+            [
+                "International call prefix (from Israel to other countries)",
+                "00 or 01x",
+                ""
+            ],
+            [
+                "Geographic area codes",
+                "(0A) XXX-XXXX",
+                "+972 A XXX-XXXX"
+            ],
+            [
+                "Area code for cellular and mobile devices",
+                "05N XXX-XXXX",
+                "+972 5N XXX-XXXX"
+            ],
+            [
+                "Non-Geographic area code for landline, VoIP and VoC services",
+                "07N XXX-XXXX",
+                "+972 7N XXX-XXXX"
+            ],
+            [
+                "Short codes for emergency services",
+                "10X or 11X or 12XX",
+                "Not available from abroad[3]"
+            ],
+            [
+                "Voice mail",
+                "151-X(X) XXX-XXXX",
+                "+972 151-X(X) XXX-XXXX"
+            ],
+            [
+                "Fax box",
+                "153-X(X) XXX-XXXX",
+                "+972 153-X(X) XXX-XXXX"
+            ],
+            [
+                "Business toll",
+                "1 599 XXX-XXX",
+                "+972 1599 XXX-XXX"
+            ],
+            [
+                "Business toll",
+                "1 700 XXX-XXX",
+                "+972 1700 XXX-XXX[4]"
+            ],
+            [
+                "Toll free",
+                "1 80X XXX-XXX",
+                "+972 180X XXX-XXX[4]"
+            ],
+            [
+                "Premium rate",
+                "1 9XX XXX-XXX",
+                "Not available from abroad"
+            ]
+        ],
+        [
+            [],
+            [
+                "(02) XXX-XXXX",
+                "+9722XXX-XXXX",
+                "Jerusalem Districtarea code"
+            ],
+            [
+                "(03) XXX-XXXX",
+                "+9723XXX-XXXX",
+                "Tel Aviv District&Central Districtarea code"
+            ],
+            [
+                "(04) XXX-XXXX",
+                "+9724XXX-XXXX",
+                "Haifa District&Northern Districtarea code"
+            ],
+            [
+                "(08) XXX-XXXX",
+                "+9728XXX-XXXX",
+                "Lowland&Southern Districtarea code"
+            ],
+            [
+                "(09) XXX-XXXX",
+                "+9729XXX-XXXX",
+                "Sharonarea code"
+            ]
+        ],
+        [
+            [],
+            [
+                "(0A)2XX-XXXX",
+                "+972 A2XX-XXXX",
+                "Paltel(In thePalestinian Territories)"
+            ],
+            [
+                "(0A)30X-XXXX(0A)31X-XXXX",
+                "+972 A30X-XXXX+972 A31X-XXXX",
+                "Hot(Altice)"
+            ],
+            [
+                "(0A)370-XXXX",
+                "+972 A370-XXXX",
+                "Cellact"
+            ],
+            [
+                "(0A)371-XXXX",
+                "+972 A371-XXXX",
+                "Xfone(Inoperative)"
+            ],
+            [
+                "(0A)372-XXXX",
+                "+972 A372-XXXX",
+                "Partner"
+            ],
+            [
+                "(0A)373-XXXX",
+                "+972 A373-XXXX",
+                "Cellcom"
+            ],
+            [
+                "(0A)374-XXXX",
+                "+972 A374-XXXX",
+                "Partner"
+            ],
+            [
+                "(0A)375-XXXX",
+                "+972 A375-XXXX",
+                "Hallo 015"
+            ],
+            [
+                "(0A)376-XXXX",
+                "+972 A376-XXXX",
+                "Bezeq International"
+            ],
+            [
+                "(0A)377-XXXX",
+                "+972 A377-XXXX",
+                "Cellcom"
+            ],
+            [
+                "(0A)378-XXXX",
+                "+972 A378-XXXX",
+                "Widely Mobile[5]"
+            ],
+            [
+                "(0A)379-XXXX",
+                "+972 A379-XXXX",
+                "Bynet Businesses(Inoperative)"
+            ],
+            [
+                "(0A)380-XXXX(0A)380-XXXX",
+                "+972 A380-XXXX+972 A380-XXXX",
+                "Hallo 015"
+            ],
+            [
+                "(0A)5XX-XXXX(0A)6XX-XXXX(0A)7XX-XXXX(0A)8XX-XXXX(0A)9XX-XXXX",
+                "+972 A5XX-XXXX+972 A6XX-XXXX+972 A7XX-XXXX+972 A8XX-XXXX+972 A9XX-XXXX",
+                "Bezeq"
+            ]
+        ],
+        [
+            [],
+            [
+                "050XXX-XXXX",
+                "+97250XXX-XXXX",
+                "Pelephone"
+            ],
+            [
+                "051XXX-XXXX",
+                "+97251XXX-XXXX",
+                "We4G (Xfone)"
+            ],
+            [
+                "052XXX-XXXX",
+                "+97252XXX-XXXX",
+                "Cellcom"
+            ],
+            [
+                "053XXX-XXXX",
+                "+97253XXX-XXXX",
+                "Hot mobile(Altice)[6]"
+            ],
+            [
+                "054XXX-XXXX",
+                "+97254XXX-XXXX",
+                "Partner(also operates012mobile[7])"
+            ],
+            [
+                "055 22X-XXXX055 23X-XXXX",
+                "+97255 22X-XXXX+97255 23X-XXXX",
+                "Cellcom(Formerly Home Cellular)"
+            ],
+            [
+                "055 24X-XXXX055 25X-XXXX055 26X-XXXX055 27X-XXXX",
+                "+97255 24X-XXXX+97255 25X-XXXX+97255 26X-XXXX+97255 27X-XXXX",
+                "019 Mobile (019 Telzar)"
+            ],
+            [
+                "055 32X-XXXX055 33X-XXXX",
+                "+97255 32X-XXXX+97255 33X-XXXX",
+                "Widely Mobile (x2one)[5]"
+            ],
+            [
+                "055 44X-XXXX",
+                "+97255 44X-XXXX",
+                "Cellran (Tadiran)(Inoperative)"
+            ],
+            [
+                "055 50X-XXXX055 51X-XXXX",
+                "+97255 50X-XXXX+97255 51X-XXXX",
+                "Annatel"
+            ],
+            [
+                "055 55X-XXXX055 66X-XXXX055 67X-XXXX055 68X-XXXX",
+                "+97255 55X-XXXX+97255 66X-XXXX+97255 67X-XXXX+97255 68X-XXXX",
+                "Rami Levy"
+            ],
+            [
+                "055 70X-XXXX055 71X-XXXX055 72X-XXXX",
+                "+97255 70X-XXXX+97255 71X-XXXX+97255 72X-XXXX",
+                "Cellact"
+            ],
+            [
+                "055 87X-XXXX055 88X-XXXX055 89X-XXXX",
+                "+97255 87X-XXXX+97255 88X-XXXX+97255 89X-XXXX",
+                "Pelephone(Formerly YouPhone)"
+            ],
+            [
+                "055 9XX-XXXX",
+                "+97255 9XX-XXXX",
+                "019 Mobile (019 Telzar)"
+            ],
+            [
+                "056XXX-XXXX",
+                "+97256XXX-XXXX",
+                "Wataniya Mobile(in thePalestinian territories)"
+            ],
+            [
+                "058XXX-XXXX",
+                "+97258XXX-XXXX",
+                "Golan Telecom"
+            ],
+            [
+                "059XXX-XXXX",
+                "+97259XXX-XXXX",
+                "Jawwal(in thePalestinian territories)"
+            ]
+        ],
+        [
+            [],
+            [
+                "071 8XX-XXXX",
+                "+97271 8XX-XXXX",
+                "Xfone(Inoperative)"
+            ],
+            [
+                "072 2XX-XXXX072 3XX-XXXX",
+                "+97272 2XX-XXXX+97272 3XX-XXXX",
+                "Partner"
+            ],
+            [
+                "073 2XX-XXXX073 3XX-XXXX073 7XX-XXXX",
+                "+97273 2XX-XXXX+97273 3XX-XXXX+97273 7XX-XXXX",
+                "Cellcom"
+            ],
+            [
+                "074 7XX-XXXX",
+                "+97274 7XX-XXXX",
+                "Partner"
+            ],
+            [
+                "076 5XX-XXXX",
+                "+97276 5XX-XXXX",
+                "Bezeq International"
+            ],
+            [
+                "076 8XX-XXXX",
+                "+97276 8XX-XXXX",
+                "Bezeq"
+            ],
+            [
+                "077XXX-XXXX",
+                "+97277XXX-XXXX",
+                "Hot(Altice)"
+            ],
+            [
+                "079 2XX-XXXX",
+                "+97279 2XX-XXXX",
+                "Widely Mobile (x2one)[5]"
+            ],
+            [
+                "079 3XX-XXXX",
+                "+97279 3XX-XXXX",
+                "Bynet Businesses(Inoperative)"
+            ],
+            [
+                "079 5XX-XXXX079 6XX-XXXX",
+                "+97279 5XX-XXXX+97279 6XX-XXXX",
+                "Hallo 015"
+            ],
+            [
+                "079 7XX-XXXX",
+                "+97279 7XX-XXXX",
+                "Cellact"
+            ],
+            [
+                "079 8XX-XXXX",
+                "+97279 8XX-XXXX",
+                "Annatel"
+            ],
+            [
+                "079 9XX-XXXX",
+                "+97279 9XX-XXXX",
+                "019 Telzar"
+            ]
+        ],
+        [
+            [
+                "",
+                "This sectiondoes notciteanysources.Please helpimprove this sectionbyadding citations to reliable sources. Unsourced material may be challenged andremoved.(October 2020)(Learn how and when to remove this template message)"
+            ]
+        ],
+        [
+            [],
+            [
+                "AfghanistanArmeniaAzerbaijanBahrainBangladeshBhutanBruneiCambodiaChinaCyprusEast Timor (Timor-Leste)EgyptGeorgiaIndiaIndonesiaIranIraqIsraelJapanJordanKazakhstanNorth KoreaSouth KoreaKuwaitKyrgyzstanLaosLebanonMalaysiaMaldivesMongoliaMyanmarNepalOmanPakistanPhilippinesQatarRussiaSaudi ArabiaSingaporeSri LankaSyriaTajikistanThailandTurkeyTurkmenistanUnited Arab EmiratesUzbekistanVietnamYemen"
+            ],
+            [
+                "AbkhaziaNorthern CyprusPalestineSouth OssetiaTaiwan"
+            ],
+            [
+                "British Indian Ocean TerritoryChristmas IslandCocos (Keeling) IslandsHong KongMacau"
+            ],
+            [
+                "CategoryAsia portal"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "00or+– short code (only registered customers)",
+            "012–012smileservice",
+            "013–013 NetVisionservice",
+            "014–Bezeq Internationalservice",
+            "015– Hallo 015 service",
+            "016–Golan Telecomservice",
+            "017–Hot Mobileservice",
+            "018– Xfone service",
+            "019–019 Telzarservice"
+        ],
+        [
+            "In the geographic area codes, first digits of the local number are identifying service operator:"
+        ],
+        [
+            "Telephone numbers in the Palestinian territories"
+        ],
+        [
+            "Israel Ministry of Communication",
+            "Presentation of E.164 National Numbering For Country Code 972 (Israel), Update August 2007, Israel Ministry of Communication",
+            "Israel Ministry of Communications numbering program(in Hebrew)",
+            "Shortened business numbers(star numbers) at the Israel Ministry of Communications(in Hebrew)",
+            "Change of 057 prefix to 053(in Hebrew)"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Afghanistan",
+            "Armenia",
+            "Azerbaijan",
+            "Bahrain",
+            "Bangladesh",
+            "Bhutan",
+            "Brunei",
+            "Cambodia",
+            "China",
+            "Cyprus",
+            "East Timor (Timor-Leste)",
+            "Egypt",
+            "Georgia",
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Israel",
+            "Japan",
+            "Jordan",
+            "Kazakhstan",
+            "North Korea",
+            "South Korea",
+            "Kuwait",
+            "Kyrgyzstan",
+            "Laos",
+            "Lebanon",
+            "Malaysia",
+            "Maldives",
+            "Mongolia",
+            "Myanmar",
+            "Nepal",
+            "Oman",
+            "Pakistan",
+            "Philippines",
+            "Qatar",
+            "Russia",
+            "Saudi Arabia",
+            "Singapore",
+            "Sri Lanka",
+            "Syria",
+            "Tajikistan",
+            "Thailand",
+            "Turkey",
+            "Turkmenistan",
+            "United Arab Emirates",
+            "Uzbekistan",
+            "Vietnam",
+            "Yemen"
+        ],
+        [
+            "Abkhazia",
+            "Northern Cyprus",
+            "Palestine",
+            "South Ossetia",
+            "Taiwan"
+        ],
+        [
+            "British Indian Ocean Territory",
+            "Christmas Island",
+            "Cocos (Keeling) Islands",
+            "Hong Kong",
+            "Macau"
+        ],
+        [
+            "Category",
+            "Asia portal"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+972 Magazine",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Israel",
+            "href": null
+        },
+        {
+            "text": "Asia",
+            "href": null
+        },
+        {
+            "text": "Israeli Ministry of Communications",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "dial plan type",
+            "href": null
+        },
+        {
+            "text": "trunk prefix",
+            "href": null
+        },
+        {
+            "text": "country calling code",
+            "href": null
+        },
+        {
+            "text": "Israel",
+            "href": null
+        },
+        {
+            "text": "Palestinian telecommunication system",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "[4]",
+            "href": null
+        },
+        {
+            "text": "[4]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "012smile",
+            "href": null
+        },
+        {
+            "text": "013 NetVision",
+            "href": null
+        },
+        {
+            "text": "Bezeq International",
+            "href": null
+        },
+        {
+            "text": "Golan Telecom",
+            "href": null
+        },
+        {
+            "text": "Hot Mobile",
+            "href": null
+        },
+        {
+            "text": "019 Telzar",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Jerusalem District",
+            "href": null
+        },
+        {
+            "text": "Tel Aviv District",
+            "href": null
+        },
+        {
+            "text": "Central District",
+            "href": null
+        },
+        {
+            "text": "Haifa District",
+            "href": null
+        },
+        {
+            "text": "Northern District",
+            "href": null
+        },
+        {
+            "text": "Lowland",
+            "href": null
+        },
+        {
+            "text": "Southern District",
+            "href": null
+        },
+        {
+            "text": "Sharon",
+            "href": null
+        },
+        {
+            "text": "Paltel",
+            "href": null
+        },
+        {
+            "text": "Palestinian Territories",
+            "href": null
+        },
+        {
+            "text": "Hot",
+            "href": null
+        },
+        {
+            "text": "Altice",
+            "href": null
+        },
+        {
+            "text": "Partner",
+            "href": null
+        },
+        {
+            "text": "Cellcom",
+            "href": null
+        },
+        {
+            "text": "Partner",
+            "href": null
+        },
+        {
+            "text": "Bezeq International",
+            "href": null
+        },
+        {
+            "text": "Cellcom",
+            "href": null
+        },
+        {
+            "text": "Widely Mobile",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "Bezeq",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Pelephone",
+            "href": null
+        },
+        {
+            "text": "Xfone",
+            "href": null
+        },
+        {
+            "text": "Cellcom",
+            "href": null
+        },
+        {
+            "text": "Hot mobile",
+            "href": null
+        },
+        {
+            "text": "Altice",
+            "href": null
+        },
+        {
+            "text": "[6]",
+            "href": null
+        },
+        {
+            "text": "Partner",
+            "href": null
+        },
+        {
+            "text": "012mobile",
+            "href": null
+        },
+        {
+            "text": "[7]",
+            "href": null
+        },
+        {
+            "text": "Cellcom",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "Rami Levy",
+            "href": null
+        },
+        {
+            "text": "Pelephone",
+            "href": null
+        },
+        {
+            "text": "Wataniya Mobile",
+            "href": null
+        },
+        {
+            "text": "Palestinian territories",
+            "href": null
+        },
+        {
+            "text": "Golan Telecom",
+            "href": null
+        },
+        {
+            "text": "Jawwal",
+            "href": null
+        },
+        {
+            "text": "Palestinian territories",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Partner",
+            "href": null
+        },
+        {
+            "text": "Cellcom",
+            "href": null
+        },
+        {
+            "text": "Partner",
+            "href": null
+        },
+        {
+            "text": "Bezeq International",
+            "href": null
+        },
+        {
+            "text": "Bezeq",
+            "href": null
+        },
+        {
+            "text": "Hot",
+            "href": null
+        },
+        {
+            "text": "Altice",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[8]",
+            "href": null
+        },
+        {
+            "text": "Police",
+            "href": null
+        },
+        {
+            "text": "Ambulance Service",
+            "href": null
+        },
+        {
+            "text": "Fire Fighters",
+            "href": null
+        },
+        {
+            "text": "Electric Corporation",
+            "href": null
+        },
+        {
+            "text": "Home Front Command",
+            "href": null
+        },
+        {
+            "text": "[9]",
+            "href": null
+        },
+        {
+            "text": "Police",
+            "href": null
+        },
+        {
+            "text": "Ministry of Social Affairs",
+            "href": null
+        },
+        {
+            "text": "Emergency Medical Response",
+            "href": null
+        },
+        {
+            "text": "[10]",
+            "href": null
+        },
+        {
+            "text": "Speaking clock",
+            "href": null
+        },
+        {
+            "text": "Collect Call",
+            "href": null
+        },
+        {
+            "text": "Business Toll",
+            "href": null
+        },
+        {
+            "text": "Toll Free",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "cite",
+            "href": null
+        },
+        {
+            "text": "sources",
+            "href": null
+        },
+        {
+            "text": "improve this section",
+            "href": null
+        },
+        {
+            "text": "adding citations to reliable sources",
+            "href": null
+        },
+        {
+            "text": "removed",
+            "href": null
+        },
+        {
+            "text": "Learn how and when to remove this template message",
+            "href": null
+        },
+        {
+            "text": "Haredi",
+            "href": null
+        },
+        {
+            "text": "rabbinical",
+            "href": null
+        },
+        {
+            "text": "SMS",
+            "href": null
+        },
+        {
+            "text": "[11]",
+            "href": null
+        },
+        {
+            "text": "kosher",
+            "href": null
+        },
+        {
+            "text": "Orthodox Jews",
+            "href": null
+        },
+        {
+            "text": "Bezeq",
+            "href": null
+        },
+        {
+            "text": "Pelephone",
+            "href": null
+        },
+        {
+            "text": "Cellcom",
+            "href": null
+        },
+        {
+            "text": "Cellcom",
+            "href": null
+        },
+        {
+            "text": "Hot Mobile",
+            "href": null
+        },
+        {
+            "text": "Hot Mobile",
+            "href": null
+        },
+        {
+            "text": "Partner",
+            "href": null
+        },
+        {
+            "text": "Partner",
+            "href": null
+        },
+        {
+            "text": "Rami Levy",
+            "href": null
+        },
+        {
+            "text": "Golan Telecom",
+            "href": null
+        },
+        {
+            "text": "Partner",
+            "href": null
+        },
+        {
+            "text": "012smile",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in the Palestinian territories",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "1965 telephone directory",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "1965 telephone directory",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "c",
+            "href": null
+        },
+        {
+            "text": "\"WIDELY MOBILE LTD - 514131606\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"אודות 012 סמייל\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"מספרי חירום | כל מספרי החירום בישראל - בזק B144\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Child Online Protection Bureau Website\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"ידידים - סיוע בדרכים | ארגון מתנדבים ארצי 1230 מכל טלפון\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Florian Lippke on Religious Concepts of Time\"",
+            "href": null
+        },
+        {
+            "text": "Israel Ministry of Communication",
+            "href": null
+        },
+        {
+            "text": "Presentation of E.164 National Numbering For Country Code 972 (Israel), Update August 2007, Israel Ministry of Communication",
+            "href": null
+        },
+        {
+            "text": "Israel Ministry of Communications numbering program",
+            "href": null
+        },
+        {
+            "text": "Shortened business numbers",
+            "href": null
+        },
+        {
+            "text": "Change of 057 prefix to 053",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Asia",
+            "href": null
+        },
+        {
+            "text": "Sovereign states",
+            "href": null
+        },
+        {
+            "text": "Afghanistan",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Bahrain",
+            "href": null
+        },
+        {
+            "text": "Bangladesh",
+            "href": null
+        },
+        {
+            "text": "Bhutan",
+            "href": null
+        },
+        {
+            "text": "Brunei",
+            "href": null
+        },
+        {
+            "text": "Cambodia",
+            "href": null
+        },
+        {
+            "text": "China",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "East Timor (Timor-Leste)",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "India",
+            "href": null
+        },
+        {
+            "text": "Indonesia",
+            "href": null
+        },
+        {
+            "text": "Iran",
+            "href": null
+        },
+        {
+            "text": "Iraq",
+            "href": null
+        },
+        {
+            "text": "Israel",
+            "href": null
+        },
+        {
+            "text": "Japan",
+            "href": null
+        },
+        {
+            "text": "Jordan",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "North Korea",
+            "href": null
+        },
+        {
+            "text": "South Korea",
+            "href": null
+        },
+        {
+            "text": "Kuwait",
+            "href": null
+        },
+        {
+            "text": "Kyrgyzstan",
+            "href": null
+        },
+        {
+            "text": "Laos",
+            "href": null
+        },
+        {
+            "text": "Lebanon",
+            "href": null
+        },
+        {
+            "text": "Malaysia",
+            "href": null
+        },
+        {
+            "text": "Maldives",
+            "href": null
+        },
+        {
+            "text": "Mongolia",
+            "href": null
+        },
+        {
+            "text": "Myanmar",
+            "href": null
+        },
+        {
+            "text": "Nepal",
+            "href": null
+        },
+        {
+            "text": "Oman",
+            "href": null
+        },
+        {
+            "text": "Pakistan",
+            "href": null
+        },
+        {
+            "text": "Philippines",
+            "href": null
+        },
+        {
+            "text": "Qatar",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "Saudi Arabia",
+            "href": null
+        },
+        {
+            "text": "Singapore",
+            "href": null
+        },
+        {
+            "text": "Sri Lanka",
+            "href": null
+        },
+        {
+            "text": "Syria",
+            "href": null
+        },
+        {
+            "text": "Tajikistan",
+            "href": null
+        },
+        {
+            "text": "Thailand",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Turkmenistan",
+            "href": null
+        },
+        {
+            "text": "United Arab Emirates",
+            "href": null
+        },
+        {
+            "text": "Uzbekistan",
+            "href": null
+        },
+        {
+            "text": "Vietnam",
+            "href": null
+        },
+        {
+            "text": "Yemen",
+            "href": null
+        },
+        {
+            "text": "States withlimited recognition",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "Palestine",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Taiwan",
+            "href": null
+        },
+        {
+            "text": "Dependencies",
+            "href": null
+        },
+        {
+            "text": "British Indian Ocean Territory",
+            "href": null
+        },
+        {
+            "text": "Christmas Island",
+            "href": null
+        },
+        {
+            "text": "Cocos (Keeling) Islands",
+            "href": null
+        },
+        {
+            "text": "Hong Kong",
+            "href": null
+        },
+        {
+            "text": "Macau",
+            "href": null
+        },
+        {
+            "text": "Category",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Asia portal",
+            "href": null
+        }
+    ]
+}

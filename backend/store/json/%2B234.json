@@ -1,0 +1,1198 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Nigeria"
+            ],
+            [
+                "Africa"
+            ],
+            [
+                "8 (landline) or 10 (mobile)"
+            ],
+            [],
+            [
+                "234"
+            ],
+            [
+                "009"
+            ],
+            [
+                "0, 009"
+            ]
+        ],
+        [
+            [],
+            [
+                "0701",
+                "Airtel Nigeria"
+            ],
+            [
+                "07020",
+                "Smile"
+            ],
+            [
+                "07025",
+                "MTN Nigeria (formerly Visafone)"
+            ],
+            [
+                "07026",
+                "MTN Nigeria (formerly Visafone)"
+            ],
+            [
+                "07027",
+                "Multi-Links"
+            ],
+            [
+                "07028",
+                "Starcomms"
+            ],
+            [
+                "07029",
+                "Starcomms"
+            ],
+            [
+                "0703",
+                "MTN Nigeria"
+            ],
+            [
+                "0704",
+                "MTN Nigeria (formerly Visafone[3])"
+            ],
+            [
+                "0705",
+                "Globacom"
+            ],
+            [
+                "0706",
+                "MTN Nigeria"
+            ],
+            [
+                "0707",
+                "ZoomMobile (formerly Reltel)"
+            ],
+            [
+                "0708",
+                "Airtel Nigeria"
+            ],
+            [
+                "0709",
+                "Multi-Links"
+            ],
+            [
+                "0802",
+                "Airtel Nigeria"
+            ],
+            [
+                "0803",
+                "MTN Nigeria"
+            ],
+            [
+                "0804",
+                "Mtel"
+            ],
+            [
+                "0805",
+                "Globacom"
+            ],
+            [
+                "0806",
+                "MTN Nigeria"
+            ],
+            [
+                "0807",
+                "Globacom"
+            ],
+            [
+                "0808",
+                "Airtel Nigeria"
+            ],
+            [
+                "0809",
+                "9mobile"
+            ],
+            [
+                "0810",
+                "MTN Nigeria"
+            ],
+            [
+                "0811",
+                "Globacom"
+            ],
+            [
+                "0812",
+                "Airtel Nigeria"
+            ],
+            [
+                "0813",
+                "MTN Nigeria"
+            ],
+            [
+                "0814",
+                "MTN Nigeria"
+            ],
+            [
+                "0815",
+                "Globacom"
+            ],
+            [
+                "0816",
+                "MTN Nigeria"
+            ],
+            [
+                "0817",
+                "9mobile"
+            ],
+            [
+                "0818",
+                "9mobile"
+            ],
+            [
+                "0819",
+                "Starcomms"
+            ],
+            [
+                "0909",
+                "9mobile"
+            ],
+            [
+                "0908",
+                "9mobile"
+            ],
+            [
+                "0901",
+                "Airtel Nigeria"
+            ],
+            [
+                "0902",
+                "Airtel Nigeria"
+            ],
+            [
+                "0903",
+                "MTN Nigeria"
+            ],
+            [
+                "0904",
+                "Airtel Nigeria"
+            ],
+            [
+                "0905",
+                "Globacom"
+            ],
+            [
+                "0906",
+                "MTN Nigeria"
+            ],
+            [
+                "0907",
+                "Airtel Nigeria"
+            ],
+            [
+                "0915",
+                "Globacom"
+            ],
+            [
+                "0913",
+                "MTN Nigeria"
+            ],
+            [
+                "0912",
+                "Airtel Nigeria"
+            ],
+            [
+                "0916",
+                "MTN Nigeria"
+            ],
+            [
+                "0911",
+                "Airtel Nigeria"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "Lagos",
+                "01",
+                "Ibadan",
+                "02"
+            ],
+            [
+                "Abuja",
+                "09",
+                "Ado-Ekiti",
+                "30"
+            ],
+            [
+                "Ilorin",
+                "31",
+                "New Bussa",
+                "33"
+            ],
+            [
+                "Akure",
+                "34",
+                "Oshogbo",
+                "35"
+            ],
+            [
+                "Ile-Ife",
+                "36",
+                "Ijebu-Ode",
+                "37"
+            ],
+            [
+                "Oyo",
+                "38",
+                "Abeokuta",
+                "39"
+            ],
+            [
+                "Wukari",
+                "41",
+                "Enugu",
+                "42"
+            ],
+            [
+                "Abakaliki",
+                "43",
+                "Makurdi",
+                "44"
+            ],
+            [
+                "Ogoja",
+                "45",
+                "Onitsha",
+                "46"
+            ],
+            [
+                "Lafia",
+                "47",
+                "Awka",
+                "48"
+            ],
+            [
+                "Ikare",
+                "50",
+                "Owo",
+                "51"
+            ],
+            [
+                "Benin City",
+                "52",
+                "Warri",
+                "53"
+            ],
+            [
+                "Sapele",
+                "54",
+                "Agbor",
+                "55"
+            ],
+            [
+                "Asaba",
+                "56",
+                "Auchi",
+                "57"
+            ],
+            [
+                "Lokoja",
+                "58",
+                "Okitipupa",
+                "59"
+            ],
+            [
+                "Sokoto",
+                "60",
+                "Kafanchan",
+                "61"
+            ],
+            [
+                "Kaduna",
+                "62",
+                "Gusau",
+                "63"
+            ],
+            [
+                "Kano",
+                "64",
+                "Katsina",
+                "65"
+            ],
+            [
+                "Minna",
+                "66",
+                "Kontagora",
+                "67"
+            ],
+            [
+                "Birnin-Kebbi",
+                "68",
+                "Zaria",
+                "69"
+            ],
+            [
+                "Pankshin",
+                "73",
+                "Azare",
+                "71"
+            ],
+            [
+                "Gombe",
+                "72",
+                "Jos",
+                "73"
+            ],
+            [
+                "Yola",
+                "75",
+                "Maiduguri",
+                "76"
+            ],
+            [
+                "Bauchi",
+                "77",
+                "Hadejia",
+                "78"
+            ],
+            [
+                "Jalingo",
+                "79",
+                "Aba",
+                "82"
+            ],
+            [
+                "Owerri",
+                "83",
+                "Port Harcourt",
+                "84"
+            ],
+            [
+                "Uyo",
+                "85",
+                "Ahoada",
+                "86"
+            ],
+            [
+                "Calabar",
+                "87",
+                "Umuahia",
+                "88"
+            ],
+            [
+                "Yenagoa",
+                "89",
+                "Ubiaja",
+                "55"
+            ],
+            [
+                "Kwara",
+                "31",
+                "Igarra",
+                "57"
+            ],
+            [
+                "Ughelli",
+                "53",
+                "Uromi",
+                "57"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlgeriaAngolaBeninBotswanaBurkina FasoBurundiCameroonCape VerdeCentral African RepublicChadComorosDemocratic Republic of the CongoRepublic of the CongoDjiboutiEgyptEquatorial GuineaEritreaEswatiniEthiopiaGabonThe GambiaGhanaGuineaGuinea-BissauIvory CoastKenyaLesothoLiberiaLibyaMadagascarMalawiMaliMauritaniaMauritiusMoroccoMozambiqueNamibiaNigerNigeriaRwandaSão Tomé and PríncipeSenegalSeychellesSierra LeoneSomaliaSouth AfricaSouth SudanSudanTanzaniaTogoTunisiaUgandaZambiaZimbabwe"
+            ],
+            [
+                "Sahrawi Arab Democratic RepublicSomaliland"
+            ],
+            [
+                "Canary Islands/Ceuta/Melilla(Spain)Madeira(Portugal)Mayotte/Réunion(France)Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)Western Sahara"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "xxx xxxx– Calls within an area code",
+            "01 xxx xxxx– Calls from outside Lagos",
+            "+234 1 xxx xxxx– Calls from outsideNigeria",
+            "0xxx xxx xxxx– Calls to a mobile number (see below)",
+            "042 xxx xxxx– Landline calls to Enugu.",
+            "052******– Landline calls to Edo.",
+            "064 xx xxxx- Landline calls to Kano."
+        ],
+        [
+            "List of telephone operating companies in Nigeria"
+        ],
+        [
+            "ITU allocations list"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Algeria",
+            "Angola",
+            "Benin",
+            "Botswana",
+            "Burkina Faso",
+            "Burundi",
+            "Cameroon",
+            "Cape Verde",
+            "Central African Republic",
+            "Chad",
+            "Comoros",
+            "Democratic Republic of the Congo",
+            "Republic of the Congo",
+            "Djibouti",
+            "Egypt",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Eswatini",
+            "Ethiopia",
+            "Gabon",
+            "The Gambia",
+            "Ghana",
+            "Guinea",
+            "Guinea-Bissau",
+            "Ivory Coast",
+            "Kenya",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Madagascar",
+            "Malawi",
+            "Mali",
+            "Mauritania",
+            "Mauritius",
+            "Morocco",
+            "Mozambique",
+            "Namibia",
+            "Niger",
+            "Nigeria",
+            "Rwanda",
+            "São Tomé and Príncipe",
+            "Senegal",
+            "Seychelles",
+            "Sierra Leone",
+            "Somalia",
+            "South Africa",
+            "South Sudan",
+            "Sudan",
+            "Tanzania",
+            "Togo",
+            "Tunisia",
+            "Uganda",
+            "Zambia",
+            "Zimbabwe"
+        ],
+        [
+            "Sahrawi Arab Democratic Republic",
+            "Somaliland"
+        ],
+        [
+            "Canary Islands/Ceuta/Melilla(Spain)",
+            "Madeira(Portugal)",
+            "Mayotte/Réunion(France)",
+            "Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)",
+            "Western Sahara"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+234",
+            "href": null
+        },
+        {
+            "text": "Nigeria",
+            "href": null
+        },
+        {
+            "text": "Africa",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "open numbering plan",
+            "href": null
+        },
+        {
+            "text": "Lagos",
+            "href": null
+        },
+        {
+            "text": "Ibadan",
+            "href": null
+        },
+        {
+            "text": "Abuja",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Nigeria",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "Nigeria",
+            "href": null
+        },
+        {
+            "text": "mobile number portability",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "Airtel Nigeria",
+            "href": null
+        },
+        {
+            "text": "MTN Nigeria (formerly Visafone)",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "Globacom",
+            "href": null
+        },
+        {
+            "text": "Airtel Nigeria",
+            "href": null
+        },
+        {
+            "text": "Mtel",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[4]",
+            "href": null
+        },
+        {
+            "text": "Lagos",
+            "href": null
+        },
+        {
+            "text": "Ibadan",
+            "href": null
+        },
+        {
+            "text": "Abuja",
+            "href": null
+        },
+        {
+            "text": "Ado-Ekiti",
+            "href": null
+        },
+        {
+            "text": "Ilorin",
+            "href": null
+        },
+        {
+            "text": "New Bussa",
+            "href": null
+        },
+        {
+            "text": "Akure",
+            "href": null
+        },
+        {
+            "text": "Oshogbo",
+            "href": null
+        },
+        {
+            "text": "Ile-Ife",
+            "href": null
+        },
+        {
+            "text": "Ijebu-Ode",
+            "href": null
+        },
+        {
+            "text": "Oyo",
+            "href": null
+        },
+        {
+            "text": "Abeokuta",
+            "href": null
+        },
+        {
+            "text": "Wukari",
+            "href": null
+        },
+        {
+            "text": "Enugu",
+            "href": null
+        },
+        {
+            "text": "Abakaliki",
+            "href": null
+        },
+        {
+            "text": "Makurdi",
+            "href": null
+        },
+        {
+            "text": "Ogoja",
+            "href": null
+        },
+        {
+            "text": "Onitsha",
+            "href": null
+        },
+        {
+            "text": "Lafia",
+            "href": null
+        },
+        {
+            "text": "Awka",
+            "href": null
+        },
+        {
+            "text": "Ikare",
+            "href": null
+        },
+        {
+            "text": "Owo",
+            "href": null
+        },
+        {
+            "text": "Benin City",
+            "href": null
+        },
+        {
+            "text": "Warri",
+            "href": null
+        },
+        {
+            "text": "Sapele",
+            "href": null
+        },
+        {
+            "text": "Agbor",
+            "href": null
+        },
+        {
+            "text": "Asaba",
+            "href": null
+        },
+        {
+            "text": "Auchi",
+            "href": null
+        },
+        {
+            "text": "Lokoja",
+            "href": null
+        },
+        {
+            "text": "Okitipupa",
+            "href": null
+        },
+        {
+            "text": "Sokoto",
+            "href": null
+        },
+        {
+            "text": "Kafanchan",
+            "href": null
+        },
+        {
+            "text": "Kaduna",
+            "href": null
+        },
+        {
+            "text": "Gusau",
+            "href": null
+        },
+        {
+            "text": "Kano",
+            "href": null
+        },
+        {
+            "text": "Katsina",
+            "href": null
+        },
+        {
+            "text": "Minna",
+            "href": null
+        },
+        {
+            "text": "Kontagora",
+            "href": null
+        },
+        {
+            "text": "Birnin-Kebbi",
+            "href": null
+        },
+        {
+            "text": "Zaria",
+            "href": null
+        },
+        {
+            "text": "Pankshin",
+            "href": null
+        },
+        {
+            "text": "Azare",
+            "href": null
+        },
+        {
+            "text": "Gombe",
+            "href": null
+        },
+        {
+            "text": "Jos",
+            "href": null
+        },
+        {
+            "text": "Yola",
+            "href": null
+        },
+        {
+            "text": "Maiduguri",
+            "href": null
+        },
+        {
+            "text": "Bauchi",
+            "href": null
+        },
+        {
+            "text": "Hadejia",
+            "href": null
+        },
+        {
+            "text": "Jalingo",
+            "href": null
+        },
+        {
+            "text": "Aba",
+            "href": null
+        },
+        {
+            "text": "Owerri",
+            "href": null
+        },
+        {
+            "text": "Port Harcourt",
+            "href": null
+        },
+        {
+            "text": "Uyo",
+            "href": null
+        },
+        {
+            "text": "Ahoada",
+            "href": null
+        },
+        {
+            "text": "Calabar",
+            "href": null
+        },
+        {
+            "text": "Umuahia",
+            "href": null
+        },
+        {
+            "text": "Yenagoa",
+            "href": null
+        },
+        {
+            "text": "Ubiaja",
+            "href": null
+        },
+        {
+            "text": "Kwara",
+            "href": null
+        },
+        {
+            "text": "Igarra",
+            "href": null
+        },
+        {
+            "text": "Ughelli",
+            "href": null
+        },
+        {
+            "text": "Uromi",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "List of telephone operating companies in Nigeria",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Allocation of Mobile Numbers as at March 31, 2015\"",
+            "href": null
+        },
+        {
+            "text": "Nigerian Communications Commission",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Frequently Asked Questions\"",
+            "href": null
+        },
+        {
+            "text": "Nigerian Communications Commission",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "LEAP, Learning, Earning, and Parenting : the program that works for you and helps you reach your goals",
+            "href": null
+        },
+        {
+            "text": "OCLC",
+            "href": null
+        },
+        {
+            "text": "51915709",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"National Numbering Plan: 2017 Quarter 3\"",
+            "href": null
+        },
+        {
+            "text": "Nigerian Communications Commission",
+            "href": null
+        },
+        {
+            "text": "ITU allocations list",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Africa",
+            "href": null
+        },
+        {
+            "text": "Algeria",
+            "href": null
+        },
+        {
+            "text": "Angola",
+            "href": null
+        },
+        {
+            "text": "Benin",
+            "href": null
+        },
+        {
+            "text": "Botswana",
+            "href": null
+        },
+        {
+            "text": "Burkina Faso",
+            "href": null
+        },
+        {
+            "text": "Burundi",
+            "href": null
+        },
+        {
+            "text": "Cameroon",
+            "href": null
+        },
+        {
+            "text": "Cape Verde",
+            "href": null
+        },
+        {
+            "text": "Central African Republic",
+            "href": null
+        },
+        {
+            "text": "Chad",
+            "href": null
+        },
+        {
+            "text": "Comoros",
+            "href": null
+        },
+        {
+            "text": "Democratic Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Djibouti",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Equatorial Guinea",
+            "href": null
+        },
+        {
+            "text": "Eritrea",
+            "href": null
+        },
+        {
+            "text": "Eswatini",
+            "href": null
+        },
+        {
+            "text": "Ethiopia",
+            "href": null
+        },
+        {
+            "text": "Gabon",
+            "href": null
+        },
+        {
+            "text": "The Gambia",
+            "href": null
+        },
+        {
+            "text": "Ghana",
+            "href": null
+        },
+        {
+            "text": "Guinea",
+            "href": null
+        },
+        {
+            "text": "Guinea-Bissau",
+            "href": null
+        },
+        {
+            "text": "Ivory Coast",
+            "href": null
+        },
+        {
+            "text": "Kenya",
+            "href": null
+        },
+        {
+            "text": "Lesotho",
+            "href": null
+        },
+        {
+            "text": "Liberia",
+            "href": null
+        },
+        {
+            "text": "Libya",
+            "href": null
+        },
+        {
+            "text": "Madagascar",
+            "href": null
+        },
+        {
+            "text": "Malawi",
+            "href": null
+        },
+        {
+            "text": "Mali",
+            "href": null
+        },
+        {
+            "text": "Mauritania",
+            "href": null
+        },
+        {
+            "text": "Mauritius",
+            "href": null
+        },
+        {
+            "text": "Morocco",
+            "href": null
+        },
+        {
+            "text": "Mozambique",
+            "href": null
+        },
+        {
+            "text": "Namibia",
+            "href": null
+        },
+        {
+            "text": "Niger",
+            "href": null
+        },
+        {
+            "text": "Nigeria",
+            "href": null
+        },
+        {
+            "text": "Rwanda",
+            "href": null
+        },
+        {
+            "text": "São Tomé and Príncipe",
+            "href": null
+        },
+        {
+            "text": "Senegal",
+            "href": null
+        },
+        {
+            "text": "Seychelles",
+            "href": null
+        },
+        {
+            "text": "Sierra Leone",
+            "href": null
+        },
+        {
+            "text": "Somalia",
+            "href": null
+        },
+        {
+            "text": "South Africa",
+            "href": null
+        },
+        {
+            "text": "South Sudan",
+            "href": null
+        },
+        {
+            "text": "Sudan",
+            "href": null
+        },
+        {
+            "text": "Tanzania",
+            "href": null
+        },
+        {
+            "text": "Togo",
+            "href": null
+        },
+        {
+            "text": "Tunisia",
+            "href": null
+        },
+        {
+            "text": "Uganda",
+            "href": null
+        },
+        {
+            "text": "Zambia",
+            "href": null
+        },
+        {
+            "text": "Zimbabwe",
+            "href": null
+        },
+        {
+            "text": "Sahrawi Arab Democratic Republic",
+            "href": null
+        },
+        {
+            "text": "Somaliland",
+            "href": null
+        },
+        {
+            "text": "Canary Islands",
+            "href": null
+        },
+        {
+            "text": "Ceuta",
+            "href": null
+        },
+        {
+            "text": "Melilla",
+            "href": null
+        },
+        {
+            "text": "Madeira",
+            "href": null
+        },
+        {
+            "text": "Mayotte",
+            "href": null
+        },
+        {
+            "text": "Réunion",
+            "href": null
+        },
+        {
+            "text": "Saint Helena and Tristan da Cunha",
+            "href": null
+        },
+        {
+            "text": "Ascension Island",
+            "href": null
+        },
+        {
+            "text": "Western Sahara",
+            "href": null
+        }
+    ]
+}

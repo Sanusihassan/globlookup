@@ -1,0 +1,803 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Czech Republic"
+            ],
+            [
+                "Europe"
+            ],
+            [
+                "Closed"
+            ],
+            [
+                "xxx xxx xxx"
+            ],
+            [],
+            [
+                "+420"
+            ],
+            [
+                "00"
+            ],
+            [
+                "none"
+            ]
+        ],
+        [
+            [],
+            [
+                "2",
+                "Prague",
+                "02"
+            ],
+            [
+                "31, 32",
+                "Central Bohemian Region",
+                ""
+            ],
+            [
+                "35",
+                "Karlovy Vary Region",
+                "017Karlovy Vary"
+            ],
+            [
+                "37",
+                "Plzeň Region",
+                "019Plzeň"
+            ],
+            [
+                "38, 39",
+                "South Bohemian Region",
+                "038České Budějovice"
+            ],
+            [
+                "41, 47",
+                "Ústí nad Labem Region",
+                "047Ústí nad Labem"
+            ],
+            [
+                "46",
+                "Pardubice Region",
+                "040Pardubice"
+            ],
+            [
+                "48",
+                "Liberec Region",
+                "048Liberec"
+            ],
+            [
+                "49",
+                "Hradec Králové Region",
+                "049Hradec Králové"
+            ],
+            [
+                "51, 53, 54",
+                "South Moravian Region",
+                "05Brno"
+            ],
+            [
+                "55, 59",
+                "Moravian-Silesian Region",
+                "069Ostrava"
+            ],
+            [
+                "56",
+                "Vysočina Region",
+                "066Jihlava"
+            ],
+            [
+                "57",
+                "Zlín Region",
+                "067Zlín"
+            ],
+            [
+                "58",
+                "Olomouc Region",
+                "068Olomouc"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlbaniaAndorraArmeniaAustriaAzerbaijanBelarusBelgiumBosnia and HerzegovinaBulgariaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGeorgiaGermanyGreeceHungaryIcelandIrelandItalyKazakhstanLatviaLiechtensteinLithuaniaLuxembourgMaltaMoldovaMonacoMontenegroNetherlandsNorth MacedoniaNorwayPolandPortugalRomaniaRussiaSan MarinoSerbiaSlovakiaSloveniaSpainSwedenSwitzerlandTurkeyUkraineUnited KingdomVatican City"
+            ],
+            [
+                "AbkhaziaKosovoNorthern CyprusSouth OssetiaTransnistria"
+            ],
+            [
+                "ÅlandFaroe IslandsGibraltarGuernseyIsle of ManJerseySvalbard"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "General emergency: 112",
+            "Ambulance: 155",
+            "Police: 158",
+            "Fire brigade: 150",
+            "Municipal police: 156",
+            "Mountain rescue service: 1210"
+        ],
+        [
+            "Urgent gas leak: 1239",
+            "Emergency Road Service (ABA): 1240",
+            "Emergency Road Service (UAMK): 1230"
+        ],
+        [
+            "Info Line (Czech Number Directory): 1180",
+            "Info Line (Foreign Number Directory): 1181",
+            "Operator for changed numbers (re-numbering): 141 11",
+            "Information on air quality: 141 10",
+            "Exact time: 141 12",
+            "Weather: 141 16",
+            "Medical Information: 141 20",
+            "Operator for international phone calls: 133 003"
+        ],
+        [
+            "601 -O2 Czech Republic(formerly NMT, numbers were ported to GSM in 2006; also used as part of the PPP log-in when dialling in the CDMA network) (formerly named EuroTel)",
+            "602 -O2 Czech Republic(GSM system)",
+            "603 -T-Mobile(formerly named Paegas/RadioMobil)",
+            "604 - T-Mobile",
+            "605 - T-Mobile",
+            "606 - O2 Czech Republic",
+            "607 - O2 Czech Republic",
+            "608 -Vodafone Czech Republic(formerly named Oskar)",
+            "70 - (formerly Bleskmobil's range)",
+            "72 - O2 Czech Republic",
+            "73 - T-Mobile",
+            "77 - Vodafone Czech Republic",
+            "790 - U:Fon (Mobilkom)",
+            "910 - VoIP non-geographic networks"
+        ],
+        [
+            "9522 - Všeobecná zdravotní pojišťovna, government-controlled health insurance company",
+            "9555 - Bank \"Komerční banka(KB)\", a part of theSociété Générale(SG) international group, formerly government-controlled company",
+            "9567 - Bank \"Česká spořitelna(ČS)\", a part of theErste Bank Group, formerly government-controlled company",
+            "972 -Czech RailwaysandRailway Administration",
+            "973 -Ministry of Defence&Armed Forces of the Czech Republic",
+            "974 -Ministry of the Interior"
+        ],
+        [
+            "800 -Zelená linka(\"Green line\") -toll-free(800 00 -Home Country Direct)",
+            "844 (also 81, 83, 843, 845, 846, 855) -Modrá linka(Blue line) - local call tariff from all Czechlandlines",
+            "840 (also 841, 842, 847, 848, 849) -Bílá linka(White line) - national call tariff from all Czech landlines",
+            "90 - premium tariff",
+            "971 - dial-up internet access",
+            "976 xx - premium-priced dial-up internet access (priced at CZK xx per minute)"
+        ],
+        [
+            "117/2007 Vyhláška o číslovacích plánech sítí a služeb elektronických komunikací(in Czech)",
+            "Horská služba - kontakty(in Czech)"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Albania",
+            "Andorra",
+            "Armenia",
+            "Austria",
+            "Azerbaijan",
+            "Belarus",
+            "Belgium",
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Estonia",
+            "Finland",
+            "France",
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Iceland",
+            "Ireland",
+            "",
+            "Italy",
+            "Kazakhstan",
+            "Latvia",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Malta",
+            "Moldova",
+            "Monaco",
+            "Montenegro",
+            "Netherlands",
+            "North Macedonia",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russia",
+            "San Marino",
+            "Serbia",
+            "Slovakia",
+            "Slovenia",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Turkey",
+            "Ukraine",
+            "United Kingdom",
+            "Vatican City"
+        ],
+        [
+            "Abkhazia",
+            "Kosovo",
+            "Northern Cyprus",
+            "South Ossetia",
+            "Transnistria"
+        ],
+        [
+            "Åland",
+            "Faroe Islands",
+            "Gibraltar",
+            "Guernsey",
+            "Isle of Man",
+            "Jersey",
+            "Svalbard"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+420",
+            "href": null
+        },
+        {
+            "text": "+421",
+            "href": null
+        },
+        {
+            "text": "+423",
+            "href": null
+        },
+        {
+            "text": "Czech Republic",
+            "href": null
+        },
+        {
+            "text": "Europe",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "break-up of Czechoslovakia",
+            "href": null
+        },
+        {
+            "text": "Czech Republic",
+            "href": null
+        },
+        {
+            "text": "Slovakia",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "closed numbering plan",
+            "href": null
+        },
+        {
+            "text": "Brno",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "number portability",
+            "href": null
+        },
+        {
+            "text": "T-Mobile",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Prague",
+            "href": null
+        },
+        {
+            "text": "Central Bohemian Region",
+            "href": null
+        },
+        {
+            "text": "Karlovy Vary Region",
+            "href": null
+        },
+        {
+            "text": "Karlovy Vary",
+            "href": null
+        },
+        {
+            "text": "Plzeň Region",
+            "href": null
+        },
+        {
+            "text": "Plzeň",
+            "href": null
+        },
+        {
+            "text": "South Bohemian Region",
+            "href": null
+        },
+        {
+            "text": "České Budějovice",
+            "href": null
+        },
+        {
+            "text": "Ústí nad Labem Region",
+            "href": null
+        },
+        {
+            "text": "Ústí nad Labem",
+            "href": null
+        },
+        {
+            "text": "Pardubice Region",
+            "href": null
+        },
+        {
+            "text": "Pardubice",
+            "href": null
+        },
+        {
+            "text": "Liberec Region",
+            "href": null
+        },
+        {
+            "text": "Liberec",
+            "href": null
+        },
+        {
+            "text": "Hradec Králové Region",
+            "href": null
+        },
+        {
+            "text": "Hradec Králové",
+            "href": null
+        },
+        {
+            "text": "South Moravian Region",
+            "href": null
+        },
+        {
+            "text": "Brno",
+            "href": null
+        },
+        {
+            "text": "Moravian-Silesian Region",
+            "href": null
+        },
+        {
+            "text": "Ostrava",
+            "href": null
+        },
+        {
+            "text": "Vysočina Region",
+            "href": null
+        },
+        {
+            "text": "Jihlava",
+            "href": null
+        },
+        {
+            "text": "Zlín Region",
+            "href": null
+        },
+        {
+            "text": "Zlín",
+            "href": null
+        },
+        {
+            "text": "Olomouc Region",
+            "href": null
+        },
+        {
+            "text": "Olomouc",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "O2 Czech Republic",
+            "href": null
+        },
+        {
+            "text": "O2 Czech Republic",
+            "href": null
+        },
+        {
+            "text": "T-Mobile",
+            "href": null
+        },
+        {
+            "text": "Vodafone Czech Republic",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "VoIP",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Komerční banka",
+            "href": null
+        },
+        {
+            "text": "Société Générale",
+            "href": null
+        },
+        {
+            "text": "Česká spořitelna",
+            "href": null
+        },
+        {
+            "text": "Erste Bank Group",
+            "href": null
+        },
+        {
+            "text": "Czech Railways",
+            "href": null
+        },
+        {
+            "text": "Railway Administration",
+            "href": null
+        },
+        {
+            "text": "Ministry of Defence",
+            "href": null
+        },
+        {
+            "text": "Armed Forces of the Czech Republic",
+            "href": null
+        },
+        {
+            "text": "Ministry of the Interior",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "toll-free",
+            "href": null
+        },
+        {
+            "text": "Home Country Direct",
+            "href": null
+        },
+        {
+            "text": "landlines",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Czech the News: Newsletter of the Embassy of the Czech Republic",
+            "href": null
+        },
+        {
+            "text": "117/2007 Vyhláška o číslovacích plánech sítí a služeb elektronických komunikací",
+            "href": null
+        },
+        {
+            "text": "Horská služba - kontakty",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Europe",
+            "href": null
+        },
+        {
+            "text": "Albania",
+            "href": null
+        },
+        {
+            "text": "Andorra",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Austria",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Belarus",
+            "href": null
+        },
+        {
+            "text": "Belgium",
+            "href": null
+        },
+        {
+            "text": "Bosnia and Herzegovina",
+            "href": null
+        },
+        {
+            "text": "Bulgaria",
+            "href": null
+        },
+        {
+            "text": "Croatia",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "Czech Republic",
+            "href": null
+        },
+        {
+            "text": "Denmark",
+            "href": null
+        },
+        {
+            "text": "Estonia",
+            "href": null
+        },
+        {
+            "text": "Finland",
+            "href": null
+        },
+        {
+            "text": "France",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "Germany",
+            "href": null
+        },
+        {
+            "text": "Greece",
+            "href": null
+        },
+        {
+            "text": "Hungary",
+            "href": null
+        },
+        {
+            "text": "Iceland",
+            "href": null
+        },
+        {
+            "text": "Ireland",
+            "href": null
+        },
+        {
+            "text": "Italy",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "Latvia",
+            "href": null
+        },
+        {
+            "text": "Liechtenstein",
+            "href": null
+        },
+        {
+            "text": "Lithuania",
+            "href": null
+        },
+        {
+            "text": "Luxembourg",
+            "href": null
+        },
+        {
+            "text": "Malta",
+            "href": null
+        },
+        {
+            "text": "Moldova",
+            "href": null
+        },
+        {
+            "text": "Monaco",
+            "href": null
+        },
+        {
+            "text": "Montenegro",
+            "href": null
+        },
+        {
+            "text": "Netherlands",
+            "href": null
+        },
+        {
+            "text": "North Macedonia",
+            "href": null
+        },
+        {
+            "text": "Norway",
+            "href": null
+        },
+        {
+            "text": "Poland",
+            "href": null
+        },
+        {
+            "text": "Portugal",
+            "href": null
+        },
+        {
+            "text": "Romania",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "San Marino",
+            "href": null
+        },
+        {
+            "text": "Serbia",
+            "href": null
+        },
+        {
+            "text": "Slovakia",
+            "href": null
+        },
+        {
+            "text": "Slovenia",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "Sweden",
+            "href": null
+        },
+        {
+            "text": "Switzerland",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Ukraine",
+            "href": null
+        },
+        {
+            "text": "United Kingdom",
+            "href": null
+        },
+        {
+            "text": "Vatican City",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Kosovo",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Transnistria",
+            "href": null
+        },
+        {
+            "text": "Åland",
+            "href": null
+        },
+        {
+            "text": "Faroe Islands",
+            "href": null
+        },
+        {
+            "text": "Gibraltar",
+            "href": null
+        },
+        {
+            "text": "Guernsey",
+            "href": null
+        },
+        {
+            "text": "Isle of Man",
+            "href": null
+        },
+        {
+            "text": "Jersey",
+            "href": null
+        },
+        {
+            "text": "Svalbard",
+            "href": null
+        }
+    ]
+}

@@ -1,0 +1,2109 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Greece"
+            ],
+            [
+                "Europe"
+            ],
+            [],
+            [
+                "+30"
+            ],
+            [
+                "00"
+            ],
+            [
+                "none"
+            ]
+        ],
+        [
+            [
+                "xxx xxxx",
+                "(Athens numbers called within Athens)"
+            ],
+            [
+                "(01)xxx xxxx",
+                "(Athens numbers called from within Greece)"
+            ],
+            [
+                "+30 1xxx xxxx",
+                "(Athens numbers called from outside Greece)"
+            ]
+        ],
+        [
+            [
+                "01 0xxx xxxx",
+                "(Athens numbers called from within Greece)"
+            ],
+            [
+                "+30 1 0xxx xxxx",
+                "(Athens numbers called from outside Greece)"
+            ]
+        ],
+        [
+            [
+                "21 x xxx xxxx",
+                "(Athens numbers called from within Greece)"
+            ],
+            [
+                "+30 21 x xxx xxxx",
+                "(Athens numbers called from outside Greece)"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlbaniaAndorraArmeniaAustriaAzerbaijanBelarusBelgiumBosnia and HerzegovinaBulgariaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGeorgiaGermanyGreeceHungaryIcelandIrelandItalyKazakhstanLatviaLiechtensteinLithuaniaLuxembourgMaltaMoldovaMonacoMontenegroNetherlandsNorth MacedoniaNorwayPolandPortugalRomaniaRussiaSan MarinoSerbiaSlovakiaSloveniaSpainSwedenSwitzerlandTurkeyUkraineUnited KingdomVatican City"
+            ],
+            [
+                "AbkhaziaKosovoNorthern CyprusSouth OssetiaTransnistria"
+            ],
+            [
+                "ÅlandFaroe IslandsGibraltarGuernseyIsle of ManJerseySvalbard"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "2431 -Trikala",
+            "2432 -Kalampaka",
+            "2433 -Farkadona",
+            "2434 -Pyli",
+            "2435 through 2439 -not used"
+        ],
+        [
+            "Telephone numbers in Europe",
+            "OTE"
+        ],
+        [
+            "List of area codes in Greece",
+            "International Dialing Resource Center - Greek area/dialing codes",
+            "EETT (Regulator) page on numbering (English)",
+            "Greece dialing codes",
+            "EETT numbering page (Greek)"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Albania",
+            "Andorra",
+            "Armenia",
+            "Austria",
+            "Azerbaijan",
+            "Belarus",
+            "Belgium",
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Estonia",
+            "Finland",
+            "France",
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Iceland",
+            "Ireland",
+            "",
+            "Italy",
+            "Kazakhstan",
+            "Latvia",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Malta",
+            "Moldova",
+            "Monaco",
+            "Montenegro",
+            "Netherlands",
+            "North Macedonia",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russia",
+            "San Marino",
+            "Serbia",
+            "Slovakia",
+            "Slovenia",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Turkey",
+            "Ukraine",
+            "United Kingdom",
+            "Vatican City"
+        ],
+        [
+            "Abkhazia",
+            "Kosovo",
+            "Northern Cyprus",
+            "South Ossetia",
+            "Transnistria"
+        ],
+        [
+            "Åland",
+            "Faroe Islands",
+            "Gibraltar",
+            "Guernsey",
+            "Isle of Man",
+            "Jersey",
+            "Svalbard"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+30",
+            "href": null
+        },
+        {
+            "text": "Greece",
+            "href": null
+        },
+        {
+            "text": "Europe",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "premium rate services",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Thessaloniki",
+            "href": null
+        },
+        {
+            "text": "Patras",
+            "href": null
+        },
+        {
+            "text": "Larissa",
+            "href": null
+        },
+        {
+            "text": "Heraklion",
+            "href": null
+        },
+        {
+            "text": "Kavala",
+            "href": null
+        },
+        {
+            "text": "Tripoli",
+            "href": null
+        },
+        {
+            "text": "OTE",
+            "href": null
+        },
+        {
+            "text": "international call prefix",
+            "href": null
+        },
+        {
+            "text": "Greece",
+            "href": null
+        },
+        {
+            "text": "Athens",
+            "href": null
+        },
+        {
+            "text": "OTE",
+            "href": null
+        },
+        {
+            "text": "WIND",
+            "href": null
+        },
+        {
+            "text": "Vodafone",
+            "href": null
+        },
+        {
+            "text": "Cosmote",
+            "href": null
+        },
+        {
+            "text": "Q-Telecom",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Athens",
+            "href": null
+        },
+        {
+            "text": "Piraeus",
+            "href": null
+        },
+        {
+            "text": "Elefsina",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Chalkida",
+            "href": null
+        },
+        {
+            "text": "Kymi",
+            "href": null
+        },
+        {
+            "text": "Aliveri",
+            "href": null
+        },
+        {
+            "text": "Karystos",
+            "href": null
+        },
+        {
+            "text": "Aidipsos",
+            "href": null
+        },
+        {
+            "text": "Mantoudi",
+            "href": null
+        },
+        {
+            "text": "Psachna",
+            "href": null
+        },
+        {
+            "text": "Eretria",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Lamia",
+            "href": null
+        },
+        {
+            "text": "Domokos",
+            "href": null
+        },
+        {
+            "text": "Atalanta",
+            "href": null
+        },
+        {
+            "text": "Amfikleia",
+            "href": null
+        },
+        {
+            "text": "Kamena Vourla",
+            "href": null
+        },
+        {
+            "text": "Spercheiada",
+            "href": null
+        },
+        {
+            "text": "Makrakomi",
+            "href": null
+        },
+        {
+            "text": "Karpenisi",
+            "href": null
+        },
+        {
+            "text": "Stylida",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Rhodes",
+            "href": null
+        },
+        {
+            "text": "Rhodes City",
+            "href": null
+        },
+        {
+            "text": "Kos",
+            "href": null
+        },
+        {
+            "text": "Nisyros",
+            "href": null
+        },
+        {
+            "text": "Kalymnos",
+            "href": null
+        },
+        {
+            "text": "Astypalaia",
+            "href": null
+        },
+        {
+            "text": "Rhodes Island",
+            "href": null
+        },
+        {
+            "text": "Archangelos",
+            "href": null
+        },
+        {
+            "text": "Karpathos",
+            "href": null
+        },
+        {
+            "text": "Kasos",
+            "href": null
+        },
+        {
+            "text": "Rhodes Island",
+            "href": null
+        },
+        {
+            "text": "Salakos",
+            "href": null
+        },
+        {
+            "text": "Chalki",
+            "href": null
+        },
+        {
+            "text": "Kastellorizo",
+            "href": null
+        },
+        {
+            "text": "Symi",
+            "href": null
+        },
+        {
+            "text": "Tilos",
+            "href": null
+        },
+        {
+            "text": "Agathonisi",
+            "href": null
+        },
+        {
+            "text": "Leros",
+            "href": null
+        },
+        {
+            "text": "Leipsoi",
+            "href": null
+        },
+        {
+            "text": "Patmos",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Mytilini",
+            "href": null
+        },
+        {
+            "text": "Agiasos",
+            "href": null
+        },
+        {
+            "text": "Kalloni",
+            "href": null
+        },
+        {
+            "text": "Agios Efstratios",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Livadia",
+            "href": null
+        },
+        {
+            "text": "Thiva",
+            "href": null
+        },
+        {
+            "text": "Dervenochoria",
+            "href": null
+        },
+        {
+            "text": "Villia",
+            "href": null
+        },
+        {
+            "text": "Thisvi",
+            "href": null
+        },
+        {
+            "text": "Amfissa",
+            "href": null
+        },
+        {
+            "text": "Lidoriki",
+            "href": null
+        },
+        {
+            "text": "Arachova",
+            "href": null
+        },
+        {
+            "text": "Distomo",
+            "href": null
+        },
+        {
+            "text": "Aliartos",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Kardamyla",
+            "href": null
+        },
+        {
+            "text": "Volissos",
+            "href": null
+        },
+        {
+            "text": "Psara",
+            "href": null
+        },
+        {
+            "text": "Ikaria",
+            "href": null
+        },
+        {
+            "text": "Fournoi",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Syros",
+            "href": null
+        },
+        {
+            "text": "Kythnos",
+            "href": null
+        },
+        {
+            "text": "Serifos",
+            "href": null
+        },
+        {
+            "text": "Andros",
+            "href": null
+        },
+        {
+            "text": "Tinos",
+            "href": null
+        },
+        {
+            "text": "Paros",
+            "href": null
+        },
+        {
+            "text": "Sifnos",
+            "href": null
+        },
+        {
+            "text": "Amorgos",
+            "href": null
+        },
+        {
+            "text": "Naxos",
+            "href": null
+        },
+        {
+            "text": "Folegandros",
+            "href": null
+        },
+        {
+            "text": "Ios",
+            "href": null
+        },
+        {
+            "text": "Santorini",
+            "href": null
+        },
+        {
+            "text": "Sikinos",
+            "href": null
+        },
+        {
+            "text": "Kimolos",
+            "href": null
+        },
+        {
+            "text": "Milos",
+            "href": null
+        },
+        {
+            "text": "Kea Island",
+            "href": null
+        },
+        {
+            "text": "Mykonos",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Lagonissi",
+            "href": null
+        },
+        {
+            "text": "Lavrio",
+            "href": null
+        },
+        {
+            "text": "Sounio",
+            "href": null
+        },
+        {
+            "text": "Agia Sotira",
+            "href": null
+        },
+        {
+            "text": "Rafina",
+            "href": null
+        },
+        {
+            "text": "Artemida",
+            "href": null
+        },
+        {
+            "text": "Marathonas",
+            "href": null
+        },
+        {
+            "text": "Afidnes",
+            "href": null
+        },
+        {
+            "text": "Megara",
+            "href": null
+        },
+        {
+            "text": "Kineta",
+            "href": null
+        },
+        {
+            "text": "Aigina",
+            "href": null
+        },
+        {
+            "text": "Troezen",
+            "href": null
+        },
+        {
+            "text": "Poros isl.",
+            "href": null
+        },
+        {
+            "text": "Hydra isl.",
+            "href": null
+        },
+        {
+            "text": "Spetses isl.",
+            "href": null
+        },
+        {
+            "text": "Markopoulo Mesogaias",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Thessaloniki",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Serres",
+            "href": null
+        },
+        {
+            "text": "Nigrita",
+            "href": null
+        },
+        {
+            "text": "Sidirokastro",
+            "href": null
+        },
+        {
+            "text": "Nea Zichni",
+            "href": null
+        },
+        {
+            "text": "Heraklia",
+            "href": null
+        },
+        {
+            "text": "Rodopoli",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Veria",
+            "href": null
+        },
+        {
+            "text": "Naoussa",
+            "href": null
+        },
+        {
+            "text": "Alexandria",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Kilkis",
+            "href": null
+        },
+        {
+            "text": "Polykastro",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Katerini",
+            "href": null
+        },
+        {
+            "text": "Litochoro",
+            "href": null
+        },
+        {
+            "text": "Aiginio",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Polygyros",
+            "href": null
+        },
+        {
+            "text": "Arnaia",
+            "href": null
+        },
+        {
+            "text": "Nea Moudania",
+            "href": null
+        },
+        {
+            "text": "Potidaia",
+            "href": null
+        },
+        {
+            "text": "Nikiti",
+            "href": null
+        },
+        {
+            "text": "Stratoni",
+            "href": null
+        },
+        {
+            "text": "Ierissos",
+            "href": null
+        },
+        {
+            "text": "Mount Athos",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Edessa",
+            "href": null
+        },
+        {
+            "text": "Giannitsa",
+            "href": null
+        },
+        {
+            "text": "Aridaia",
+            "href": null
+        },
+        {
+            "text": "Florina",
+            "href": null
+        },
+        {
+            "text": "Amyntaio",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Chalkidona",
+            "href": null
+        },
+        {
+            "text": "Peraia",
+            "href": null
+        },
+        {
+            "text": "Lagkadikia",
+            "href": null
+        },
+        {
+            "text": "Lagkadas",
+            "href": null
+        },
+        {
+            "text": "Sochos",
+            "href": null
+        },
+        {
+            "text": "Vasilika",
+            "href": null
+        },
+        {
+            "text": "Asprovalta",
+            "href": null
+        },
+        {
+            "text": "Nea Kallikrateia",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Larissa",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Volos",
+            "href": null
+        },
+        {
+            "text": "Almyros",
+            "href": null
+        },
+        {
+            "text": "Kala Nera",
+            "href": null
+        },
+        {
+            "text": "Skopelos",
+            "href": null
+        },
+        {
+            "text": "Velestino",
+            "href": null
+        },
+        {
+            "text": "Zagora",
+            "href": null
+        },
+        {
+            "text": "Skiathos",
+            "href": null
+        },
+        {
+            "text": "Keramidi",
+            "href": null
+        },
+        {
+            "text": "suburban Volos",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Trikala",
+            "href": null
+        },
+        {
+            "text": "Kalampaka",
+            "href": null
+        },
+        {
+            "text": "Farkadona",
+            "href": null
+        },
+        {
+            "text": "Pyli",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Karditsa",
+            "href": null
+        },
+        {
+            "text": "Sofades",
+            "href": null
+        },
+        {
+            "text": "Palamas",
+            "href": null
+        },
+        {
+            "text": "Mouzaki",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Kozani",
+            "href": null
+        },
+        {
+            "text": "Grevena",
+            "href": null
+        },
+        {
+            "text": "Ptolemaida",
+            "href": null
+        },
+        {
+            "text": "Servia",
+            "href": null
+        },
+        {
+            "text": "Siatista",
+            "href": null
+        },
+        {
+            "text": "Kastoria",
+            "href": null
+        },
+        {
+            "text": "Neapoli",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Farsala",
+            "href": null
+        },
+        {
+            "text": "Tyrnavos",
+            "href": null
+        },
+        {
+            "text": "Elassona",
+            "href": null
+        },
+        {
+            "text": "Agia",
+            "href": null
+        },
+        {
+            "text": "Makrychori",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Kavala",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Drama",
+            "href": null
+        },
+        {
+            "text": "Prosotsani",
+            "href": null
+        },
+        {
+            "text": "Kato Nevrokopi",
+            "href": null
+        },
+        {
+            "text": "Paranesti",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Komotini",
+            "href": null
+        },
+        {
+            "text": "Sapes",
+            "href": null
+        },
+        {
+            "text": "Xylagani",
+            "href": null
+        },
+        {
+            "text": "Iasmos",
+            "href": null
+        },
+        {
+            "text": "Nea Kallisti",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Xanthi",
+            "href": null
+        },
+        {
+            "text": "Stavroupoli",
+            "href": null
+        },
+        {
+            "text": "Echinos",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Alexandroupolis",
+            "href": null
+        },
+        {
+            "text": "Orestiada",
+            "href": null
+        },
+        {
+            "text": "Didymoteicho",
+            "href": null
+        },
+        {
+            "text": "Soufli",
+            "href": null
+        },
+        {
+            "text": "Feres",
+            "href": null
+        },
+        {
+            "text": "Kyprinos",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Chrysoupoli",
+            "href": null
+        },
+        {
+            "text": "Eleftheroupoli",
+            "href": null
+        },
+        {
+            "text": "Thasos",
+            "href": null
+        },
+        {
+            "text": "Nea Peramos, Kavala",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Patras",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Pyrgos",
+            "href": null
+        },
+        {
+            "text": "Amaliada",
+            "href": null
+        },
+        {
+            "text": "Lechaina",
+            "href": null
+        },
+        {
+            "text": "Olympia",
+            "href": null
+        },
+        {
+            "text": "Krestena",
+            "href": null
+        },
+        {
+            "text": "Andritsaina",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Missolonghi",
+            "href": null
+        },
+        {
+            "text": "Etoliko",
+            "href": null
+        },
+        {
+            "text": "Nafpaktos",
+            "href": null
+        },
+        {
+            "text": "Mataranga, Aetolia-Acarnania",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Agrinio",
+            "href": null
+        },
+        {
+            "text": "Amfilochia",
+            "href": null
+        },
+        {
+            "text": "Vonitsa",
+            "href": null
+        },
+        {
+            "text": "Thermo",
+            "href": null
+        },
+        {
+            "text": "Lefkada",
+            "href": null
+        },
+        {
+            "text": "Astakos",
+            "href": null
+        },
+        {
+            "text": "Fyteies",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Ioannina",
+            "href": null
+        },
+        {
+            "text": "Asprangeloi",
+            "href": null
+        },
+        {
+            "text": "Metamorfosi",
+            "href": null
+        },
+        {
+            "text": "Konitsa",
+            "href": null
+        },
+        {
+            "text": "Metsovo",
+            "href": null
+        },
+        {
+            "text": "Delvinaki",
+            "href": null
+        },
+        {
+            "text": "Zitsa",
+            "href": null
+        },
+        {
+            "text": "Kalentzi",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Corfu (city)",
+            "href": null
+        },
+        {
+            "text": "Lefkimmi",
+            "href": null
+        },
+        {
+            "text": "Corfu",
+            "href": null
+        },
+        {
+            "text": "Filiates",
+            "href": null
+        },
+        {
+            "text": "Igoumenitsa",
+            "href": null
+        },
+        {
+            "text": "Paramythia",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Argostoli",
+            "href": null
+        },
+        {
+            "text": "Sami",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Arta",
+            "href": null
+        },
+        {
+            "text": "Preveza",
+            "href": null
+        },
+        {
+            "text": "Filippiada",
+            "href": null
+        },
+        {
+            "text": "Kanalaki",
+            "href": null
+        },
+        {
+            "text": "Athamania",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Aigion",
+            "href": null
+        },
+        {
+            "text": "Kalavryta",
+            "href": null
+        },
+        {
+            "text": "Kato Achaia",
+            "href": null
+        },
+        {
+            "text": "Chalandritsa",
+            "href": null
+        },
+        {
+            "text": "Zakynthos",
+            "href": null
+        },
+        {
+            "text": "Akrata",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Tripoli",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Kalamata",
+            "href": null
+        },
+        {
+            "text": "Messene",
+            "href": null
+        },
+        {
+            "text": "Pylos",
+            "href": null
+        },
+        {
+            "text": "Meligalas",
+            "href": null
+        },
+        {
+            "text": "Koroni",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Sparta",
+            "href": null
+        },
+        {
+            "text": "Monemvasia",
+            "href": null
+        },
+        {
+            "text": "Gythio",
+            "href": null
+        },
+        {
+            "text": "Neapoli",
+            "href": null
+        },
+        {
+            "text": "Skala",
+            "href": null
+        },
+        {
+            "text": "Kythera",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Corinth",
+            "href": null
+        },
+        {
+            "text": "Kiato",
+            "href": null
+        },
+        {
+            "text": "Xylokastro",
+            "href": null
+        },
+        {
+            "text": "Loutraki",
+            "href": null
+        },
+        {
+            "text": "Nemea",
+            "href": null
+        },
+        {
+            "text": "Stymfalia",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Argos",
+            "href": null
+        },
+        {
+            "text": "Nafplio",
+            "href": null
+        },
+        {
+            "text": "Lygourio",
+            "href": null
+        },
+        {
+            "text": "Kranidi",
+            "href": null
+        },
+        {
+            "text": "Astros",
+            "href": null
+        },
+        {
+            "text": "Leonidio",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Kyparissia",
+            "href": null
+        },
+        {
+            "text": "Gargalianoi",
+            "href": null
+        },
+        {
+            "text": "Kopanaki",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Megalopoli",
+            "href": null
+        },
+        {
+            "text": "Kastri Kynourias",
+            "href": null
+        },
+        {
+            "text": "Vytina",
+            "href": null
+        },
+        {
+            "text": "Levidi",
+            "href": null
+        },
+        {
+            "text": "Tropaia",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Heraklion",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Chania",
+            "href": null
+        },
+        {
+            "text": "Kissamos",
+            "href": null
+        },
+        {
+            "text": "Kantanos",
+            "href": null
+        },
+        {
+            "text": "Kolymvari",
+            "href": null
+        },
+        {
+            "text": "Apokoronas",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Rethymno",
+            "href": null
+        },
+        {
+            "text": "Spyli",
+            "href": null
+        },
+        {
+            "text": "Amari",
+            "href": null
+        },
+        {
+            "text": "Perama Mylopotamou",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Agios Nikolaos",
+            "href": null
+        },
+        {
+            "text": "Ierapetra",
+            "href": null
+        },
+        {
+            "text": "Siteia",
+            "href": null
+        },
+        {
+            "text": "Tzermadio",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Arkalochori",
+            "href": null
+        },
+        {
+            "text": "Moires",
+            "href": null
+        },
+        {
+            "text": "Asterousia",
+            "href": null
+        },
+        {
+            "text": "Agia Varvara",
+            "href": null
+        },
+        {
+            "text": "Ano Viannos",
+            "href": null
+        },
+        {
+            "text": "Limenas Chersonisou",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Hellenic Police",
+            "href": null
+        },
+        {
+            "text": "Hellenic Coast Guard",
+            "href": null
+        },
+        {
+            "text": "Hellenic Police",
+            "href": null
+        },
+        {
+            "text": "Cyber Crime Division of Hellenic Policy",
+            "href": null
+        },
+        {
+            "text": "Transport for Athens",
+            "href": null
+        },
+        {
+            "text": "Thessaloniki Urban Transport Organization (OASTH)",
+            "href": null
+        },
+        {
+            "text": "European emergency number",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "customer services",
+            "href": null
+        },
+        {
+            "text": "Yuboto Telephony Support",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "Customer service",
+            "href": null
+        },
+        {
+            "text": "telephone companies",
+            "href": null
+        },
+        {
+            "text": "Inter Telecom",
+            "href": null
+        },
+        {
+            "text": "Telephone companies",
+            "href": null
+        },
+        {
+            "text": "voice portals",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "Special Suppressive Anti-Terrorist Unit",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "Fire department",
+            "href": null
+        },
+        {
+            "text": "VPNs",
+            "href": null
+        },
+        {
+            "text": "[4]",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "[6]",
+            "href": null
+        },
+        {
+            "text": "AMD Telecom S.A.",
+            "href": null
+        },
+        {
+            "text": "[7]",
+            "href": null
+        },
+        {
+            "text": "WIND Hellas",
+            "href": null
+        },
+        {
+            "text": "Yuboto LTD",
+            "href": null
+        },
+        {
+            "text": "[8]",
+            "href": null
+        },
+        {
+            "text": "[9]",
+            "href": null
+        },
+        {
+            "text": "[10]",
+            "href": null
+        },
+        {
+            "text": "[11]",
+            "href": null
+        },
+        {
+            "text": "[12]",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "Wayback Machine",
+            "href": null
+        },
+        {
+            "text": "Inter Telecom",
+            "href": null
+        },
+        {
+            "text": "Hellenic Railways Organisation",
+            "href": null
+        },
+        {
+            "text": "Vodafone Greece",
+            "href": null
+        },
+        {
+            "text": "OTE",
+            "href": null
+        },
+        {
+            "text": "Greek Ministry of National Defense",
+            "href": null
+        },
+        {
+            "text": "Greek Ministry of National Defense",
+            "href": null
+        },
+        {
+            "text": "Cosmote",
+            "href": null
+        },
+        {
+            "text": "Cosmote",
+            "href": null
+        },
+        {
+            "text": "Toll-free numbers",
+            "href": null
+        },
+        {
+            "text": "Dial-up Internet access",
+            "href": null
+        },
+        {
+            "text": "ERMES",
+            "href": null
+        },
+        {
+            "text": "Premium-rate services",
+            "href": null
+        },
+        {
+            "text": "Premium-rate",
+            "href": null
+        },
+        {
+            "text": "services",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Europe",
+            "href": null
+        },
+        {
+            "text": "OTE",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Digital Single Market\"",
+            "href": null
+        },
+        {
+            "text": "List of area codes in Greece",
+            "href": null
+        },
+        {
+            "text": "International Dialing Resource Center - Greek area/dialing codes",
+            "href": null
+        },
+        {
+            "text": "EETT (Regulator) page on numbering (English)",
+            "href": null
+        },
+        {
+            "text": "Greece dialing codes",
+            "href": null
+        },
+        {
+            "text": "EETT numbering page (Greek)",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Europe",
+            "href": null
+        },
+        {
+            "text": "Albania",
+            "href": null
+        },
+        {
+            "text": "Andorra",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Austria",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Belarus",
+            "href": null
+        },
+        {
+            "text": "Belgium",
+            "href": null
+        },
+        {
+            "text": "Bosnia and Herzegovina",
+            "href": null
+        },
+        {
+            "text": "Bulgaria",
+            "href": null
+        },
+        {
+            "text": "Croatia",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "Czech Republic",
+            "href": null
+        },
+        {
+            "text": "Denmark",
+            "href": null
+        },
+        {
+            "text": "Estonia",
+            "href": null
+        },
+        {
+            "text": "Finland",
+            "href": null
+        },
+        {
+            "text": "France",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "Germany",
+            "href": null
+        },
+        {
+            "text": "Greece",
+            "href": null
+        },
+        {
+            "text": "Hungary",
+            "href": null
+        },
+        {
+            "text": "Iceland",
+            "href": null
+        },
+        {
+            "text": "Ireland",
+            "href": null
+        },
+        {
+            "text": "Italy",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "Latvia",
+            "href": null
+        },
+        {
+            "text": "Liechtenstein",
+            "href": null
+        },
+        {
+            "text": "Lithuania",
+            "href": null
+        },
+        {
+            "text": "Luxembourg",
+            "href": null
+        },
+        {
+            "text": "Malta",
+            "href": null
+        },
+        {
+            "text": "Moldova",
+            "href": null
+        },
+        {
+            "text": "Monaco",
+            "href": null
+        },
+        {
+            "text": "Montenegro",
+            "href": null
+        },
+        {
+            "text": "Netherlands",
+            "href": null
+        },
+        {
+            "text": "North Macedonia",
+            "href": null
+        },
+        {
+            "text": "Norway",
+            "href": null
+        },
+        {
+            "text": "Poland",
+            "href": null
+        },
+        {
+            "text": "Portugal",
+            "href": null
+        },
+        {
+            "text": "Romania",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "San Marino",
+            "href": null
+        },
+        {
+            "text": "Serbia",
+            "href": null
+        },
+        {
+            "text": "Slovakia",
+            "href": null
+        },
+        {
+            "text": "Slovenia",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "Sweden",
+            "href": null
+        },
+        {
+            "text": "Switzerland",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Ukraine",
+            "href": null
+        },
+        {
+            "text": "United Kingdom",
+            "href": null
+        },
+        {
+            "text": "Vatican City",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Kosovo",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Transnistria",
+            "href": null
+        },
+        {
+            "text": "Åland",
+            "href": null
+        },
+        {
+            "text": "Faroe Islands",
+            "href": null
+        },
+        {
+            "text": "Gibraltar",
+            "href": null
+        },
+        {
+            "text": "Guernsey",
+            "href": null
+        },
+        {
+            "text": "Isle of Man",
+            "href": null
+        },
+        {
+            "text": "Jersey",
+            "href": null
+        },
+        {
+            "text": "Svalbard",
+            "href": null
+        }
+    ]
+}

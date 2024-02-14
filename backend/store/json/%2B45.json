@@ -1,0 +1,815 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Denmark"
+            ],
+            [
+                "Europe"
+            ],
+            [
+                "closed"
+            ],
+            [
+                "8"
+            ],
+            [
+                "xx xx xx xx"
+            ],
+            [],
+            [
+                "+45"
+            ],
+            [
+                "00"
+            ],
+            [
+                "none"
+            ]
+        ],
+        [
+            [],
+            [
+                "01-xx-xx-xx–09-xx-xx-xx"
+            ],
+            [
+                "10-xx"
+            ],
+            [
+                "11-x–12-x"
+            ],
+            [
+                "18-xx"
+            ],
+            [
+                "16-xx-x"
+            ],
+            [
+                "20-xx-xx-xx–31-xx-xx-xx"
+            ],
+            [
+                "40-xx-xx-xx–42-xx-xx-xx49-11-xx-xx"
+            ],
+            [
+                "50-xx-xx-xx–55-xx-xx-xx"
+            ],
+            [
+                "60-xx-xx-xx–61-xx-xx-xx"
+            ],
+            [
+                "71-xx-xx-xx"
+            ],
+            [
+                "81-xx-xx-xx"
+            ],
+            [
+                "91-xx-xx-xx–93-xx-xx-xx"
+            ],
+            [
+                "32-xx-xx-xx–36-xx-xx-xx"
+            ],
+            [
+                "38-xx-xx-xx–39-xx-xx-xx"
+            ],
+            [
+                "43-xx-xx-xx–49-10-xx-xx49-12-xx-xx-49-99-99-99"
+            ],
+            [
+                "54-xx-xx-xx–59-xx-xx-xx"
+            ],
+            [
+                "62-xx-xx-xx–66-xx-xx-xx"
+            ],
+            [
+                "69-xx-xx-xx"
+            ],
+            [
+                "72-xx-xx-xx–79-xx-xx-xx"
+            ],
+            [
+                "82-xx-xx-xx"
+            ],
+            [
+                "86-xx-xx-xx–89-xx-xx-xx"
+            ],
+            [
+                "96-xx-xx-xx–99-xx-xx-xx"
+            ],
+            [
+                "37-xx-xxxx-xxxx[3]"
+            ],
+            [
+                "13-xx-xx-xx–15-xx-xx-xx"
+            ],
+            [
+                "17-xx-xx-xx"
+            ],
+            [
+                "19-xx-xx-xx"
+            ],
+            [
+                "67-xx-xx-xx–68-xx-xx-xx"
+            ],
+            [
+                "83-xx-xx-xx–85-xx-xx-xx"
+            ],
+            [
+                "94-xx-xx-xx–95-xx-xx-xx"
+            ],
+            [
+                "70-xx-xx-xx"
+            ],
+            [
+                "80-xx-xx-xx"
+            ],
+            [
+                "90-xx-xx-xx"
+            ]
+        ],
+        [
+            [],
+            [
+                "01",
+                "Copenhagen and surroundings, as well as Amager (before about 1975)"
+            ],
+            [
+                "01",
+                "Copenhagen within outer ramparts, and Amager (after about 1975)"
+            ],
+            [
+                "02",
+                "Flensburg (from Southern Jutland), Malmö (from Zealand) (before ca. 1975)"
+            ],
+            [
+                "02",
+                "Copenhagen area and North Zealand (Frederiksborg county) (after approx. 1975)"
+            ],
+            [
+                "03",
+                "Greater Zealand, Lolland, Falster, Møn and Bornholm"
+            ],
+            [
+                "04",
+                "Southern Jutland"
+            ],
+            [
+                "041",
+                "Public Paging Service (PPP) approx. 1975 to 1989."
+            ],
+            [
+                "042",
+                "Faroe Islands[4][1]"
+            ],
+            [
+                "05",
+                "South Jutland"
+            ],
+            [
+                "06",
+                "East Jutland"
+            ],
+            [
+                "07",
+                "West Jutland"
+            ],
+            [
+                "08",
+                "North Jutland"
+            ],
+            [
+                "09",
+                "Funen with surrounding islands"
+            ]
+        ],
+        [
+            [
+                "Former area codes 1989 - approx. 1999"
+            ],
+            [
+                "01",
+                "became",
+                "31"
+            ],
+            [
+                "02",
+                "42"
+            ],
+            [
+                "03",
+                "53"
+            ],
+            [
+                "04",
+                "74"
+            ],
+            [
+                "05",
+                "75"
+            ],
+            [
+                "06",
+                "86"
+            ],
+            [
+                "07",
+                "97"
+            ],
+            [
+                "08",
+                "98"
+            ],
+            [
+                "09",
+                "62, 64,65, 66."
+            ]
+        ],
+        [
+            [],
+            [
+                "AlbaniaAndorraArmeniaAustriaAzerbaijanBelarusBelgiumBosnia and HerzegovinaBulgariaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGeorgiaGermanyGreeceHungaryIcelandIrelandItalyKazakhstanLatviaLiechtensteinLithuaniaLuxembourgMaltaMoldovaMonacoMontenegroNetherlandsNorth MacedoniaNorwayPolandPortugalRomaniaRussiaSan MarinoSerbiaSlovakiaSloveniaSpainSwedenSwitzerlandTurkeyUkraineUnited KingdomVatican City"
+            ],
+            [
+                "AbkhaziaKosovoNorthern CyprusSouth OssetiaTransnistria"
+            ],
+            [
+                "ÅlandFaroe IslandsGibraltarGuernseyIsle of ManJerseySvalbard"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "Emergency (Police, Fire, Ambulance):112",
+            "Police (non-emergency, nearest physical Police Station):114",
+            "Other 3 digit short codes are reserved.",
+            "Carrier select codes:10xx",
+            "Service numbers (such as directory enquiries):18xx",
+            "Carrier select codes for data:16xxx",
+            "Social services:116xxx"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Albania",
+            "Andorra",
+            "Armenia",
+            "Austria",
+            "Azerbaijan",
+            "Belarus",
+            "Belgium",
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Estonia",
+            "Finland",
+            "France",
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Iceland",
+            "Ireland",
+            "",
+            "Italy",
+            "Kazakhstan",
+            "Latvia",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Malta",
+            "Moldova",
+            "Monaco",
+            "Montenegro",
+            "Netherlands",
+            "North Macedonia",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russia",
+            "San Marino",
+            "Serbia",
+            "Slovakia",
+            "Slovenia",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Turkey",
+            "Ukraine",
+            "United Kingdom",
+            "Vatican City"
+        ],
+        [
+            "Abkhazia",
+            "Kosovo",
+            "Northern Cyprus",
+            "South Ossetia",
+            "Transnistria"
+        ],
+        [
+            "Åland",
+            "Faroe Islands",
+            "Gibraltar",
+            "Guernsey",
+            "Isle of Man",
+            "Jersey",
+            "Svalbard"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+45",
+            "href": null
+        },
+        {
+            "text": "Denmark",
+            "href": null
+        },
+        {
+            "text": "Europe",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "closed telephone numbering plan",
+            "href": null
+        },
+        {
+            "text": "Kingdom of Denmark",
+            "href": null
+        },
+        {
+            "text": "Faroe Islands",
+            "href": null
+        },
+        {
+            "text": "Greenland",
+            "href": null
+        },
+        {
+            "text": "country calling code",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "112",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[4]",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "Faroe Islands",
+            "href": null
+        },
+        {
+            "text": "+298",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "[6]",
+            "href": null
+        },
+        {
+            "text": "[7]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "Die Bundesrepublik Deutschland Staatshandbuch: Teilausgabe Bund",
+            "href": null
+        },
+        {
+            "text": "ISBN",
+            "href": null
+        },
+        {
+            "text": "978-3-452-20787-6",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Archived copy\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "cite web",
+            "href": null
+        },
+        {
+            "text": "link",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "Den overordnede disponering for den nationale nummerplan for fastnetkommunikation, mobilkommunikation m.v.",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "Wayback Machine",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "The Bankers' Almanac and Year Book",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "Wayback Machine",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Kriminalforsorgens årsberetning",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "Wayback Machine",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Telefonens historie - Enigma - Museum for post, tele og kommunikation\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Building and Maintaining a European Direct Marketing Database",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "Wayback Machine",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Europe",
+            "href": null
+        },
+        {
+            "text": "Albania",
+            "href": null
+        },
+        {
+            "text": "Andorra",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Austria",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Belarus",
+            "href": null
+        },
+        {
+            "text": "Belgium",
+            "href": null
+        },
+        {
+            "text": "Bosnia and Herzegovina",
+            "href": null
+        },
+        {
+            "text": "Bulgaria",
+            "href": null
+        },
+        {
+            "text": "Croatia",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "Czech Republic",
+            "href": null
+        },
+        {
+            "text": "Denmark",
+            "href": null
+        },
+        {
+            "text": "Estonia",
+            "href": null
+        },
+        {
+            "text": "Finland",
+            "href": null
+        },
+        {
+            "text": "France",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "Germany",
+            "href": null
+        },
+        {
+            "text": "Greece",
+            "href": null
+        },
+        {
+            "text": "Hungary",
+            "href": null
+        },
+        {
+            "text": "Iceland",
+            "href": null
+        },
+        {
+            "text": "Ireland",
+            "href": null
+        },
+        {
+            "text": "Italy",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "Latvia",
+            "href": null
+        },
+        {
+            "text": "Liechtenstein",
+            "href": null
+        },
+        {
+            "text": "Lithuania",
+            "href": null
+        },
+        {
+            "text": "Luxembourg",
+            "href": null
+        },
+        {
+            "text": "Malta",
+            "href": null
+        },
+        {
+            "text": "Moldova",
+            "href": null
+        },
+        {
+            "text": "Monaco",
+            "href": null
+        },
+        {
+            "text": "Montenegro",
+            "href": null
+        },
+        {
+            "text": "Netherlands",
+            "href": null
+        },
+        {
+            "text": "North Macedonia",
+            "href": null
+        },
+        {
+            "text": "Norway",
+            "href": null
+        },
+        {
+            "text": "Poland",
+            "href": null
+        },
+        {
+            "text": "Portugal",
+            "href": null
+        },
+        {
+            "text": "Romania",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "San Marino",
+            "href": null
+        },
+        {
+            "text": "Serbia",
+            "href": null
+        },
+        {
+            "text": "Slovakia",
+            "href": null
+        },
+        {
+            "text": "Slovenia",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "Sweden",
+            "href": null
+        },
+        {
+            "text": "Switzerland",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Ukraine",
+            "href": null
+        },
+        {
+            "text": "United Kingdom",
+            "href": null
+        },
+        {
+            "text": "Vatican City",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Kosovo",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Transnistria",
+            "href": null
+        },
+        {
+            "text": "Åland",
+            "href": null
+        },
+        {
+            "text": "Faroe Islands",
+            "href": null
+        },
+        {
+            "text": "Gibraltar",
+            "href": null
+        },
+        {
+            "text": "Guernsey",
+            "href": null
+        },
+        {
+            "text": "Isle of Man",
+            "href": null
+        },
+        {
+            "text": "Jersey",
+            "href": null
+        },
+        {
+            "text": "Svalbard",
+            "href": null
+        }
+    ]
+}

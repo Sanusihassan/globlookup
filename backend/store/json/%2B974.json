@@ -1,0 +1,856 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Qatar"
+            ],
+            [
+                "Asia"
+            ],
+            [
+                "closed"
+            ],
+            [
+                "8"
+            ],
+            [],
+            [
+                "974"
+            ],
+            [
+                "00"
+            ],
+            [
+                "none"
+            ]
+        ],
+        [
+            [],
+            [],
+            [],
+            [
+                "27.VII.2010 21:01 (UTC)",
+                "3 XXXXXX",
+                "33 XXXXXX",
+                "Mobile telephony services",
+                "N/A",
+                "N/A",
+                "Ooredoo"
+            ],
+            [
+                "27.VII.2010 21:01 (UTC)",
+                "4 XXXXXX",
+                "44 XXXXXX",
+                "Fixed telephony services",
+                "N/A",
+                "N/A",
+                "Ooredoo"
+            ],
+            [
+                "27.VII.2010 21:01 (UTC)",
+                "5 XXXXXX",
+                "55 XXXXXX",
+                "Mobile telephony services",
+                "N/A",
+                "N/A",
+                "Ooredoo"
+            ],
+            [
+                "27.VII.2010 21:01 (UTC)",
+                "6 XXXXXX",
+                "66 XXXXXX",
+                "Mobile telephony services",
+                "N/A",
+                "N/A",
+                "Ooredoo"
+            ],
+            [
+                "27.VII.2010 21:01 (UTC)",
+                "7 XXXXXX",
+                "77 XXXXXX",
+                "Mobile telephony services",
+                "N/A",
+                "N/A",
+                "Vodafone Qatar"
+            ],
+            [
+                "27.VII.2010 21:01 (UTC)",
+                "3 XXXXXX",
+                "31 XXXXXX",
+                "Mobile telephony services",
+                "N/A",
+                "N/A",
+                "Vodafone Qatar"
+            ]
+        ],
+        [
+            [],
+            [],
+            [],
+            [
+                "1",
+                "3",
+                "3",
+                "Non-geographic number – Short Codes",
+                "Cannot be dialed from other countries except by bilateral agreement"
+            ],
+            [
+                "20",
+                "4",
+                "4",
+                "Non-geographic number – Short Codes",
+                "Cannot be dialed from other countries except by bilateral agreement"
+            ],
+            [
+                "21",
+                "7",
+                "7",
+                "Non-geographic number – Paging",
+                "To be withdrawn when paging service is ceased"
+            ],
+            [
+                "22",
+                "7",
+                "7",
+                "Non-geographic number – Paging",
+                "To be withdrawn when paging service is ceased"
+            ],
+            [
+                "23",
+                "7",
+                "7",
+                "Fixed telephony Services",
+                "Ministry of Interioruse"
+            ],
+            [
+                "261",
+                "7",
+                "7",
+                "Non-geographic number – Paging",
+                "To be withdrawn when paging service is ceased"
+            ],
+            [
+                "3",
+                "7",
+                "7",
+                "Mobile telephony services",
+                "Designated for Ooredoo"
+            ],
+            [
+                "4",
+                "7",
+                "7",
+                "Fixed telephony Services",
+                ""
+            ],
+            [
+                "5",
+                "7",
+                "7",
+                "Mobile telephony services",
+                "Designated for Ooredoo"
+            ],
+            [
+                "6",
+                "7",
+                "7",
+                "Mobile telephony services",
+                "Designated for Ooredoo"
+            ],
+            [
+                "7",
+                "7",
+                "7",
+                "Mobile telephony services",
+                "Designated for Vodafone Qatar"
+            ],
+            [
+                "800",
+                "7",
+                "7",
+                "Non-geographic number – Freephone",
+                ""
+            ],
+            [
+                "900",
+                "7",
+                "7",
+                "Non-geographic number – Audiotext",
+                ""
+            ],
+            [
+                "92",
+                "5",
+                "5",
+                "Non-geographic number – SMS services",
+                "Designated for Ooredoo"
+            ],
+            [
+                "97",
+                "5",
+                "5",
+                "Non-geographic number – SMS services",
+                "Designated for Vodafone Qatar"
+            ],
+            [
+                "99",
+                "3",
+                "3",
+                "Non-geographic number – Emergency Short Codes",
+                "Cannot be dialled from other countries except by bilateral agreement"
+            ]
+        ],
+        [
+            [],
+            [],
+            [],
+            [
+                "1",
+                "3",
+                "3",
+                "Non-geographic number – Short Codes",
+                "Cannot be dialled from other countries except by bilateral agreement"
+            ],
+            [
+                "20",
+                "4",
+                "4",
+                "Non-geographic number – Short Codes",
+                "Cannot be dialled from other countries except by bilateral agreement"
+            ],
+            [
+                "21",
+                "7",
+                "7",
+                "Non-geographic number – Paging",
+                "To be withdrawn when paging service is ceased"
+            ],
+            [
+                "22",
+                "7",
+                "7",
+                "Non-geographic number – Paging",
+                "To be withdrawn when paging service is ceased"
+            ],
+            [
+                "23",
+                "7",
+                "7",
+                "Fixed telephony services",
+                "Ministry of Interior use"
+            ],
+            [
+                "261",
+                "7",
+                "7",
+                "Non-geographic number – Paging",
+                "To be withdrawn when paging service is ceased"
+            ],
+            [
+                "3",
+                "8",
+                "8",
+                "Mobile telephony services",
+                "Prior to the introduction of Number Portability numbers beginning 33 are designated for use by Ooredoo. Other blocks of 100,000 numbers will be allocated to service providers on a ‘first come – first served’ basis."
+            ],
+            [
+                "4",
+                "8",
+                "8",
+                "Fixed telephony Services",
+                "Prior to the introduction of Number Portability numbers beginning 44 are designated for use by Ooredoo. Numbers from elsewhere in this range will be allocated to a second or subsequent licensee."
+            ],
+            [
+                "5",
+                "8",
+                "8",
+                "Mobile telephony services",
+                "Prior to the introduction of Number Portability numbers beginning 55 are designated for use by Ooredoo."
+            ],
+            [
+                "6",
+                "8",
+                "8",
+                "Mobile telephony services",
+                "Prior to the introduction of Number Portability numbers beginning 66 are designated for use by Ooredoo."
+            ],
+            [
+                "7",
+                "8",
+                "8",
+                "Mobile telephony services",
+                "Prior to the introduction of Number Portability numbers beginning 77 are designated for use by Vodafone Qatar."
+            ],
+            [
+                "800",
+                "7",
+                "7",
+                "Non-geographic number – Freephone",
+                "-"
+            ],
+            [
+                "900",
+                "7",
+                "7",
+                "Non-geographic number – Audiotext",
+                "-"
+            ],
+            [
+                "92",
+                "5",
+                "5",
+                "Non-geographic number – SMS services",
+                "Designated for Ooredoo"
+            ],
+            [
+                "97",
+                "5",
+                "5",
+                "Non-geographic number – SMS services",
+                "Designated for Vodafone Qatar"
+            ],
+            [
+                "99",
+                "3",
+                "3",
+                "Non-geographic number – Emergency Short Codes",
+                "Cannot be dialled from other countries except by bilateral agreement"
+            ]
+        ],
+        [
+            [],
+            [
+                "AfghanistanArmeniaAzerbaijanBahrainBangladeshBhutanBruneiCambodiaChinaCyprusEast Timor (Timor-Leste)EgyptGeorgiaIndiaIndonesiaIranIraqIsraelJapanJordanKazakhstanNorth KoreaSouth KoreaKuwaitKyrgyzstanLaosLebanonMalaysiaMaldivesMongoliaMyanmarNepalOmanPakistanPhilippinesQatarRussiaSaudi ArabiaSingaporeSri LankaSyriaTajikistanThailandTurkeyTurkmenistanUnited Arab EmiratesUzbekistanVietnamYemen"
+            ],
+            [
+                "AbkhaziaNorthern CyprusPalestineSouth OssetiaTaiwan"
+            ],
+            [
+                "British Indian Ocean TerritoryChristmas IslandCocos (Keeling) IslandsHong KongMacau"
+            ],
+            [
+                "CategoryAsia portal"
+            ]
+        ],
+        [
+            [
+                "",
+                "ThisQatar-related article is astub. You can help Wikipedia byexpanding it."
+            ]
+        ],
+        [
+            [
+                "",
+                "This article related totelephone numbersis astub. You can help Wikipedia byexpanding it."
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "Telecommunications in Qatar"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Afghanistan",
+            "Armenia",
+            "Azerbaijan",
+            "Bahrain",
+            "Bangladesh",
+            "Bhutan",
+            "Brunei",
+            "Cambodia",
+            "China",
+            "Cyprus",
+            "East Timor (Timor-Leste)",
+            "Egypt",
+            "Georgia",
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Israel",
+            "Japan",
+            "Jordan",
+            "Kazakhstan",
+            "North Korea",
+            "South Korea",
+            "Kuwait",
+            "Kyrgyzstan",
+            "Laos",
+            "Lebanon",
+            "Malaysia",
+            "Maldives",
+            "Mongolia",
+            "Myanmar",
+            "Nepal",
+            "Oman",
+            "Pakistan",
+            "Philippines",
+            "Qatar",
+            "Russia",
+            "Saudi Arabia",
+            "Singapore",
+            "Sri Lanka",
+            "Syria",
+            "Tajikistan",
+            "Thailand",
+            "Turkey",
+            "Turkmenistan",
+            "United Arab Emirates",
+            "Uzbekistan",
+            "Vietnam",
+            "Yemen"
+        ],
+        [
+            "Abkhazia",
+            "Northern Cyprus",
+            "Palestine",
+            "South Ossetia",
+            "Taiwan"
+        ],
+        [
+            "British Indian Ocean Territory",
+            "Christmas Island",
+            "Cocos (Keeling) Islands",
+            "Hong Kong",
+            "Macau"
+        ],
+        [
+            "Category",
+            "Asia portal"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+974",
+            "href": null
+        },
+        {
+            "text": "Qatar",
+            "href": null
+        },
+        {
+            "text": "Asia",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "National Significant Numbers",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "Ministry of Interior",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Telecommunications in Qatar",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "c",
+            "href": null
+        },
+        {
+            "text": "\"Qatar\"",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Asia",
+            "href": null
+        },
+        {
+            "text": "Sovereign states",
+            "href": null
+        },
+        {
+            "text": "Afghanistan",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Bahrain",
+            "href": null
+        },
+        {
+            "text": "Bangladesh",
+            "href": null
+        },
+        {
+            "text": "Bhutan",
+            "href": null
+        },
+        {
+            "text": "Brunei",
+            "href": null
+        },
+        {
+            "text": "Cambodia",
+            "href": null
+        },
+        {
+            "text": "China",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "East Timor (Timor-Leste)",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "India",
+            "href": null
+        },
+        {
+            "text": "Indonesia",
+            "href": null
+        },
+        {
+            "text": "Iran",
+            "href": null
+        },
+        {
+            "text": "Iraq",
+            "href": null
+        },
+        {
+            "text": "Israel",
+            "href": null
+        },
+        {
+            "text": "Japan",
+            "href": null
+        },
+        {
+            "text": "Jordan",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "North Korea",
+            "href": null
+        },
+        {
+            "text": "South Korea",
+            "href": null
+        },
+        {
+            "text": "Kuwait",
+            "href": null
+        },
+        {
+            "text": "Kyrgyzstan",
+            "href": null
+        },
+        {
+            "text": "Laos",
+            "href": null
+        },
+        {
+            "text": "Lebanon",
+            "href": null
+        },
+        {
+            "text": "Malaysia",
+            "href": null
+        },
+        {
+            "text": "Maldives",
+            "href": null
+        },
+        {
+            "text": "Mongolia",
+            "href": null
+        },
+        {
+            "text": "Myanmar",
+            "href": null
+        },
+        {
+            "text": "Nepal",
+            "href": null
+        },
+        {
+            "text": "Oman",
+            "href": null
+        },
+        {
+            "text": "Pakistan",
+            "href": null
+        },
+        {
+            "text": "Philippines",
+            "href": null
+        },
+        {
+            "text": "Qatar",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "Saudi Arabia",
+            "href": null
+        },
+        {
+            "text": "Singapore",
+            "href": null
+        },
+        {
+            "text": "Sri Lanka",
+            "href": null
+        },
+        {
+            "text": "Syria",
+            "href": null
+        },
+        {
+            "text": "Tajikistan",
+            "href": null
+        },
+        {
+            "text": "Thailand",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Turkmenistan",
+            "href": null
+        },
+        {
+            "text": "United Arab Emirates",
+            "href": null
+        },
+        {
+            "text": "Uzbekistan",
+            "href": null
+        },
+        {
+            "text": "Vietnam",
+            "href": null
+        },
+        {
+            "text": "Yemen",
+            "href": null
+        },
+        {
+            "text": "States withlimited recognition",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "Palestine",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Taiwan",
+            "href": null
+        },
+        {
+            "text": "Dependencies",
+            "href": null
+        },
+        {
+            "text": "British Indian Ocean Territory",
+            "href": null
+        },
+        {
+            "text": "Christmas Island",
+            "href": null
+        },
+        {
+            "text": "Cocos (Keeling) Islands",
+            "href": null
+        },
+        {
+            "text": "Hong Kong",
+            "href": null
+        },
+        {
+            "text": "Macau",
+            "href": null
+        },
+        {
+            "text": "Category",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Asia portal",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Qatar",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "telephone numbers",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        }
+    ]
+}

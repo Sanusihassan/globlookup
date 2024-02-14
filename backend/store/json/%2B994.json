@@ -1,0 +1,1560 @@
+{
+    "tables": [
+        [
+            [
+                "Location of Azerbaijan (green)"
+            ],
+            [],
+            [
+                "Azerbaijan"
+            ],
+            [
+                "Asia"
+            ],
+            [
+                "closed"
+            ],
+            [],
+            [
+                "+994"
+            ],
+            [
+                "00"
+            ],
+            [
+                "0"
+            ]
+        ],
+        [
+            [],
+            [
+                "Baku",
+                "12",
+                "12"
+            ]
+        ],
+        [
+            [],
+            [
+                "Sumqayit",
+                "18",
+                "18"
+            ]
+        ],
+        [
+            [],
+            [
+                "Agdash District",
+                "193",
+                "20"
+            ],
+            [
+                "Agsu District",
+                "198",
+                "20"
+            ],
+            [
+                "Barda District",
+                "110",
+                "20"
+            ],
+            [
+                "Gobustan District",
+                "150",
+                "20"
+            ],
+            [
+                "Goychay District",
+                "167",
+                "20"
+            ],
+            [
+                "Ismailli District",
+                "178",
+                "20"
+            ],
+            [
+                "Kurdamir District",
+                "145",
+                "20"
+            ],
+            [
+                "Shamakhi District",
+                "176",
+                "20"
+            ],
+            [
+                "Ujar District",
+                "170",
+                "20"
+            ],
+            [
+                "Zardab District",
+                "135",
+                "20"
+            ]
+        ],
+        [
+            [],
+            [
+                "Aghjabadi District",
+                "113",
+                "21"
+            ],
+            [
+                "Beylagan District",
+                "152",
+                "21"
+            ],
+            [
+                "Hajigabul District",
+                "140",
+                "21"
+            ],
+            [
+                "Imishli District",
+                "154",
+                "21"
+            ],
+            [
+                "Neftchala District",
+                "153",
+                "21"
+            ],
+            [
+                "Saatly District",
+                "168",
+                "21"
+            ],
+            [
+                "Sabirabad District",
+                "143",
+                "21"
+            ],
+            [
+                "Salyan District",
+                "163",
+                "21"
+            ],
+            [
+                "Shirvan",
+                "197",
+                "21"
+            ]
+        ],
+        [
+            [],
+            [
+                "Agstafa District",
+                "244",
+                "22"
+            ],
+            [
+                "Dashkasan District",
+                "216",
+                "22"
+            ],
+            [
+                "Gadabay District",
+                "232",
+                "22"
+            ],
+            [
+                "Ganja",
+                "22",
+                "22"
+            ],
+            [
+                "Goranboy District",
+                "234",
+                "22"
+            ],
+            [
+                "Goygol District",
+                "230",
+                "22"
+            ],
+            [
+                "Naftalan",
+                "225",
+                "22"
+            ],
+            [
+                "Qazakh District",
+                "279",
+                "22"
+            ],
+            [
+                "Samukh District",
+                "265",
+                "22"
+            ],
+            [
+                "Shamkir District",
+                "241",
+                "22"
+            ],
+            [
+                "Tartar District",
+                "246",
+                "22"
+            ],
+            [
+                "Tovuz District",
+                "231",
+                "22"
+            ],
+            [
+                "Yevlakh District",
+                "166",
+                "22"
+            ]
+        ],
+        [
+            [],
+            [
+                "Khachmaz District",
+                "172",
+                "23"
+            ],
+            [
+                "Khizi District",
+                "199",
+                "23"
+            ],
+            [
+                "Quba District",
+                "169",
+                "23"
+            ],
+            [
+                "Qusar District",
+                "138",
+                "23"
+            ],
+            [
+                "Shabran District",
+                "115",
+                "23"
+            ],
+            [
+                "Siazan District",
+                "190",
+                "23"
+            ]
+        ],
+        [
+            [],
+            [
+                "Balakan District",
+                "119",
+                "24"
+            ],
+            [
+                "Mingachevir",
+                "147",
+                "24"
+            ],
+            [
+                "Oghuz District",
+                "111",
+                "24"
+            ],
+            [
+                "Qabala District",
+                "160",
+                "24"
+            ],
+            [
+                "Qakh District",
+                "144",
+                "24"
+            ],
+            [
+                "Shaki District",
+                "177",
+                "24"
+            ],
+            [
+                "Zaqatala District",
+                "174",
+                "24"
+            ]
+        ],
+        [
+            [],
+            [
+                "Astara District",
+                "195",
+                "25"
+            ],
+            [
+                "Bilasuvar District",
+                "159",
+                "25"
+            ],
+            [
+                "Jalilabad District",
+                "114",
+                "25"
+            ],
+            [
+                "Lankaran District",
+                "171",
+                "25"
+            ],
+            [
+                "Lerik District",
+                "157",
+                "25"
+            ],
+            [
+                "Masally District",
+                "151",
+                "25"
+            ],
+            [
+                "Yardymli District",
+                "175",
+                "25"
+            ]
+        ],
+        [
+            [],
+            [
+                "Agdam District",
+                "192",
+                "26"
+            ],
+            [
+                "Fuzuli District",
+                "141",
+                "26"
+            ],
+            [
+                "Jabrayil District",
+                "118",
+                "26"
+            ],
+            [
+                "Kalbajar District",
+                "266",
+                "26"
+            ],
+            [
+                "Khankendi",
+                "162",
+                "26"
+            ],
+            [
+                "Khojali District",
+                "102",
+                "26"
+            ],
+            [
+                "Khojavend District",
+                "149",
+                "26"
+            ],
+            [
+                "Lachin District",
+                "146",
+                "26"
+            ],
+            [
+                "Qubadli District",
+                "133",
+                "26"
+            ],
+            [
+                "Shusha District",
+                "191",
+                "26"
+            ],
+            [
+                "Zangilan District",
+                "196",
+                "26"
+            ]
+        ],
+        [
+            [],
+            [
+                "Babek District",
+                "36",
+                "36"
+            ],
+            [
+                "Julfa District",
+                "36",
+                "36"
+            ],
+            [
+                "Kangarli District",
+                "36",
+                "36"
+            ],
+            [
+                "Nakhchivan",
+                "36",
+                "36"
+            ],
+            [
+                "Ordubad District",
+                "36",
+                "36"
+            ],
+            [
+                "Sadarak District",
+                "36",
+                "36"
+            ],
+            [
+                "Shahbuz District",
+                "36",
+                "36"
+            ],
+            [
+                "Sharur District",
+                "36",
+                "36"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlbaniaAndorraArmeniaAustriaAzerbaijanBelarusBelgiumBosnia and HerzegovinaBulgariaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGeorgiaGermanyGreeceHungaryIcelandIrelandItalyKazakhstanLatviaLiechtensteinLithuaniaLuxembourgMaltaMoldovaMonacoMontenegroNetherlandsNorth MacedoniaNorwayPolandPortugalRomaniaRussiaSan MarinoSerbiaSlovakiaSloveniaSpainSwedenSwitzerlandTurkeyUkraineUnited KingdomVatican City"
+            ],
+            [
+                "AbkhaziaKosovoNorthern CyprusSouth OssetiaTransnistria"
+            ],
+            [
+                "ÅlandFaroe IslandsGibraltarGuernseyIsle of ManJerseySvalbard"
+            ]
+        ],
+        [
+            [],
+            [
+                "AfghanistanArmeniaAzerbaijanBahrainBangladeshBhutanBruneiCambodiaChinaCyprusEast Timor (Timor-Leste)EgyptGeorgiaIndiaIndonesiaIranIraqIsraelJapanJordanKazakhstanNorth KoreaSouth KoreaKuwaitKyrgyzstanLaosLebanonMalaysiaMaldivesMongoliaMyanmarNepalOmanPakistanPhilippinesQatarRussiaSaudi ArabiaSingaporeSri LankaSyriaTajikistanThailandTurkeyTurkmenistanUnited Arab EmiratesUzbekistanVietnamYemen"
+            ],
+            [
+                "AbkhaziaNorthern CyprusPalestineSouth OssetiaTaiwan"
+            ],
+            [
+                "British Indian Ocean TerritoryChristmas IslandCocos (Keeling) IslandsHong KongMacau"
+            ],
+            [
+                "CategoryAsia portal"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "Telecommunications in Azerbaijan",
+            "Economic regions and districts of Azerbaijan",
+            "Administrative divisions of Azerbaijan"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Albania",
+            "Andorra",
+            "Armenia",
+            "Austria",
+            "Azerbaijan",
+            "Belarus",
+            "Belgium",
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Estonia",
+            "Finland",
+            "France",
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Iceland",
+            "Ireland",
+            "",
+            "Italy",
+            "Kazakhstan",
+            "Latvia",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Malta",
+            "Moldova",
+            "Monaco",
+            "Montenegro",
+            "Netherlands",
+            "North Macedonia",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russia",
+            "San Marino",
+            "Serbia",
+            "Slovakia",
+            "Slovenia",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Turkey",
+            "Ukraine",
+            "United Kingdom",
+            "Vatican City"
+        ],
+        [
+            "Abkhazia",
+            "Kosovo",
+            "Northern Cyprus",
+            "South Ossetia",
+            "Transnistria"
+        ],
+        [
+            "Åland",
+            "Faroe Islands",
+            "Gibraltar",
+            "Guernsey",
+            "Isle of Man",
+            "Jersey",
+            "Svalbard"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Afghanistan",
+            "Armenia",
+            "Azerbaijan",
+            "Bahrain",
+            "Bangladesh",
+            "Bhutan",
+            "Brunei",
+            "Cambodia",
+            "China",
+            "Cyprus",
+            "East Timor (Timor-Leste)",
+            "Egypt",
+            "Georgia",
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Israel",
+            "Japan",
+            "Jordan",
+            "Kazakhstan",
+            "North Korea",
+            "South Korea",
+            "Kuwait",
+            "Kyrgyzstan",
+            "Laos",
+            "Lebanon",
+            "Malaysia",
+            "Maldives",
+            "Mongolia",
+            "Myanmar",
+            "Nepal",
+            "Oman",
+            "Pakistan",
+            "Philippines",
+            "Qatar",
+            "Russia",
+            "Saudi Arabia",
+            "Singapore",
+            "Sri Lanka",
+            "Syria",
+            "Tajikistan",
+            "Thailand",
+            "Turkey",
+            "Turkmenistan",
+            "United Arab Emirates",
+            "Uzbekistan",
+            "Vietnam",
+            "Yemen"
+        ],
+        [
+            "Abkhazia",
+            "Northern Cyprus",
+            "Palestine",
+            "South Ossetia",
+            "Taiwan"
+        ],
+        [
+            "British Indian Ocean Territory",
+            "Christmas Island",
+            "Cocos (Keeling) Islands",
+            "Hong Kong",
+            "Macau"
+        ],
+        [
+            "Category",
+            "Asia portal"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+994",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Asia",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "ITU Telecommunication Standardization Sector",
+            "href": null
+        },
+        {
+            "text": "E.164",
+            "href": null
+        },
+        {
+            "text": "telephone numbering plan",
+            "href": null
+        },
+        {
+            "text": "international call prefix",
+            "href": null
+        },
+        {
+            "text": "NANP",
+            "href": null
+        },
+        {
+            "text": "country code",
+            "href": null
+        },
+        {
+            "text": "Baku",
+            "href": null
+        },
+        {
+            "text": "Ganja, Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "Sumqayit",
+            "href": null
+        },
+        {
+            "text": "Nakhchivan Autonomous Republic",
+            "href": null
+        },
+        {
+            "text": "Baku",
+            "href": null
+        },
+        {
+            "text": "Sumqayit",
+            "href": null
+        },
+        {
+            "text": "Agdash District",
+            "href": null
+        },
+        {
+            "text": "Agsu District",
+            "href": null
+        },
+        {
+            "text": "Barda District",
+            "href": null
+        },
+        {
+            "text": "Gobustan District",
+            "href": null
+        },
+        {
+            "text": "Goychay District",
+            "href": null
+        },
+        {
+            "text": "Ismailli District",
+            "href": null
+        },
+        {
+            "text": "Kurdamir District",
+            "href": null
+        },
+        {
+            "text": "Shamakhi District",
+            "href": null
+        },
+        {
+            "text": "Ujar District",
+            "href": null
+        },
+        {
+            "text": "Zardab District",
+            "href": null
+        },
+        {
+            "text": "Aghjabadi District",
+            "href": null
+        },
+        {
+            "text": "Beylagan District",
+            "href": null
+        },
+        {
+            "text": "Hajigabul District",
+            "href": null
+        },
+        {
+            "text": "Imishli District",
+            "href": null
+        },
+        {
+            "text": "Neftchala District",
+            "href": null
+        },
+        {
+            "text": "Saatly District",
+            "href": null
+        },
+        {
+            "text": "Sabirabad District",
+            "href": null
+        },
+        {
+            "text": "Salyan District",
+            "href": null
+        },
+        {
+            "text": "Shirvan",
+            "href": null
+        },
+        {
+            "text": "Agstafa District",
+            "href": null
+        },
+        {
+            "text": "Dashkasan District",
+            "href": null
+        },
+        {
+            "text": "Gadabay District",
+            "href": null
+        },
+        {
+            "text": "Ganja",
+            "href": null
+        },
+        {
+            "text": "Goranboy District",
+            "href": null
+        },
+        {
+            "text": "Goygol District",
+            "href": null
+        },
+        {
+            "text": "Naftalan",
+            "href": null
+        },
+        {
+            "text": "Qazakh District",
+            "href": null
+        },
+        {
+            "text": "Samukh District",
+            "href": null
+        },
+        {
+            "text": "Shamkir District",
+            "href": null
+        },
+        {
+            "text": "Tartar District",
+            "href": null
+        },
+        {
+            "text": "Tovuz District",
+            "href": null
+        },
+        {
+            "text": "Yevlakh District",
+            "href": null
+        },
+        {
+            "text": "Khachmaz District",
+            "href": null
+        },
+        {
+            "text": "Khizi District",
+            "href": null
+        },
+        {
+            "text": "Quba District",
+            "href": null
+        },
+        {
+            "text": "Qusar District",
+            "href": null
+        },
+        {
+            "text": "Shabran District",
+            "href": null
+        },
+        {
+            "text": "Siazan District",
+            "href": null
+        },
+        {
+            "text": "Balakan District",
+            "href": null
+        },
+        {
+            "text": "Mingachevir",
+            "href": null
+        },
+        {
+            "text": "Oghuz District",
+            "href": null
+        },
+        {
+            "text": "Qabala District",
+            "href": null
+        },
+        {
+            "text": "Qakh District",
+            "href": null
+        },
+        {
+            "text": "Shaki District",
+            "href": null
+        },
+        {
+            "text": "Zaqatala District",
+            "href": null
+        },
+        {
+            "text": "Astara District",
+            "href": null
+        },
+        {
+            "text": "Bilasuvar District",
+            "href": null
+        },
+        {
+            "text": "Jalilabad District",
+            "href": null
+        },
+        {
+            "text": "Lankaran District",
+            "href": null
+        },
+        {
+            "text": "Lerik District",
+            "href": null
+        },
+        {
+            "text": "Masally District",
+            "href": null
+        },
+        {
+            "text": "Yardymli District",
+            "href": null
+        },
+        {
+            "text": "Agdam District",
+            "href": null
+        },
+        {
+            "text": "Fuzuli District",
+            "href": null
+        },
+        {
+            "text": "Jabrayil District",
+            "href": null
+        },
+        {
+            "text": "Kalbajar District",
+            "href": null
+        },
+        {
+            "text": "Khankendi",
+            "href": null
+        },
+        {
+            "text": "Khojali District",
+            "href": null
+        },
+        {
+            "text": "Khojavend District",
+            "href": null
+        },
+        {
+            "text": "Lachin District",
+            "href": null
+        },
+        {
+            "text": "Qubadli District",
+            "href": null
+        },
+        {
+            "text": "Shusha District",
+            "href": null
+        },
+        {
+            "text": "Zangilan District",
+            "href": null
+        },
+        {
+            "text": "Babek District",
+            "href": null
+        },
+        {
+            "text": "Julfa District",
+            "href": null
+        },
+        {
+            "text": "Kangarli District",
+            "href": null
+        },
+        {
+            "text": "Nakhchivan",
+            "href": null
+        },
+        {
+            "text": "Ordubad District",
+            "href": null
+        },
+        {
+            "text": "Sadarak District",
+            "href": null
+        },
+        {
+            "text": "Shahbuz District",
+            "href": null
+        },
+        {
+            "text": "Sharur District",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Telecommunications in Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Economic regions and districts of Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Administrative divisions of Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"ITU Operational Bulletin No.986\"",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "Wayback Machine",
+            "href": null
+        },
+        {
+            "text": "International Telecommunication Union",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Europe",
+            "href": null
+        },
+        {
+            "text": "Albania",
+            "href": null
+        },
+        {
+            "text": "Andorra",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Austria",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Belarus",
+            "href": null
+        },
+        {
+            "text": "Belgium",
+            "href": null
+        },
+        {
+            "text": "Bosnia and Herzegovina",
+            "href": null
+        },
+        {
+            "text": "Bulgaria",
+            "href": null
+        },
+        {
+            "text": "Croatia",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "Czech Republic",
+            "href": null
+        },
+        {
+            "text": "Denmark",
+            "href": null
+        },
+        {
+            "text": "Estonia",
+            "href": null
+        },
+        {
+            "text": "Finland",
+            "href": null
+        },
+        {
+            "text": "France",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "Germany",
+            "href": null
+        },
+        {
+            "text": "Greece",
+            "href": null
+        },
+        {
+            "text": "Hungary",
+            "href": null
+        },
+        {
+            "text": "Iceland",
+            "href": null
+        },
+        {
+            "text": "Ireland",
+            "href": null
+        },
+        {
+            "text": "Italy",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "Latvia",
+            "href": null
+        },
+        {
+            "text": "Liechtenstein",
+            "href": null
+        },
+        {
+            "text": "Lithuania",
+            "href": null
+        },
+        {
+            "text": "Luxembourg",
+            "href": null
+        },
+        {
+            "text": "Malta",
+            "href": null
+        },
+        {
+            "text": "Moldova",
+            "href": null
+        },
+        {
+            "text": "Monaco",
+            "href": null
+        },
+        {
+            "text": "Montenegro",
+            "href": null
+        },
+        {
+            "text": "Netherlands",
+            "href": null
+        },
+        {
+            "text": "North Macedonia",
+            "href": null
+        },
+        {
+            "text": "Norway",
+            "href": null
+        },
+        {
+            "text": "Poland",
+            "href": null
+        },
+        {
+            "text": "Portugal",
+            "href": null
+        },
+        {
+            "text": "Romania",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "San Marino",
+            "href": null
+        },
+        {
+            "text": "Serbia",
+            "href": null
+        },
+        {
+            "text": "Slovakia",
+            "href": null
+        },
+        {
+            "text": "Slovenia",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "Sweden",
+            "href": null
+        },
+        {
+            "text": "Switzerland",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Ukraine",
+            "href": null
+        },
+        {
+            "text": "United Kingdom",
+            "href": null
+        },
+        {
+            "text": "Vatican City",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Kosovo",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Transnistria",
+            "href": null
+        },
+        {
+            "text": "Åland",
+            "href": null
+        },
+        {
+            "text": "Faroe Islands",
+            "href": null
+        },
+        {
+            "text": "Gibraltar",
+            "href": null
+        },
+        {
+            "text": "Guernsey",
+            "href": null
+        },
+        {
+            "text": "Isle of Man",
+            "href": null
+        },
+        {
+            "text": "Jersey",
+            "href": null
+        },
+        {
+            "text": "Svalbard",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Asia",
+            "href": null
+        },
+        {
+            "text": "Sovereign states",
+            "href": null
+        },
+        {
+            "text": "Afghanistan",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Bahrain",
+            "href": null
+        },
+        {
+            "text": "Bangladesh",
+            "href": null
+        },
+        {
+            "text": "Bhutan",
+            "href": null
+        },
+        {
+            "text": "Brunei",
+            "href": null
+        },
+        {
+            "text": "Cambodia",
+            "href": null
+        },
+        {
+            "text": "China",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "East Timor (Timor-Leste)",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "India",
+            "href": null
+        },
+        {
+            "text": "Indonesia",
+            "href": null
+        },
+        {
+            "text": "Iran",
+            "href": null
+        },
+        {
+            "text": "Iraq",
+            "href": null
+        },
+        {
+            "text": "Israel",
+            "href": null
+        },
+        {
+            "text": "Japan",
+            "href": null
+        },
+        {
+            "text": "Jordan",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "North Korea",
+            "href": null
+        },
+        {
+            "text": "South Korea",
+            "href": null
+        },
+        {
+            "text": "Kuwait",
+            "href": null
+        },
+        {
+            "text": "Kyrgyzstan",
+            "href": null
+        },
+        {
+            "text": "Laos",
+            "href": null
+        },
+        {
+            "text": "Lebanon",
+            "href": null
+        },
+        {
+            "text": "Malaysia",
+            "href": null
+        },
+        {
+            "text": "Maldives",
+            "href": null
+        },
+        {
+            "text": "Mongolia",
+            "href": null
+        },
+        {
+            "text": "Myanmar",
+            "href": null
+        },
+        {
+            "text": "Nepal",
+            "href": null
+        },
+        {
+            "text": "Oman",
+            "href": null
+        },
+        {
+            "text": "Pakistan",
+            "href": null
+        },
+        {
+            "text": "Philippines",
+            "href": null
+        },
+        {
+            "text": "Qatar",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "Saudi Arabia",
+            "href": null
+        },
+        {
+            "text": "Singapore",
+            "href": null
+        },
+        {
+            "text": "Sri Lanka",
+            "href": null
+        },
+        {
+            "text": "Syria",
+            "href": null
+        },
+        {
+            "text": "Tajikistan",
+            "href": null
+        },
+        {
+            "text": "Thailand",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Turkmenistan",
+            "href": null
+        },
+        {
+            "text": "United Arab Emirates",
+            "href": null
+        },
+        {
+            "text": "Uzbekistan",
+            "href": null
+        },
+        {
+            "text": "Vietnam",
+            "href": null
+        },
+        {
+            "text": "Yemen",
+            "href": null
+        },
+        {
+            "text": "States withlimited recognition",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "Palestine",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Taiwan",
+            "href": null
+        },
+        {
+            "text": "Dependencies",
+            "href": null
+        },
+        {
+            "text": "British Indian Ocean Territory",
+            "href": null
+        },
+        {
+            "text": "Christmas Island",
+            "href": null
+        },
+        {
+            "text": "Cocos (Keeling) Islands",
+            "href": null
+        },
+        {
+            "text": "Hong Kong",
+            "href": null
+        },
+        {
+            "text": "Macau",
+            "href": null
+        },
+        {
+            "text": "Category",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Asia portal",
+            "href": null
+        }
+    ]
+}

@@ -1,0 +1,1381 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Kenya"
+            ],
+            [
+                "Africa"
+            ],
+            [
+                "Communications Authority of Kenya(CA)"
+            ],
+            [
+                "Closed"
+            ],
+            [
+                "9"
+            ],
+            [],
+            [
+                "+254"
+            ],
+            [
+                "000"
+            ],
+            [
+                "0"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "Nairobi",
+                "20",
+                "Mombasa",
+                "41"
+            ],
+            [
+                "Kwale",
+                "40",
+                "Malindi",
+                "42"
+            ],
+            [
+                "Voi",
+                "43",
+                "Machakos",
+                "44"
+            ],
+            [
+                "Kajiado",
+                "45",
+                "Garissa",
+                "46"
+            ],
+            [
+                "Naivasha",
+                "50",
+                "Nakuru",
+                "51"
+            ],
+            [
+                "Kericho",
+                "52",
+                "Eldoret",
+                "53"
+            ],
+            [
+                "Kitale",
+                "54",
+                "Bungoma",
+                "55"
+            ],
+            [
+                "Kakamega",
+                "56",
+                "Kisumu",
+                "57"
+            ],
+            [
+                "Kisii",
+                "58",
+                "Homa Bay",
+                "59"
+            ],
+            [
+                "Murang'a",
+                "60",
+                "Nyeri",
+                "61"
+            ],
+            [
+                "Nanyuki",
+                "62",
+                "Meru",
+                "64"
+            ],
+            [
+                "Nyahururu",
+                "65",
+                "Karuri",
+                "66"
+            ],
+            [
+                "Thika",
+                "67",
+                "Embu",
+                "68"
+            ],
+            [
+                "Marsabit",
+                "69",
+                "Wajir",
+                "46"
+            ]
+        ],
+        [
+            [],
+            [
+                "10",
+                "+254,10x xxxxxx",
+                "Airtel"
+            ],
+            [
+                "11",
+                "+254,11x xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "701",
+                "+254,701 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "702",
+                "+254,702 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "703",
+                "+254,703 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "704",
+                "+254,704 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "705",
+                "+254,705 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "706",
+                "+254,706 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "707",
+                "+254,707 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "708",
+                "+254,708 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "709",
+                "+254,709 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "710",
+                "+254,710 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "711",
+                "+254,711 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "712",
+                "+254,712 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "713",
+                "+254,713 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "714",
+                "+254,714 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "715",
+                "+254,715 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "716",
+                "+254,716 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "717",
+                "+254,717 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "718",
+                "+254,718 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "719",
+                "+254,719 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "720",
+                "+254,720 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "721",
+                "+254,721 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "722",
+                "+254,722 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "723",
+                "+254,723 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "724",
+                "+254,724 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "725",
+                "+254,725 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "726",
+                "+254,726 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "727",
+                "+254,727 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "728",
+                "+254,728 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "729",
+                "+254,729 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "730",
+                "+254,730 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "731",
+                "+254,731 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "732",
+                "+254,732 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "733",
+                "+254,733 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "734",
+                "+254,734 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "735",
+                "+254,735 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "736",
+                "+254,736 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "737",
+                "+254,737 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "738",
+                "+254,738 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "739",
+                "+254,739 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "740",
+                "+254,740 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "741",
+                "+254,741 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "742",
+                "+254,742 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "743",
+                "+254,743 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "744",
+                "+254,744 xxxxxx",
+                "Homelands Media"
+            ],
+            [
+                "745",
+                "+254,745 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "746",
+                "+254,746 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "747",
+                "+254,747 xxxxxx",
+                "Faiba 4G"
+            ],
+            [
+                "748",
+                "+254,748 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "750",
+                "+254,750 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "751",
+                "+254,751 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "752",
+                "+254,752 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "753",
+                "+254,753 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "754",
+                "+254,754 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "755",
+                "+254,755 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "756",
+                "+254,756 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "757",
+                "+254,757 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "758",
+                "+254,758 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "759",
+                "+254,759 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "760",
+                "+254,760 xxxxxx",
+                "Mobile Pay"
+            ],
+            [
+                "761",
+                "+254,761 xxxxxx",
+                "Eferio"
+            ],
+            [
+                "762",
+                "+254,762 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "763",
+                "+254,763 xxxxxx",
+                "Equitel"
+            ],
+            [
+                "764",
+                "+254,764 xxxxxx",
+                "Equitel"
+            ],
+            [
+                "765",
+                "+254,765 xxxxxx",
+                "Equitel"
+            ],
+            [
+                "766",
+                "+254,766 xxxxxx",
+                "Equitel"
+            ],
+            [
+                "767",
+                "+254,767 xxxxxx",
+                "Sema Mobile"
+            ],
+            [
+                "768",
+                "+254,768 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "769",
+                "+254,769 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "770",
+                "+254,770 xxxxxx",
+                "Telkom Kenya"
+            ],
+            [
+                "771",
+                "+254,771 xxxxxx",
+                "Telkom Kenya"
+            ],
+            [
+                "772",
+                "+254,772 xxxxxx",
+                "Telkom Kenya"
+            ],
+            [
+                "773",
+                "+254,773 xxxxxx",
+                "Telkom Kenya"
+            ],
+            [
+                "774",
+                "+254,774 xxxxxx",
+                "Telkom Kenya"
+            ],
+            [
+                "775",
+                "+254,775 xxxxxx",
+                "Telkom Kenya"
+            ],
+            [
+                "776",
+                "+254,776 xxxxxx",
+                "Telkom Kenya"
+            ],
+            [
+                "777",
+                "+254,777 xxxxxx",
+                "Telkom Kenya"
+            ],
+            [
+                "778",
+                "+254,778 xxxxxx",
+                "Telkom Kenya"
+            ],
+            [
+                "779",
+                "+254,779 xxxxxx",
+                "Telkom Kenya"
+            ],
+            [
+                "780",
+                "+254,780 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "781",
+                "+254,781 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "782",
+                "+254,782 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "783",
+                "+254,783 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "784",
+                "+254,784 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "785",
+                "+254,785 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "786",
+                "+254,786 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "787",
+                "+254,787 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "788",
+                "+254,788 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "789",
+                "+254,789 xxxxxx",
+                "Airtel"
+            ],
+            [
+                "790",
+                "+254,790 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "791",
+                "+254,791 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "792",
+                "+254,792 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "793",
+                "+254,793 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "794",
+                "+254,794 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "795",
+                "+254,795 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "796",
+                "+254,796 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "797",
+                "+254,797 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "798",
+                "+254,798 xxxxxx",
+                "Safaricom"
+            ],
+            [
+                "799",
+                "+254,799 xxxxxx",
+                "Safaricom"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlgeriaAngolaBeninBotswanaBurkina FasoBurundiCameroonCape VerdeCentral African RepublicChadComorosDemocratic Republic of the CongoRepublic of the CongoDjiboutiEgyptEquatorial GuineaEritreaEswatiniEthiopiaGabonThe GambiaGhanaGuineaGuinea-BissauIvory CoastKenyaLesothoLiberiaLibyaMadagascarMalawiMaliMauritaniaMauritiusMoroccoMozambiqueNamibiaNigerNigeriaRwandaSão Tomé and PríncipeSenegalSeychellesSierra LeoneSomaliaSouth AfricaSouth SudanSudanTanzaniaTogoTunisiaUgandaZambiaZimbabwe"
+            ],
+            [
+                "Sahrawi Arab Democratic RepublicSomaliland"
+            ],
+            [
+                "Canary Islands/Ceuta/Melilla(Spain)Madeira(Portugal)Mayotte/Réunion(France)Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)Western Sahara"
+            ]
+        ],
+        [
+            [
+                "",
+                "ThisKenyarelated article is astub. You can help Wikipedia byexpanding it."
+            ]
+        ],
+        [
+            [
+                "",
+                "This article related totelephone numbersis astub. You can help Wikipedia byexpanding it."
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Algeria",
+            "Angola",
+            "Benin",
+            "Botswana",
+            "Burkina Faso",
+            "Burundi",
+            "Cameroon",
+            "Cape Verde",
+            "Central African Republic",
+            "Chad",
+            "Comoros",
+            "Democratic Republic of the Congo",
+            "Republic of the Congo",
+            "Djibouti",
+            "Egypt",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Eswatini",
+            "Ethiopia",
+            "Gabon",
+            "The Gambia",
+            "Ghana",
+            "Guinea",
+            "Guinea-Bissau",
+            "Ivory Coast",
+            "Kenya",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Madagascar",
+            "Malawi",
+            "Mali",
+            "Mauritania",
+            "Mauritius",
+            "Morocco",
+            "Mozambique",
+            "Namibia",
+            "Niger",
+            "Nigeria",
+            "Rwanda",
+            "São Tomé and Príncipe",
+            "Senegal",
+            "Seychelles",
+            "Sierra Leone",
+            "Somalia",
+            "South Africa",
+            "South Sudan",
+            "Sudan",
+            "Tanzania",
+            "Togo",
+            "Tunisia",
+            "Uganda",
+            "Zambia",
+            "Zimbabwe"
+        ],
+        [
+            "Sahrawi Arab Democratic Republic",
+            "Somaliland"
+        ],
+        [
+            "Canary Islands/Ceuta/Melilla(Spain)",
+            "Madeira(Portugal)",
+            "Mayotte/Réunion(France)",
+            "Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)",
+            "Western Sahara"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+254",
+            "href": null
+        },
+        {
+            "text": "Kenya",
+            "href": null
+        },
+        {
+            "text": "Africa",
+            "href": null
+        },
+        {
+            "text": "Communications Authority of Kenya",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "Kenya",
+            "href": null
+        },
+        {
+            "text": "telephone numbering plan",
+            "href": null
+        },
+        {
+            "text": "Tanzania",
+            "href": null
+        },
+        {
+            "text": "Uganda",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Nairobi",
+            "href": null
+        },
+        {
+            "text": "Mombasa",
+            "href": null
+        },
+        {
+            "text": "Kwale",
+            "href": null
+        },
+        {
+            "text": "Malindi",
+            "href": null
+        },
+        {
+            "text": "Voi",
+            "href": null
+        },
+        {
+            "text": "Machakos",
+            "href": null
+        },
+        {
+            "text": "Kajiado",
+            "href": null
+        },
+        {
+            "text": "Garissa",
+            "href": null
+        },
+        {
+            "text": "Naivasha",
+            "href": null
+        },
+        {
+            "text": "Nakuru",
+            "href": null
+        },
+        {
+            "text": "Kericho",
+            "href": null
+        },
+        {
+            "text": "Eldoret",
+            "href": null
+        },
+        {
+            "text": "Kitale",
+            "href": null
+        },
+        {
+            "text": "Bungoma",
+            "href": null
+        },
+        {
+            "text": "Kakamega",
+            "href": null
+        },
+        {
+            "text": "Kisumu",
+            "href": null
+        },
+        {
+            "text": "Kisii",
+            "href": null
+        },
+        {
+            "text": "Homa Bay",
+            "href": null
+        },
+        {
+            "text": "Murang'a",
+            "href": null
+        },
+        {
+            "text": "Nyeri",
+            "href": null
+        },
+        {
+            "text": "Nanyuki",
+            "href": null
+        },
+        {
+            "text": "Meru",
+            "href": null
+        },
+        {
+            "text": "Nyahururu",
+            "href": null
+        },
+        {
+            "text": "Karuri",
+            "href": null
+        },
+        {
+            "text": "Thika",
+            "href": null
+        },
+        {
+            "text": "Embu",
+            "href": null
+        },
+        {
+            "text": "Marsabit",
+            "href": null
+        },
+        {
+            "text": "Wajir",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "Safaricom",
+            "href": null
+        },
+        {
+            "text": "Airtel",
+            "href": null
+        },
+        {
+            "text": "Telkom Kenya",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "The Communications Authority of Kenya (CAK)",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "Mobile number portability (MNP)",
+            "href": null
+        },
+        {
+            "text": "[4]",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "[6]",
+            "href": null
+        },
+        {
+            "text": "[7]",
+            "href": null
+        },
+        {
+            "text": "[8]",
+            "href": null
+        },
+        {
+            "text": "[9]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"allAfrica.com: Kenya: Yu Mobile Customers Now Part of Airtel Network\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"GSM Coverage Maps of Kenya\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"New series of mobile number introduced in Kenya\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Kenya launches Mobile Number Portability\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Mobile network operators and mobile numbering plan of kenya\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Telecommunication numbering plan for kenya (2010)\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Telecommunication numbering plan for Kenya (2012)\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"National Numbering Plan (2019)\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"TELECOMMUNICATION NUMBERING PLAN FOR KENYA\"",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Africa",
+            "href": null
+        },
+        {
+            "text": "Algeria",
+            "href": null
+        },
+        {
+            "text": "Angola",
+            "href": null
+        },
+        {
+            "text": "Benin",
+            "href": null
+        },
+        {
+            "text": "Botswana",
+            "href": null
+        },
+        {
+            "text": "Burkina Faso",
+            "href": null
+        },
+        {
+            "text": "Burundi",
+            "href": null
+        },
+        {
+            "text": "Cameroon",
+            "href": null
+        },
+        {
+            "text": "Cape Verde",
+            "href": null
+        },
+        {
+            "text": "Central African Republic",
+            "href": null
+        },
+        {
+            "text": "Chad",
+            "href": null
+        },
+        {
+            "text": "Comoros",
+            "href": null
+        },
+        {
+            "text": "Democratic Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Djibouti",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Equatorial Guinea",
+            "href": null
+        },
+        {
+            "text": "Eritrea",
+            "href": null
+        },
+        {
+            "text": "Eswatini",
+            "href": null
+        },
+        {
+            "text": "Ethiopia",
+            "href": null
+        },
+        {
+            "text": "Gabon",
+            "href": null
+        },
+        {
+            "text": "The Gambia",
+            "href": null
+        },
+        {
+            "text": "Ghana",
+            "href": null
+        },
+        {
+            "text": "Guinea",
+            "href": null
+        },
+        {
+            "text": "Guinea-Bissau",
+            "href": null
+        },
+        {
+            "text": "Ivory Coast",
+            "href": null
+        },
+        {
+            "text": "Kenya",
+            "href": null
+        },
+        {
+            "text": "Lesotho",
+            "href": null
+        },
+        {
+            "text": "Liberia",
+            "href": null
+        },
+        {
+            "text": "Libya",
+            "href": null
+        },
+        {
+            "text": "Madagascar",
+            "href": null
+        },
+        {
+            "text": "Malawi",
+            "href": null
+        },
+        {
+            "text": "Mali",
+            "href": null
+        },
+        {
+            "text": "Mauritania",
+            "href": null
+        },
+        {
+            "text": "Mauritius",
+            "href": null
+        },
+        {
+            "text": "Morocco",
+            "href": null
+        },
+        {
+            "text": "Mozambique",
+            "href": null
+        },
+        {
+            "text": "Namibia",
+            "href": null
+        },
+        {
+            "text": "Niger",
+            "href": null
+        },
+        {
+            "text": "Nigeria",
+            "href": null
+        },
+        {
+            "text": "Rwanda",
+            "href": null
+        },
+        {
+            "text": "São Tomé and Príncipe",
+            "href": null
+        },
+        {
+            "text": "Senegal",
+            "href": null
+        },
+        {
+            "text": "Seychelles",
+            "href": null
+        },
+        {
+            "text": "Sierra Leone",
+            "href": null
+        },
+        {
+            "text": "Somalia",
+            "href": null
+        },
+        {
+            "text": "South Africa",
+            "href": null
+        },
+        {
+            "text": "South Sudan",
+            "href": null
+        },
+        {
+            "text": "Sudan",
+            "href": null
+        },
+        {
+            "text": "Tanzania",
+            "href": null
+        },
+        {
+            "text": "Togo",
+            "href": null
+        },
+        {
+            "text": "Tunisia",
+            "href": null
+        },
+        {
+            "text": "Uganda",
+            "href": null
+        },
+        {
+            "text": "Zambia",
+            "href": null
+        },
+        {
+            "text": "Zimbabwe",
+            "href": null
+        },
+        {
+            "text": "Sahrawi Arab Democratic Republic",
+            "href": null
+        },
+        {
+            "text": "Somaliland",
+            "href": null
+        },
+        {
+            "text": "Canary Islands",
+            "href": null
+        },
+        {
+            "text": "Ceuta",
+            "href": null
+        },
+        {
+            "text": "Melilla",
+            "href": null
+        },
+        {
+            "text": "Madeira",
+            "href": null
+        },
+        {
+            "text": "Mayotte",
+            "href": null
+        },
+        {
+            "text": "Réunion",
+            "href": null
+        },
+        {
+            "text": "Saint Helena and Tristan da Cunha",
+            "href": null
+        },
+        {
+            "text": "Ascension Island",
+            "href": null
+        },
+        {
+            "text": "Western Sahara",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Kenya",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "telephone numbers",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        }
+    ]
+}

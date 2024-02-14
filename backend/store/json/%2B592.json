@@ -1,0 +1,1234 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Guyana"
+            ],
+            [
+                "South America"
+            ],
+            [],
+            [
+                "+592"
+            ],
+            [
+                "001"
+            ]
+        ],
+        [
+            [],
+            [
+                "Mocha E.B.D.",
+                "217",
+                "0XXX",
+                "(new wire-line switch)"
+            ],
+            [
+                "217",
+                "1XXX"
+            ],
+            [
+                "Crabwood Creek, Corentyne",
+                "335",
+                "1XXX",
+                "(upgrade)"
+            ],
+            [
+                "Hope West, E.C.D.",
+                "256",
+                "5XXX",
+                "(upgrade)"
+            ],
+            [
+                "Enterprise E.C.D.",
+                "229",
+                "8XXX",
+                "(upgrade)"
+            ],
+            [
+                "Belladrum W.C.B.",
+                "232",
+                "4XXX",
+                "(upgrade)"
+            ]
+        ],
+        [
+            [],
+            [
+                "Mabaruma",
+                "777",
+                "5XXX-9XXX",
+                "18.I.2001"
+            ],
+            [
+                "Port Kaituma",
+                "777",
+                "0XXX-4XXX",
+                "18.I.2001"
+            ],
+            [
+                "Matthews Ridge",
+                "775",
+                "0XXX-2XXX",
+                "18.I.2001"
+            ],
+            [
+                "Vreed-en-Hoop",
+                "264",
+                "0XXX-3XXX",
+                "21.X.2004"
+            ],
+            [
+                "New Road/Best",
+                "254",
+                "0XXX-2XXX",
+                "XI.2001"
+            ],
+            [
+                "La Grange",
+                "253",
+                "0XXX",
+                ""
+            ],
+            [
+                "Goed Fortuin",
+                "253",
+                "3XXX",
+                ""
+            ],
+            [
+                "Leonora",
+                "268",
+                "0XXX-4XXX",
+                "II.2001"
+            ],
+            [
+                "Windsor Forest",
+                "269",
+                "0XXX-1XXX",
+                "21.X.2004"
+            ],
+            [
+                "Met-en-Meer-Zorg",
+                "275",
+                "0XXX-1XXX",
+                "XI.2001"
+            ],
+            [
+                "Anna Catherina/ Cornelia Ida",
+                "276",
+                "0XXX-1XXX",
+                "21.X.2004"
+            ],
+            [
+                "Hague/Fellowship",
+                "276",
+                "3XXX-4XXX",
+                "13.XII.2004"
+            ],
+            [
+                "Zeeburg",
+                "277",
+                "0XXX-1XXX",
+                "21.X.2004"
+            ],
+            [
+                "Uitvlugt",
+                "277",
+                "3XXX – 4XXX",
+                "21.X.2004"
+            ],
+            [
+                "Tuschen",
+                "260",
+                "1XXX – 2XXX",
+                "1.II.2001"
+            ],
+            [
+                "Parika",
+                "260",
+                "3XXX – 4XXX",
+                "1.II.2001"
+            ],
+            [
+                "Parika",
+                "262",
+                "0XXX",
+                ""
+            ],
+            [
+                "Good Hope",
+                "279",
+                "0XXX",
+                ""
+            ],
+            [
+                "Stanleytown",
+                "279",
+                "3XXX",
+                ""
+            ],
+            [
+                "Wales",
+                "267",
+                "0XXX – 2XXX",
+                "1.II.2001"
+            ],
+            [
+                "Canal No. 1",
+                "271",
+                "1XXX",
+                ""
+            ],
+            [
+                "Canal No. 2",
+                "271",
+                "3XXX",
+                ""
+            ],
+            [
+                "Georgetown",
+                "223",
+                "0XXX – 9XXX",
+                "1.II.2001"
+            ],
+            [
+                "Georgetown",
+                "225",
+                "0XXX – 9XXX",
+                "1.II.2001"
+            ],
+            [
+                "Georgetown",
+                "226",
+                "0XXX – 9XXX",
+                "1.II.2001"
+            ],
+            [
+                "Georgetown",
+                "502",
+                "0XXX – 9XXX",
+                "1.II.2019"
+            ],
+            [
+                "Georgetown",
+                "227",
+                "0XXX – 9XXX",
+                "1.II.2001"
+            ],
+            [
+                "Georgetown",
+                "231",
+                "0XXX – 9XXX",
+                "21.X.2004"
+            ],
+            [
+                "Diamond/Grove",
+                "216",
+                "0XXX – 9XXX",
+                ""
+            ],
+            [
+                "Mocha",
+                "217",
+                "0XXX – 1XXX",
+                "28.XII.2009"
+            ],
+            [
+                "Georgetown (S/R/Veldt)",
+                "218",
+                "0XXX – 9XXX",
+                "11.II.2004"
+            ],
+            [
+                "Georgetown",
+                "219",
+                "0XXX",
+                "1.II.2001"
+            ],
+            [
+                "Sophia",
+                "219",
+                "1XXX – 9XXX",
+                ""
+            ],
+            [
+                "Agricola/Houston",
+                "233",
+                "0XXX – 1XXXX",
+                ""
+            ],
+            [
+                "Eccles",
+                "233",
+                "2XXX – 3XXX",
+                "13.XII.2004"
+            ],
+            [
+                "Nandy Park",
+                "233",
+                "5XXX – 7XXX",
+                "XI.2001"
+            ],
+            [
+                "Diamond",
+                "265",
+                "0XXX – 7XXX",
+                "16.X.2006"
+            ],
+            [
+                "New Hope/Friendship/Grove",
+                "266",
+                "0XXX – 4XXX",
+                "16.X.2006"
+            ],
+            [
+                "Land of Canaan",
+                "266",
+                "5XXX",
+                ""
+            ],
+            [
+                "Timehri",
+                "261",
+                "0XXX – 4XXX",
+                "1.II.2001"
+            ],
+            [
+                "Soesdyke",
+                "261",
+                "5XXX – 6XXX",
+                ""
+            ],
+            [
+                "Long Creek",
+                "261",
+                "7XXX – 8XXX",
+                ""
+            ],
+            [
+                "B/V West",
+                "222",
+                "0XXX – 9XXX",
+                "1.II.2001"
+            ],
+            [
+                "B/V West",
+                "272",
+                "0XXX",
+                "1.II.2001"
+            ],
+            [
+                "B/V Central",
+                "220",
+                "0XXX – 9XXX",
+                "1.II.2001"
+            ],
+            [
+                "B/V Central",
+                "234",
+                "0XXX – 1XXX",
+                "XI.2001"
+            ],
+            [
+                "Melanie",
+                "270",
+                "0XXX – 3XXX",
+                "1.II.2001"
+            ],
+            [
+                "Non Pariel",
+                "270",
+                "4XXX – 5XXX",
+                ""
+            ],
+            [
+                "Enmore",
+                "270",
+                "6XXX – 8XXX",
+                "1 .II.2001"
+            ],
+            [
+                "Vigilance",
+                "274",
+                "0XXX – 1XXX",
+                ""
+            ],
+            [
+                "Enterprise",
+                "229",
+                "6XXX – 8XXX",
+                "1.II.2001"
+            ],
+            [
+                "Paradise",
+                "255",
+                "0XXX – 1XXX",
+                ""
+            ],
+            [
+                "Cove & John",
+                "229",
+                "1XXX – 5XXX",
+                "1.II.2001"
+            ],
+            [
+                "Golden Grove/Haslington",
+                "255",
+                "3XXX",
+                ""
+            ],
+            [
+                "Victoria",
+                "256",
+                "0XXX – 1XXX",
+                ""
+            ],
+            [
+                "Hope West",
+                "256",
+                "3XXX – 5XXX",
+                ""
+            ],
+            [
+                "Clonbrook",
+                "259",
+                "0XXX – 1XXX",
+                "21.X.2004"
+            ],
+            [
+                "Unity",
+                "259",
+                "3XXX",
+                ""
+            ],
+            [
+                "Mahaica",
+                "228",
+                "1XXX – 3XXX",
+                "1.II.2001"
+            ],
+            [
+                "Belmont",
+                "228",
+                "5XXX",
+                ""
+            ],
+            [
+                "Cane Grove",
+                "257",
+                "0XXX",
+                ""
+            ],
+            [
+                "Strangroen",
+                "257",
+                "3XXX",
+                ""
+            ],
+            [
+                "Planters Hall",
+                "258",
+                "0XXX",
+                ""
+            ],
+            [
+                "Mahaicony",
+                "221",
+                "2XXX – 3XXX",
+                "1.II.2001"
+            ],
+            [
+                "Mortice",
+                "258",
+                "3XXX",
+                ""
+            ],
+            [
+                "Novar/Catherine",
+                "232",
+                "1XXX – 2XXX",
+                "12.V.2004"
+            ],
+            [
+                "Belladrum",
+                "232",
+                "3XXX – 4XXX",
+                ""
+            ],
+            [
+                "Bush Lot",
+                "232",
+                "0XXX & 9XXX",
+                "12.V.2004"
+            ],
+            [
+                "Rosignol",
+                "330",
+                "0XXX – 2XXX",
+                ""
+            ],
+            [
+                "Blairmont",
+                "327",
+                "0XXX",
+                ""
+            ],
+            [
+                "Shieldstown",
+                "327",
+                "5XXX",
+                ""
+            ],
+            [
+                "Cottage",
+                "328",
+                "1XXX",
+                ""
+            ],
+            [
+                "Tempe",
+                "328",
+                "2XXX – 3XXX",
+                ""
+            ],
+            [
+                "Onverwagt",
+                "328",
+                "4XXX",
+                ""
+            ],
+            [
+                "Bath/Waterloo",
+                "328",
+                "7XXX – 8XXX",
+                ""
+            ],
+            [
+                "Willemstad",
+                "329",
+                "0XXX",
+                ""
+            ],
+            [
+                "Fort Wellington",
+                "329",
+                "3XXX",
+                ""
+            ],
+            [
+                "Ithaca",
+                "329",
+                "5XXX",
+                ""
+            ],
+            [
+                "New Amsterdam",
+                "333",
+                "1XXX – 9XXX",
+                "1.II.2001"
+            ],
+            [
+                "New Amsterdam",
+                "334",
+                "0XXX",
+                ""
+            ],
+            [
+                "Cumberland",
+                "327",
+                "2XXX & 7XXX",
+                "21.X.2004"
+            ],
+            [
+                "Adelphi",
+                "326",
+                "0XXX – 1XXX",
+                ""
+            ],
+            [
+                "Sheet Anchor",
+                "332",
+                "0XXX – 1XXX",
+                ""
+            ],
+            [
+                "Susannah",
+                "332",
+                "3XXX",
+                ""
+            ],
+            [
+                "Edinburg",
+                "336",
+                "5XXX",
+                ""
+            ],
+            [
+                "Whim/Bloomfield",
+                "337",
+                "1XXX – 2XXX",
+                "1.II.2001"
+            ],
+            [
+                "Liverpool",
+                "337",
+                "3XXX",
+                ""
+            ],
+            [
+                "Rose Hall",
+                "337",
+                "4XXX – 5XXX",
+                "1.II.2001"
+            ],
+            [
+                "Port Mourant",
+                "336",
+                "6XXX – 8XXX",
+                "1.II.2001"
+            ],
+            [
+                "Kilcoy",
+                "322",
+                "0XXX – 1XXXX",
+                "15.XI.2004"
+            ],
+            [
+                "Nigg",
+                "322",
+                "3XXX – 4XXX",
+                ""
+            ],
+            [
+                "Hampshire",
+                "322",
+                "5XXX",
+                ""
+            ],
+            [
+                "Fryish",
+                "326",
+                "2XXX",
+                ""
+            ],
+            [
+                "No. 40",
+                "326",
+                "4XXX",
+                ""
+            ],
+            [
+                "Adventure",
+                "331",
+                "0XXX",
+                ""
+            ],
+            [
+                "Joanna",
+                "331",
+                "3XXX",
+                ""
+            ],
+            [
+                "Mibikuri",
+                "325",
+                "0XXX",
+                ""
+            ],
+            [
+                "No: 34",
+                "325",
+                "3XXX",
+                ""
+            ],
+            [
+                "Joppa/Brighton",
+                "325",
+                "5XXX",
+                ""
+            ],
+            [
+                "Benab/No. 65 Village",
+                "338",
+                "1XXX – 2XXX",
+                "1.II.2001"
+            ],
+            [
+                "Massiah",
+                "338",
+                "4XXX",
+                ""
+            ],
+            [
+                "No: 52",
+                "339",
+                "4XXX",
+                ""
+            ],
+            [
+                "Skeldon",
+                "339",
+                "0XXX – 3XXX",
+                "1.II.2001"
+            ],
+            [
+                "Crabwood Creek",
+                "335",
+                "0XXX – 1XXX",
+                ""
+            ],
+            [
+                "No: 76",
+                "335",
+                "3XXX – 4XXX",
+                ""
+            ],
+            [
+                "Bartica",
+                "455",
+                "0XXX – 3XXX",
+                "1.II.2001"
+            ],
+            [
+                "Mahdia",
+                "456",
+                "0XXX",
+                ""
+            ],
+            [
+                "Lethem",
+                "772",
+                "0XXX – 3XXX",
+                "15.I.2001"
+            ],
+            [
+                "Aishalton",
+                "773",
+                "0XXX",
+                ""
+            ],
+            [
+                "Linden",
+                "444",
+                "0XXX – 4XXX",
+                "1.II.2001"
+            ],
+            [
+                "Linden",
+                "444",
+                "6XXX",
+                "1.II.2001"
+            ],
+            [
+                "Canvas City",
+                "444",
+                "8XXX – 9XXX",
+                ""
+            ],
+            [
+                "Wisroc",
+                "444",
+                "5XXX & 7XXXX",
+                ""
+            ],
+            [
+                "Christianburg",
+                "442",
+                "0XXX-1XXX",
+                "1.II.2001"
+            ],
+            [
+                "Amelia's Ward",
+                "442",
+                "3XXX – 4XXX",
+                "1.II.2001"
+            ],
+            [
+                "Kwakwani",
+                "440",
+                "0XXX – 2XXX",
+                "24.I.2001"
+            ],
+            [
+                "Ituni",
+                "441",
+                "0XXX – 2XXX",
+                "23.I.2001"
+            ]
+        ],
+        [
+            [],
+            [
+                "Georgetown",
+                "263",
+                "0XXX",
+                "1 February 2001"
+            ],
+            [
+                "Wales",
+                "263",
+                "7XXX",
+                "1 February 2001"
+            ],
+            [
+                "La Grange, Canal 1",
+                "263",
+                "4XXX – 5XXX",
+                "1 February 2001"
+            ],
+            [
+                "Mocha",
+                "263",
+                "6XXX",
+                "1 February 2001"
+            ],
+            [
+                "Mahaica",
+                "228",
+                "0XXX"
+            ],
+            [
+                "Cottage",
+                "328",
+                "0XXX"
+            ],
+            [
+                "New Amsterdam",
+                "333",
+                "0XXX"
+            ],
+            [
+                "No: 40",
+                "337",
+                "0XXX"
+            ],
+            [
+                "Tuschen",
+                "260",
+                "0XXX"
+            ],
+            [
+                "Friendship",
+                "774",
+                "0XXX"
+            ],
+            [
+                "Charity",
+                "771",
+                "0XXX"
+            ],
+            [
+                "Anna Regina",
+                "771",
+                "4XXX – 5XXX",
+                "1 February 2001"
+            ],
+            [
+                "Suddie",
+                "774",
+                "4XXX – 5XXX",
+                "1 February 2001"
+            ]
+        ],
+        [
+            [],
+            [
+                "Debit Card",
+                "0171",
+                ""
+            ],
+            [
+                "Voice Mail (wireline)",
+                "079",
+                ""
+            ],
+            [
+                "Voice Mail (cellular)",
+                "04440767",
+                ""
+            ],
+            [
+                "IVR",
+                "093",
+                ""
+            ],
+            [
+                "Directory Assistance and Enquiries",
+                "092",
+                ""
+            ],
+            [
+                "International Operator Assistance",
+                "002",
+                ""
+            ],
+            [
+                "International Time & Charges",
+                "094",
+                ""
+            ],
+            [
+                "Fault Reporting",
+                "097",
+                ""
+            ],
+            [
+                "Vandalism Hotline",
+                "0908",
+                ""
+            ],
+            [
+                "Follow Fault Reporting",
+                "0907",
+                ""
+            ],
+            [
+                "Call in Services",
+                "0801",
+                ""
+            ],
+            [
+                "Before you dig hotline",
+                "0777",
+                ""
+            ],
+            [
+                "Other Services",
+                "(+592) 888",
+                "8888"
+            ],
+            [
+                "Other services",
+                "(+592) 900",
+                "8XXX"
+            ],
+            [
+                "Data Services",
+                "273",
+                "1XXX"
+            ],
+            [
+                "Call Booths",
+                "Wireline Prefix",
+                "9XXX"
+            ],
+            [
+                "IFS",
+                "(+592) 862",
+                "1XXX"
+            ],
+            [
+                "Replacement DN",
+                "289",
+                "0XXX – 4XXX"
+            ],
+            [
+                "IFS-1 International Incoming Routing",
+                "289",
+                "5XXX – 9XXX"
+            ]
+        ],
+        [
+            [],
+            [
+                "Home Country",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Direct Services",
+                "Canada",
+                "161",
+                ""
+            ],
+            [
+                "",
+                "UK",
+                "169",
+                ""
+            ],
+            [
+                "",
+                "AT&T",
+                "159",
+                ""
+            ],
+            [
+                "",
+                "MCI",
+                "177",
+                ""
+            ],
+            [
+                "",
+                "Sprint",
+                "151,166",
+                ""
+            ],
+            [
+                "",
+                "Sprint",
+                "172 – 176",
+                ""
+            ],
+            [
+                "",
+                "",
+                "178 – 179",
+                ""
+            ],
+            [
+                "",
+                "International Collect",
+                "165",
+                ""
+            ],
+            [
+                "SMS",
+                "Existing",
+                "158",
+                ""
+            ],
+            [
+                "Special Services",
+                "Existing",
+                "155, 156",
+                ""
+            ],
+            [
+                "Special Services",
+                "Future",
+                "150, 152 – 154",
+                ""
+            ],
+            [
+                "Special Services",
+                "Future",
+                "157",
+                ""
+            ],
+            [
+                "Before you Dig",
+                "0777",
+                "",
+                ""
+            ],
+            [
+                "ISP",
+                "868",
+                "XXXX",
+                "868"
+            ]
+        ],
+        [
+            [],
+            [
+                "Cellular Allocation  (GSM)",
+                "",
+                "",
+                "600 – 629630 – 639640 – 699",
+                "XXXXXXXXXXXX"
+            ]
+        ],
+        [
+            [],
+            [
+                "ArgentinaBoliviaBrazilChileColombiaEcuadorGuyanaParaguayPeruSurinameUruguayVenezuela"
+            ],
+            [
+                "Falkland IslandsFrench GuianaSouth Georgia and the South Sandwich Islands"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Argentina",
+            "Bolivia",
+            "Brazil",
+            "Chile",
+            "Colombia",
+            "Ecuador",
+            "Guyana",
+            "Paraguay",
+            "Peru",
+            "Suriname",
+            "Uruguay",
+            "Venezuela"
+        ],
+        [
+            "Falkland Islands",
+            "French Guiana",
+            "South Georgia and the South Sandwich Islands"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+592",
+            "href": null
+        },
+        {
+            "text": "Guyana",
+            "href": null
+        },
+        {
+            "text": "South America",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Country Code",
+            "href": null
+        },
+        {
+            "text": "International Call Prefix",
+            "href": null
+        },
+        {
+            "text": "Guyana",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Guyana\"",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in South America",
+            "href": null
+        },
+        {
+            "text": "Sovereign states",
+            "href": null
+        },
+        {
+            "text": "Argentina",
+            "href": null
+        },
+        {
+            "text": "Bolivia",
+            "href": null
+        },
+        {
+            "text": "Brazil",
+            "href": null
+        },
+        {
+            "text": "Chile",
+            "href": null
+        },
+        {
+            "text": "Colombia",
+            "href": null
+        },
+        {
+            "text": "Ecuador",
+            "href": null
+        },
+        {
+            "text": "Guyana",
+            "href": null
+        },
+        {
+            "text": "Paraguay",
+            "href": null
+        },
+        {
+            "text": "Peru",
+            "href": null
+        },
+        {
+            "text": "Suriname",
+            "href": null
+        },
+        {
+            "text": "Uruguay",
+            "href": null
+        },
+        {
+            "text": "Venezuela",
+            "href": null
+        },
+        {
+            "text": "Dependencies",
+            "href": null
+        },
+        {
+            "text": "Falkland Islands",
+            "href": null
+        },
+        {
+            "text": "French Guiana",
+            "href": null
+        },
+        {
+            "text": "South Georgia and the South Sandwich Islands",
+            "href": null
+        }
+    ]
+}

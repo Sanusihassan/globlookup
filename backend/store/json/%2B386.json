@@ -1,0 +1,680 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Slovenia"
+            ],
+            [
+                "Europe"
+            ],
+            [],
+            [
+                "+386"
+            ],
+            [
+                "00"
+            ],
+            [
+                "0"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "1.",
+                "Ljubljana",
+                "01"
+            ],
+            [
+                "2.",
+                "Maribor,Murska Sobota,Ravne na Koroškem",
+                "02"
+            ],
+            [
+                "3.",
+                "Celje,Trbovlje",
+                "03"
+            ],
+            [
+                "4.",
+                "Kranj",
+                "04"
+            ],
+            [
+                "5.",
+                "Koper,Postojna,Nova Gorica",
+                "05"
+            ],
+            [
+                "6.",
+                "Novo Mesto,Krško",
+                "07",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [],
+            [
+                "7.",
+                "A1(including Bob, HoT – Hofer Telekom, Ventocom)",
+                "030, 040, 068, 069"
+            ],
+            [
+                "8.",
+                "Telekom Slovenije(including Izimobil, Spar Mobil, Hip Mobil, SoftNET Mobil)",
+                "031, 041, 051, 065"
+            ],
+            [
+                "9.",
+                "Telemach",
+                "070, 071"
+            ],
+            [
+                "10.",
+                "T-2",
+                "064"
+            ],
+            [
+                "11.",
+                "Mega M",
+                "065"
+            ],
+            [],
+            [
+                "11.",
+                "Various providers",
+                "059 (Telekom Slovenije), 081, 082, 083 (Telemach)"
+            ],
+            [],
+            [
+                "12.",
+                "Toll free numbers",
+                "080"
+            ],
+            [
+                "13.",
+                "Televoting",
+                "089",
+                ""
+            ],
+            [
+                "14.",
+                "Commercial numbers",
+                "090"
+            ],
+            [
+                "15.",
+                "Fire brigade, ambulance, civil protection",
+                "112",
+                ""
+            ],
+            [
+                "16.",
+                "Police",
+                "113",
+                ""
+            ]
+        ],
+        [
+            [],
+            [
+                "AlbaniaAndorraArmeniaAustriaAzerbaijanBelarusBelgiumBosnia and HerzegovinaBulgariaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGeorgiaGermanyGreeceHungaryIcelandIrelandItalyKazakhstanLatviaLiechtensteinLithuaniaLuxembourgMaltaMoldovaMonacoMontenegroNetherlandsNorth MacedoniaNorwayPolandPortugalRomaniaRussiaSan MarinoSerbiaSlovakiaSloveniaSpainSwedenSwitzerlandTurkeyUkraineUnited KingdomVatican City"
+            ],
+            [
+                "AbkhaziaKosovoNorthern CyprusSouth OssetiaTransnistria"
+            ],
+            [
+                "ÅlandFaroe IslandsGibraltarGuernseyIsle of ManJerseySvalbard"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "01 xxx xx xx (Telekom) to 01 xxx xx xx (Telekom) dials xxx xx xx",
+            "01 xxx xx xx (Telekom) to 01 xxx xx xx (T-2) dials xxx xx xx",
+            "01 xxx xx xx (T-2) to 01 xxx xx xx (Telekom or T-2) dials 01 xxx xx xx."
+        ],
+        [
+            "xxx xx xx (within Ljubljana)",
+            "01xxx xx xx (within Slovenia)",
+            "+386 1xxx xx xx (outside Slovenia)"
+        ],
+        [
+            "Telecommunications in Slovenia"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Albania",
+            "Andorra",
+            "Armenia",
+            "Austria",
+            "Azerbaijan",
+            "Belarus",
+            "Belgium",
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Estonia",
+            "Finland",
+            "France",
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Iceland",
+            "Ireland",
+            "",
+            "Italy",
+            "Kazakhstan",
+            "Latvia",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Malta",
+            "Moldova",
+            "Monaco",
+            "Montenegro",
+            "Netherlands",
+            "North Macedonia",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russia",
+            "San Marino",
+            "Serbia",
+            "Slovakia",
+            "Slovenia",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Turkey",
+            "Ukraine",
+            "United Kingdom",
+            "Vatican City"
+        ],
+        [
+            "Abkhazia",
+            "Kosovo",
+            "Northern Cyprus",
+            "South Ossetia",
+            "Transnistria"
+        ],
+        [
+            "Åland",
+            "Faroe Islands",
+            "Gibraltar",
+            "Guernsey",
+            "Isle of Man",
+            "Jersey",
+            "Svalbard"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+386",
+            "href": null
+        },
+        {
+            "text": "Slovenia",
+            "href": null
+        },
+        {
+            "text": "Europe",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "Slovenia",
+            "href": null
+        },
+        {
+            "text": "Socialist Federal Republic of Yugoslavia",
+            "href": null
+        },
+        {
+            "text": "Ipko",
+            "href": null
+        },
+        {
+            "text": "Kosovo",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Telekom Slovenije",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "international call prefix",
+            "href": null
+        },
+        {
+            "text": "United States",
+            "href": null
+        },
+        {
+            "text": "Ljubljana",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "Ljubljana",
+            "href": null
+        },
+        {
+            "text": "Maribor",
+            "href": null
+        },
+        {
+            "text": "Murska Sobota",
+            "href": null
+        },
+        {
+            "text": "Ravne na Koroškem",
+            "href": null
+        },
+        {
+            "text": "Celje",
+            "href": null
+        },
+        {
+            "text": "Trbovlje",
+            "href": null
+        },
+        {
+            "text": "Kranj",
+            "href": null
+        },
+        {
+            "text": "Koper",
+            "href": null
+        },
+        {
+            "text": "Postojna",
+            "href": null
+        },
+        {
+            "text": "Nova Gorica",
+            "href": null
+        },
+        {
+            "text": "Novo Mesto",
+            "href": null
+        },
+        {
+            "text": "Krško",
+            "href": null
+        },
+        {
+            "text": "A1",
+            "href": null
+        },
+        {
+            "text": "Telekom Slovenije",
+            "href": null
+        },
+        {
+            "text": "Telemach",
+            "href": null
+        },
+        {
+            "text": "T-2",
+            "href": null
+        },
+        {
+            "text": "Toll free numbers",
+            "href": null
+        },
+        {
+            "text": "Televoting",
+            "href": null
+        },
+        {
+            "text": "Commercial numbers",
+            "href": null
+        },
+        {
+            "text": "112",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Telecommunications in Slovenia",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Uradni list - Vsebina Uradnega lista\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "http://www.sos112.si/slo/tdocs/uorgopaz.pdf",
+            "href": null
+        },
+        {
+            "text": "bare URL PDF",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Europe",
+            "href": null
+        },
+        {
+            "text": "Albania",
+            "href": null
+        },
+        {
+            "text": "Andorra",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Austria",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Belarus",
+            "href": null
+        },
+        {
+            "text": "Belgium",
+            "href": null
+        },
+        {
+            "text": "Bosnia and Herzegovina",
+            "href": null
+        },
+        {
+            "text": "Bulgaria",
+            "href": null
+        },
+        {
+            "text": "Croatia",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "Czech Republic",
+            "href": null
+        },
+        {
+            "text": "Denmark",
+            "href": null
+        },
+        {
+            "text": "Estonia",
+            "href": null
+        },
+        {
+            "text": "Finland",
+            "href": null
+        },
+        {
+            "text": "France",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "Germany",
+            "href": null
+        },
+        {
+            "text": "Greece",
+            "href": null
+        },
+        {
+            "text": "Hungary",
+            "href": null
+        },
+        {
+            "text": "Iceland",
+            "href": null
+        },
+        {
+            "text": "Ireland",
+            "href": null
+        },
+        {
+            "text": "Italy",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "Latvia",
+            "href": null
+        },
+        {
+            "text": "Liechtenstein",
+            "href": null
+        },
+        {
+            "text": "Lithuania",
+            "href": null
+        },
+        {
+            "text": "Luxembourg",
+            "href": null
+        },
+        {
+            "text": "Malta",
+            "href": null
+        },
+        {
+            "text": "Moldova",
+            "href": null
+        },
+        {
+            "text": "Monaco",
+            "href": null
+        },
+        {
+            "text": "Montenegro",
+            "href": null
+        },
+        {
+            "text": "Netherlands",
+            "href": null
+        },
+        {
+            "text": "North Macedonia",
+            "href": null
+        },
+        {
+            "text": "Norway",
+            "href": null
+        },
+        {
+            "text": "Poland",
+            "href": null
+        },
+        {
+            "text": "Portugal",
+            "href": null
+        },
+        {
+            "text": "Romania",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "San Marino",
+            "href": null
+        },
+        {
+            "text": "Serbia",
+            "href": null
+        },
+        {
+            "text": "Slovakia",
+            "href": null
+        },
+        {
+            "text": "Slovenia",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "Sweden",
+            "href": null
+        },
+        {
+            "text": "Switzerland",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Ukraine",
+            "href": null
+        },
+        {
+            "text": "United Kingdom",
+            "href": null
+        },
+        {
+            "text": "Vatican City",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Kosovo",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Transnistria",
+            "href": null
+        },
+        {
+            "text": "Åland",
+            "href": null
+        },
+        {
+            "text": "Faroe Islands",
+            "href": null
+        },
+        {
+            "text": "Gibraltar",
+            "href": null
+        },
+        {
+            "text": "Guernsey",
+            "href": null
+        },
+        {
+            "text": "Isle of Man",
+            "href": null
+        },
+        {
+            "text": "Jersey",
+            "href": null
+        },
+        {
+            "text": "Svalbard",
+            "href": null
+        }
+    ]
+}

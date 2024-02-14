@@ -1,0 +1,1210 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Niger"
+            ],
+            [
+                "Africa"
+            ],
+            [],
+            [
+                "+227"
+            ],
+            [
+                "00"
+            ],
+            [
+                "none"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "SONITEL S.A.",
+                "300 XXX700 XXX",
+                "08 300 XXX08 700 XXX"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "Electronic messaging and web service",
+                "SAHELCOM S.A.",
+                "86 12 XX",
+                "09 86 12 XX"
+            ],
+            [
+                "Voice server",
+                "AFREETEL",
+                "86 20 XX",
+                "09 86 20 XX"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "Agadez",
+                "44 XX XX",
+                "20 44 XX XX"
+            ],
+            [
+                "Arlit",
+                "45 XX XX",
+                "20 45 XX XX"
+            ],
+            [
+                "Diffa",
+                "54 XX XX",
+                "20 54 XX XX"
+            ],
+            [
+                "Dosso",
+                "65 XX XX",
+                "20 65 XX XX"
+            ],
+            [
+                "Filingué",
+                "77 XX XX",
+                "20 77 XX XX"
+            ],
+            [
+                "Gaya",
+                "68 XX XX",
+                "20 68 XX XX"
+            ],
+            [
+                "Konni",
+                "64 XX XX",
+                "20 64 XX XX"
+            ],
+            [
+                "Maradi",
+                "41 XX XX",
+                "20 41 XX XX"
+            ],
+            [
+                "Niamey",
+                "20 XX XX",
+                "20 20 XX XX"
+            ],
+            [
+                "20 XX XX",
+                "20 20 XX XX"
+            ],
+            [
+                "23 XX XX",
+                "23 23 XX XX"
+            ],
+            [
+                "31 XX XX",
+                "20 31 XX XX"
+            ],
+            [
+                "32 XX XX",
+                "20 32 XX XX"
+            ],
+            [
+                "33 XX XX",
+                "20 33 XX XX"
+            ],
+            [
+                "34 XX XX",
+                "20 34 XX XX"
+            ],
+            [
+                "35 XX XX",
+                "20 35 XX XX"
+            ],
+            [
+                "36 XX XX",
+                "20 36 XX XX"
+            ],
+            [
+                "37 XX XX",
+                "20 37 XX XX"
+            ],
+            [
+                "72 XX XX",
+                "20 72 XX XX"
+            ],
+            [
+                "73 XX XX",
+                "20 73 XX XX"
+            ],
+            [
+                "74 XX XX",
+                "20 74 XX XX"
+            ],
+            [
+                "75 XX XX",
+                "20 75 XX XX"
+            ],
+            [
+                "Say",
+                "78 XX XX",
+                "20 78 XX XX"
+            ],
+            [
+                "Tahoua",
+                "61 XX XX",
+                "20 67 XX XX"
+            ],
+            [
+                "Tillabéry",
+                "71 XX XX",
+                "20 71 XX XX"
+            ],
+            [
+                "Zinder",
+                "51 XX XX",
+                "20 51 XX XX"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "SONITEL S.A.(CDMA)",
+                "-",
+                "21 41 XXXX"
+            ],
+            [
+                "21 44 XXXX"
+            ],
+            [
+                "21 45 XXXX"
+            ],
+            [
+                "21 51 XXXX"
+            ],
+            [
+                "21 54 XXXX"
+            ],
+            [
+                "21 61 XXXX"
+            ],
+            [
+                "21 64 XXXX"
+            ],
+            [
+                "21 65 XXXX"
+            ],
+            [
+                "21 66 XXXX"
+            ],
+            [
+                "21 68 XXXX"
+            ],
+            [
+                "21 71 XXXX"
+            ],
+            [
+                "76 XX XX",
+                "21 76 XX XX"
+            ],
+            [
+                "79 XX XX",
+                "21 79 XX XX"
+            ],
+            [
+                "-",
+                "21 88 XXXX"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "CELTEL",
+                "05 XX XX",
+                "96 05 XX XX"
+            ],
+            [
+                "06 XX XX",
+                "96 06 XX XX"
+            ],
+            [
+                "07 XX XX",
+                "96 07 XX XX"
+            ],
+            [
+                "08 XX XX",
+                "96 08 XX XX"
+            ],
+            [
+                "CELTEL",
+                "-",
+                "96 09 XXXX"
+            ],
+            [
+                "96 10 XX XX"
+            ],
+            [
+                "96 11 XX XX"
+            ],
+            [
+                "96 12 XX XX"
+            ],
+            [
+                "96 13 XX XX"
+            ],
+            [
+                "96 14 XX XX"
+            ],
+            [
+                "96 15 XX XX"
+            ],
+            [
+                "96 16 XX XX"
+            ],
+            [
+                "96 17 XX XX"
+            ],
+            [
+                "96 18 XX XX"
+            ],
+            [
+                "96 19 XX XX"
+            ],
+            [
+                "96 20XX XX"
+            ],
+            [
+                "96 21XX XX"
+            ],
+            [
+                "96 22XX XX"
+            ],
+            [
+                "96 23XX XX"
+            ],
+            [
+                "96 24XX XX"
+            ],
+            [
+                "96 25XX XX"
+            ],
+            [
+                "CELTEL",
+                "26 XX XX",
+                "96 26 XX XX"
+            ],
+            [
+                "27 XX XX",
+                "96 27 XX XX"
+            ],
+            [
+                "28 XX XX",
+                "96 28 XX XX"
+            ],
+            [
+                "29 XX XX",
+                "96 29 XX XX"
+            ],
+            [
+                "40 XX XX",
+                "96 40 XX XX"
+            ],
+            [
+                "42 XX XX",
+                "96 42 XX XX"
+            ],
+            [
+                "43 XX XX",
+                "96 43 XX XX"
+            ],
+            [
+                "46 XX XX",
+                "96 46 XX XX"
+            ],
+            [
+                "47 XX XX",
+                "96 47 XX XX"
+            ],
+            [
+                "48 XX XX",
+                "96 48 XX XX"
+            ],
+            [
+                "CELTEL",
+                "49 XX XX",
+                "96 49 XX XX"
+            ],
+            [
+                "50 XX XX",
+                "96 50 XX XX"
+            ],
+            [
+                "52 XX XX",
+                "96 52 XX XX"
+            ],
+            [
+                "53 XX XX",
+                "96 53 XX XX"
+            ],
+            [
+                "55 XX XX",
+                "96 55 XX XX"
+            ],
+            [
+                "56 XX XX",
+                "96 56 XX XX"
+            ],
+            [
+                "57 XX XX",
+                "96 57 XX XX"
+            ],
+            [
+                "58 XX XX",
+                "96 58 XX XX"
+            ],
+            [
+                "59 XX XX",
+                "96 59 XX XX"
+            ],
+            [
+                "CELTEL",
+                "66 XX XX",
+                "96 66 XX XX"
+            ],
+            [
+                "67 XX XX",
+                "96 67 XX XX"
+            ],
+            [
+                "87 XX XX",
+                "96 87 XX XX"
+            ],
+            [
+                "88 XX XX",
+                "96 88 XX XX"
+            ],
+            [
+                "89 XX XX",
+                "96 89 XX XX"
+            ],
+            [
+                "96 XX XX",
+                "96 96 XX XX"
+            ],
+            [
+                "97 XX XX",
+                "96 97 XX XX"
+            ],
+            [
+                "98 XX XX",
+                "96 98 XX XX"
+            ],
+            [
+                "99 XX XX",
+                "96 99 XX XX"
+            ],
+            [
+                "SAHELCOM",
+                "21 XX XX",
+                "93 21 XX XX"
+            ],
+            [
+                "22 XX XX",
+                "93 22 XX XX"
+            ],
+            [
+                "23 XX XX",
+                "93 23 XX XX"
+            ],
+            [
+                "80 XX XX",
+                "93 80 XX XX"
+            ],
+            [
+                "81 XX XX",
+                "93 81 XX XX"
+            ],
+            [
+                "82 XX XX",
+                "93 82 XX XX"
+            ],
+            [
+                "83 XX XX",
+                "93 83 XX XX"
+            ],
+            [
+                "90 XX XX",
+                "93 90 XX XX"
+            ],
+            [
+                "91 XX XX",
+                "93 91 XX XX"
+            ],
+            [
+                "92 XX XX",
+                "93 92 XX XX"
+            ],
+            [
+                "93 XX XX",
+                "93 93 XX XX"
+            ],
+            [
+                "TELECEL",
+                "24 XX XX",
+                "94 24 XX XX"
+            ],
+            [
+                "25 XX XX",
+                "94 25 XX XX"
+            ],
+            [
+                "-",
+                "94 28 XX XX"
+            ],
+            [
+                "62 XX XX",
+                "94 62 XX XX"
+            ],
+            [
+                "63 XX XX",
+                "94 63 XX XX"
+            ],
+            [
+                "84 XX XX",
+                "94 84 XX XX"
+            ],
+            [
+                "85 XX XX",
+                "94 85 XX XX"
+            ],
+            [
+                "94 XX XX",
+                "94 94 XX XX"
+            ],
+            [
+                "95 XX XX",
+                "94 95 XX XX"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "Value-added service",
+                "PLUS SMS Niger",
+                "22 XXXX"
+            ],
+            [
+                "25 XXXX"
+            ],
+            [
+                "46 XXXX"
+            ],
+            [
+                "57 XXXX"
+            ],
+            [
+                "73 XXXX"
+            ],
+            [
+                "252 XXXX"
+            ],
+            [
+                "466 XXXX"
+            ],
+            [
+                "473 XXXX"
+            ],
+            [
+                "658 XXXX"
+            ],
+            [
+                "876 XXXX"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "100",
+                "Credit enquiry",
+                "TELECEL"
+            ],
+            [
+                "101",
+                "Replenishment of account",
+                "-"
+            ],
+            [
+                "111",
+                "Prepaid customer service",
+                "CELTEL"
+            ],
+            [
+                "112",
+                "Emergency calls",
+                "CELTEL, SAHELCOM, TELECEL"
+            ],
+            [
+                "120",
+                "Voice messaging",
+                "CELTEL"
+            ],
+            [
+                "123",
+                "Large accounts, voice messaging",
+                "CELTEL, SAHELCOM, TELECEL"
+            ],
+            [
+                "124",
+                "Sending of voice messages",
+                "SAHELCOM"
+            ],
+            [
+                "130",
+                "Loading of account",
+                "CELTEL"
+            ],
+            [
+                "131",
+                "Loading of account",
+                "-"
+            ],
+            [
+                "133",
+                "Credit enquiry",
+                "-"
+            ],
+            [
+                "140",
+                "Change of language",
+                "-"
+            ],
+            [
+                "155",
+                "Postpaid customer service",
+                "-"
+            ],
+            [
+                "160",
+                "SMS credit enquiry",
+                "-"
+            ],
+            [
+                "222",
+                "Distribution, prepaid service",
+                "CELTEL, SAHELCOM, TELECEL"
+            ],
+            [
+                "333",
+                "After-sales service",
+                "SAHELCOM, TELECEL"
+            ],
+            [
+                "555",
+                "Customer service",
+                "SAHELCOM"
+            ],
+            [
+                "888",
+                "Customer service",
+                "TELECEL"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlgeriaAngolaBeninBotswanaBurkina FasoBurundiCameroonCape VerdeCentral African RepublicChadComorosDemocratic Republic of the CongoRepublic of the CongoDjiboutiEgyptEquatorial GuineaEritreaEswatiniEthiopiaGabonThe GambiaGhanaGuineaGuinea-BissauIvory CoastKenyaLesothoLiberiaLibyaMadagascarMalawiMaliMauritaniaMauritiusMoroccoMozambiqueNamibiaNigerNigeriaRwandaSão Tomé and PríncipeSenegalSeychellesSierra LeoneSomaliaSouth AfricaSouth SudanSudanTanzaniaTogoTunisiaUgandaZambiaZimbabwe"
+            ],
+            [
+                "Sahrawi Arab Democratic RepublicSomaliland"
+            ],
+            [
+                "Canary Islands/Ceuta/Melilla(Spain)Madeira(Portugal)Mayotte/Réunion(France)Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)Western Sahara"
+            ]
+        ],
+        [
+            [
+                "",
+                "ThisNiger-related article is astub. You can help Wikipedia byexpanding it."
+            ]
+        ],
+        [
+            [
+                "",
+                "This article related totelephone numbersis astub. You can help Wikipedia byexpanding it."
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Algeria",
+            "Angola",
+            "Benin",
+            "Botswana",
+            "Burkina Faso",
+            "Burundi",
+            "Cameroon",
+            "Cape Verde",
+            "Central African Republic",
+            "Chad",
+            "Comoros",
+            "Democratic Republic of the Congo",
+            "Republic of the Congo",
+            "Djibouti",
+            "Egypt",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Eswatini",
+            "Ethiopia",
+            "Gabon",
+            "The Gambia",
+            "Ghana",
+            "Guinea",
+            "Guinea-Bissau",
+            "Ivory Coast",
+            "Kenya",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Madagascar",
+            "Malawi",
+            "Mali",
+            "Mauritania",
+            "Mauritius",
+            "Morocco",
+            "Mozambique",
+            "Namibia",
+            "Niger",
+            "Nigeria",
+            "Rwanda",
+            "São Tomé and Príncipe",
+            "Senegal",
+            "Seychelles",
+            "Sierra Leone",
+            "Somalia",
+            "South Africa",
+            "South Sudan",
+            "Sudan",
+            "Tanzania",
+            "Togo",
+            "Tunisia",
+            "Uganda",
+            "Zambia",
+            "Zimbabwe"
+        ],
+        [
+            "Sahrawi Arab Democratic Republic",
+            "Somaliland"
+        ],
+        [
+            "Canary Islands/Ceuta/Melilla(Spain)",
+            "Madeira(Portugal)",
+            "Mayotte/Réunion(France)",
+            "Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)",
+            "Western Sahara"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+227",
+            "href": null
+        },
+        {
+            "text": "Niger",
+            "href": null
+        },
+        {
+            "text": "Africa",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "Niger",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "Agadez",
+            "href": null
+        },
+        {
+            "text": "Arlit",
+            "href": null
+        },
+        {
+            "text": "Diffa",
+            "href": null
+        },
+        {
+            "text": "Dosso",
+            "href": null
+        },
+        {
+            "text": "Filingué",
+            "href": null
+        },
+        {
+            "text": "Gaya",
+            "href": null
+        },
+        {
+            "text": "Konni",
+            "href": null
+        },
+        {
+            "text": "Maradi",
+            "href": null
+        },
+        {
+            "text": "Niamey",
+            "href": null
+        },
+        {
+            "text": "Tahoua",
+            "href": null
+        },
+        {
+            "text": "Tillabéry",
+            "href": null
+        },
+        {
+            "text": "Zinder",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "CELTEL",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "c",
+            "href": null
+        },
+        {
+            "text": "d",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "f",
+            "href": null
+        },
+        {
+            "text": "g",
+            "href": null
+        },
+        {
+            "text": "\"Niger\"",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Africa",
+            "href": null
+        },
+        {
+            "text": "Algeria",
+            "href": null
+        },
+        {
+            "text": "Angola",
+            "href": null
+        },
+        {
+            "text": "Benin",
+            "href": null
+        },
+        {
+            "text": "Botswana",
+            "href": null
+        },
+        {
+            "text": "Burkina Faso",
+            "href": null
+        },
+        {
+            "text": "Burundi",
+            "href": null
+        },
+        {
+            "text": "Cameroon",
+            "href": null
+        },
+        {
+            "text": "Cape Verde",
+            "href": null
+        },
+        {
+            "text": "Central African Republic",
+            "href": null
+        },
+        {
+            "text": "Chad",
+            "href": null
+        },
+        {
+            "text": "Comoros",
+            "href": null
+        },
+        {
+            "text": "Democratic Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Djibouti",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Equatorial Guinea",
+            "href": null
+        },
+        {
+            "text": "Eritrea",
+            "href": null
+        },
+        {
+            "text": "Eswatini",
+            "href": null
+        },
+        {
+            "text": "Ethiopia",
+            "href": null
+        },
+        {
+            "text": "Gabon",
+            "href": null
+        },
+        {
+            "text": "The Gambia",
+            "href": null
+        },
+        {
+            "text": "Ghana",
+            "href": null
+        },
+        {
+            "text": "Guinea",
+            "href": null
+        },
+        {
+            "text": "Guinea-Bissau",
+            "href": null
+        },
+        {
+            "text": "Ivory Coast",
+            "href": null
+        },
+        {
+            "text": "Kenya",
+            "href": null
+        },
+        {
+            "text": "Lesotho",
+            "href": null
+        },
+        {
+            "text": "Liberia",
+            "href": null
+        },
+        {
+            "text": "Libya",
+            "href": null
+        },
+        {
+            "text": "Madagascar",
+            "href": null
+        },
+        {
+            "text": "Malawi",
+            "href": null
+        },
+        {
+            "text": "Mali",
+            "href": null
+        },
+        {
+            "text": "Mauritania",
+            "href": null
+        },
+        {
+            "text": "Mauritius",
+            "href": null
+        },
+        {
+            "text": "Morocco",
+            "href": null
+        },
+        {
+            "text": "Mozambique",
+            "href": null
+        },
+        {
+            "text": "Namibia",
+            "href": null
+        },
+        {
+            "text": "Niger",
+            "href": null
+        },
+        {
+            "text": "Nigeria",
+            "href": null
+        },
+        {
+            "text": "Rwanda",
+            "href": null
+        },
+        {
+            "text": "São Tomé and Príncipe",
+            "href": null
+        },
+        {
+            "text": "Senegal",
+            "href": null
+        },
+        {
+            "text": "Seychelles",
+            "href": null
+        },
+        {
+            "text": "Sierra Leone",
+            "href": null
+        },
+        {
+            "text": "Somalia",
+            "href": null
+        },
+        {
+            "text": "South Africa",
+            "href": null
+        },
+        {
+            "text": "South Sudan",
+            "href": null
+        },
+        {
+            "text": "Sudan",
+            "href": null
+        },
+        {
+            "text": "Tanzania",
+            "href": null
+        },
+        {
+            "text": "Togo",
+            "href": null
+        },
+        {
+            "text": "Tunisia",
+            "href": null
+        },
+        {
+            "text": "Uganda",
+            "href": null
+        },
+        {
+            "text": "Zambia",
+            "href": null
+        },
+        {
+            "text": "Zimbabwe",
+            "href": null
+        },
+        {
+            "text": "Sahrawi Arab Democratic Republic",
+            "href": null
+        },
+        {
+            "text": "Somaliland",
+            "href": null
+        },
+        {
+            "text": "Canary Islands",
+            "href": null
+        },
+        {
+            "text": "Ceuta",
+            "href": null
+        },
+        {
+            "text": "Melilla",
+            "href": null
+        },
+        {
+            "text": "Madeira",
+            "href": null
+        },
+        {
+            "text": "Mayotte",
+            "href": null
+        },
+        {
+            "text": "Réunion",
+            "href": null
+        },
+        {
+            "text": "Saint Helena and Tristan da Cunha",
+            "href": null
+        },
+        {
+            "text": "Ascension Island",
+            "href": null
+        },
+        {
+            "text": "Western Sahara",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Niger",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "telephone numbers",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        }
+    ]
+}

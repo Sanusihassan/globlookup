@@ -1,0 +1,971 @@
+{
+    "tables": [
+        [
+            [
+                ""
+            ],
+            [],
+            [
+                "Tajikistan"
+            ],
+            [
+                "Asia"
+            ],
+            [
+                "4 to 9"
+            ],
+            [],
+            [
+                "+992"
+            ],
+            [
+                "8~10[1]"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "Dushanbe",
+                "37",
+                "2",
+                "2X XXXX3X XXXX",
+                "+992 372 2X XXXX+992 372 3X XXXX"
+            ],
+            [],
+            [
+                "Varzob",
+                "31",
+                "53",
+                "2 XXXX",
+                "+992 3153 2 XXXX"
+            ],
+            [
+                "Vakhdat (F. Kofarnikhon)",
+                "31",
+                "36",
+                "2 XXXX",
+                "+992 3136 2 XXXX"
+            ],
+            [
+                "Hissar",
+                "31",
+                "39",
+                "2 XXXX",
+                "+992 3139 2 XXXX"
+            ],
+            [
+                "Jirgital",
+                "31",
+                "32",
+                "2 XXXX",
+                "+992 3132 2 XXXX"
+            ],
+            [
+                "Nurobod (F. Darband)",
+                "31",
+                "33",
+                "2 XXXX",
+                "+992 3133 2 XXXX"
+            ],
+            [
+                "Nurek",
+                "31",
+                "38",
+                "2 XXXX",
+                "+992 3138 2 XXXX"
+            ],
+            [
+                "Rasht (F. Garm)",
+                "31",
+                "31",
+                "2 XXXX",
+                "+992 3131 2 XXXX"
+            ],
+            [
+                "Rudaki (F. Leninskiy)",
+                "31",
+                "37",
+                "2 XXXX",
+                "+992 3137 2 XXXX"
+            ],
+            [
+                "Rogun",
+                "31",
+                "34",
+                "2 XXXX",
+                "+992 3134 2 XXXX"
+            ],
+            [
+                "Tadjikabad",
+                "31",
+                "54",
+                "2 XXXX",
+                "+992 3154 2 XXXX"
+            ],
+            [
+                "Tursun-Zade",
+                "31",
+                "30",
+                "2 XXXX",
+                "+992 3130 2 XXXX"
+            ],
+            [
+                "Tavildara",
+                "31",
+                "56",
+                "2 XXXX",
+                "+992 3156 2 XXXX"
+            ],
+            [
+                "Fayzabad",
+                "31",
+                "35",
+                "3 XXXX",
+                "+992 3135 3 XXXX"
+            ],
+            [
+                "Shakhrinav",
+                "31",
+                "55",
+                "3 XXXX",
+                "+992 3155 3 XXXX"
+            ],
+            [
+                "Yavan",
+                "31",
+                "41",
+                "2 XXXX",
+                "+992 3141 2 XXXX"
+            ],
+            [],
+            [
+                "Abdurakhmana Jami (F. Khudjamaston)",
+                "32",
+                "43",
+                "2 XXXX",
+                "+992 3243 2 XXXX"
+            ],
+            [
+                "Bokhtar",
+                "32",
+                "45",
+                "2 XXXX",
+                "+992 3245 2 XXXX"
+            ],
+            [
+                "Vakhsh",
+                "32",
+                "46",
+                "2 XXXX",
+                "+992 3246 2 XXXX"
+            ],
+            [
+                "Djilikul",
+                "32",
+                "48",
+                "2 XXXX",
+                "+992 3248 2 XXXX"
+            ],
+            [
+                "Kurgan-Tube",
+                "32",
+                "22",
+                "2 XXXX3 XXXX",
+                "+992 3222 2 XXXX+992 3222 3 XXXX"
+            ],
+            [
+                "Kumsangir (C. Dusti)",
+                "32",
+                "49",
+                "4 XXXX",
+                "+992 3249 4 XXXX"
+            ],
+            [
+                "Kabodion",
+                "32",
+                "51",
+                "2 XXXX",
+                "+992 3251 2 XXXX"
+            ],
+            [
+                "Kolkhozabad",
+                "32",
+                "47",
+                "4 XXXX",
+                "+992 3247 4 XXXX"
+            ],
+            [
+                "Nosiri Khusrav (F. Beshkent)",
+                "Through Shaartuz operator"
+            ],
+            [
+                "Panj",
+                "32",
+                "52",
+                "2 XXXX",
+                "+992 3252 2 XXXX"
+            ],
+            [
+                "Sarband",
+                "32",
+                "50",
+                "6 XXXX",
+                "+992 3250 6 XXXX"
+            ],
+            [
+                "Khuroson (F. Gozimalik)",
+                "32",
+                "42",
+                "2 XXXX",
+                "+992 3242 2 XXXX"
+            ],
+            [
+                "Shaartuz",
+                "32",
+                "40",
+                "2 XXXX",
+                "+992 3240 2 XXXX"
+            ],
+            [],
+            [
+                "Vose",
+                "33",
+                "11",
+                "2 XXXX",
+                "+992 3311 2 XXXX"
+            ],
+            [
+                "Dangara",
+                "33",
+                "12",
+                "2 XXXX",
+                "+992 3312 2 XXXX"
+            ],
+            [
+                "Kulyab",
+                "33",
+                "22",
+                "2 XXXX3 XXXX",
+                "+992 3322 2 XXXX+992 3322 3 XXXX"
+            ],
+            [
+                "M. Khamadoni (F. Moskowskiy)",
+                "33",
+                "15",
+                "2 XXXX",
+                "+992 3315 2 XXXX"
+            ],
+            [
+                "Muminobod",
+                "33",
+                "18",
+                "2 XXXX",
+                "+992 3318 2 XXXX"
+            ],
+            [
+                "Parkhar",
+                "33",
+                "16",
+                "2 XXXX",
+                "+992 3316 2 XXXX"
+            ],
+            [
+                "Temurmalik (F. Sovetskiy)",
+                "33",
+                "14",
+                "2 XXXX",
+                "+992 3314 2 XXXX"
+            ],
+            [
+                "Khovaling",
+                "33",
+                "17",
+                "00 2 XX",
+                "+992 331700 2 XX"
+            ],
+            [
+                "Shurabad",
+                "Through Dushanbe operator"
+            ],
+            [],
+            [
+                "Asht",
+                "34",
+                "53",
+                "2 XXXX",
+                "+992 3453 2 XXXX"
+            ],
+            [
+                "Ayni",
+                "34",
+                "79",
+                "2 XXXX",
+                "+992 3479 2 XXXX"
+            ],
+            [
+                "Ganchi",
+                "34",
+                "64",
+                "2 XXXX",
+                "+992 3464 2 XXXX"
+            ],
+            [
+                "Gafurov",
+                "34",
+                "42",
+                "3 XXXX",
+                "+992 3442 3 XXXX"
+            ],
+            [
+                "Jabarrasulov (F. Proletarskiy)",
+                "34",
+                "55",
+                "2 XXXX",
+                "+992 3455 2 XXXX"
+            ],
+            [
+                "Zafarabad",
+                "34",
+                "52",
+                "5 XXXX",
+                "+992 3452 5 XXXX"
+            ],
+            [
+                "Isfara",
+                "34",
+                "62",
+                "2 XXXX",
+                "+992 3462 2 XXXX"
+            ],
+            [
+                "Istravshan",
+                "34",
+                "54",
+                "2 XXXX",
+                "+992 3454 2 XXXX"
+            ],
+            [
+                "Kayrakum",
+                "34",
+                "43",
+                "2 XXXX",
+                "+992 3443 2 XXXX"
+            ],
+            [
+                "Kanibadam",
+                "34",
+                "67",
+                "3 XXXX",
+                "+992 3467 3 XXXX"
+            ],
+            [
+                "Matchinskiy (C. Buston)",
+                "34",
+                "45",
+                "2 XXXX",
+                "+992 3445 2 XXXX"
+            ],
+            [
+                "Pendjikent",
+                "34",
+                "75",
+                "5 XXXX",
+                "+992 3475 5 XXXX"
+            ],
+            [
+                "Spitamen (F. Nou)",
+                "34",
+                "41",
+                "2 XXXX",
+                "+992 3441 2 XXXX"
+            ],
+            [
+                "Taboshar",
+                "34",
+                "65",
+                "2 XXXX",
+                "+992 3465 2 XXXX"
+            ],
+            [],
+            [
+                "Khujand",
+                "34",
+                "22",
+                "2 XXXX4 XXXX5 XXXX6 XXXX",
+                "+992 3422 2 XXXX+992 3422 4 XXXX+992 3422 5 XXXX+992 3422 6 XXXX"
+            ],
+            [
+                "Chkalovsk",
+                "34",
+                "51",
+                "5 XXXX",
+                "+992 3451 5 XXXX"
+            ],
+            [
+                "Shakhristan",
+                "34",
+                "56",
+                "2 XXXX",
+                "+992 3456 2 XXXX"
+            ],
+            [],
+            [
+                "Vanj",
+                "35",
+                "51",
+                "2 XXXX",
+                "+992 3551 2 XXXX"
+            ],
+            [
+                "Darvaz (F. Kalaykhumb)",
+                "35",
+                "52",
+                "2 XXXX",
+                "+992 3552 2 XXXX"
+            ],
+            [
+                "Ishkashim",
+                "35",
+                "53",
+                "2 XXXX",
+                "+992 3553 2 XXXX"
+            ],
+            [
+                "Murgab",
+                "35",
+                "54",
+                "2 XXXX",
+                "+992 3554 2 XXXX"
+            ],
+            [
+                "Rushan",
+                "35",
+                "56",
+                "2 XXXX",
+                "+992 3556 2 XXXX"
+            ],
+            [
+                "Roshtkala",
+                "35",
+                "55",
+                "2 XXXX",
+                "+992 3555 2 XXXX"
+            ],
+            [
+                "Khorog",
+                "35",
+                "22",
+                "2 XXXX",
+                "+992 3522 2 XXXX"
+            ]
+        ],
+        [
+            [],
+            [
+                "AfghanistanArmeniaAzerbaijanBahrainBangladeshBhutanBruneiCambodiaChinaCyprusEast Timor (Timor-Leste)EgyptGeorgiaIndiaIndonesiaIranIraqIsraelJapanJordanKazakhstanNorth KoreaSouth KoreaKuwaitKyrgyzstanLaosLebanonMalaysiaMaldivesMongoliaMyanmarNepalOmanPakistanPhilippinesQatarRussiaSaudi ArabiaSingaporeSri LankaSyriaTajikistanThailandTurkeyTurkmenistanUnited Arab EmiratesUzbekistanVietnamYemen"
+            ],
+            [
+                "AbkhaziaNorthern CyprusPalestineSouth OssetiaTaiwan"
+            ],
+            [
+                "British Indian Ocean TerritoryChristmas IslandCocos (Keeling) IslandsHong KongMacau"
+            ],
+            [
+                "CategoryAsia portal"
+            ]
+        ],
+        [
+            [
+                "",
+                "ThisTajikistan-related article is astub. You can help Wikipedia byexpanding it."
+            ]
+        ],
+        [
+            [
+                "",
+                "This article related totelephone numbersis astub. You can help Wikipedia byexpanding it."
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Afghanistan",
+            "Armenia",
+            "Azerbaijan",
+            "Bahrain",
+            "Bangladesh",
+            "Bhutan",
+            "Brunei",
+            "Cambodia",
+            "China",
+            "Cyprus",
+            "East Timor (Timor-Leste)",
+            "Egypt",
+            "Georgia",
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Israel",
+            "Japan",
+            "Jordan",
+            "Kazakhstan",
+            "North Korea",
+            "South Korea",
+            "Kuwait",
+            "Kyrgyzstan",
+            "Laos",
+            "Lebanon",
+            "Malaysia",
+            "Maldives",
+            "Mongolia",
+            "Myanmar",
+            "Nepal",
+            "Oman",
+            "Pakistan",
+            "Philippines",
+            "Qatar",
+            "Russia",
+            "Saudi Arabia",
+            "Singapore",
+            "Sri Lanka",
+            "Syria",
+            "Tajikistan",
+            "Thailand",
+            "Turkey",
+            "Turkmenistan",
+            "United Arab Emirates",
+            "Uzbekistan",
+            "Vietnam",
+            "Yemen"
+        ],
+        [
+            "Abkhazia",
+            "Northern Cyprus",
+            "Palestine",
+            "South Ossetia",
+            "Taiwan"
+        ],
+        [
+            "British Indian Ocean Territory",
+            "Christmas Island",
+            "Cocos (Keeling) Islands",
+            "Hong Kong",
+            "Macau"
+        ],
+        [
+            "Category",
+            "Asia portal"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+992",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Tajikistan",
+            "href": null
+        },
+        {
+            "text": "Asia",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "Tajikistan",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Discussion on libphonenumber mailing list citing authoritative sources in Tajikistan",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Tajikistan\"",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Asia",
+            "href": null
+        },
+        {
+            "text": "Sovereign states",
+            "href": null
+        },
+        {
+            "text": "Afghanistan",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Bahrain",
+            "href": null
+        },
+        {
+            "text": "Bangladesh",
+            "href": null
+        },
+        {
+            "text": "Bhutan",
+            "href": null
+        },
+        {
+            "text": "Brunei",
+            "href": null
+        },
+        {
+            "text": "Cambodia",
+            "href": null
+        },
+        {
+            "text": "China",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "East Timor (Timor-Leste)",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "India",
+            "href": null
+        },
+        {
+            "text": "Indonesia",
+            "href": null
+        },
+        {
+            "text": "Iran",
+            "href": null
+        },
+        {
+            "text": "Iraq",
+            "href": null
+        },
+        {
+            "text": "Israel",
+            "href": null
+        },
+        {
+            "text": "Japan",
+            "href": null
+        },
+        {
+            "text": "Jordan",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "North Korea",
+            "href": null
+        },
+        {
+            "text": "South Korea",
+            "href": null
+        },
+        {
+            "text": "Kuwait",
+            "href": null
+        },
+        {
+            "text": "Kyrgyzstan",
+            "href": null
+        },
+        {
+            "text": "Laos",
+            "href": null
+        },
+        {
+            "text": "Lebanon",
+            "href": null
+        },
+        {
+            "text": "Malaysia",
+            "href": null
+        },
+        {
+            "text": "Maldives",
+            "href": null
+        },
+        {
+            "text": "Mongolia",
+            "href": null
+        },
+        {
+            "text": "Myanmar",
+            "href": null
+        },
+        {
+            "text": "Nepal",
+            "href": null
+        },
+        {
+            "text": "Oman",
+            "href": null
+        },
+        {
+            "text": "Pakistan",
+            "href": null
+        },
+        {
+            "text": "Philippines",
+            "href": null
+        },
+        {
+            "text": "Qatar",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "Saudi Arabia",
+            "href": null
+        },
+        {
+            "text": "Singapore",
+            "href": null
+        },
+        {
+            "text": "Sri Lanka",
+            "href": null
+        },
+        {
+            "text": "Syria",
+            "href": null
+        },
+        {
+            "text": "Tajikistan",
+            "href": null
+        },
+        {
+            "text": "Thailand",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Turkmenistan",
+            "href": null
+        },
+        {
+            "text": "United Arab Emirates",
+            "href": null
+        },
+        {
+            "text": "Uzbekistan",
+            "href": null
+        },
+        {
+            "text": "Vietnam",
+            "href": null
+        },
+        {
+            "text": "Yemen",
+            "href": null
+        },
+        {
+            "text": "States withlimited recognition",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "Palestine",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Taiwan",
+            "href": null
+        },
+        {
+            "text": "Dependencies",
+            "href": null
+        },
+        {
+            "text": "British Indian Ocean Territory",
+            "href": null
+        },
+        {
+            "text": "Christmas Island",
+            "href": null
+        },
+        {
+            "text": "Cocos (Keeling) Islands",
+            "href": null
+        },
+        {
+            "text": "Hong Kong",
+            "href": null
+        },
+        {
+            "text": "Macau",
+            "href": null
+        },
+        {
+            "text": "Category",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Asia portal",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Tajikistan",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "telephone numbers",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        }
+    ]
+}

@@ -1,0 +1,1198 @@
+{
+    "tables": [
+        [
+            [
+                ""
+            ],
+            [],
+            [
+                "Iceland"
+            ],
+            [
+                "Europe"
+            ],
+            [
+                "The Electronic Communications Office of Iceland (ECOI)"
+            ],
+            [
+                "7"
+            ],
+            [
+                "https://www.fjarskiptastofa.is/library?itemid=d0a59d1e-2323-4fa0-a2f1-939e1c445ab4"
+            ],
+            [],
+            [
+                "+354"
+            ],
+            [
+                "00"
+            ],
+            [
+                "none"
+            ]
+        ],
+        [
+            [],
+            [
+                "1xxx",
+                "3 or 4",
+                "Emergency and Service Numbers"
+            ],
+            [
+                "2xx",
+                "7",
+                "Not used"
+            ],
+            [
+                "3xx",
+                "9",
+                "M2M"
+            ],
+            [
+                "4xx",
+                "7",
+                "Landlines(ExcludingCapital Region)"
+            ],
+            [
+                "5xx",
+                "7",
+                "Landlines(ReykjavíkandCapital Region)"
+            ],
+            [
+                "6xx",
+                "7",
+                "Mobile network(Vodafone Iceland) andTetra"
+            ],
+            [
+                "7xx",
+                "7",
+                "Mobile network (NOVA)"
+            ],
+            [
+                "8xx",
+                "7",
+                "Mobile network (Síminn)"
+            ],
+            [
+                "800",
+                "7",
+                "Freephone"
+            ],
+            [
+                "9xx",
+                "7",
+                "Premium Rate Services"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlbaniaAndorraArmeniaAustriaAzerbaijanBelarusBelgiumBosnia and HerzegovinaBulgariaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGeorgiaGermanyGreeceHungaryIcelandIrelandItalyKazakhstanLatviaLiechtensteinLithuaniaLuxembourgMaltaMoldovaMonacoMontenegroNetherlandsNorth MacedoniaNorwayPolandPortugalRomaniaRussiaSan MarinoSerbiaSlovakiaSloveniaSpainSwedenSwitzerlandTurkeyUkraineUnited KingdomVatican City"
+            ],
+            [
+                "AbkhaziaKosovoNorthern CyprusSouth OssetiaTransnistria"
+            ],
+            [
+                "ÅlandFaroe IslandsGibraltarGuernseyIsle of ManJerseySvalbard"
+            ]
+        ],
+        [
+            [],
+            [
+                "Data centresTHOR Data CenterDataCellVerne GlobalInternet service providersSíminnVodafone IcelandNovaHringduTechnology.is(ISNIC)CANTAT-3DANICEFARICE-1Greenland ConnectReykjavik Internet Exchange(RIX)",
+                "THOR Data CenterDataCellVerne Global",
+                "SíminnVodafone IcelandNovaHringdu",
+                ".is(ISNIC)CANTAT-3DANICEFARICE-1Greenland ConnectReykjavik Internet Exchange(RIX)"
+            ],
+            [
+                "THOR Data CenterDataCellVerne Global"
+            ],
+            [
+                "SíminnVodafone IcelandNovaHringdu"
+            ],
+            [
+                ".is(ISNIC)CANTAT-3DANICEFARICE-1Greenland ConnectReykjavik Internet Exchange(RIX)"
+            ],
+            [
+                "ÍslandspósturUPSRelatedPostal codes",
+                "Postal codes"
+            ],
+            [
+                "Postal codes"
+            ],
+            [
+                "RÚVRás 1Rás 2RondóSýnBylgjanFM 957X 977LéttBylgjanGullBylgjanÚtvarp LatibærOthersKaninnÚtvarp Saga",
+                "Rás 1Rás 2Rondó",
+                "BylgjanFM 957X 977LéttBylgjanGullBylgjanÚtvarp Latibær",
+                "KaninnÚtvarp Saga"
+            ],
+            [
+                "Rás 1Rás 2Rondó"
+            ],
+            [
+                "BylgjanFM 957X 977LéttBylgjanGullBylgjanÚtvarp Latibær"
+            ],
+            [
+                "KaninnÚtvarp Saga"
+            ],
+            [
+                "IcelandicDVFréttablaðiðMorgunblaðiðViðskiptablaðiðEnglishIceland ReviewThe Reykjavík GrapevineRelatedNewspapers",
+                "DVFréttablaðiðMorgunblaðiðViðskiptablaðið",
+                "Iceland ReviewThe Reykjavík Grapevine",
+                "Newspapers"
+            ],
+            [
+                "DVFréttablaðiðMorgunblaðiðViðskiptablaðið"
+            ],
+            [
+                "Iceland ReviewThe Reykjavík Grapevine"
+            ],
+            [
+                "Newspapers"
+            ],
+            [
+                "SíminnVodafone IcelandRelatedNumbering",
+                "Numbering"
+            ],
+            [
+                "Numbering"
+            ],
+            [
+                "RÚVRÚVRÚV 2SíminnSjónvarp SímansSíminn SportSýnStöð 2Stöð 2 BíóStöð 2 eSportStöð 2 FjölskyldaStöð 2 GolfStöð 2 SportStöð 2 Sport 2Stöð 2 Sport 3Stöð 2 Sport 5Stöð 2 Sport 6Stöð 2 VísirTónlistN4N4",
+                "RÚVRÚV 2",
+                "Sjónvarp SímansSíminn Sport",
+                "Stöð 2Stöð 2 BíóStöð 2 eSportStöð 2 FjölskyldaStöð 2 GolfStöð 2 SportStöð 2 Sport 2Stöð 2 Sport 3Stöð 2 Sport 5Stöð 2 Sport 6Stöð 2 VísirTónlist",
+                "N4"
+            ],
+            [
+                "RÚVRÚV 2"
+            ],
+            [
+                "Sjónvarp SímansSíminn Sport"
+            ],
+            [
+                "Stöð 2Stöð 2 BíóStöð 2 eSportStöð 2 FjölskyldaStöð 2 GolfStöð 2 SportStöð 2 Sport 2Stöð 2 Sport 3Stöð 2 Sport 5Stöð 2 Sport 6Stöð 2 VísirTónlist"
+            ],
+            [
+                "N4"
+            ]
+        ],
+        [
+            [
+                "THOR Data CenterDataCellVerne Global"
+            ],
+            [
+                "SíminnVodafone IcelandNovaHringdu"
+            ],
+            [
+                ".is(ISNIC)CANTAT-3DANICEFARICE-1Greenland ConnectReykjavik Internet Exchange(RIX)"
+            ]
+        ],
+        [
+            [
+                "Postal codes"
+            ]
+        ],
+        [
+            [
+                "Rás 1Rás 2Rondó"
+            ],
+            [
+                "BylgjanFM 957X 977LéttBylgjanGullBylgjanÚtvarp Latibær"
+            ],
+            [
+                "KaninnÚtvarp Saga"
+            ]
+        ],
+        [
+            [
+                "DVFréttablaðiðMorgunblaðiðViðskiptablaðið"
+            ],
+            [
+                "Iceland ReviewThe Reykjavík Grapevine"
+            ],
+            [
+                "Newspapers"
+            ]
+        ],
+        [
+            [
+                "Numbering"
+            ]
+        ],
+        [
+            [
+                "RÚVRÚV 2"
+            ],
+            [
+                "Sjónvarp SímansSíminn Sport"
+            ],
+            [
+                "Stöð 2Stöð 2 BíóStöð 2 eSportStöð 2 FjölskyldaStöð 2 GolfStöð 2 SportStöð 2 Sport 2Stöð 2 Sport 3Stöð 2 Sport 5Stöð 2 Sport 6Stöð 2 VísirTónlist"
+            ],
+            [
+                "N4"
+            ]
+        ],
+        [
+            [
+                "",
+                "ThisIceland-related article is astub. You can help Wikipedia byexpanding it."
+            ]
+        ],
+        [
+            [
+                "",
+                "This article related totelephone numbersis astub. You can help Wikipedia byexpanding it."
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "Reykjavík,VesturbærandMiðbærinn– 551 xxxx, 552 xxxx, 561 xxxx or 562 xxxx",
+            "Reykjanes- 42x xxxxKeflavík– 421 xxxx",
+            "Keflavík– 421 xxxx",
+            "Vesturland- 43x xxxx",
+            "VestfirðirandNorðurland Vestra- 45x xxxx",
+            "Norðurland Eystra- 46x xxxxAkureyri– 462 xxxx",
+            "Akureyri– 462 xxxx",
+            "Austurland- 47x xxxx",
+            "Suðurland- 48x xxx"
+        ],
+        [
+            "Keflavík– 421 xxxx"
+        ],
+        [
+            "Akureyri– 462 xxxx"
+        ],
+        [
+            "Emergency services -112",
+            "Directoryinquiries - 1818, 1819 or 1800",
+            "Red Crosshelpline - 1717",
+            "Road condition information (Icelandic Road Administration) - 1777[2]"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Albania",
+            "Andorra",
+            "Armenia",
+            "Austria",
+            "Azerbaijan",
+            "Belarus",
+            "Belgium",
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Estonia",
+            "Finland",
+            "France",
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Iceland",
+            "Ireland",
+            "",
+            "Italy",
+            "Kazakhstan",
+            "Latvia",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Malta",
+            "Moldova",
+            "Monaco",
+            "Montenegro",
+            "Netherlands",
+            "North Macedonia",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russia",
+            "San Marino",
+            "Serbia",
+            "Slovakia",
+            "Slovenia",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Turkey",
+            "Ukraine",
+            "United Kingdom",
+            "Vatican City"
+        ],
+        [
+            "Abkhazia",
+            "Kosovo",
+            "Northern Cyprus",
+            "South Ossetia",
+            "Transnistria"
+        ],
+        [
+            "Åland",
+            "Faroe Islands",
+            "Gibraltar",
+            "Guernsey",
+            "Isle of Man",
+            "Jersey",
+            "Svalbard"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "THOR Data Center",
+            "DataCell",
+            "Verne Global"
+        ],
+        [
+            "Síminn",
+            "Vodafone Iceland",
+            "Nova",
+            "Hringdu"
+        ],
+        [
+            ".is(ISNIC)",
+            "CANTAT-3",
+            "DANICE",
+            "FARICE-1",
+            "Greenland Connect",
+            "Reykjavik Internet Exchange(RIX)"
+        ],
+        [
+            "Íslandspóstur",
+            "UPS"
+        ],
+        [
+            "Postal codes"
+        ],
+        [
+            "Rás 1",
+            "Rás 2",
+            "Rondó"
+        ],
+        [
+            "Bylgjan",
+            "FM 957",
+            "X 977",
+            "LéttBylgjan",
+            "GullBylgjan",
+            "Útvarp Latibær"
+        ],
+        [
+            "Kaninn",
+            "Útvarp Saga"
+        ],
+        [
+            "DV",
+            "Fréttablaðið",
+            "Morgunblaðið",
+            "Viðskiptablaðið"
+        ],
+        [
+            "Iceland Review",
+            "The Reykjavík Grapevine"
+        ],
+        [
+            "Newspapers"
+        ],
+        [
+            "Síminn",
+            "Vodafone Iceland"
+        ],
+        [
+            "Numbering"
+        ],
+        [
+            "RÚV",
+            "RÚV 2"
+        ],
+        [
+            "Sjónvarp Símans",
+            "Síminn Sport"
+        ],
+        [
+            "Stöð 2",
+            "Stöð 2 Bíó",
+            "Stöð 2 eSport",
+            "Stöð 2 Fjölskylda",
+            "Stöð 2 Golf",
+            "Stöð 2 Sport",
+            "Stöð 2 Sport 2",
+            "Stöð 2 Sport 3",
+            "Stöð 2 Sport 5",
+            "Stöð 2 Sport 6",
+            "Stöð 2 Vísir",
+            "Tónlist"
+        ],
+        [
+            "N4"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+354",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Iceland",
+            "href": null
+        },
+        {
+            "text": "Europe",
+            "href": null
+        },
+        {
+            "text": "https://www.fjarskiptastofa.is/library?itemid=d0a59d1e-2323-4fa0-a2f1-939e1c445ab4",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "Iceland",
+            "href": null
+        },
+        {
+            "text": "E.123",
+            "href": null
+        },
+        {
+            "text": "country code",
+            "href": null
+        },
+        {
+            "text": "closed numbering plan",
+            "href": null
+        },
+        {
+            "text": "international call prefix",
+            "href": null
+        },
+        {
+            "text": "mobile phones",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "international direct dialling",
+            "href": null
+        },
+        {
+            "text": "ITU",
+            "href": null
+        },
+        {
+            "text": "emergency services",
+            "href": null
+        },
+        {
+            "text": "112",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "M2M",
+            "href": null
+        },
+        {
+            "text": "Landlines",
+            "href": null
+        },
+        {
+            "text": "Capital Region",
+            "href": null
+        },
+        {
+            "text": "Landlines",
+            "href": null
+        },
+        {
+            "text": "Reykjavík",
+            "href": null
+        },
+        {
+            "text": "Capital Region",
+            "href": null
+        },
+        {
+            "text": "Mobile network",
+            "href": null
+        },
+        {
+            "text": "Vodafone Iceland",
+            "href": null
+        },
+        {
+            "text": "Tetra",
+            "href": null
+        },
+        {
+            "text": "NOVA",
+            "href": null
+        },
+        {
+            "text": "Síminn",
+            "href": null
+        },
+        {
+            "text": "Freephone",
+            "href": null
+        },
+        {
+            "text": "Premium Rate Services",
+            "href": null
+        },
+        {
+            "text": "area codes",
+            "href": null
+        },
+        {
+            "text": "telephone number portability",
+            "href": null
+        },
+        {
+            "text": "mobile number portability",
+            "href": null
+        },
+        {
+            "text": "Reykjavík",
+            "href": null
+        },
+        {
+            "text": "Vesturbær",
+            "href": null
+        },
+        {
+            "text": "Miðbærinn",
+            "href": null
+        },
+        {
+            "text": "Reykjanes",
+            "href": null
+        },
+        {
+            "text": "Keflavík",
+            "href": null
+        },
+        {
+            "text": "Vesturland",
+            "href": null
+        },
+        {
+            "text": "Vestfirðir",
+            "href": null
+        },
+        {
+            "text": "Norðurland Vestra",
+            "href": null
+        },
+        {
+            "text": "Norðurland Eystra",
+            "href": null
+        },
+        {
+            "text": "Akureyri",
+            "href": null
+        },
+        {
+            "text": "Austurland",
+            "href": null
+        },
+        {
+            "text": "Suðurland",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "112",
+            "href": null
+        },
+        {
+            "text": "Directory",
+            "href": null
+        },
+        {
+            "text": "Red Cross",
+            "href": null
+        },
+        {
+            "text": "Icelandic Road Administration",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Numbering\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Travel Info\"",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Europe",
+            "href": null
+        },
+        {
+            "text": "Albania",
+            "href": null
+        },
+        {
+            "text": "Andorra",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Austria",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Belarus",
+            "href": null
+        },
+        {
+            "text": "Belgium",
+            "href": null
+        },
+        {
+            "text": "Bosnia and Herzegovina",
+            "href": null
+        },
+        {
+            "text": "Bulgaria",
+            "href": null
+        },
+        {
+            "text": "Croatia",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "Czech Republic",
+            "href": null
+        },
+        {
+            "text": "Denmark",
+            "href": null
+        },
+        {
+            "text": "Estonia",
+            "href": null
+        },
+        {
+            "text": "Finland",
+            "href": null
+        },
+        {
+            "text": "France",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "Germany",
+            "href": null
+        },
+        {
+            "text": "Greece",
+            "href": null
+        },
+        {
+            "text": "Hungary",
+            "href": null
+        },
+        {
+            "text": "Iceland",
+            "href": null
+        },
+        {
+            "text": "Ireland",
+            "href": null
+        },
+        {
+            "text": "Italy",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "Latvia",
+            "href": null
+        },
+        {
+            "text": "Liechtenstein",
+            "href": null
+        },
+        {
+            "text": "Lithuania",
+            "href": null
+        },
+        {
+            "text": "Luxembourg",
+            "href": null
+        },
+        {
+            "text": "Malta",
+            "href": null
+        },
+        {
+            "text": "Moldova",
+            "href": null
+        },
+        {
+            "text": "Monaco",
+            "href": null
+        },
+        {
+            "text": "Montenegro",
+            "href": null
+        },
+        {
+            "text": "Netherlands",
+            "href": null
+        },
+        {
+            "text": "North Macedonia",
+            "href": null
+        },
+        {
+            "text": "Norway",
+            "href": null
+        },
+        {
+            "text": "Poland",
+            "href": null
+        },
+        {
+            "text": "Portugal",
+            "href": null
+        },
+        {
+            "text": "Romania",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "San Marino",
+            "href": null
+        },
+        {
+            "text": "Serbia",
+            "href": null
+        },
+        {
+            "text": "Slovakia",
+            "href": null
+        },
+        {
+            "text": "Slovenia",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "Sweden",
+            "href": null
+        },
+        {
+            "text": "Switzerland",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Ukraine",
+            "href": null
+        },
+        {
+            "text": "United Kingdom",
+            "href": null
+        },
+        {
+            "text": "Vatican City",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Kosovo",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Transnistria",
+            "href": null
+        },
+        {
+            "text": "Åland",
+            "href": null
+        },
+        {
+            "text": "Faroe Islands",
+            "href": null
+        },
+        {
+            "text": "Gibraltar",
+            "href": null
+        },
+        {
+            "text": "Guernsey",
+            "href": null
+        },
+        {
+            "text": "Isle of Man",
+            "href": null
+        },
+        {
+            "text": "Jersey",
+            "href": null
+        },
+        {
+            "text": "Svalbard",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telecommunications in Iceland",
+            "href": null
+        },
+        {
+            "text": "Internet",
+            "href": null
+        },
+        {
+            "text": "Verne Global",
+            "href": null
+        },
+        {
+            "text": "Síminn",
+            "href": null
+        },
+        {
+            "text": "Vodafone Iceland",
+            "href": null
+        },
+        {
+            "text": "Nova",
+            "href": null
+        },
+        {
+            "text": ".is",
+            "href": null
+        },
+        {
+            "text": "CANTAT-3",
+            "href": null
+        },
+        {
+            "text": "DANICE",
+            "href": null
+        },
+        {
+            "text": "FARICE-1",
+            "href": null
+        },
+        {
+            "text": "Greenland Connect",
+            "href": null
+        },
+        {
+            "text": "Reykjavik Internet Exchange",
+            "href": null
+        },
+        {
+            "text": "Íslandspóstur",
+            "href": null
+        },
+        {
+            "text": "UPS",
+            "href": null
+        },
+        {
+            "text": "Postal codes",
+            "href": null
+        },
+        {
+            "text": "RÚV",
+            "href": null
+        },
+        {
+            "text": "Rás 1",
+            "href": null
+        },
+        {
+            "text": "Rás 2",
+            "href": null
+        },
+        {
+            "text": "Rondó",
+            "href": null
+        },
+        {
+            "text": "Sýn",
+            "href": null
+        },
+        {
+            "text": "FM 957",
+            "href": null
+        },
+        {
+            "text": "DV",
+            "href": null
+        },
+        {
+            "text": "Fréttablaðið",
+            "href": null
+        },
+        {
+            "text": "Morgunblaðið",
+            "href": null
+        },
+        {
+            "text": "Viðskiptablaðið",
+            "href": null
+        },
+        {
+            "text": "Iceland Review",
+            "href": null
+        },
+        {
+            "text": "The Reykjavík Grapevine",
+            "href": null
+        },
+        {
+            "text": "Newspapers",
+            "href": null
+        },
+        {
+            "text": "Síminn",
+            "href": null
+        },
+        {
+            "text": "Vodafone Iceland",
+            "href": null
+        },
+        {
+            "text": "Numbering",
+            "href": null
+        },
+        {
+            "text": "Television",
+            "href": null
+        },
+        {
+            "text": "RÚV",
+            "href": null
+        },
+        {
+            "text": "RÚV",
+            "href": null
+        },
+        {
+            "text": "RÚV 2",
+            "href": null
+        },
+        {
+            "text": "Síminn",
+            "href": null
+        },
+        {
+            "text": "Sjónvarp Símans",
+            "href": null
+        },
+        {
+            "text": "Sýn",
+            "href": null
+        },
+        {
+            "text": "Stöð 2",
+            "href": null
+        },
+        {
+            "text": "Stöð 2 Bíó",
+            "href": null
+        },
+        {
+            "text": "Stöð 2 Sport",
+            "href": null
+        },
+        {
+            "text": "Stöð 2 Sport 2",
+            "href": null
+        },
+        {
+            "text": "Tónlist",
+            "href": null
+        },
+        {
+            "text": "N4",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Iceland",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "telephone numbers",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        }
+    ]
+}

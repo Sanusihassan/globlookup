@@ -1,0 +1,2102 @@
+{
+    "tables": [
+        [
+            [
+                ""
+            ],
+            [],
+            [
+                "Spain"
+            ],
+            [
+                "Europe"
+            ],
+            [
+                "CMT"
+            ],
+            [
+                "closed"
+            ],
+            [],
+            [
+                "+34"
+            ],
+            [
+                "00"
+            ],
+            [
+                "none"
+            ]
+        ],
+        [
+            [],
+            [
+                "0",
+                "3",
+                "3",
+                "Short Number"
+            ],
+            [
+                "00",
+                "2",
+                "2",
+                "International Prefix"
+            ],
+            [
+                "1",
+                "4",
+                "4",
+                "Short Number"
+            ],
+            [
+                "103",
+                "6",
+                "4",
+                "Operator Selection"
+            ],
+            [
+                "104",
+                "6",
+                "4",
+                "Operator Selection"
+            ],
+            [
+                "105",
+                "6",
+                "4",
+                "Operator Selection"
+            ],
+            [
+                "107",
+                "6",
+                "4",
+                "Operator Selection"
+            ],
+            [
+                "112",
+                "3",
+                "3",
+                "Emergency Services"
+            ],
+            [
+                "118",
+                "5",
+                "5",
+                "Directory assistance"
+            ],
+            [
+                "5",
+                "9",
+                "9",
+                "Personal NumberingSystem"
+            ],
+            [
+                "6",
+                "9",
+                "9",
+                "Mobile phones"
+            ],
+            [
+                "70",
+                "9",
+                "9",
+                "Personal NumberingSystem"
+            ],
+            [
+                "71",
+                "9",
+                "9",
+                "Mobile phones"
+            ],
+            [
+                "72",
+                "9",
+                "9",
+                "Mobile phones"
+            ],
+            [
+                "73",
+                "9",
+                "9",
+                "Mobile phones"
+            ],
+            [
+                "74",
+                "9",
+                "9",
+                "Mobile phones"
+            ],
+            [
+                "75",
+                "9",
+                "9",
+                "Mobile phones"
+            ],
+            [
+                "76",
+                "9",
+                "9",
+                "Mobile phones"
+            ],
+            [
+                "77",
+                "9",
+                "9",
+                "Mobile phones"
+            ],
+            [
+                "78",
+                "9",
+                "9",
+                "Mobile phones"
+            ],
+            [
+                "79",
+                "9",
+                "9",
+                "Mobile phones"
+            ],
+            [
+                "800",
+                "9",
+                "9",
+                "Toll Free"
+            ],
+            [
+                "803",
+                "9",
+                "9",
+                "Premium Rate (adult services)"
+            ],
+            [
+                "806",
+                "9",
+                "9",
+                "Premium Rate (entertaining service)"
+            ],
+            [
+                "807",
+                "9",
+                "9",
+                "Premium Rate (professional services)"
+            ],
+            [
+                "822",
+                "9",
+                "9",
+                "Santa Cruz de Tenerife"
+            ],
+            [
+                "824",
+                "9",
+                "9",
+                "Badajoz"
+            ],
+            [
+                "828",
+                "9",
+                "9",
+                "Las Palmas"
+            ],
+            [
+                "843",
+                "9",
+                "9",
+                "Gipuzkoa"
+            ],
+            [
+                "848",
+                "9",
+                "9",
+                "Navarre"
+            ],
+            [
+                "850",
+                "9",
+                "9",
+                "Almería"
+            ],
+            [
+                "856",
+                "9",
+                "9",
+                "Cádiz"
+            ],
+            [
+                "858",
+                "9",
+                "9",
+                "Granada"
+            ],
+            [
+                "868",
+                "9",
+                "9",
+                "Murcia"
+            ],
+            [
+                "871",
+                "9",
+                "9",
+                "Balearic Islands"
+            ],
+            [
+                "872",
+                "9",
+                "9",
+                "Girona"
+            ],
+            [
+                "873",
+                "9",
+                "9",
+                "Lleida"
+            ],
+            [
+                "876",
+                "9",
+                "9",
+                "Zaragoza"
+            ],
+            [
+                "877",
+                "9",
+                "9",
+                "Tarragona"
+            ],
+            [
+                "881",
+                "9",
+                "9",
+                "A Coruña"
+            ],
+            [
+                "882",
+                "9",
+                "9",
+                "Lugo"
+            ],
+            [
+                "886",
+                "9",
+                "9",
+                "Pontevedra"
+            ],
+            [
+                "900",
+                "9",
+                "9",
+                "Toll Free"
+            ],
+            [
+                "901",
+                "9",
+                "9",
+                "Shared-cost call"
+            ],
+            [
+                "902",
+                "9",
+                "9",
+                "National Rate"
+            ],
+            [
+                "905",
+                "9",
+                "9",
+                "Telephone Voting System"
+            ],
+            [
+                "907",
+                "9",
+                "9",
+                "Premium Rate (data systems)"
+            ],
+            [
+                "908",
+                "9",
+                "9",
+                "Internet Access"
+            ],
+            [
+                "909",
+                "9",
+                "9",
+                "Internet Access"
+            ],
+            [
+                "911",
+                "9",
+                "9",
+                "Madrid(Segovia and Guadalajara until 1993)"
+            ],
+            [
+                "912",
+                "9",
+                "9",
+                "Madrid"
+            ],
+            [
+                "913",
+                "9",
+                "9",
+                "Madrid"
+            ],
+            [
+                "914",
+                "9",
+                "9",
+                "Madrid"
+            ],
+            [
+                "915",
+                "9",
+                "9",
+                "Madrid"
+            ],
+            [
+                "916",
+                "9",
+                "9",
+                "Madrid"
+            ],
+            [
+                "917",
+                "9",
+                "9",
+                "Madrid"
+            ],
+            [
+                "918",
+                "9",
+                "9",
+                "Madrid(Ávila until 1993)"
+            ],
+            [
+                "920",
+                "9",
+                "9",
+                "Ávila"
+            ],
+            [
+                "921",
+                "9",
+                "9",
+                "Segovia"
+            ],
+            [
+                "922",
+                "9",
+                "9",
+                "Santa Cruz de Tenerife"
+            ],
+            [
+                "923",
+                "9",
+                "9",
+                "Salamanca"
+            ],
+            [
+                "924",
+                "9",
+                "9",
+                "Badajoz"
+            ],
+            [
+                "925",
+                "9",
+                "9",
+                "Toledo"
+            ],
+            [
+                "926",
+                "9",
+                "9",
+                "Ciudad Real"
+            ],
+            [
+                "927",
+                "9",
+                "9",
+                "Cáceres"
+            ],
+            [
+                "928",
+                "9",
+                "9",
+                "Las Palmas"
+            ],
+            [
+                "931",
+                "9",
+                "9",
+                "Barcelona"
+            ],
+            [
+                "932",
+                "9",
+                "9",
+                "Barcelona"
+            ],
+            [
+                "933",
+                "9",
+                "9",
+                "Barcelona"
+            ],
+            [
+                "934",
+                "9",
+                "9",
+                "Barcelona"
+            ],
+            [
+                "935",
+                "9",
+                "9",
+                "Barcelona"
+            ],
+            [
+                "936",
+                "9",
+                "9",
+                "Barcelona"
+            ],
+            [
+                "937",
+                "9",
+                "9",
+                "Barcelona"
+            ],
+            [
+                "938",
+                "9",
+                "9",
+                "Barcelona"
+            ],
+            [
+                "940",
+                "9",
+                "9",
+                "Pager Services"
+            ],
+            [
+                "941",
+                "9",
+                "9",
+                "La Rioja"
+            ],
+            [
+                "942",
+                "9",
+                "9",
+                "Cantabria"
+            ],
+            [
+                "943",
+                "9",
+                "9",
+                "Gipuzkoa"
+            ],
+            [
+                "944",
+                "9",
+                "9",
+                "Biscay"
+            ],
+            [
+                "945",
+                "9",
+                "9",
+                "Álava"
+            ],
+            [
+                "946",
+                "9",
+                "9",
+                "Biscay"
+            ],
+            [
+                "947",
+                "9",
+                "9",
+                "Burgos"
+            ],
+            [
+                "948",
+                "9",
+                "9",
+                "Navarre"
+            ],
+            [
+                "949",
+                "9",
+                "9",
+                "Guadalajara"
+            ],
+            [
+                "950",
+                "9",
+                "9",
+                "Almería"
+            ],
+            [
+                "951",
+                "9",
+                "9",
+                "Málaga"
+            ],
+            [
+                "952",
+                "9",
+                "9",
+                "Málaga"
+            ],
+            [
+                "953",
+                "9",
+                "9",
+                "Jaén"
+            ],
+            [
+                "954",
+                "9",
+                "9",
+                "Seville"
+            ],
+            [
+                "955",
+                "9",
+                "9",
+                "Seville"
+            ],
+            [
+                "956",
+                "9",
+                "9",
+                "Cádiz"
+            ],
+            [
+                "957",
+                "9",
+                "9",
+                "Córdoba"
+            ],
+            [
+                "958",
+                "9",
+                "9",
+                "Granada"
+            ],
+            [
+                "959",
+                "9",
+                "9",
+                "Huelva"
+            ],
+            [
+                "960",
+                "9",
+                "9",
+                "Valencia"
+            ],
+            [
+                "961",
+                "9",
+                "9",
+                "Valencia, Center of province"
+            ],
+            [
+                "962",
+                "9",
+                "9",
+                "Valencia, South of province"
+            ],
+            [
+                "963",
+                "9",
+                "9",
+                "Valencia, City and surroundings"
+            ],
+            [
+                "964",
+                "9",
+                "9",
+                "Castellón"
+            ],
+            [
+                "965",
+                "9",
+                "9",
+                "Alicante"
+            ],
+            [
+                "966",
+                "9",
+                "9",
+                "Alicante"
+            ],
+            [
+                "967",
+                "9",
+                "9",
+                "Albacete"
+            ],
+            [
+                "968",
+                "9",
+                "9",
+                "Murcia"
+            ],
+            [
+                "969",
+                "9",
+                "9",
+                "Cuenca"
+            ],
+            [
+                "971",
+                "9",
+                "9",
+                "Balearic Islands"
+            ],
+            [
+                "972",
+                "9",
+                "9",
+                "Girona"
+            ],
+            [
+                "973",
+                "9",
+                "9",
+                "Lleida"
+            ],
+            [
+                "974",
+                "9",
+                "9",
+                "Huesca"
+            ],
+            [
+                "975",
+                "9",
+                "9",
+                "Soria"
+            ],
+            [
+                "976",
+                "9",
+                "9",
+                "Zaragoza"
+            ],
+            [
+                "977",
+                "9",
+                "9",
+                "Tarragona"
+            ],
+            [
+                "978",
+                "9",
+                "9",
+                "Teruel"
+            ],
+            [
+                "979",
+                "9",
+                "9",
+                "Palencia"
+            ],
+            [
+                "980",
+                "9",
+                "9",
+                "Zamora"
+            ],
+            [
+                "981",
+                "9",
+                "9",
+                "A Coruña"
+            ],
+            [
+                "982",
+                "9",
+                "9",
+                "Lugo"
+            ],
+            [
+                "983",
+                "9",
+                "9",
+                "Valladolid"
+            ],
+            [
+                "984",
+                "9",
+                "9",
+                "Asturias"
+            ],
+            [
+                "985",
+                "9",
+                "9",
+                "Asturias"
+            ],
+            [
+                "986",
+                "9",
+                "9",
+                "Pontevedra"
+            ],
+            [
+                "987",
+                "9",
+                "9",
+                "León"
+            ],
+            [
+                "988",
+                "9",
+                "9",
+                "Ourense"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlbaniaAndorraArmeniaAustriaAzerbaijanBelarusBelgiumBosnia and HerzegovinaBulgariaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGeorgiaGermanyGreeceHungaryIcelandIrelandItalyKazakhstanLatviaLiechtensteinLithuaniaLuxembourgMaltaMoldovaMonacoMontenegroNetherlandsNorth MacedoniaNorwayPolandPortugalRomaniaRussiaSan MarinoSerbiaSlovakiaSloveniaSpainSwedenSwitzerlandTurkeyUkraineUnited KingdomVatican City"
+            ],
+            [
+                "AbkhaziaKosovoNorthern CyprusSouth OssetiaTransnistria"
+            ],
+            [
+                "ÅlandFaroe IslandsGibraltarGuernseyIsle of ManJerseySvalbard"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "Numbers starting with 2, 3, 4, 5, and 99 are reserved.",
+            "Numbers starting with 0 and 1 are used to compose short numbers or for prefixes. For example, three-digit numbers starting with 0 are for emergency and services to the citizen.Non-emergency numbers are 010 for requesting information to thecity council, 012 to theregional government, and 060 to thenational government.016, implemented in 2007 by the national government, is a telephone number meant for reporting cases ofviolence against women. Calls to this number do not appear in the phone bill.[16]112 is thegeneric emergency number. Specificemergency numbersare 061 formedical emergencies(only some of theautonomous communitiesoffer this number, elsewhere 112 must be called), 062 for theCivil Guard, 080 or 085 for thefire brigade(depending on the province), 091 for theNational Police, 092 for themunicipal police.Five-digit numbers starting with 118 are information numbers.",
+            "Non-emergency numbers are 010 for requesting information to thecity council, 012 to theregional government, and 060 to thenational government.",
+            "016, implemented in 2007 by the national government, is a telephone number meant for reporting cases ofviolence against women. Calls to this number do not appear in the phone bill.[16]",
+            "112 is thegeneric emergency number. Specificemergency numbersare 061 formedical emergencies(only some of theautonomous communitiesoffer this number, elsewhere 112 must be called), 062 for theCivil Guard, 080 or 085 for thefire brigade(depending on the province), 091 for theNational Police, 092 for themunicipal police.",
+            "Five-digit numbers starting with 118 are information numbers.",
+            "Numbers starting with 80 and 90, then a number different from 0, are used for premium rates, toll free, and internet access numbers.905 numbers are supposed to be used for voting systems. Calls have a limited duration (typically 3 minutes), and are charged a fixed rate per call. They are often used in TV shows as a substitutive of 80 numbers, both for image reasons and because operators are not obliged to block them on a user request, as 80 numbers are.[17]Until 2003, 906 used to be the prefix forpremium rate calls, where thecalling partypays a fixed amount of money per minute and are lucrative for thecalled party. In that year, 906 was discontinued and split in three: 803 forphone sex, 806 for entertainment, gambling and various services such asdivination, and 807 forprofessional servicessuch as legal and medical advice.[18][19]908 and 909 were designed to be the numbers fordial-up Internet access. However, they have been widely replaced bydigital subscriber lineand fasterInternet accesstechnologies. 907 was the prefix for dial-up access topremium ratewebsites.",
+            "905 numbers are supposed to be used for voting systems. Calls have a limited duration (typically 3 minutes), and are charged a fixed rate per call. They are often used in TV shows as a substitutive of 80 numbers, both for image reasons and because operators are not obliged to block them on a user request, as 80 numbers are.[17]",
+            "Until 2003, 906 used to be the prefix forpremium rate calls, where thecalling partypays a fixed amount of money per minute and are lucrative for thecalled party. In that year, 906 was discontinued and split in three: 803 forphone sex, 806 for entertainment, gambling and various services such asdivination, and 807 forprofessional servicessuch as legal and medical advice.[18][19]",
+            "908 and 909 were designed to be the numbers fordial-up Internet access. However, they have been widely replaced bydigital subscriber lineand fasterInternet accesstechnologies. 907 was the prefix for dial-up access topremium ratewebsites.",
+            "800 and 900 numbers are freephone numbers in Spain. The called party pays the cost of the call.[19]",
+            "901 and 902 numbers are Non Geographic Numbers. These have been widely introduced by the call centres of large multinational European businesses. Unlike other normal Spanish phone numbers beginning 910 onwards, 901 and 902 numbers are always excluded from inclusive call bundles on Spanish landlines and mobiles. In 901 lines, the cost of the call is shared between the calling party and the receiver; in a 902, the calling party pays all the cost of the call.[19]902 numbers are extremely expensive to call from Spanish mobiles. 901 and 902 numbers are also premium rated if calling Spain from overseas and low cost international call carriers to Spain normally refuse to connect calls to 901 and 902 numbers."
+        ],
+        [
+            "Non-emergency numbers are 010 for requesting information to thecity council, 012 to theregional government, and 060 to thenational government.",
+            "016, implemented in 2007 by the national government, is a telephone number meant for reporting cases ofviolence against women. Calls to this number do not appear in the phone bill.[16]",
+            "112 is thegeneric emergency number. Specificemergency numbersare 061 formedical emergencies(only some of theautonomous communitiesoffer this number, elsewhere 112 must be called), 062 for theCivil Guard, 080 or 085 for thefire brigade(depending on the province), 091 for theNational Police, 092 for themunicipal police.",
+            "Five-digit numbers starting with 118 are information numbers."
+        ],
+        [
+            "905 numbers are supposed to be used for voting systems. Calls have a limited duration (typically 3 minutes), and are charged a fixed rate per call. They are often used in TV shows as a substitutive of 80 numbers, both for image reasons and because operators are not obliged to block them on a user request, as 80 numbers are.[17]",
+            "Until 2003, 906 used to be the prefix forpremium rate calls, where thecalling partypays a fixed amount of money per minute and are lucrative for thecalled party. In that year, 906 was discontinued and split in three: 803 forphone sex, 806 for entertainment, gambling and various services such asdivination, and 807 forprofessional servicessuch as legal and medical advice.[18][19]",
+            "908 and 909 were designed to be the numbers fordial-up Internet access. However, they have been widely replaced bydigital subscriber lineand fasterInternet accesstechnologies. 907 was the prefix for dial-up access topremium ratewebsites."
+        ],
+        [
+            "CMNC - National Commission of Markets and Competition (Spanish)",
+            "Spanish Numbering plan from CMT/Previous Spanish Communications Regulator  (Spanish)",
+            "Operator codes assigned to each network - Due to portability it can change - Registration Needed",
+            "Downloadable list of phone numbers (Spanish)",
+            "Real Decreto 2296/2004, de 10 de diciembre (Spanish)",
+            "Resolución de 30 de junio de 2005, de la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información por la que se atribuyen recursos públicos de numeración al servicio telefónico fijo disponible al público y a los servicios vocales nómadas, y se adjudican determinados indicativos provinciales (Spanish)"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Albania",
+            "Andorra",
+            "Armenia",
+            "Austria",
+            "Azerbaijan",
+            "Belarus",
+            "Belgium",
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Estonia",
+            "Finland",
+            "France",
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Iceland",
+            "Ireland",
+            "",
+            "Italy",
+            "Kazakhstan",
+            "Latvia",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Malta",
+            "Moldova",
+            "Monaco",
+            "Montenegro",
+            "Netherlands",
+            "North Macedonia",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russia",
+            "San Marino",
+            "Serbia",
+            "Slovakia",
+            "Slovenia",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Turkey",
+            "Ukraine",
+            "United Kingdom",
+            "Vatican City"
+        ],
+        [
+            "Abkhazia",
+            "Kosovo",
+            "Northern Cyprus",
+            "South Ossetia",
+            "Transnistria"
+        ],
+        [
+            "Åland",
+            "Faroe Islands",
+            "Gibraltar",
+            "Guernsey",
+            "Isle of Man",
+            "Jersey",
+            "Svalbard"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+34",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "Europe",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "telephone numbers",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "Comisión Nacional de los Mercados y la Competencia",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "Gibraltar",
+            "href": null
+        },
+        {
+            "text": "Cádiz",
+            "href": null
+        },
+        {
+            "text": "+350",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "Andorra",
+            "href": null
+        },
+        {
+            "text": "Lleida",
+            "href": null
+        },
+        {
+            "text": "[4]",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "+376",
+            "href": null
+        },
+        {
+            "text": "[6]",
+            "href": null
+        },
+        {
+            "text": "[7]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "[8]",
+            "href": null
+        },
+        {
+            "text": "closed numbering plan",
+            "href": null
+        },
+        {
+            "text": "[9]",
+            "href": null
+        },
+        {
+            "text": "[10]",
+            "href": null
+        },
+        {
+            "text": "Gibraltar",
+            "href": null
+        },
+        {
+            "text": "[11]",
+            "href": null
+        },
+        {
+            "text": "[12]",
+            "href": null
+        },
+        {
+            "text": "dispute between Gibraltar and Spain",
+            "href": null
+        },
+        {
+            "text": "[13]",
+            "href": null
+        },
+        {
+            "text": "[14]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[15]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Personal numbers",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "city council",
+            "href": null
+        },
+        {
+            "text": "regional government",
+            "href": null
+        },
+        {
+            "text": "national government",
+            "href": null
+        },
+        {
+            "text": "violence against women",
+            "href": null
+        },
+        {
+            "text": "[16]",
+            "href": null
+        },
+        {
+            "text": "generic emergency number",
+            "href": null
+        },
+        {
+            "text": "emergency numbers",
+            "href": null
+        },
+        {
+            "text": "medical emergencies",
+            "href": null
+        },
+        {
+            "text": "autonomous communities",
+            "href": null
+        },
+        {
+            "text": "Civil Guard",
+            "href": null
+        },
+        {
+            "text": "fire brigade",
+            "href": null
+        },
+        {
+            "text": "National Police",
+            "href": null
+        },
+        {
+            "text": "municipal police",
+            "href": null
+        },
+        {
+            "text": "[17]",
+            "href": null
+        },
+        {
+            "text": "premium rate calls",
+            "href": null
+        },
+        {
+            "text": "calling party",
+            "href": null
+        },
+        {
+            "text": "called party",
+            "href": null
+        },
+        {
+            "text": "phone sex",
+            "href": null
+        },
+        {
+            "text": "divination",
+            "href": null
+        },
+        {
+            "text": "professional services",
+            "href": null
+        },
+        {
+            "text": "[18]",
+            "href": null
+        },
+        {
+            "text": "[19]",
+            "href": null
+        },
+        {
+            "text": "dial-up Internet access",
+            "href": null
+        },
+        {
+            "text": "digital subscriber line",
+            "href": null
+        },
+        {
+            "text": "Internet access",
+            "href": null
+        },
+        {
+            "text": "premium rate",
+            "href": null
+        },
+        {
+            "text": "[19]",
+            "href": null
+        },
+        {
+            "text": "[19]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Directory assistance",
+            "href": null
+        },
+        {
+            "text": "Personal Numbering",
+            "href": null
+        },
+        {
+            "text": "Personal Numbering",
+            "href": null
+        },
+        {
+            "text": "Santa Cruz de Tenerife",
+            "href": null
+        },
+        {
+            "text": "Badajoz",
+            "href": null
+        },
+        {
+            "text": "Las Palmas",
+            "href": null
+        },
+        {
+            "text": "Gipuzkoa",
+            "href": null
+        },
+        {
+            "text": "Navarre",
+            "href": null
+        },
+        {
+            "text": "Almería",
+            "href": null
+        },
+        {
+            "text": "Cádiz",
+            "href": null
+        },
+        {
+            "text": "Granada",
+            "href": null
+        },
+        {
+            "text": "Murcia",
+            "href": null
+        },
+        {
+            "text": "Balearic Islands",
+            "href": null
+        },
+        {
+            "text": "Girona",
+            "href": null
+        },
+        {
+            "text": "Lleida",
+            "href": null
+        },
+        {
+            "text": "Zaragoza",
+            "href": null
+        },
+        {
+            "text": "Tarragona",
+            "href": null
+        },
+        {
+            "text": "A Coruña",
+            "href": null
+        },
+        {
+            "text": "Lugo",
+            "href": null
+        },
+        {
+            "text": "Pontevedra",
+            "href": null
+        },
+        {
+            "text": "Madrid",
+            "href": null
+        },
+        {
+            "text": "Madrid",
+            "href": null
+        },
+        {
+            "text": "Madrid",
+            "href": null
+        },
+        {
+            "text": "Madrid",
+            "href": null
+        },
+        {
+            "text": "Madrid",
+            "href": null
+        },
+        {
+            "text": "Madrid",
+            "href": null
+        },
+        {
+            "text": "Madrid",
+            "href": null
+        },
+        {
+            "text": "Madrid",
+            "href": null
+        },
+        {
+            "text": "Ávila",
+            "href": null
+        },
+        {
+            "text": "Segovia",
+            "href": null
+        },
+        {
+            "text": "Santa Cruz de Tenerife",
+            "href": null
+        },
+        {
+            "text": "Salamanca",
+            "href": null
+        },
+        {
+            "text": "Badajoz",
+            "href": null
+        },
+        {
+            "text": "Toledo",
+            "href": null
+        },
+        {
+            "text": "Ciudad Real",
+            "href": null
+        },
+        {
+            "text": "Cáceres",
+            "href": null
+        },
+        {
+            "text": "Las Palmas",
+            "href": null
+        },
+        {
+            "text": "Barcelona",
+            "href": null
+        },
+        {
+            "text": "Barcelona",
+            "href": null
+        },
+        {
+            "text": "Barcelona",
+            "href": null
+        },
+        {
+            "text": "Barcelona",
+            "href": null
+        },
+        {
+            "text": "Barcelona",
+            "href": null
+        },
+        {
+            "text": "Barcelona",
+            "href": null
+        },
+        {
+            "text": "Barcelona",
+            "href": null
+        },
+        {
+            "text": "Barcelona",
+            "href": null
+        },
+        {
+            "text": "La Rioja",
+            "href": null
+        },
+        {
+            "text": "Cantabria",
+            "href": null
+        },
+        {
+            "text": "Gipuzkoa",
+            "href": null
+        },
+        {
+            "text": "Biscay",
+            "href": null
+        },
+        {
+            "text": "Álava",
+            "href": null
+        },
+        {
+            "text": "Biscay",
+            "href": null
+        },
+        {
+            "text": "Burgos",
+            "href": null
+        },
+        {
+            "text": "Navarre",
+            "href": null
+        },
+        {
+            "text": "Guadalajara",
+            "href": null
+        },
+        {
+            "text": "Almería",
+            "href": null
+        },
+        {
+            "text": "Málaga",
+            "href": null
+        },
+        {
+            "text": "Málaga",
+            "href": null
+        },
+        {
+            "text": "Jaén",
+            "href": null
+        },
+        {
+            "text": "Seville",
+            "href": null
+        },
+        {
+            "text": "Seville",
+            "href": null
+        },
+        {
+            "text": "Cádiz",
+            "href": null
+        },
+        {
+            "text": "Córdoba",
+            "href": null
+        },
+        {
+            "text": "Granada",
+            "href": null
+        },
+        {
+            "text": "Huelva",
+            "href": null
+        },
+        {
+            "text": "Valencia",
+            "href": null
+        },
+        {
+            "text": "Valencia",
+            "href": null
+        },
+        {
+            "text": "Valencia",
+            "href": null
+        },
+        {
+            "text": "Valencia",
+            "href": null
+        },
+        {
+            "text": "Castellón",
+            "href": null
+        },
+        {
+            "text": "Alicante",
+            "href": null
+        },
+        {
+            "text": "Alicante",
+            "href": null
+        },
+        {
+            "text": "Albacete",
+            "href": null
+        },
+        {
+            "text": "Murcia",
+            "href": null
+        },
+        {
+            "text": "Cuenca",
+            "href": null
+        },
+        {
+            "text": "Balearic Islands",
+            "href": null
+        },
+        {
+            "text": "Girona",
+            "href": null
+        },
+        {
+            "text": "Lleida",
+            "href": null
+        },
+        {
+            "text": "Huesca",
+            "href": null
+        },
+        {
+            "text": "Soria",
+            "href": null
+        },
+        {
+            "text": "Zaragoza",
+            "href": null
+        },
+        {
+            "text": "Tarragona",
+            "href": null
+        },
+        {
+            "text": "Teruel",
+            "href": null
+        },
+        {
+            "text": "Palencia",
+            "href": null
+        },
+        {
+            "text": "Zamora",
+            "href": null
+        },
+        {
+            "text": "A Coruña",
+            "href": null
+        },
+        {
+            "text": "Lugo",
+            "href": null
+        },
+        {
+            "text": "Valladolid",
+            "href": null
+        },
+        {
+            "text": "Asturias",
+            "href": null
+        },
+        {
+            "text": "Asturias",
+            "href": null
+        },
+        {
+            "text": "Pontevedra",
+            "href": null
+        },
+        {
+            "text": "León",
+            "href": null
+        },
+        {
+            "text": "Ourense",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Spain & Portugal, 1994: The Most In-Depth Guide to the Spectacle and Romance of Spain & Portugal",
+            "href": null
+        },
+        {
+            "text": "ISBN",
+            "href": null
+        },
+        {
+            "text": "978-1-56952-021-5",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "In Spain",
+            "href": null
+        },
+        {
+            "text": "ISBN",
+            "href": null
+        },
+        {
+            "text": "978-0-8219-0744-3",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Gibraltar: British Or Spanish?",
+            "href": null
+        },
+        {
+            "text": "ISBN",
+            "href": null
+        },
+        {
+            "text": "978-0-415-34795-2",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Fodor's Spain, 1987",
+            "href": null
+        },
+        {
+            "text": "ISBN",
+            "href": null
+        },
+        {
+            "text": "978-0-679-01410-2",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Mediterranean Europe",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "Wayback Machine",
+            "href": null
+        },
+        {
+            "text": "Lonely Planet",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Fodor's Europe",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"A partir del 4 de abril de 1998 todos los números de teléfono españoles tendrán nueve dígitos\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Official Journal of the European Communities: Legislation",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Mediterranean Europe",
+            "href": null
+        },
+        {
+            "text": "ISBN",
+            "href": null
+        },
+        {
+            "text": "978-1-74059-778-4",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Lloyd's Ports of the World",
+            "href": null
+        },
+        {
+            "text": "ISBN",
+            "href": null
+        },
+        {
+            "text": "978-1-85978-664-2",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Southern Spain",
+            "href": null
+        },
+        {
+            "text": "ISBN",
+            "href": null
+        },
+        {
+            "text": "978-0-88729-142-5",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Danmarks posten",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "Wayback Machine",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"GRA - Home Page\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Gibraltar.- Las llamadas telefónicas al Peñón introducen a partir de mañana el prefijo internacional sin coste adicional\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Los nuevos números de móvil empezarán por siete cuando se agoten los encabezados por seis | Navegante | elmundo.es\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "El Mundo",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "Wayback Machine",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Unión de Consumidores de España (UCE) denuncia los números 905",
+            "href": null
+        },
+        {
+            "text": "Diputación de Huelva",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Los teléfonos 906 se convierten desde hoy en 806 salvo para acceder a la Red\"",
+            "href": null
+        },
+        {
+            "text": "ISSN",
+            "href": null
+        },
+        {
+            "text": "1134-6582",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "c",
+            "href": null
+        },
+        {
+            "text": "\"¿Cuál es el coste de los números de teléfono 900, 901, 902 y 800?\"",
+            "href": null
+        },
+        {
+            "text": "CMNC - National Commission of Markets and Competition (Spanish)",
+            "href": null
+        },
+        {
+            "text": "Spanish Numbering plan from CMT/Previous Spanish Communications Regulator  (Spanish)",
+            "href": null
+        },
+        {
+            "text": "Operator codes assigned to each network - Due to portability it can change - Registration Needed",
+            "href": null
+        },
+        {
+            "text": "Downloadable list of phone numbers (Spanish)",
+            "href": null
+        },
+        {
+            "text": "Real Decreto 2296/2004, de 10 de diciembre (Spanish)",
+            "href": null
+        },
+        {
+            "text": "Resolución de 30 de junio de 2005, de la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información por la que se atribuyen recursos públicos de numeración al servicio telefónico fijo disponible al público y a los servicios vocales nómadas, y se adjudican determinados indicativos provinciales (Spanish)",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Europe",
+            "href": null
+        },
+        {
+            "text": "Albania",
+            "href": null
+        },
+        {
+            "text": "Andorra",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Austria",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Belarus",
+            "href": null
+        },
+        {
+            "text": "Belgium",
+            "href": null
+        },
+        {
+            "text": "Bosnia and Herzegovina",
+            "href": null
+        },
+        {
+            "text": "Bulgaria",
+            "href": null
+        },
+        {
+            "text": "Croatia",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "Czech Republic",
+            "href": null
+        },
+        {
+            "text": "Denmark",
+            "href": null
+        },
+        {
+            "text": "Estonia",
+            "href": null
+        },
+        {
+            "text": "Finland",
+            "href": null
+        },
+        {
+            "text": "France",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "Germany",
+            "href": null
+        },
+        {
+            "text": "Greece",
+            "href": null
+        },
+        {
+            "text": "Hungary",
+            "href": null
+        },
+        {
+            "text": "Iceland",
+            "href": null
+        },
+        {
+            "text": "Ireland",
+            "href": null
+        },
+        {
+            "text": "Italy",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "Latvia",
+            "href": null
+        },
+        {
+            "text": "Liechtenstein",
+            "href": null
+        },
+        {
+            "text": "Lithuania",
+            "href": null
+        },
+        {
+            "text": "Luxembourg",
+            "href": null
+        },
+        {
+            "text": "Malta",
+            "href": null
+        },
+        {
+            "text": "Moldova",
+            "href": null
+        },
+        {
+            "text": "Monaco",
+            "href": null
+        },
+        {
+            "text": "Montenegro",
+            "href": null
+        },
+        {
+            "text": "Netherlands",
+            "href": null
+        },
+        {
+            "text": "North Macedonia",
+            "href": null
+        },
+        {
+            "text": "Norway",
+            "href": null
+        },
+        {
+            "text": "Poland",
+            "href": null
+        },
+        {
+            "text": "Portugal",
+            "href": null
+        },
+        {
+            "text": "Romania",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "San Marino",
+            "href": null
+        },
+        {
+            "text": "Serbia",
+            "href": null
+        },
+        {
+            "text": "Slovakia",
+            "href": null
+        },
+        {
+            "text": "Slovenia",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "Sweden",
+            "href": null
+        },
+        {
+            "text": "Switzerland",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Ukraine",
+            "href": null
+        },
+        {
+            "text": "United Kingdom",
+            "href": null
+        },
+        {
+            "text": "Vatican City",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Kosovo",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Transnistria",
+            "href": null
+        },
+        {
+            "text": "Åland",
+            "href": null
+        },
+        {
+            "text": "Faroe Islands",
+            "href": null
+        },
+        {
+            "text": "Gibraltar",
+            "href": null
+        },
+        {
+            "text": "Guernsey",
+            "href": null
+        },
+        {
+            "text": "Isle of Man",
+            "href": null
+        },
+        {
+            "text": "Jersey",
+            "href": null
+        },
+        {
+            "text": "Svalbard",
+            "href": null
+        }
+    ]
+}

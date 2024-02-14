@@ -1,0 +1,1365 @@
+{
+    "tables": [
+        [
+            [
+                ""
+            ],
+            [],
+            [
+                "Egypt"
+            ],
+            [
+                "Africa"
+            ],
+            [
+                "National Telecommunications Regulatory Authority"
+            ],
+            [
+                "closed"
+            ],
+            [],
+            [
+                "+20"
+            ],
+            [
+                "00"
+            ],
+            [
+                "0"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "Greater Cairo(Cairo,Giza, andShubra El-Kheima)",
+                "2[note 1]",
+                "02-xxxx-xxxx",
+                "+20-2-xxxx-xxxx",
+                "Alexandria",
+                "3",
+                "03-xxx-xxxx",
+                "+20-3-xxx-xxxx"
+            ],
+            [
+                "Arish",
+                "68",
+                "068-xxx-xxxx",
+                "+20-68-xxx-xxxx",
+                "Asyut",
+                "88",
+                "088-xxx-xxxx",
+                "+20-88-xxx-xxxx"
+            ],
+            [
+                "Aswan",
+                "97",
+                "097-xxx-xxxx",
+                "+20-97-xxx-xxxx",
+                "Benha",
+                "13",
+                "013-xxx-xxxx",
+                "+20-13-xxx-xxxx"
+            ],
+            [
+                "Beni Suef",
+                "82",
+                "082-xxx-xxxx",
+                "+20-82-xxx-xxxx",
+                "Damanhur",
+                "45",
+                "045-xxx-xxxx",
+                "+20-45-xxx-xxxx"
+            ],
+            [
+                "Damietta",
+                "57",
+                "057-xxx-xxxx",
+                "+20-57-xxx-xxxx",
+                "Faiyum",
+                "84",
+                "084-xxx-xxxx",
+                "+20-84-xxx-xxxx"
+            ],
+            [
+                "Ismailia",
+                "64",
+                "064-xxx-xxxx",
+                "+20-64-xxx-xxxx",
+                "Kafr El Sheikh",
+                "47",
+                "047-xxx-xxxx",
+                "+20-47-xxx-xxxx"
+            ],
+            [
+                "Luxor",
+                "95",
+                "095-xxx-xxxx",
+                "+20-95-xxx-xxxx",
+                "Marsa Matruh",
+                "46",
+                "046-xxx-xxxx",
+                "+20-46-xxx-xxxx"
+            ],
+            [
+                "Mansoura",
+                "50",
+                "050-xxx-xxxx",
+                "+20-50-xxx-xxxx",
+                "Minya",
+                "86",
+                "086-xxx-xxxx",
+                "+20-86-xxx-xxxx"
+            ],
+            [
+                "Monufia(Shibin El Kom)",
+                "48",
+                "048-xxx-xxxx",
+                "+20-48-xxx-xxxx",
+                "New Valley",
+                "92",
+                "092-xxx-xxxx",
+                "+20-92-xxx-xxxx"
+            ],
+            [
+                "Port Said",
+                "66",
+                "066-xxx-xxxx",
+                "+20-66-xxx-xxxx",
+                "Qena",
+                "96",
+                "096-xxx-xxxx",
+                "+20-96-xxx-xxxx"
+            ],
+            [
+                "Red Sea",
+                "65",
+                "065-xxx-xxxx",
+                "+20-65-xxx-xxxx",
+                "Sohag",
+                "93",
+                "093-xxx-xxxx",
+                "+20-93-xxx-xxxx"
+            ],
+            [
+                "Suez",
+                "62",
+                "062-xxx-xxxx",
+                "+20-62-xxx-xxxx",
+                "Gharbia",
+                "40",
+                "040-xxx-xxxx",
+                "+20-40-xxx-xxxx"
+            ],
+            [
+                "El Tor",
+                "69[3]",
+                "069-xxx-xxxx",
+                "+20-69-xxx-xxxx",
+                "Zagazig",
+                "55",
+                "055-xxx-xxxx",
+                "+20-55-xxx-xxxx"
+            ],
+            [
+                "10th of Ramadan",
+                "15, 554[3]",
+                "015-xxx-xxxx, 0554-xxx-xxxx",
+                "+20-15-xxx-xxx, +20-554-xxx-xxxx",
+                "Qalyubia(Benha)",
+                "13",
+                "013-xxx-xxxx",
+                "+20-13-xxx-xxxx"
+            ]
+        ],
+        [
+            [],
+            [
+                "Vodafone",
+                "10",
+                "010-xxxx-xxxx",
+                "+20-10-xxxx-xxxx"
+            ],
+            [
+                "Etisalat",
+                "11",
+                "011-xxxx-xxxx",
+                "+20-11-xxxx-xxxx"
+            ],
+            [
+                "Orange",
+                "12",
+                "012-xxxx-xxxx",
+                "+20-12-xxxx-xxxx"
+            ],
+            [
+                "We",
+                "15",
+                "015-xxxx-xxxx",
+                "+20-15-xxxx-xxxx"
+            ]
+        ],
+        [
+            [],
+            [
+                "121",
+                "Electrical inquires",
+                ""
+            ],
+            [
+                "129",
+                "Petrogas",
+                "Used if there is a problem withnatural gassupply."
+            ],
+            [
+                "125",
+                "Water complaints",
+                "Used if there is an issue with water supply"
+            ],
+            [
+                "175",
+                "Sanitation",
+                ""
+            ],
+            [
+                "115",
+                "Citizens' reports",
+                "Used when reporting about illegal possession of weapons, drugs, and antiquities."
+            ],
+            [
+                "128",
+                "Ministry of Interior Security",
+                "Used to inquire the services of the Ministry"
+            ],
+            [
+                "13",
+                "Security Directorate",
+                ""
+            ],
+            [
+                "126",
+                "Tourism Police",
+                "Used instead of the regular 122 emergency number to report crimes related to tourism (e.g. pickpockets at beaches and the Pyramids)"
+            ],
+            [
+                "145",
+                "Railway Police",
+                "Used in place of 122 to report crimes across therailway system"
+            ],
+            [
+                "108",
+                "Cybercrime",
+                "Used to report cyber crimes such as mass hacking of governmental websites"
+            ]
+        ],
+        [
+            [],
+            [
+                "Toll free",
+                "0800-xxx-xxxx"
+            ],
+            [
+                "Premium services",
+                "09xx-xxxx"
+            ],
+            [
+                "Free internet dial up",
+                "07xx-xxxx"
+            ],
+            [
+                "Short numbers (hotlines)",
+                "15xxx, 16xxx, 17xxx, 19xxx"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlgeriaAngolaBeninBotswanaBurkina FasoBurundiCameroonCape VerdeCentral African RepublicChadComorosDemocratic Republic of the CongoRepublic of the CongoDjiboutiEgyptEquatorial GuineaEritreaEswatiniEthiopiaGabonThe GambiaGhanaGuineaGuinea-BissauIvory CoastKenyaLesothoLiberiaLibyaMadagascarMalawiMaliMauritaniaMauritiusMoroccoMozambiqueNamibiaNigerNigeriaRwandaSão Tomé and PríncipeSenegalSeychellesSierra LeoneSomaliaSouth AfricaSouth SudanSudanTanzaniaTogoTunisiaUgandaZambiaZimbabwe"
+            ],
+            [
+                "Sahrawi Arab Democratic RepublicSomaliland"
+            ],
+            [
+                "Canary Islands/Ceuta/Melilla(Spain)Madeira(Portugal)Mayotte/Réunion(France)Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)Western Sahara"
+            ]
+        ],
+        [
+            [],
+            [
+                "AfghanistanArmeniaAzerbaijanBahrainBangladeshBhutanBruneiCambodiaChinaCyprusEast Timor (Timor-Leste)EgyptGeorgiaIndiaIndonesiaIranIraqIsraelJapanJordanKazakhstanNorth KoreaSouth KoreaKuwaitKyrgyzstanLaosLebanonMalaysiaMaldivesMongoliaMyanmarNepalOmanPakistanPhilippinesQatarRussiaSaudi ArabiaSingaporeSri LankaSyriaTajikistanThailandTurkeyTurkmenistanUnited Arab EmiratesUzbekistanVietnamYemen"
+            ],
+            [
+                "AbkhaziaNorthern CyprusPalestineSouth OssetiaTaiwan"
+            ],
+            [
+                "British Indian Ocean TerritoryChristmas IslandCocos (Keeling) IslandsHong KongMacau"
+            ],
+            [
+                "CategoryAsia portal"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "Police: 122 (or 112 on mobile)",
+            "Ambulance: 123",
+            "Fire brigade: 180"
+        ],
+        [
+            "Information Crimes: 15008",
+            "Consumer Protection: 19588",
+            "Save the Homeless: 16439",
+            "Papa John's Pizza: 19277[5]",
+            "Allianz: 19909[6]",
+            "Hyundai: 16661[7]"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Algeria",
+            "Angola",
+            "Benin",
+            "Botswana",
+            "Burkina Faso",
+            "Burundi",
+            "Cameroon",
+            "Cape Verde",
+            "Central African Republic",
+            "Chad",
+            "Comoros",
+            "Democratic Republic of the Congo",
+            "Republic of the Congo",
+            "Djibouti",
+            "Egypt",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Eswatini",
+            "Ethiopia",
+            "Gabon",
+            "The Gambia",
+            "Ghana",
+            "Guinea",
+            "Guinea-Bissau",
+            "Ivory Coast",
+            "Kenya",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Madagascar",
+            "Malawi",
+            "Mali",
+            "Mauritania",
+            "Mauritius",
+            "Morocco",
+            "Mozambique",
+            "Namibia",
+            "Niger",
+            "Nigeria",
+            "Rwanda",
+            "São Tomé and Príncipe",
+            "Senegal",
+            "Seychelles",
+            "Sierra Leone",
+            "Somalia",
+            "South Africa",
+            "South Sudan",
+            "Sudan",
+            "Tanzania",
+            "Togo",
+            "Tunisia",
+            "Uganda",
+            "Zambia",
+            "Zimbabwe"
+        ],
+        [
+            "Sahrawi Arab Democratic Republic",
+            "Somaliland"
+        ],
+        [
+            "Canary Islands/Ceuta/Melilla(Spain)",
+            "Madeira(Portugal)",
+            "Mayotte/Réunion(France)",
+            "Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)",
+            "Western Sahara"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Afghanistan",
+            "Armenia",
+            "Azerbaijan",
+            "Bahrain",
+            "Bangladesh",
+            "Bhutan",
+            "Brunei",
+            "Cambodia",
+            "China",
+            "Cyprus",
+            "East Timor (Timor-Leste)",
+            "Egypt",
+            "Georgia",
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Israel",
+            "Japan",
+            "Jordan",
+            "Kazakhstan",
+            "North Korea",
+            "South Korea",
+            "Kuwait",
+            "Kyrgyzstan",
+            "Laos",
+            "Lebanon",
+            "Malaysia",
+            "Maldives",
+            "Mongolia",
+            "Myanmar",
+            "Nepal",
+            "Oman",
+            "Pakistan",
+            "Philippines",
+            "Qatar",
+            "Russia",
+            "Saudi Arabia",
+            "Singapore",
+            "Sri Lanka",
+            "Syria",
+            "Tajikistan",
+            "Thailand",
+            "Turkey",
+            "Turkmenistan",
+            "United Arab Emirates",
+            "Uzbekistan",
+            "Vietnam",
+            "Yemen"
+        ],
+        [
+            "Abkhazia",
+            "Northern Cyprus",
+            "Palestine",
+            "South Ossetia",
+            "Taiwan"
+        ],
+        [
+            "British Indian Ocean Territory",
+            "Christmas Island",
+            "Cocos (Keeling) Islands",
+            "Hong Kong",
+            "Macau"
+        ],
+        [
+            "Category",
+            "Asia portal"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+20",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Africa",
+            "href": null
+        },
+        {
+            "text": "National Telecommunications Regulatory Authority",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Egyptian Government",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Telecom Egypt",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "Greater Cairo",
+            "href": null
+        },
+        {
+            "text": "Cairo",
+            "href": null
+        },
+        {
+            "text": "Giza",
+            "href": null
+        },
+        {
+            "text": "Shubra El-Kheima",
+            "href": null
+        },
+        {
+            "text": "[note 1]",
+            "href": null
+        },
+        {
+            "text": "Alexandria",
+            "href": null
+        },
+        {
+            "text": "Arish",
+            "href": null
+        },
+        {
+            "text": "Asyut",
+            "href": null
+        },
+        {
+            "text": "Aswan",
+            "href": null
+        },
+        {
+            "text": "Benha",
+            "href": null
+        },
+        {
+            "text": "Beni Suef",
+            "href": null
+        },
+        {
+            "text": "Damanhur",
+            "href": null
+        },
+        {
+            "text": "Damietta",
+            "href": null
+        },
+        {
+            "text": "Faiyum",
+            "href": null
+        },
+        {
+            "text": "Ismailia",
+            "href": null
+        },
+        {
+            "text": "Kafr El Sheikh",
+            "href": null
+        },
+        {
+            "text": "Luxor",
+            "href": null
+        },
+        {
+            "text": "Marsa Matruh",
+            "href": null
+        },
+        {
+            "text": "Mansoura",
+            "href": null
+        },
+        {
+            "text": "Minya",
+            "href": null
+        },
+        {
+            "text": "Monufia",
+            "href": null
+        },
+        {
+            "text": "New Valley",
+            "href": null
+        },
+        {
+            "text": "Port Said",
+            "href": null
+        },
+        {
+            "text": "Qena",
+            "href": null
+        },
+        {
+            "text": "Red Sea",
+            "href": null
+        },
+        {
+            "text": "Sohag",
+            "href": null
+        },
+        {
+            "text": "Suez",
+            "href": null
+        },
+        {
+            "text": "Gharbia",
+            "href": null
+        },
+        {
+            "text": "El Tor",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "Zagazig",
+            "href": null
+        },
+        {
+            "text": "10th of Ramadan",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "Qalyubia",
+            "href": null
+        },
+        {
+            "text": "Benha",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Orange",
+            "href": null
+        },
+        {
+            "text": "Vodafone",
+            "href": null
+        },
+        {
+            "text": "Etisalat",
+            "href": null
+        },
+        {
+            "text": "We",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[4]",
+            "href": null
+        },
+        {
+            "text": "natural gas",
+            "href": null
+        },
+        {
+            "text": "railway system",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Egypt Post",
+            "href": null
+        },
+        {
+            "text": "[4]",
+            "href": null
+        },
+        {
+            "text": "Papa John's Pizza",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "Allianz",
+            "href": null
+        },
+        {
+            "text": "[6]",
+            "href": null
+        },
+        {
+            "text": "Hyundai",
+            "href": null
+        },
+        {
+            "text": "[7]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"How to call Egypt phone numbers?\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"+20 country code — Egypt — 0020\"",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "\"Egypt Area Codes\"",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "\"Useful numbers\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Papa John's Egypt\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Reach us\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Contact us - Hyundai\"",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Africa",
+            "href": null
+        },
+        {
+            "text": "Algeria",
+            "href": null
+        },
+        {
+            "text": "Angola",
+            "href": null
+        },
+        {
+            "text": "Benin",
+            "href": null
+        },
+        {
+            "text": "Botswana",
+            "href": null
+        },
+        {
+            "text": "Burkina Faso",
+            "href": null
+        },
+        {
+            "text": "Burundi",
+            "href": null
+        },
+        {
+            "text": "Cameroon",
+            "href": null
+        },
+        {
+            "text": "Cape Verde",
+            "href": null
+        },
+        {
+            "text": "Central African Republic",
+            "href": null
+        },
+        {
+            "text": "Chad",
+            "href": null
+        },
+        {
+            "text": "Comoros",
+            "href": null
+        },
+        {
+            "text": "Democratic Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Djibouti",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Equatorial Guinea",
+            "href": null
+        },
+        {
+            "text": "Eritrea",
+            "href": null
+        },
+        {
+            "text": "Eswatini",
+            "href": null
+        },
+        {
+            "text": "Ethiopia",
+            "href": null
+        },
+        {
+            "text": "Gabon",
+            "href": null
+        },
+        {
+            "text": "The Gambia",
+            "href": null
+        },
+        {
+            "text": "Ghana",
+            "href": null
+        },
+        {
+            "text": "Guinea",
+            "href": null
+        },
+        {
+            "text": "Guinea-Bissau",
+            "href": null
+        },
+        {
+            "text": "Ivory Coast",
+            "href": null
+        },
+        {
+            "text": "Kenya",
+            "href": null
+        },
+        {
+            "text": "Lesotho",
+            "href": null
+        },
+        {
+            "text": "Liberia",
+            "href": null
+        },
+        {
+            "text": "Libya",
+            "href": null
+        },
+        {
+            "text": "Madagascar",
+            "href": null
+        },
+        {
+            "text": "Malawi",
+            "href": null
+        },
+        {
+            "text": "Mali",
+            "href": null
+        },
+        {
+            "text": "Mauritania",
+            "href": null
+        },
+        {
+            "text": "Mauritius",
+            "href": null
+        },
+        {
+            "text": "Morocco",
+            "href": null
+        },
+        {
+            "text": "Mozambique",
+            "href": null
+        },
+        {
+            "text": "Namibia",
+            "href": null
+        },
+        {
+            "text": "Niger",
+            "href": null
+        },
+        {
+            "text": "Nigeria",
+            "href": null
+        },
+        {
+            "text": "Rwanda",
+            "href": null
+        },
+        {
+            "text": "São Tomé and Príncipe",
+            "href": null
+        },
+        {
+            "text": "Senegal",
+            "href": null
+        },
+        {
+            "text": "Seychelles",
+            "href": null
+        },
+        {
+            "text": "Sierra Leone",
+            "href": null
+        },
+        {
+            "text": "Somalia",
+            "href": null
+        },
+        {
+            "text": "South Africa",
+            "href": null
+        },
+        {
+            "text": "South Sudan",
+            "href": null
+        },
+        {
+            "text": "Sudan",
+            "href": null
+        },
+        {
+            "text": "Tanzania",
+            "href": null
+        },
+        {
+            "text": "Togo",
+            "href": null
+        },
+        {
+            "text": "Tunisia",
+            "href": null
+        },
+        {
+            "text": "Uganda",
+            "href": null
+        },
+        {
+            "text": "Zambia",
+            "href": null
+        },
+        {
+            "text": "Zimbabwe",
+            "href": null
+        },
+        {
+            "text": "Sahrawi Arab Democratic Republic",
+            "href": null
+        },
+        {
+            "text": "Somaliland",
+            "href": null
+        },
+        {
+            "text": "Canary Islands",
+            "href": null
+        },
+        {
+            "text": "Ceuta",
+            "href": null
+        },
+        {
+            "text": "Melilla",
+            "href": null
+        },
+        {
+            "text": "Madeira",
+            "href": null
+        },
+        {
+            "text": "Mayotte",
+            "href": null
+        },
+        {
+            "text": "Réunion",
+            "href": null
+        },
+        {
+            "text": "Saint Helena and Tristan da Cunha",
+            "href": null
+        },
+        {
+            "text": "Ascension Island",
+            "href": null
+        },
+        {
+            "text": "Western Sahara",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Asia",
+            "href": null
+        },
+        {
+            "text": "Sovereign states",
+            "href": null
+        },
+        {
+            "text": "Afghanistan",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Bahrain",
+            "href": null
+        },
+        {
+            "text": "Bangladesh",
+            "href": null
+        },
+        {
+            "text": "Bhutan",
+            "href": null
+        },
+        {
+            "text": "Brunei",
+            "href": null
+        },
+        {
+            "text": "Cambodia",
+            "href": null
+        },
+        {
+            "text": "China",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "East Timor (Timor-Leste)",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "India",
+            "href": null
+        },
+        {
+            "text": "Indonesia",
+            "href": null
+        },
+        {
+            "text": "Iran",
+            "href": null
+        },
+        {
+            "text": "Iraq",
+            "href": null
+        },
+        {
+            "text": "Israel",
+            "href": null
+        },
+        {
+            "text": "Japan",
+            "href": null
+        },
+        {
+            "text": "Jordan",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "North Korea",
+            "href": null
+        },
+        {
+            "text": "South Korea",
+            "href": null
+        },
+        {
+            "text": "Kuwait",
+            "href": null
+        },
+        {
+            "text": "Kyrgyzstan",
+            "href": null
+        },
+        {
+            "text": "Laos",
+            "href": null
+        },
+        {
+            "text": "Lebanon",
+            "href": null
+        },
+        {
+            "text": "Malaysia",
+            "href": null
+        },
+        {
+            "text": "Maldives",
+            "href": null
+        },
+        {
+            "text": "Mongolia",
+            "href": null
+        },
+        {
+            "text": "Myanmar",
+            "href": null
+        },
+        {
+            "text": "Nepal",
+            "href": null
+        },
+        {
+            "text": "Oman",
+            "href": null
+        },
+        {
+            "text": "Pakistan",
+            "href": null
+        },
+        {
+            "text": "Philippines",
+            "href": null
+        },
+        {
+            "text": "Qatar",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "Saudi Arabia",
+            "href": null
+        },
+        {
+            "text": "Singapore",
+            "href": null
+        },
+        {
+            "text": "Sri Lanka",
+            "href": null
+        },
+        {
+            "text": "Syria",
+            "href": null
+        },
+        {
+            "text": "Tajikistan",
+            "href": null
+        },
+        {
+            "text": "Thailand",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Turkmenistan",
+            "href": null
+        },
+        {
+            "text": "United Arab Emirates",
+            "href": null
+        },
+        {
+            "text": "Uzbekistan",
+            "href": null
+        },
+        {
+            "text": "Vietnam",
+            "href": null
+        },
+        {
+            "text": "Yemen",
+            "href": null
+        },
+        {
+            "text": "States withlimited recognition",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "Palestine",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Taiwan",
+            "href": null
+        },
+        {
+            "text": "Dependencies",
+            "href": null
+        },
+        {
+            "text": "British Indian Ocean Territory",
+            "href": null
+        },
+        {
+            "text": "Christmas Island",
+            "href": null
+        },
+        {
+            "text": "Cocos (Keeling) Islands",
+            "href": null
+        },
+        {
+            "text": "Hong Kong",
+            "href": null
+        },
+        {
+            "text": "Macau",
+            "href": null
+        },
+        {
+            "text": "Category",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Asia portal",
+            "href": null
+        }
+    ]
+}

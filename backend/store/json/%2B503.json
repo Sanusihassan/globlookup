@@ -1,0 +1,538 @@
+{
+    "tables": [
+        [
+            [],
+            [],
+            [
+                "2",
+                "Fixed"
+            ],
+            [
+                "6, 7",
+                "Mobile"
+            ]
+        ],
+        [
+            [],
+            [
+                "0",
+                "Not used in this structure – reserved for future use."
+            ],
+            [
+                "1",
+                "For future use in the Metropolitan area."
+            ],
+            [
+                "2 and 5",
+                "Used for identifying the fixed telephony service in any locality within the Metropolitan area known as “San Salvador”."
+            ],
+            [
+                "3",
+                "Used for identifying the fixed telephony service in any locality within the Central area."
+            ],
+            [
+                "4",
+                "Used for identifying the fixed telephony service in any locality within the Western area."
+            ],
+            [
+                "6",
+                "Used for identifying the fixed telephony service in any locality within the Eastern area."
+            ],
+            [
+                "7",
+                "For future use in the Eastern area."
+            ],
+            [
+                "8",
+                "For future use in the Western area."
+            ],
+            [
+                "9",
+                "For future use in the Central area."
+            ]
+        ],
+        [
+            [],
+            [],
+            [],
+            [
+                "–",
+                "20XX XXXX",
+                "Future use"
+            ],
+            [
+                "–",
+                "21XX XXXX",
+                "Fixed telephony geographic number – metropolitan area"
+            ],
+            [
+                "2XX XXXX",
+                "22XX XXXX",
+                "Fixed telephony geographic number – metropolitan area"
+            ],
+            [
+                "3XX XXXX",
+                "23XX XXXX",
+                "Fixed telephony geographic number – central area"
+            ],
+            [
+                "4XX XXXX",
+                "24XX XXXX",
+                "Fixed telephony geographic number – western area"
+            ],
+            [
+                "5XX XXXX",
+                "25XX XXXX",
+                "Fixed telephony geographic number – metropolitan area"
+            ],
+            [
+                "6XX XXXX",
+                "26XX XXXX",
+                "Fixed telephony geographic number – eastern area"
+            ],
+            [
+                "–",
+                "27XX XXXX",
+                "Fixed telephony geographic number – eastern area"
+            ],
+            [
+                "–",
+                "28XX XXXX",
+                "Fixed telephony geographic number – western area"
+            ],
+            [
+                "–",
+                "29XX XXXX",
+                "Fixed telephony geographic number – central area"
+            ],
+            [
+                "–",
+                "60XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "61XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "62XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "63XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "64XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "65XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "66XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "67XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "68XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "69XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "70XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "71XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "72XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "73XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "74XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "75XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "–",
+                "76XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "7XX XXXX",
+                "77XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "8XX XXXX",
+                "78XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ],
+            [
+                "9XX XXXX",
+                "79XX XXXX",
+                "Non-geographic number - Mobile telephony services"
+            ]
+        ],
+        [
+            [],
+            [
+                "Antigua and BarbudaBahamasBarbadosBelizeCanadaCosta RicaCubaDominicaDominican RepublicEl SalvadorGrenadaGuatemalaHaitiHondurasJamaicaMexicoNicaraguaPanamaSaint Kitts and NevisSaint LuciaSaint Vincent and the GrenadinesTrinidad and TobagoUnited States"
+            ],
+            [
+                "AnguillaArubaBermudaBonaireBritish Virgin IslandsCayman IslandsCuraçaoGreenlandGuadeloupeMartiniqueMontserratPuerto RicoSaint BarthélemySaint MartinSaint Pierre and MiquelonSabaSint EustatiusSint MaartenTurks and Caicos IslandsUnited States Virgin Islands"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "The numbering for the freephone service for the user making the call retains its 7 and 11 digit form, with the formats 800 XXXX and 800 XXXX XXXX.",
+            "The numbering for the premium rate service for the user making the call retains its 7 and 11 digit form, with the formats 900 XXXX and 900 XXXX XXXX."
+        ],
+        [
+            "Telecommunications in El Salvador"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Antigua and Barbuda",
+            "Bahamas",
+            "Barbados",
+            "Belize",
+            "Canada",
+            "Costa Rica",
+            "Cuba",
+            "Dominica",
+            "Dominican Republic",
+            "El Salvador",
+            "Grenada",
+            "Guatemala",
+            "Haiti",
+            "Honduras",
+            "Jamaica",
+            "Mexico",
+            "Nicaragua",
+            "Panama",
+            "Saint Kitts and Nevis",
+            "Saint Lucia",
+            "Saint Vincent and the Grenadines",
+            "Trinidad and Tobago",
+            "United States"
+        ],
+        [
+            "Anguilla",
+            "Aruba",
+            "Bermuda",
+            "Bonaire",
+            "British Virgin Islands",
+            "Cayman Islands",
+            "Curaçao",
+            "Greenland",
+            "Guadeloupe",
+            "Martinique",
+            "Montserrat",
+            "Puerto Rico",
+            "Saint Barthélemy",
+            "Saint Martin",
+            "Saint Pierre and Miquelon",
+            "Saba",
+            "Sint Eustatius",
+            "Sint Maarten",
+            "Turks and Caicos Islands",
+            "United States Virgin Islands"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+503",
+            "href": null
+        },
+        {
+            "text": "Country Code",
+            "href": null
+        },
+        {
+            "text": "International Call Prefix",
+            "href": null
+        },
+        {
+            "text": "thousands",
+            "href": null
+        },
+        {
+            "text": "hundreds",
+            "href": null
+        },
+        {
+            "text": "tens",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Telecommunications in El Salvador",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "c",
+            "href": null
+        },
+        {
+            "text": "\"El Salvador\"",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in  North America",
+            "href": null
+        },
+        {
+            "text": "Antigua and Barbuda",
+            "href": null
+        },
+        {
+            "text": "Bahamas",
+            "href": null
+        },
+        {
+            "text": "Barbados",
+            "href": null
+        },
+        {
+            "text": "Belize",
+            "href": null
+        },
+        {
+            "text": "Canada",
+            "href": null
+        },
+        {
+            "text": "Costa Rica",
+            "href": null
+        },
+        {
+            "text": "Cuba",
+            "href": null
+        },
+        {
+            "text": "Dominica",
+            "href": null
+        },
+        {
+            "text": "Dominican Republic",
+            "href": null
+        },
+        {
+            "text": "El Salvador",
+            "href": null
+        },
+        {
+            "text": "Grenada",
+            "href": null
+        },
+        {
+            "text": "Guatemala",
+            "href": null
+        },
+        {
+            "text": "Haiti",
+            "href": null
+        },
+        {
+            "text": "Honduras",
+            "href": null
+        },
+        {
+            "text": "Jamaica",
+            "href": null
+        },
+        {
+            "text": "Mexico",
+            "href": null
+        },
+        {
+            "text": "Nicaragua",
+            "href": null
+        },
+        {
+            "text": "Panama",
+            "href": null
+        },
+        {
+            "text": "Saint Kitts and Nevis",
+            "href": null
+        },
+        {
+            "text": "Saint Lucia",
+            "href": null
+        },
+        {
+            "text": "Saint Vincent and the Grenadines",
+            "href": null
+        },
+        {
+            "text": "Trinidad and Tobago",
+            "href": null
+        },
+        {
+            "text": "United States",
+            "href": null
+        },
+        {
+            "text": "Anguilla",
+            "href": null
+        },
+        {
+            "text": "Aruba",
+            "href": null
+        },
+        {
+            "text": "Bermuda",
+            "href": null
+        },
+        {
+            "text": "Bonaire",
+            "href": null
+        },
+        {
+            "text": "British Virgin Islands",
+            "href": null
+        },
+        {
+            "text": "Cayman Islands",
+            "href": null
+        },
+        {
+            "text": "Curaçao",
+            "href": null
+        },
+        {
+            "text": "Greenland",
+            "href": null
+        },
+        {
+            "text": "Guadeloupe",
+            "href": null
+        },
+        {
+            "text": "Martinique",
+            "href": null
+        },
+        {
+            "text": "Montserrat",
+            "href": null
+        },
+        {
+            "text": "Puerto Rico",
+            "href": null
+        },
+        {
+            "text": "Saint Barthélemy",
+            "href": null
+        },
+        {
+            "text": "Saint Martin",
+            "href": null
+        },
+        {
+            "text": "Saint Pierre and Miquelon",
+            "href": null
+        },
+        {
+            "text": "Saba",
+            "href": null
+        },
+        {
+            "text": "Sint Eustatius",
+            "href": null
+        },
+        {
+            "text": "Sint Maarten",
+            "href": null
+        },
+        {
+            "text": "Turks and Caicos Islands",
+            "href": null
+        },
+        {
+            "text": "United States Virgin Islands",
+            "href": null
+        }
+    ]
+}

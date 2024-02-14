@@ -1,0 +1,895 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Ivory Coast"
+            ],
+            [
+                "Africa"
+            ],
+            [
+                "10"
+            ],
+            [
+                "XX XX XXX XXX"
+            ],
+            [],
+            [
+                "+225"
+            ],
+            [
+                "00"
+            ],
+            [
+                "n/a"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "Abengourou",
+                "35"
+            ],
+            [
+                "Abidjan south",
+                "21"
+            ],
+            [
+                "Abobo",
+                "24"
+            ],
+            [
+                "Banco",
+                "23"
+            ],
+            [
+                "Bouaké",
+                "31"
+            ],
+            [
+                "Cocody",
+                "22"
+            ],
+            [
+                "Daloa",
+                "32"
+            ],
+            [
+                "Korhogo",
+                "36"
+            ],
+            [
+                "Man",
+                "33"
+            ],
+            [
+                "Plateau",
+                "20"
+            ],
+            [
+                "San Pedro",
+                "34"
+            ],
+            [
+                "Yamoussoukro",
+                "30"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "01",
+                "8 digits",
+                "Atlantic Telecom - Côte d'Ivoire",
+                "01",
+                "10 digits",
+                "Atlantic Telecom - Côte d'Ivoire"
+            ],
+            [
+                "02",
+                "8 digits",
+                "Atlantic Telecom - Côte d'Ivoire",
+                "05",
+                "10 digits",
+                "MTN – Côte d'Ivoire"
+            ],
+            [
+                "03",
+                "8 digits",
+                "Atlantic Telecom - Côte d'Ivoire",
+                "07",
+                "10 digits",
+                "Orange – Côte d'Ivoire"
+            ],
+            [
+                "04",
+                "8 digits",
+                "MTN – Côte d'Ivoire",
+                "",
+                "",
+                "Oricel - Côte d'Ivoire (closed)"
+            ],
+            [
+                "05",
+                "8 digits",
+                "MTN – Côte d'Ivoire",
+                "",
+                "",
+                "Warid - Côte d'Ivoire (closed)"
+            ],
+            [
+                "06",
+                "8 digits",
+                "MTN – Côte d'Ivoire",
+                "",
+                "",
+                "Comium - Côte d'Ivoire (closed)"
+            ],
+            [
+                "07",
+                "8 digits",
+                "Orange – Côte d'Ivoire",
+                "",
+                "",
+                "Aircomm - Côte d'Ivoire (closed)"
+            ],
+            [
+                "08",
+                "8 digits",
+                "Orange – Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "09",
+                "8 digits",
+                "Orange – Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "40",
+                "8 digits",
+                "Atlantic Telecom - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "42",
+                "8 digits",
+                "Atlantic Telecom - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "44",
+                "8 digits",
+                "MTN – Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "45",
+                "8 digits",
+                "MTN – Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "46",
+                "8 digits",
+                "MTN – Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "47",
+                "8 digits",
+                "Orange - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "48",
+                "8 digits",
+                "Orange - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "49",
+                "8 digits",
+                "Orange - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "50",
+                "8 digits",
+                "Warid - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "55",
+                "8 digits",
+                "MTN – Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "56",
+                "8 digits",
+                "MTN – Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "57",
+                "8 digits",
+                "Orange - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "58",
+                "8 digits",
+                "Orange - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "59",
+                "8 digits",
+                "Orange – Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "60",
+                "8 digits",
+                "Oricel - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "66",
+                "8 digits",
+                "Comium - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "67",
+                "8 digits",
+                "Comium - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "69",
+                "8 digits",
+                "Aircomm - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "77",
+                "8 digits",
+                "Orange - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "78",
+                "8 digits",
+                "Orange - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "84",
+                "8 digits",
+                "MTN - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "85",
+                "8 digits",
+                "MTN - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "86",
+                "8 digits",
+                "MTN - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "87",
+                "8 digits",
+                "Orange - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "88",
+                "8 digits",
+                "Orange - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "89",
+                "8 digits",
+                "Orange - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ],
+            [
+                "98",
+                "8 digits",
+                "Orange - Côte d'Ivoire",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [],
+            [
+                "AlgeriaAngolaBeninBotswanaBurkina FasoBurundiCameroonCape VerdeCentral African RepublicChadComorosDemocratic Republic of the CongoRepublic of the CongoDjiboutiEgyptEquatorial GuineaEritreaEswatiniEthiopiaGabonThe GambiaGhanaGuineaGuinea-BissauIvory CoastKenyaLesothoLiberiaLibyaMadagascarMalawiMaliMauritaniaMauritiusMoroccoMozambiqueNamibiaNigerNigeriaRwandaSão Tomé and PríncipeSenegalSeychellesSierra LeoneSomaliaSouth AfricaSouth SudanSudanTanzaniaTogoTunisiaUgandaZambiaZimbabwe"
+            ],
+            [
+                "Sahrawi Arab Democratic RepublicSomaliland"
+            ],
+            [
+                "Canary Islands/Ceuta/Melilla(Spain)Madeira(Portugal)Mayotte/Réunion(France)Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)Western Sahara"
+            ]
+        ],
+        [
+            [
+                "",
+                "ThisIvory Coast-related article is astub. You can help Wikipedia byexpanding it."
+            ]
+        ],
+        [
+            [
+                "",
+                "This article related totelephone numbersis astub. You can help Wikipedia byexpanding it."
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "yy xx xx xx xx- calls within Ivory Coast",
+            "+225 27 xx xx xx xx calls from outside Ivory Coast to a landline",
+            "+225 01 xx xx xx xx / +225 05 xx xx xx xx  / +225 07 xx xx xx xx  /  +225 25 xx xx xx xx  calls from outside Ivory Coast to a mobile number"
+        ],
+        [
+            "National Numbering Plan (NNP) of Côte d’Ivoire- accessed 11 August 2011."
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Algeria",
+            "Angola",
+            "Benin",
+            "Botswana",
+            "Burkina Faso",
+            "Burundi",
+            "Cameroon",
+            "Cape Verde",
+            "Central African Republic",
+            "Chad",
+            "Comoros",
+            "Democratic Republic of the Congo",
+            "Republic of the Congo",
+            "Djibouti",
+            "Egypt",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Eswatini",
+            "Ethiopia",
+            "Gabon",
+            "The Gambia",
+            "Ghana",
+            "Guinea",
+            "Guinea-Bissau",
+            "Ivory Coast",
+            "Kenya",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Madagascar",
+            "Malawi",
+            "Mali",
+            "Mauritania",
+            "Mauritius",
+            "Morocco",
+            "Mozambique",
+            "Namibia",
+            "Niger",
+            "Nigeria",
+            "Rwanda",
+            "São Tomé and Príncipe",
+            "Senegal",
+            "Seychelles",
+            "Sierra Leone",
+            "Somalia",
+            "South Africa",
+            "South Sudan",
+            "Sudan",
+            "Tanzania",
+            "Togo",
+            "Tunisia",
+            "Uganda",
+            "Zambia",
+            "Zimbabwe"
+        ],
+        [
+            "Sahrawi Arab Democratic Republic",
+            "Somaliland"
+        ],
+        [
+            "Canary Islands/Ceuta/Melilla(Spain)",
+            "Madeira(Portugal)",
+            "Mayotte/Réunion(France)",
+            "Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)",
+            "Western Sahara"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+225",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "Ivory Coast",
+            "href": null
+        },
+        {
+            "text": "Africa",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Ivory Coast",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "c",
+            "href": null
+        },
+        {
+            "text": "\"Côte d'Ivoire\"",
+            "href": null
+        },
+        {
+            "text": "National Numbering Plan (NNP) of Côte d’Ivoire",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Africa",
+            "href": null
+        },
+        {
+            "text": "Algeria",
+            "href": null
+        },
+        {
+            "text": "Angola",
+            "href": null
+        },
+        {
+            "text": "Benin",
+            "href": null
+        },
+        {
+            "text": "Botswana",
+            "href": null
+        },
+        {
+            "text": "Burkina Faso",
+            "href": null
+        },
+        {
+            "text": "Burundi",
+            "href": null
+        },
+        {
+            "text": "Cameroon",
+            "href": null
+        },
+        {
+            "text": "Cape Verde",
+            "href": null
+        },
+        {
+            "text": "Central African Republic",
+            "href": null
+        },
+        {
+            "text": "Chad",
+            "href": null
+        },
+        {
+            "text": "Comoros",
+            "href": null
+        },
+        {
+            "text": "Democratic Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Djibouti",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Equatorial Guinea",
+            "href": null
+        },
+        {
+            "text": "Eritrea",
+            "href": null
+        },
+        {
+            "text": "Eswatini",
+            "href": null
+        },
+        {
+            "text": "Ethiopia",
+            "href": null
+        },
+        {
+            "text": "Gabon",
+            "href": null
+        },
+        {
+            "text": "The Gambia",
+            "href": null
+        },
+        {
+            "text": "Ghana",
+            "href": null
+        },
+        {
+            "text": "Guinea",
+            "href": null
+        },
+        {
+            "text": "Guinea-Bissau",
+            "href": null
+        },
+        {
+            "text": "Ivory Coast",
+            "href": null
+        },
+        {
+            "text": "Kenya",
+            "href": null
+        },
+        {
+            "text": "Lesotho",
+            "href": null
+        },
+        {
+            "text": "Liberia",
+            "href": null
+        },
+        {
+            "text": "Libya",
+            "href": null
+        },
+        {
+            "text": "Madagascar",
+            "href": null
+        },
+        {
+            "text": "Malawi",
+            "href": null
+        },
+        {
+            "text": "Mali",
+            "href": null
+        },
+        {
+            "text": "Mauritania",
+            "href": null
+        },
+        {
+            "text": "Mauritius",
+            "href": null
+        },
+        {
+            "text": "Morocco",
+            "href": null
+        },
+        {
+            "text": "Mozambique",
+            "href": null
+        },
+        {
+            "text": "Namibia",
+            "href": null
+        },
+        {
+            "text": "Niger",
+            "href": null
+        },
+        {
+            "text": "Nigeria",
+            "href": null
+        },
+        {
+            "text": "Rwanda",
+            "href": null
+        },
+        {
+            "text": "São Tomé and Príncipe",
+            "href": null
+        },
+        {
+            "text": "Senegal",
+            "href": null
+        },
+        {
+            "text": "Seychelles",
+            "href": null
+        },
+        {
+            "text": "Sierra Leone",
+            "href": null
+        },
+        {
+            "text": "Somalia",
+            "href": null
+        },
+        {
+            "text": "South Africa",
+            "href": null
+        },
+        {
+            "text": "South Sudan",
+            "href": null
+        },
+        {
+            "text": "Sudan",
+            "href": null
+        },
+        {
+            "text": "Tanzania",
+            "href": null
+        },
+        {
+            "text": "Togo",
+            "href": null
+        },
+        {
+            "text": "Tunisia",
+            "href": null
+        },
+        {
+            "text": "Uganda",
+            "href": null
+        },
+        {
+            "text": "Zambia",
+            "href": null
+        },
+        {
+            "text": "Zimbabwe",
+            "href": null
+        },
+        {
+            "text": "Sahrawi Arab Democratic Republic",
+            "href": null
+        },
+        {
+            "text": "Somaliland",
+            "href": null
+        },
+        {
+            "text": "Canary Islands",
+            "href": null
+        },
+        {
+            "text": "Ceuta",
+            "href": null
+        },
+        {
+            "text": "Melilla",
+            "href": null
+        },
+        {
+            "text": "Madeira",
+            "href": null
+        },
+        {
+            "text": "Mayotte",
+            "href": null
+        },
+        {
+            "text": "Réunion",
+            "href": null
+        },
+        {
+            "text": "Saint Helena and Tristan da Cunha",
+            "href": null
+        },
+        {
+            "text": "Ascension Island",
+            "href": null
+        },
+        {
+            "text": "Western Sahara",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Ivory Coast",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "telephone numbers",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        }
+    ]
+}

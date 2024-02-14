@@ -1,0 +1,1021 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Mexico"
+            ],
+            [
+                "North America"
+            ],
+            [
+                "+52XXXXXXXXXX"
+            ],
+            [],
+            [
+                "52"
+            ]
+        ],
+        [
+            [],
+            [
+                "2",
+                "East"
+            ],
+            [
+                "3",
+                "West"
+            ],
+            [
+                "4",
+                "North"
+            ],
+            [
+                "5",
+                "Center (Mexico Citymetropolitan area)"
+            ],
+            [
+                "6",
+                "Northwest"
+            ],
+            [
+                "7",
+                "South"
+            ],
+            [
+                "8",
+                "Northeast"
+            ],
+            [
+                "9",
+                "Southeast"
+            ]
+        ],
+        [
+            [],
+            [
+                "00",
+                "International direct dialing",
+                "00 + country code + local phone number"
+            ]
+        ],
+        [
+            [],
+            [
+                "55/56",
+                "Mexico City"
+            ],
+            [
+                "81",
+                "Monterrey, Nuevo León"
+            ],
+            [
+                "33",
+                "Guadalajara, Jalisco"
+            ],
+            [
+                "656",
+                "Ciudad Juárez, Chihuahua"
+            ],
+            [
+                "614",
+                "Chihuahua, Chihuahua"
+            ],
+            [
+                "618",
+                "Durango, Durango"
+            ],
+            [
+                "999 / 990",
+                "Mérida, Yucatán"
+            ],
+            [
+                "221 / 222",
+                "Puebla, Puebla"
+            ],
+            [
+                "442 / 446",
+                "Querétaro, Querétaro"
+            ],
+            [
+                "449",
+                "Aguascalientes, Aguascalientes"
+            ],
+            [
+                "663 / 664",
+                "Tijuana, Baja California"
+            ],
+            [
+                "612",
+                "La Paz, Baja California Sur"
+            ],
+            [
+                "624",
+                "Los Cabos, Baja California Sur"
+            ],
+            [
+                "844",
+                "Saltillo, Coahuila"
+            ],
+            [
+                "686",
+                "Mexicali, Baja California"
+            ],
+            [
+                "667",
+                "Culiacán, Sinaloa"
+            ],
+            [
+                "722 / 729",
+                "Toluca, Mexico"
+            ],
+            [
+                "998",
+                "Cancún, Quintana Roo"
+            ],
+            [
+                "871",
+                "Torreón, Coahuila"
+            ],
+            [
+                "744",
+                "Acapulco, Guerrero"
+            ],
+            [
+                "444 / 440",
+                "San Luis Potosí, San Luis Potosí"
+            ],
+            [
+                "833",
+                "Tampico, Tamaulipas"
+            ],
+            [
+                "477 / 479",
+                "León, Guanajuato"
+            ],
+            [
+                "961",
+                "Tuxtla Gutiérrez, Chiapas"
+            ],
+            [
+                "662",
+                "Hermosillo, Sonora"
+            ],
+            [
+                "633",
+                "Agua Prieta, Sonora"
+            ],
+            [
+                "645",
+                "Cananea, Sonora"
+            ],
+            [
+                "644",
+                "Cd. Obregón, Sonora"
+            ],
+            [
+                "642",
+                "Navojoa, Sonora"
+            ],
+            [
+                "631",
+                "Nogales, Sonora"
+            ],
+            [
+                "229",
+                "Veracruz, Veracruz"
+            ],
+            [
+                "443",
+                "Morelia, Michoacán"
+            ],
+            [
+                "921",
+                "Coatzacoalcos, Veracruz"
+            ],
+            [
+                "771",
+                "Pachuca, Hidalgo"
+            ],
+            [
+                "981",
+                "Campeche, Campeche"
+            ],
+            [
+                "899",
+                "Reynosa, Tamaulipas"
+            ],
+            [
+                "868",
+                "Matamoros, Tamaulipas"
+            ]
+        ],
+        [
+            [],
+            [
+                "00",
+                "International direct dialing",
+                "00 + country code + area code +  phone number",
+                "-"
+            ],
+            [
+                "01",
+                "Domestic direct dialing",
+                "01 + area code + phone number",
+                "10"
+            ],
+            [
+                "02",
+                "Domestic operator dialing",
+                "02 + area code + phone number",
+                "10"
+            ],
+            [
+                "09",
+                "International operator dialing",
+                "09 + country code + area code + phone number",
+                "-"
+            ],
+            [
+                "044",
+                "Local cell phone from a land line",
+                "044 + area code + phone number",
+                "10"
+            ],
+            [
+                "-",
+                "Cell phone from a cell phone",
+                "area code + phone number",
+                "10"
+            ],
+            [
+                "045",
+                "Domestic cell phone from a land line",
+                "045 + area code + phone number",
+                "10"
+            ],
+            [
+                "-",
+                "Domestic cell phone from a cell phone",
+                "area code + phone number",
+                "10"
+            ]
+        ],
+        [
+            [],
+            [
+                "020",
+                "Operator-assisted domestic collect call (Telmex)"
+            ],
+            [
+                "030",
+                "Local time (Telmex)"
+            ],
+            [
+                "031",
+                "Wake up service"
+            ],
+            [
+                "040",
+                "Information / directory"
+            ],
+            [
+                "050",
+                "Phone company hotline"
+            ],
+            [
+                "051",
+                "Number portability PIN (can be used to determine your own line's phone number)"
+            ],
+            [
+                "070",
+                "City hotline (not available in some cities)"
+            ],
+            [
+                "071",
+                "CFEhotline (electric company)"
+            ],
+            [
+                "072",
+                "[Reporte de Servicios de Ciudad] hotline (Water Troubles, Bad Road, Etc... not available in some cities)"
+            ],
+            [
+                "090",
+                "Operator-assisted international collect call"
+            ],
+            [
+                "911",
+                "Emergency telephone number (since 2016)"
+            ]
+        ],
+        [
+            [],
+            [
+                "Antigua and BarbudaBahamasBarbadosBelizeCanadaCosta RicaCubaDominicaDominican RepublicEl SalvadorGrenadaGuatemalaHaitiHondurasJamaicaMexicoNicaraguaPanamaSaint Kitts and NevisSaint LuciaSaint Vincent and the GrenadinesTrinidad and TobagoUnited States"
+            ],
+            [
+                "AnguillaArubaBermudaBonaireBritish Virgin IslandsCayman IslandsCuraçaoGreenlandGuadeloupeMartiniqueMontserratPuerto RicoSaint BarthélemySaint MartinSaint Pierre and MiquelonSabaSint EustatiusSint MaartenTurks and Caicos IslandsUnited States Virgin Islands"
+            ]
+        ],
+        [
+            [
+                "",
+                "This Mexico-related article is astub. You can help Wikipedia byexpanding it."
+            ]
+        ],
+        [
+            [
+                "",
+                "This article related totelephone numbersis astub. You can help Wikipedia byexpanding it."
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "Area codes in Mexico by code"
+        ],
+        [
+            "ITU allocations list"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Antigua and Barbuda",
+            "Bahamas",
+            "Barbados",
+            "Belize",
+            "Canada",
+            "Costa Rica",
+            "Cuba",
+            "Dominica",
+            "Dominican Republic",
+            "El Salvador",
+            "Grenada",
+            "Guatemala",
+            "Haiti",
+            "Honduras",
+            "Jamaica",
+            "Mexico",
+            "Nicaragua",
+            "Panama",
+            "Saint Kitts and Nevis",
+            "Saint Lucia",
+            "Saint Vincent and the Grenadines",
+            "Trinidad and Tobago",
+            "United States"
+        ],
+        [
+            "Anguilla",
+            "Aruba",
+            "Bermuda",
+            "Bonaire",
+            "British Virgin Islands",
+            "Cayman Islands",
+            "Curaçao",
+            "Greenland",
+            "Guadeloupe",
+            "Martinique",
+            "Montserrat",
+            "Puerto Rico",
+            "Saint Barthélemy",
+            "Saint Martin",
+            "Saint Pierre and Miquelon",
+            "Saba",
+            "Sint Eustatius",
+            "Sint Maarten",
+            "Turks and Caicos Islands",
+            "United States Virgin Islands"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+52",
+            "href": null
+        },
+        {
+            "text": "Mexico",
+            "href": null
+        },
+        {
+            "text": "North America",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "Federal Telecommunications Institute",
+            "href": null
+        },
+        {
+            "text": "Mexico",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Mexico City",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Mexico",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "International access code",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Mexico City",
+            "href": null
+        },
+        {
+            "text": "Monterrey",
+            "href": null
+        },
+        {
+            "text": "Guadalajara",
+            "href": null
+        },
+        {
+            "text": "Toluca",
+            "href": null
+        },
+        {
+            "text": "Puebla",
+            "href": null
+        },
+        {
+            "text": "León",
+            "href": null
+        },
+        {
+            "text": "Mexico City",
+            "href": null
+        },
+        {
+            "text": "Tijuana",
+            "href": null
+        },
+        {
+            "text": "International Direct Distance Dialing",
+            "href": null
+        },
+        {
+            "text": "North American Numbering Plan",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "[4]",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "[6]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "55",
+            "href": null
+        },
+        {
+            "text": "56",
+            "href": null
+        },
+        {
+            "text": "Mexico City",
+            "href": null
+        },
+        {
+            "text": "81",
+            "href": null
+        },
+        {
+            "text": "Monterrey, Nuevo León",
+            "href": null
+        },
+        {
+            "text": "Guadalajara, Jalisco",
+            "href": null
+        },
+        {
+            "text": "Ciudad Juárez, Chihuahua",
+            "href": null
+        },
+        {
+            "text": "Chihuahua, Chihuahua",
+            "href": null
+        },
+        {
+            "text": "618",
+            "href": null
+        },
+        {
+            "text": "Durango, Durango",
+            "href": null
+        },
+        {
+            "text": "Mérida, Yucatán",
+            "href": null
+        },
+        {
+            "text": "Puebla, Puebla",
+            "href": null
+        },
+        {
+            "text": "Querétaro, Querétaro",
+            "href": null
+        },
+        {
+            "text": "Aguascalientes, Aguascalientes",
+            "href": null
+        },
+        {
+            "text": "Tijuana, Baja California",
+            "href": null
+        },
+        {
+            "text": "La Paz, Baja California Sur",
+            "href": null
+        },
+        {
+            "text": "Los Cabos, Baja California Sur",
+            "href": null
+        },
+        {
+            "text": "Saltillo, Coahuila",
+            "href": null
+        },
+        {
+            "text": "Mexicali, Baja California",
+            "href": null
+        },
+        {
+            "text": "Culiacán, Sinaloa",
+            "href": null
+        },
+        {
+            "text": "Toluca, Mexico",
+            "href": null
+        },
+        {
+            "text": "Cancún, Quintana Roo",
+            "href": null
+        },
+        {
+            "text": "Torreón, Coahuila",
+            "href": null
+        },
+        {
+            "text": "Acapulco, Guerrero",
+            "href": null
+        },
+        {
+            "text": "San Luis Potosí, San Luis Potosí",
+            "href": null
+        },
+        {
+            "text": "Tampico, Tamaulipas",
+            "href": null
+        },
+        {
+            "text": "León, Guanajuato",
+            "href": null
+        },
+        {
+            "text": "Tuxtla Gutiérrez, Chiapas",
+            "href": null
+        },
+        {
+            "text": "Hermosillo, Sonora",
+            "href": null
+        },
+        {
+            "text": "Agua Prieta, Sonora",
+            "href": null
+        },
+        {
+            "text": "Cananea, Sonora",
+            "href": null
+        },
+        {
+            "text": "Cd. Obregón, Sonora",
+            "href": null
+        },
+        {
+            "text": "Navojoa, Sonora",
+            "href": null
+        },
+        {
+            "text": "Nogales, Sonora",
+            "href": null
+        },
+        {
+            "text": "Veracruz, Veracruz",
+            "href": null
+        },
+        {
+            "text": "Morelia, Michoacán",
+            "href": null
+        },
+        {
+            "text": "Coatzacoalcos, Veracruz",
+            "href": null
+        },
+        {
+            "text": "Pachuca, Hidalgo",
+            "href": null
+        },
+        {
+            "text": "Campeche, Campeche",
+            "href": null
+        },
+        {
+            "text": "Reynosa, Tamaulipas",
+            "href": null
+        },
+        {
+            "text": "Matamoros, Tamaulipas",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "CFE",
+            "href": null
+        },
+        {
+            "text": "911",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Area codes in Mexico by code",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"AGREEMENT whereby the Plenary of the Federal Institute of Telecommunications modifies the Fundamental Technical Plans for Numbering and Signaling, as well as what refers to the Number Portability Rules\"",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "\"El Pleno del IFT aprobó los índices y parámetros de calidad del servicio móvil y aprobó los nuevos Planes de Numeración y Señalización (Comunicado 149/2017)\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "CED.",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Phone System Changes Kill 2 of Mexico’s Area Codes",
+            "href": null
+        },
+        {
+            "text": "Los Angeles Times",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Telecommunications Reports",
+            "href": null
+        },
+        {
+            "text": "ITU allocations list",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in  North America",
+            "href": null
+        },
+        {
+            "text": "Antigua and Barbuda",
+            "href": null
+        },
+        {
+            "text": "Bahamas",
+            "href": null
+        },
+        {
+            "text": "Barbados",
+            "href": null
+        },
+        {
+            "text": "Belize",
+            "href": null
+        },
+        {
+            "text": "Canada",
+            "href": null
+        },
+        {
+            "text": "Costa Rica",
+            "href": null
+        },
+        {
+            "text": "Cuba",
+            "href": null
+        },
+        {
+            "text": "Dominica",
+            "href": null
+        },
+        {
+            "text": "Dominican Republic",
+            "href": null
+        },
+        {
+            "text": "El Salvador",
+            "href": null
+        },
+        {
+            "text": "Grenada",
+            "href": null
+        },
+        {
+            "text": "Guatemala",
+            "href": null
+        },
+        {
+            "text": "Haiti",
+            "href": null
+        },
+        {
+            "text": "Honduras",
+            "href": null
+        },
+        {
+            "text": "Jamaica",
+            "href": null
+        },
+        {
+            "text": "Mexico",
+            "href": null
+        },
+        {
+            "text": "Nicaragua",
+            "href": null
+        },
+        {
+            "text": "Panama",
+            "href": null
+        },
+        {
+            "text": "Saint Kitts and Nevis",
+            "href": null
+        },
+        {
+            "text": "Saint Lucia",
+            "href": null
+        },
+        {
+            "text": "Saint Vincent and the Grenadines",
+            "href": null
+        },
+        {
+            "text": "Trinidad and Tobago",
+            "href": null
+        },
+        {
+            "text": "United States",
+            "href": null
+        },
+        {
+            "text": "Anguilla",
+            "href": null
+        },
+        {
+            "text": "Aruba",
+            "href": null
+        },
+        {
+            "text": "Bermuda",
+            "href": null
+        },
+        {
+            "text": "Bonaire",
+            "href": null
+        },
+        {
+            "text": "British Virgin Islands",
+            "href": null
+        },
+        {
+            "text": "Cayman Islands",
+            "href": null
+        },
+        {
+            "text": "Curaçao",
+            "href": null
+        },
+        {
+            "text": "Greenland",
+            "href": null
+        },
+        {
+            "text": "Guadeloupe",
+            "href": null
+        },
+        {
+            "text": "Martinique",
+            "href": null
+        },
+        {
+            "text": "Montserrat",
+            "href": null
+        },
+        {
+            "text": "Puerto Rico",
+            "href": null
+        },
+        {
+            "text": "Saint Barthélemy",
+            "href": null
+        },
+        {
+            "text": "Saint Martin",
+            "href": null
+        },
+        {
+            "text": "Saint Pierre and Miquelon",
+            "href": null
+        },
+        {
+            "text": "Saba",
+            "href": null
+        },
+        {
+            "text": "Sint Eustatius",
+            "href": null
+        },
+        {
+            "text": "Sint Maarten",
+            "href": null
+        },
+        {
+            "text": "Turks and Caicos Islands",
+            "href": null
+        },
+        {
+            "text": "United States Virgin Islands",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "telephone numbers",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        }
+    ]
+}

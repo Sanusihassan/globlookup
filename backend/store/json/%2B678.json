@@ -1,0 +1,644 @@
+{
+    "tables": [
+        [
+            [
+                ""
+            ],
+            [],
+            [
+                "Vanuatu"
+            ],
+            [
+                "Oceania"
+            ],
+            [],
+            [
+                "+678"
+            ],
+            [
+                "00"
+            ]
+        ],
+        [
+            [],
+            [],
+            [],
+            [
+                "00-07",
+                "",
+                "Invalid",
+                "",
+                "00-07 are invalid"
+            ],
+            [
+                "080",
+                "",
+                "Invalid",
+                "",
+                "08xxxx are invalid"
+            ],
+            [
+                "0811",
+                "Six",
+                "Six",
+                "Toll Free (Telecom Vanuatu Ltd)",
+                "0811xx are valid"
+            ],
+            [
+                "0812-0817",
+                "",
+                "Invalid",
+                "",
+                "0812xx-0817xx are invalid"
+            ],
+            [
+                "0818",
+                "Six",
+                "Six",
+                "Toll Free (Digicel Vanuatu Ltd)",
+                "0818xx are valid"
+            ],
+            [
+                "0819-089",
+                "",
+                "Invalid",
+                "",
+                "0819xx-089xx are invalid"
+            ],
+            [
+                "0900",
+                "",
+                "Invalid",
+                "Premium rate services",
+                "0900xxx are invalid"
+            ],
+            [
+                "10",
+                "",
+                "Invalid",
+                "",
+                "10X are invalid"
+            ],
+            [
+                "11X",
+                "Three",
+                "Three",
+                "Life & safety short codes",
+                "11X are valid"
+            ],
+            [
+                "12-14",
+                "Three",
+                "Three",
+                "On-net short codes",
+                "12x-14x are valid"
+            ],
+            [
+                "15",
+                "Three",
+                "Three",
+                "Off-net VAS SMS short codes",
+                "15x are valid"
+            ],
+            [
+                "16",
+                "Three",
+                "Three",
+                "Off-net and public information short codes",
+                "16x are valid"
+            ],
+            [
+                "17",
+                "Three",
+                "Three",
+                "On-net short codes",
+                "17x are valid"
+            ],
+            [
+                "18",
+                "Three",
+                "Three",
+                "Off-net VAS SMS short codes",
+                "18x are valid"
+            ],
+            [
+                "19",
+                "Three",
+                "Three",
+                "Directory and customer assistance short codes",
+                "19x are valid"
+            ],
+            [
+                "20",
+                "Five",
+                "Five",
+                "Fixed network telephone service (Telecom Vanuatu Ltd)",
+                "20xxx are valid"
+            ],
+            [
+                "21",
+                "",
+                "Invalid",
+                "",
+                "21xxx are invalid"
+            ],
+            [
+                "22-29",
+                "Five",
+                "Five",
+                "Fixed network telephone service (Telecom Vanuatu Ltd)",
+                "22xxx-29xxx are valid, SHEFA Province and Port-Vila Areas"
+            ],
+            [
+                "30",
+                "Five",
+                "Five",
+                "Non-geographic (Telecom Vanuatu Ltd)",
+                "30xxx are valid"
+            ],
+            [
+                "31-32",
+                "",
+                "Invalid",
+                "",
+                "31xxx-32xxx are invalid"
+            ],
+            [
+                "33",
+                "Five",
+                "Five",
+                "Government Fixed Network (Digicel Vanuatu Ltd)",
+                "33xxx are valid"
+            ],
+            [
+                "340-349",
+                "Five",
+                "Five",
+                "Fixed - non-geographic (Digicel Vanuatu Ltd)",
+                "340xx-349xx are valid"
+            ],
+            [
+                "35",
+                "Five",
+                "Five",
+                "Fixed network telephone service (Telecom Vanuatu Ltd)",
+                "35xxx are valid"
+            ],
+            [
+                "36",
+                "Five",
+                "Five",
+                "Fixed network telephone service (Telecom Vanuatu Ltd)",
+                "36xxx are valid, SANMA Province"
+            ],
+            [
+                "37",
+                "Five",
+                "Five",
+                "Fixed network telephone service (Telecom Vanuatu Ltd)",
+                "37xxx are valid, Luganville area"
+            ],
+            [
+                "380-388",
+                "Five",
+                "Five",
+                "Fixed network telephone service (Telecom Vanuatu Ltd)",
+                "380xx-388xx are valid, PENAMA and TORBA Provinces"
+            ],
+            [
+                "389",
+                "",
+                "Invalid",
+                "",
+                "389xx are invalid"
+            ],
+            [
+                "39",
+                "",
+                "Invalid",
+                "",
+                "39xxx are invalid"
+            ],
+            [
+                "40-47",
+                "",
+                "Invalid",
+                "",
+                "40xxx-47xxx are invalid"
+            ],
+            [
+                "480-483",
+                "",
+                "Invalid",
+                "",
+                "480xx-483xx are invalid"
+            ],
+            [
+                "484-489",
+                "Five",
+                "Five",
+                "Fixed network telephone service (Telecom Vanuatu Ltd)",
+                "484xx-489xx are valid, MALAMPA Province"
+            ],
+            [
+                "49",
+                "",
+                "Invalid",
+                "",
+                "49xxx are invalid"
+            ],
+            [
+                "50-52",
+                "Seven",
+                "Seven",
+                "Cellular mobile service (Digicel Vanuatu Ltd)",
+                "50xxxxx-52xxxxx are valid"
+            ],
+            [
+                "53-56",
+                "Seven",
+                "Seven",
+                "Cellular mobile service (Digicel Vanuatu Ltd)",
+                "53xxxxx-56xxxxx are valid"
+            ],
+            [
+                "570-571",
+                "",
+                "Invalid",
+                "",
+                "570xxxx-571xxxx are invalid"
+            ],
+            [
+                "572-575",
+                "Seven",
+                "Seven",
+                "Cellular mobile service (Digicel Vanuatu Ltd)",
+                "572xxxx-575xxxx are valid"
+            ],
+            [
+                "576-579",
+                "",
+                "Invalid",
+                "",
+                "576xxxx-579xxxx are invalid"
+            ],
+            [
+                "58",
+                "Seven",
+                "Seven",
+                "Cellular mobile service (Digicel Vanuatu Ltd)",
+                "58XXXXX are valid"
+            ],
+            [
+                "59",
+                "Seven",
+                "Seven",
+                "Cellular mobile service (Digicel Vanuatu Ltd)",
+                "59XXXXX are valid"
+            ],
+            [
+                "6",
+                "",
+                "Invalid",
+                "",
+                "All numbers commencing with 6 are invalid"
+            ],
+            [
+                "70-71",
+                "Seven",
+                "Seven",
+                "Cellular mobile service (Telecom Vanuatu Ltd)",
+                "70xxxxx-71xxxxx are valid"
+            ],
+            [
+                "72",
+                "",
+                "Invalid",
+                "",
+                "72xxxxx are invalid"
+            ],
+            [
+                "73-76",
+                "Seven",
+                "Seven",
+                "Cellular mobile service (Telecom Vanuatu Ltd)",
+                "73xxxxx-76xxxxx are valid"
+            ],
+            [
+                "77",
+                "Seven",
+                "Seven",
+                "Cellular mobile service (Telecom Vanuatu Ltd)",
+                "77xxxxx are valid"
+            ],
+            [
+                "78-79",
+                "",
+                "Invalid",
+                "",
+                "78xxxxx – 79xxxxx are invalid"
+            ],
+            [
+                "80-87",
+                "",
+                "Invalid",
+                "",
+                "80xxx-87xxx are invalid"
+            ],
+            [
+                "88",
+                "Five",
+                "Five",
+                "Fixed network telephone service (Telecom Vanuatu Ltd)",
+                "88xxx are valid, TAFEA Province"
+            ],
+            [
+                "89",
+                "",
+                "Invalid",
+                "",
+                "89xxx are invalid"
+            ],
+            [
+                "9000-9009",
+                "Seven",
+                "Seven",
+                "WanTok",
+                "900xxxx are valid"
+            ],
+            [
+                "901-909",
+                "Seven",
+                "Seven",
+                "Nomadic/Voice over IP (WanTok Networks Ltd)",
+                "901xxxx-909xxxx are valid"
+            ],
+            [
+                "91-99",
+                "",
+                "Invalid",
+                "",
+                "91xxxxx-99xxxxx are invalid"
+            ],
+            [
+                "99",
+                "",
+                "Invalid",
+                "",
+                "99xxxxx are invalid"
+            ]
+        ],
+        [
+            [],
+            [
+                "AustraliaFederated States of MicronesiaFijiKiribatiMarshall IslandsNauruNew ZealandPalauPapua New GuineaSamoaSolomon IslandsTongaTuvaluVanuatu"
+            ],
+            [
+                "Cook IslandsNiue"
+            ],
+            [
+                "American SamoaChristmas IslandClipperton IslandCocos (Keeling) IslandsEaster IslandFrench PolynesiaGuamHawaiiNew CaledoniaNorfolk IslandNorthern Mariana IslandsPitcairn IslandsTokelauWallis and Futuna"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "Telecommunications in Vanuatu"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Australia",
+            "Federated States of Micronesia",
+            "Fiji",
+            "Kiribati",
+            "Marshall Islands",
+            "Nauru",
+            "New Zealand",
+            "Palau",
+            "Papua New Guinea",
+            "Samoa",
+            "Solomon Islands",
+            "Tonga",
+            "Tuvalu",
+            "Vanuatu"
+        ],
+        [
+            "Cook Islands",
+            "Niue"
+        ],
+        [
+            "American Samoa",
+            "Christmas Island",
+            "Clipperton Island",
+            "Cocos (Keeling) Islands",
+            "Easter Island",
+            "French Polynesia",
+            "Guam",
+            "Hawaii",
+            "New Caledonia",
+            "Norfolk Island",
+            "Northern Mariana Islands",
+            "Pitcairn Islands",
+            "Tokelau",
+            "Wallis and Futuna"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+678",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Vanuatu",
+            "href": null
+        },
+        {
+            "text": "Oceania",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Telecommunications in Vanuatu",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Vanuatu\"",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Oceania",
+            "href": null
+        },
+        {
+            "text": "Australia",
+            "href": null
+        },
+        {
+            "text": "Federated States of Micronesia",
+            "href": null
+        },
+        {
+            "text": "Fiji",
+            "href": null
+        },
+        {
+            "text": "Kiribati",
+            "href": null
+        },
+        {
+            "text": "Marshall Islands",
+            "href": null
+        },
+        {
+            "text": "Nauru",
+            "href": null
+        },
+        {
+            "text": "New Zealand",
+            "href": null
+        },
+        {
+            "text": "Palau",
+            "href": null
+        },
+        {
+            "text": "Papua New Guinea",
+            "href": null
+        },
+        {
+            "text": "Samoa",
+            "href": null
+        },
+        {
+            "text": "Solomon Islands",
+            "href": null
+        },
+        {
+            "text": "Tonga",
+            "href": null
+        },
+        {
+            "text": "Tuvalu",
+            "href": null
+        },
+        {
+            "text": "Vanuatu",
+            "href": null
+        },
+        {
+            "text": "Cook Islands",
+            "href": null
+        },
+        {
+            "text": "Niue",
+            "href": null
+        },
+        {
+            "text": "American Samoa",
+            "href": null
+        },
+        {
+            "text": "Christmas Island",
+            "href": null
+        },
+        {
+            "text": "Clipperton Island",
+            "href": null
+        },
+        {
+            "text": "Cocos (Keeling) Islands",
+            "href": null
+        },
+        {
+            "text": "Easter Island",
+            "href": null
+        },
+        {
+            "text": "French Polynesia",
+            "href": null
+        },
+        {
+            "text": "Guam",
+            "href": null
+        },
+        {
+            "text": "Hawaii",
+            "href": null
+        },
+        {
+            "text": "New Caledonia",
+            "href": null
+        },
+        {
+            "text": "Norfolk Island",
+            "href": null
+        },
+        {
+            "text": "Northern Mariana Islands",
+            "href": null
+        },
+        {
+            "text": "Pitcairn Islands",
+            "href": null
+        },
+        {
+            "text": "Tokelau",
+            "href": null
+        },
+        {
+            "text": "Wallis and Futuna",
+            "href": null
+        }
+    ]
+}

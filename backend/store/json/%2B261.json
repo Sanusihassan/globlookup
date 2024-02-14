@@ -1,0 +1,816 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Madagascar"
+            ],
+            [
+                "Africa"
+            ],
+            [
+                "7"
+            ],
+            [],
+            [
+                "+261"
+            ],
+            [
+                "00"
+            ],
+            [
+                "0"
+            ]
+        ],
+        [
+            [],
+            [
+                "20",
+                "Geographic number",
+                "Telecom Malagasy"
+            ],
+            [
+                "22",
+                "Non geographic number",
+                "Gulfsat Madagascar"
+            ],
+            [
+                "32",
+                "Non geographic number",
+                "Orange Madagascar"
+            ],
+            [
+                "33",
+                "Non geographic number",
+                "Airtel Madagascar"
+            ],
+            [
+                "34 or 38",
+                "Non geographic number",
+                "Telma mobile"
+            ],
+            [
+                "39",
+                "Non geographic number",
+                "bip Madagascar"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "22",
+                "20 22",
+                "Antananarivo"
+            ],
+            [
+                "42",
+                "—",
+                "Ambatolampy"
+            ],
+            [
+                "44",
+                "—",
+                "Antsirabe"
+            ],
+            [
+                "47",
+                "—",
+                "Ambositra"
+            ],
+            [
+                "48",
+                "—",
+                "Mid-West Madagascar"
+            ],
+            [
+                "53",
+                "20 53",
+                "Toamasina"
+            ],
+            [
+                "54",
+                "20 54",
+                "Ambatondrazaka"
+            ],
+            [
+                "56",
+                "20 56",
+                "Moramanga"
+            ],
+            [
+                "57",
+                "—",
+                "Maroantsetra"
+            ],
+            [
+                "—",
+                "20 57",
+                "Sainte Marie"
+            ],
+            [
+                "62",
+                "20 62",
+                "Mahajanga"
+            ],
+            [
+                "67",
+                "20 67",
+                "Antsohihy"
+            ],
+            [
+                "—",
+                "20 69",
+                "Maintirano"
+            ],
+            [
+                "72",
+                "—",
+                "Manakara—Mananjary"
+            ],
+            [
+                "—",
+                "20 722",
+                "Manakara"
+            ],
+            [
+                "—",
+                "20 729",
+                "Mananjary"
+            ],
+            [
+                "73",
+                "20 73",
+                "Farafangana"
+            ],
+            [
+                "75",
+                "20 75",
+                "Fianarantsoa"
+            ],
+            [
+                "82",
+                "20 82",
+                "Antsiranana(Diego Suarez)"
+            ],
+            [
+                "86",
+                "20 86",
+                "Nosy Be"
+            ],
+            [
+                "88",
+                "20 88",
+                "Sambava"
+            ],
+            [
+                "92",
+                "20 92",
+                "Fort Dauphin"
+            ],
+            [
+                "94",
+                "20 94",
+                "Toliary(Tulear)"
+            ],
+            [
+                "95",
+                "20 95",
+                "Morondava"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlgeriaAngolaBeninBotswanaBurkina FasoBurundiCameroonCape VerdeCentral African RepublicChadComorosDemocratic Republic of the CongoRepublic of the CongoDjiboutiEgyptEquatorial GuineaEritreaEswatiniEthiopiaGabonThe GambiaGhanaGuineaGuinea-BissauIvory CoastKenyaLesothoLiberiaLibyaMadagascarMalawiMaliMauritaniaMauritiusMoroccoMozambiqueNamibiaNigerNigeriaRwandaSão Tomé and PríncipeSenegalSeychellesSierra LeoneSomaliaSouth AfricaSouth SudanSudanTanzaniaTogoTunisiaUgandaZambiaZimbabwe"
+            ],
+            [
+                "Sahrawi Arab Democratic RepublicSomaliland"
+            ],
+            [
+                "Canary Islands/Ceuta/Melilla(Spain)Madeira(Portugal)Mayotte/Réunion(France)Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)Western Sahara"
+            ]
+        ],
+        [
+            [
+                "",
+                "ThisMadagascar-related article is astub. You can help Wikipedia byexpanding it."
+            ]
+        ],
+        [
+            [
+                "",
+                "This article related totelephone numbersis astub. You can help Wikipedia byexpanding it."
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "+261 international prefix",
+            "AB operator code (two digits for each operator)",
+            "Z area code (described as administrative area)",
+            "PQMCDU subscriber number"
+        ],
+        [
+            "20-29 identification code for fixed service operators,",
+            "30-39 identification code for mobile service operators"
+        ],
+        [
+            "Z = 2 Antananarivo zone",
+            "Z = 4 Antananarivo zone (rest of the province)",
+            "Z = 5 Toamasina zone",
+            "Z = 6 Mahajanga zone",
+            "Z = 7 Fianarantsoa zone",
+            "Z = 8 Antsiranana zone",
+            "Z = 9 Toliara zone"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Algeria",
+            "Angola",
+            "Benin",
+            "Botswana",
+            "Burkina Faso",
+            "Burundi",
+            "Cameroon",
+            "Cape Verde",
+            "Central African Republic",
+            "Chad",
+            "Comoros",
+            "Democratic Republic of the Congo",
+            "Republic of the Congo",
+            "Djibouti",
+            "Egypt",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Eswatini",
+            "Ethiopia",
+            "Gabon",
+            "The Gambia",
+            "Ghana",
+            "Guinea",
+            "Guinea-Bissau",
+            "Ivory Coast",
+            "Kenya",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Madagascar",
+            "Malawi",
+            "Mali",
+            "Mauritania",
+            "Mauritius",
+            "Morocco",
+            "Mozambique",
+            "Namibia",
+            "Niger",
+            "Nigeria",
+            "Rwanda",
+            "São Tomé and Príncipe",
+            "Senegal",
+            "Seychelles",
+            "Sierra Leone",
+            "Somalia",
+            "South Africa",
+            "South Sudan",
+            "Sudan",
+            "Tanzania",
+            "Togo",
+            "Tunisia",
+            "Uganda",
+            "Zambia",
+            "Zimbabwe"
+        ],
+        [
+            "Sahrawi Arab Democratic Republic",
+            "Somaliland"
+        ],
+        [
+            "Canary Islands/Ceuta/Melilla(Spain)",
+            "Madeira(Portugal)",
+            "Mayotte/Réunion(France)",
+            "Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)",
+            "Western Sahara"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+261",
+            "href": null
+        },
+        {
+            "text": "Madagascar",
+            "href": null
+        },
+        {
+            "text": "Africa",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "Antananarivo",
+            "href": null
+        },
+        {
+            "text": "Ambatolampy",
+            "href": null
+        },
+        {
+            "text": "Antsirabe",
+            "href": null
+        },
+        {
+            "text": "Ambositra",
+            "href": null
+        },
+        {
+            "text": "Toamasina",
+            "href": null
+        },
+        {
+            "text": "Ambatondrazaka",
+            "href": null
+        },
+        {
+            "text": "Moramanga",
+            "href": null
+        },
+        {
+            "text": "Maroantsetra",
+            "href": null
+        },
+        {
+            "text": "Sainte Marie",
+            "href": null
+        },
+        {
+            "text": "Mahajanga",
+            "href": null
+        },
+        {
+            "text": "Antsohihy",
+            "href": null
+        },
+        {
+            "text": "Maintirano",
+            "href": null
+        },
+        {
+            "text": "Manakara",
+            "href": null
+        },
+        {
+            "text": "Mananjary",
+            "href": null
+        },
+        {
+            "text": "Manakara",
+            "href": null
+        },
+        {
+            "text": "Mananjary",
+            "href": null
+        },
+        {
+            "text": "Farafangana",
+            "href": null
+        },
+        {
+            "text": "Fianarantsoa",
+            "href": null
+        },
+        {
+            "text": "Antsiranana",
+            "href": null
+        },
+        {
+            "text": "Nosy Be",
+            "href": null
+        },
+        {
+            "text": "Sambava",
+            "href": null
+        },
+        {
+            "text": "Fort Dauphin",
+            "href": null
+        },
+        {
+            "text": "Toliary",
+            "href": null
+        },
+        {
+            "text": "Morondava",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Madagascar (country code +261)\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Madagascar\"",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Africa",
+            "href": null
+        },
+        {
+            "text": "Algeria",
+            "href": null
+        },
+        {
+            "text": "Angola",
+            "href": null
+        },
+        {
+            "text": "Benin",
+            "href": null
+        },
+        {
+            "text": "Botswana",
+            "href": null
+        },
+        {
+            "text": "Burkina Faso",
+            "href": null
+        },
+        {
+            "text": "Burundi",
+            "href": null
+        },
+        {
+            "text": "Cameroon",
+            "href": null
+        },
+        {
+            "text": "Cape Verde",
+            "href": null
+        },
+        {
+            "text": "Central African Republic",
+            "href": null
+        },
+        {
+            "text": "Chad",
+            "href": null
+        },
+        {
+            "text": "Comoros",
+            "href": null
+        },
+        {
+            "text": "Democratic Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Djibouti",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Equatorial Guinea",
+            "href": null
+        },
+        {
+            "text": "Eritrea",
+            "href": null
+        },
+        {
+            "text": "Eswatini",
+            "href": null
+        },
+        {
+            "text": "Ethiopia",
+            "href": null
+        },
+        {
+            "text": "Gabon",
+            "href": null
+        },
+        {
+            "text": "The Gambia",
+            "href": null
+        },
+        {
+            "text": "Ghana",
+            "href": null
+        },
+        {
+            "text": "Guinea",
+            "href": null
+        },
+        {
+            "text": "Guinea-Bissau",
+            "href": null
+        },
+        {
+            "text": "Ivory Coast",
+            "href": null
+        },
+        {
+            "text": "Kenya",
+            "href": null
+        },
+        {
+            "text": "Lesotho",
+            "href": null
+        },
+        {
+            "text": "Liberia",
+            "href": null
+        },
+        {
+            "text": "Libya",
+            "href": null
+        },
+        {
+            "text": "Madagascar",
+            "href": null
+        },
+        {
+            "text": "Malawi",
+            "href": null
+        },
+        {
+            "text": "Mali",
+            "href": null
+        },
+        {
+            "text": "Mauritania",
+            "href": null
+        },
+        {
+            "text": "Mauritius",
+            "href": null
+        },
+        {
+            "text": "Morocco",
+            "href": null
+        },
+        {
+            "text": "Mozambique",
+            "href": null
+        },
+        {
+            "text": "Namibia",
+            "href": null
+        },
+        {
+            "text": "Niger",
+            "href": null
+        },
+        {
+            "text": "Nigeria",
+            "href": null
+        },
+        {
+            "text": "Rwanda",
+            "href": null
+        },
+        {
+            "text": "São Tomé and Príncipe",
+            "href": null
+        },
+        {
+            "text": "Senegal",
+            "href": null
+        },
+        {
+            "text": "Seychelles",
+            "href": null
+        },
+        {
+            "text": "Sierra Leone",
+            "href": null
+        },
+        {
+            "text": "Somalia",
+            "href": null
+        },
+        {
+            "text": "South Africa",
+            "href": null
+        },
+        {
+            "text": "South Sudan",
+            "href": null
+        },
+        {
+            "text": "Sudan",
+            "href": null
+        },
+        {
+            "text": "Tanzania",
+            "href": null
+        },
+        {
+            "text": "Togo",
+            "href": null
+        },
+        {
+            "text": "Tunisia",
+            "href": null
+        },
+        {
+            "text": "Uganda",
+            "href": null
+        },
+        {
+            "text": "Zambia",
+            "href": null
+        },
+        {
+            "text": "Zimbabwe",
+            "href": null
+        },
+        {
+            "text": "Sahrawi Arab Democratic Republic",
+            "href": null
+        },
+        {
+            "text": "Somaliland",
+            "href": null
+        },
+        {
+            "text": "Canary Islands",
+            "href": null
+        },
+        {
+            "text": "Ceuta",
+            "href": null
+        },
+        {
+            "text": "Melilla",
+            "href": null
+        },
+        {
+            "text": "Madeira",
+            "href": null
+        },
+        {
+            "text": "Mayotte",
+            "href": null
+        },
+        {
+            "text": "Réunion",
+            "href": null
+        },
+        {
+            "text": "Saint Helena and Tristan da Cunha",
+            "href": null
+        },
+        {
+            "text": "Ascension Island",
+            "href": null
+        },
+        {
+            "text": "Western Sahara",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Madagascar",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "telephone numbers",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        }
+    ]
+}

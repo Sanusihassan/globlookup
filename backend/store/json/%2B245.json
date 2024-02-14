@@ -1,0 +1,798 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "+245 44 30X XXXX",
+                "Bissau",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 31X XXXX",
+                "Bissau",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 320 XXXX",
+                "Bissau",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 321 XXXX",
+                "Bissau",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 322 XXXX",
+                "Santa Luzia",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 325 XXXX",
+                "Brá",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 331 XXXX",
+                "Mansoa",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 332 XXXX",
+                "Bissorã",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 334 XXXX",
+                "Manssabá",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 335 XXXX",
+                "Farim",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 341 XXXX",
+                "Bafatá",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 342 XXXX",
+                "Bambadinca",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 351 XXXX",
+                "Gabú",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 352 XXXX",
+                "Sonaco",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 353 XXXX",
+                "Pirada",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 354 XXXX",
+                "Pitche",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 370 XXXX",
+                "Buba",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 391 XXXX",
+                "Canchungo",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 392 XXXX",
+                "Cacheu",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 393 XXXX",
+                "São Domingos",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 394 XXXX",
+                "Bula",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 396 XXXX",
+                "Ingoré",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 44 397 XXXX",
+                "Bigene",
+                "Guiné Telecom"
+            ],
+            [
+                "+245 95 50X XXXX",
+                "Mobile GSM",
+                "Orange Bissau"
+            ],
+            [
+                "+245 95 51X XXXX",
+                "Mobile GSM",
+                "Orange Bissau"
+            ],
+            [
+                "+245 95 52X XXXX",
+                "Mobile GSM",
+                "Orange Bissau"
+            ],
+            [
+                "+245 95 53X XXXX",
+                "Mobile GSM",
+                "Orange Bissau"
+            ],
+            [
+                "+245 95 54X XXXX",
+                "Mobile GSM",
+                "Orange Bissau"
+            ],
+            [
+                "+245 95 55X XXXX",
+                "Mobile GSM",
+                "Orange Bissau"
+            ],
+            [
+                "+245 95 56X XXXX",
+                "Mobile GSM",
+                "Orange Bissau"
+            ],
+            [
+                "+245 95 57X XXXX",
+                "Mobile GSM",
+                "Orange Bissau"
+            ],
+            [
+                "+245 95 58X XXXX",
+                "Mobile GSM",
+                "Orange Bissau"
+            ],
+            [
+                "+245 95 59X XXXX",
+                "Mobile GSM",
+                "Orange Bissau"
+            ],
+            [
+                "+245 95 60X XXXX",
+                "Mobile GSM",
+                "Orange Bissau"
+            ],
+            [
+                "+245 95 61X XXXX",
+                "Mobile GSM",
+                "Orange Bissau"
+            ],
+            [
+                "+245 95 62X XXXX",
+                "Mobile GSM",
+                "Orange Bissau"
+            ],
+            [
+                "+245 96 50X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 51X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 52X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 60X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 61X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 62X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 63X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 64X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 65X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 66X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 67X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 68X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 69X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 90X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 91X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 96 92X XXXX",
+                "Mobile GSM",
+                "Spacetel Guiné-Bissau"
+            ],
+            [
+                "+245 97 70X XXXX",
+                "Mobile GSM",
+                "Guinétel"
+            ],
+            [
+                "+245 97 71X XXXX",
+                "Mobile GSM",
+                "Guinétel"
+            ],
+            [
+                "+245 97 72X XXXX",
+                "Mobile GSM",
+                "Guinétel"
+            ],
+            [
+                "+245 97 73X XXXX",
+                "Mobile GSM",
+                "Guinétel"
+            ],
+            [
+                "+245 97 74X XXXX",
+                "Mobile GSM",
+                "Guinétel"
+            ],
+            [
+                "+245 97 75X XXXX",
+                "Mobile GSM",
+                "Guinétel"
+            ],
+            [
+                "+245 97 76X XXXX",
+                "Mobile GSM",
+                "Guinétel"
+            ],
+            [
+                "+245 97 77X XXXX",
+                "Mobile GSM",
+                "Guinétel"
+            ],
+            [
+                "+245 97 78X XXXX",
+                "Mobile GSM",
+                "Guinétel"
+            ],
+            [
+                "+245 97 79X XXXX",
+                "Mobile GSM",
+                "Guinétel"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlgeriaAngolaBeninBotswanaBurkina FasoBurundiCameroonCape VerdeCentral African RepublicChadComorosDemocratic Republic of the CongoRepublic of the CongoDjiboutiEgyptEquatorial GuineaEritreaEswatiniEthiopiaGabonThe GambiaGhanaGuineaGuinea-BissauIvory CoastKenyaLesothoLiberiaLibyaMadagascarMalawiMaliMauritaniaMauritiusMoroccoMozambiqueNamibiaNigerNigeriaRwandaSão Tomé and PríncipeSenegalSeychellesSierra LeoneSomaliaSouth AfricaSouth SudanSudanTanzaniaTogoTunisiaUgandaZambiaZimbabwe"
+            ],
+            [
+                "Sahrawi Arab Democratic RepublicSomaliland"
+            ],
+            [
+                "Canary Islands/Ceuta/Melilla(Spain)Madeira(Portugal)Mayotte/Réunion(France)Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)Western Sahara"
+            ]
+        ],
+        [
+            [
+                "",
+                "ThisGuinea-Bissau-related article is astub. You can help Wikipedia byexpanding it."
+            ]
+        ],
+        [
+            [
+                "",
+                "This article related totelephone numbersis astub. You can help Wikipedia byexpanding it."
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "ITU allocations list"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Algeria",
+            "Angola",
+            "Benin",
+            "Botswana",
+            "Burkina Faso",
+            "Burundi",
+            "Cameroon",
+            "Cape Verde",
+            "Central African Republic",
+            "Chad",
+            "Comoros",
+            "Democratic Republic of the Congo",
+            "Republic of the Congo",
+            "Djibouti",
+            "Egypt",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Eswatini",
+            "Ethiopia",
+            "Gabon",
+            "The Gambia",
+            "Ghana",
+            "Guinea",
+            "Guinea-Bissau",
+            "Ivory Coast",
+            "Kenya",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Madagascar",
+            "Malawi",
+            "Mali",
+            "Mauritania",
+            "Mauritius",
+            "Morocco",
+            "Mozambique",
+            "Namibia",
+            "Niger",
+            "Nigeria",
+            "Rwanda",
+            "São Tomé and Príncipe",
+            "Senegal",
+            "Seychelles",
+            "Sierra Leone",
+            "Somalia",
+            "South Africa",
+            "South Sudan",
+            "Sudan",
+            "Tanzania",
+            "Togo",
+            "Tunisia",
+            "Uganda",
+            "Zambia",
+            "Zimbabwe"
+        ],
+        [
+            "Sahrawi Arab Democratic Republic",
+            "Somaliland"
+        ],
+        [
+            "Canary Islands/Ceuta/Melilla(Spain)",
+            "Madeira(Portugal)",
+            "Mayotte/Réunion(France)",
+            "Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)",
+            "Western Sahara"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+245",
+            "href": null
+        },
+        {
+            "text": "Country Code",
+            "href": null
+        },
+        {
+            "text": "International Call Prefix",
+            "href": null
+        },
+        {
+            "text": "Trunk Prefix",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Guinea-Bissau",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "ITU allocations list",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Africa",
+            "href": null
+        },
+        {
+            "text": "Algeria",
+            "href": null
+        },
+        {
+            "text": "Angola",
+            "href": null
+        },
+        {
+            "text": "Benin",
+            "href": null
+        },
+        {
+            "text": "Botswana",
+            "href": null
+        },
+        {
+            "text": "Burkina Faso",
+            "href": null
+        },
+        {
+            "text": "Burundi",
+            "href": null
+        },
+        {
+            "text": "Cameroon",
+            "href": null
+        },
+        {
+            "text": "Cape Verde",
+            "href": null
+        },
+        {
+            "text": "Central African Republic",
+            "href": null
+        },
+        {
+            "text": "Chad",
+            "href": null
+        },
+        {
+            "text": "Comoros",
+            "href": null
+        },
+        {
+            "text": "Democratic Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Djibouti",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Equatorial Guinea",
+            "href": null
+        },
+        {
+            "text": "Eritrea",
+            "href": null
+        },
+        {
+            "text": "Eswatini",
+            "href": null
+        },
+        {
+            "text": "Ethiopia",
+            "href": null
+        },
+        {
+            "text": "Gabon",
+            "href": null
+        },
+        {
+            "text": "The Gambia",
+            "href": null
+        },
+        {
+            "text": "Ghana",
+            "href": null
+        },
+        {
+            "text": "Guinea",
+            "href": null
+        },
+        {
+            "text": "Guinea-Bissau",
+            "href": null
+        },
+        {
+            "text": "Ivory Coast",
+            "href": null
+        },
+        {
+            "text": "Kenya",
+            "href": null
+        },
+        {
+            "text": "Lesotho",
+            "href": null
+        },
+        {
+            "text": "Liberia",
+            "href": null
+        },
+        {
+            "text": "Libya",
+            "href": null
+        },
+        {
+            "text": "Madagascar",
+            "href": null
+        },
+        {
+            "text": "Malawi",
+            "href": null
+        },
+        {
+            "text": "Mali",
+            "href": null
+        },
+        {
+            "text": "Mauritania",
+            "href": null
+        },
+        {
+            "text": "Mauritius",
+            "href": null
+        },
+        {
+            "text": "Morocco",
+            "href": null
+        },
+        {
+            "text": "Mozambique",
+            "href": null
+        },
+        {
+            "text": "Namibia",
+            "href": null
+        },
+        {
+            "text": "Niger",
+            "href": null
+        },
+        {
+            "text": "Nigeria",
+            "href": null
+        },
+        {
+            "text": "Rwanda",
+            "href": null
+        },
+        {
+            "text": "São Tomé and Príncipe",
+            "href": null
+        },
+        {
+            "text": "Senegal",
+            "href": null
+        },
+        {
+            "text": "Seychelles",
+            "href": null
+        },
+        {
+            "text": "Sierra Leone",
+            "href": null
+        },
+        {
+            "text": "Somalia",
+            "href": null
+        },
+        {
+            "text": "South Africa",
+            "href": null
+        },
+        {
+            "text": "South Sudan",
+            "href": null
+        },
+        {
+            "text": "Sudan",
+            "href": null
+        },
+        {
+            "text": "Tanzania",
+            "href": null
+        },
+        {
+            "text": "Togo",
+            "href": null
+        },
+        {
+            "text": "Tunisia",
+            "href": null
+        },
+        {
+            "text": "Uganda",
+            "href": null
+        },
+        {
+            "text": "Zambia",
+            "href": null
+        },
+        {
+            "text": "Zimbabwe",
+            "href": null
+        },
+        {
+            "text": "Sahrawi Arab Democratic Republic",
+            "href": null
+        },
+        {
+            "text": "Somaliland",
+            "href": null
+        },
+        {
+            "text": "Canary Islands",
+            "href": null
+        },
+        {
+            "text": "Ceuta",
+            "href": null
+        },
+        {
+            "text": "Melilla",
+            "href": null
+        },
+        {
+            "text": "Madeira",
+            "href": null
+        },
+        {
+            "text": "Mayotte",
+            "href": null
+        },
+        {
+            "text": "Réunion",
+            "href": null
+        },
+        {
+            "text": "Saint Helena and Tristan da Cunha",
+            "href": null
+        },
+        {
+            "text": "Ascension Island",
+            "href": null
+        },
+        {
+            "text": "Western Sahara",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Guinea-Bissau",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "telephone numbers",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        }
+    ]
+}

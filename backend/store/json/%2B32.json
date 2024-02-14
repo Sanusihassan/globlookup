@@ -1,0 +1,938 @@
+{
+    "tables": [
+        [
+            [
+                ""
+            ],
+            [],
+            [
+                "Belgium"
+            ],
+            [
+                "Europe"
+            ],
+            [
+                "Open"
+            ],
+            [
+                "0x xxx xx xx / 0xx xx xx xx (geographic)04xx xx xx xx (mobile)"
+            ],
+            [],
+            [
+                "+32"
+            ],
+            [
+                "00"
+            ],
+            [
+                "0"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlbaniaAndorraArmeniaAustriaAzerbaijanBelarusBelgiumBosnia and HerzegovinaBulgariaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGeorgiaGermanyGreeceHungaryIcelandIrelandItalyKazakhstanLatviaLiechtensteinLithuaniaLuxembourgMaltaMoldovaMonacoMontenegroNetherlandsNorth MacedoniaNorwayPolandPortugalRomaniaRussiaSan MarinoSerbiaSlovakiaSloveniaSpainSwedenSwitzerlandTurkeyUkraineUnited KingdomVatican City"
+            ],
+            [
+                "AbkhaziaKosovoNorthern CyprusSouth OssetiaTransnistria"
+            ],
+            [
+                "ÅlandFaroe IslandsGibraltarGuernseyIsle of ManJerseySvalbard"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "010:Wavre(Waver)",
+            "011:Hasselt",
+            "012:Tongeren(Tongres)",
+            "013:Diest",
+            "014:Geel,Herentals,Turnhout",
+            "015:Mechelen(Malines)",
+            "016:Leuven(Louvain),Tienen(Tirlemont)",
+            "019:Waremme(Borgworm)",
+            "02:Brussels(Bruxelles/Brussel)",
+            "03:Antwerp(Antwerpen/Anvers),Sint-Niklaas",
+            "04:Liège(Luik),Voeren(Fourons)",
+            "050:Bruges(Brugge),Zeebrugge",
+            "051:Roeselare(Roulers)",
+            "052:Dendermonde(Termonde)",
+            "053:Aalst(Alost)",
+            "054:Ninove",
+            "055:Ronse(Renaix)",
+            "056:Kortrijk(Courtrai),Comines-Warneton(Komen-Waasten),Mouscron(Moeskroen)",
+            "057:Ypres(Ieper)",
+            "058:Veurne(Furnes)",
+            "059:Ostend,Bredene,Gistel(Oostende/Ostende,Bredene,Gistel)",
+            "060:Chimay",
+            "061:Bastogne(Bastenaken),Libramont-Chevigny",
+            "063:Arlon(Aarlen)",
+            "064:La Louvière",
+            "065:Mons(Bergen),Casteau",
+            "067:Nivelles(Nijvel),Soignies(Zinnik)",
+            "068:Ath(Aat)",
+            "069:Tournai(Doornik)",
+            "071:Charleroi",
+            "080:Stavelot",
+            "081:Namur(Namen)",
+            "082:Dinant",
+            "083:Ciney",
+            "084:Marche-en-Famenne",
+            "085:Huy(Hoei)",
+            "086:Durbuy",
+            "087:Verviers",
+            "089:Genk",
+            "09:Ghent(Gent/Gand)"
+        ],
+        [
+            "0455:GSM. Range is owned by VOO",
+            "0456:GSM. Range is owned by MobileViking",
+            "0460:GSM. Range is owned by Proximus",
+            "0465:GSM. Range is owned by Lycamobile",
+            "0466:GSM. Range is owned by Vectone",
+            "0467:GSM. Range is owned by Telenet",
+            "0468:GSM. Range is owned by Telenet",
+            "047:GSM.  Range is owned by Proximus",
+            "048:GSMRange is owned by Telenet (Base)",
+            "049:GSMRange is owned by Orange"
+        ],
+        [
+            "045xPremium numbers(€1/min).",
+            "070:  Premium pay rate services (€0.30/min.)",
+            "077:Machine to machinecommunication[2]",
+            "078:  National pay rate services.",
+            "0800:toll freecall rate services.",
+            "090x- Premium pay rate numbers*:0900 (€0.50/min.).0901 (€0.50/call).0902 (€1/min.).0903 (€1.50/min.).0904 (€2/min.).0905 (€2/call).0906 (€1/min.).0907 (€2/min.).0909 (€31/call).",
+            "0900 (€0.50/min.).",
+            "0901 (€0.50/call).",
+            "0902 (€1/min.).",
+            "0903 (€1.50/min.).",
+            "0904 (€2/min.).",
+            "0905 (€2/call).",
+            "0906 (€1/min.).",
+            "0907 (€2/min.).",
+            "0909 (€31/call)."
+        ],
+        [
+            "0900 (€0.50/min.).",
+            "0901 (€0.50/call).",
+            "0902 (€1/min.).",
+            "0903 (€1.50/min.).",
+            "0904 (€2/min.).",
+            "0905 (€2/call).",
+            "0906 (€1/min.).",
+            "0907 (€2/min.).",
+            "0909 (€31/call)."
+        ],
+        [
+            "Obtain the operator serving a dial number",
+            "Area Codes in Belgium, DCCL, last updated 1 August 1999",
+            "World Telephone Numbering Guide: Belgium",
+            "Belgian Institute for Postal services and Telecommunication"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Albania",
+            "Andorra",
+            "Armenia",
+            "Austria",
+            "Azerbaijan",
+            "Belarus",
+            "Belgium",
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Estonia",
+            "Finland",
+            "France",
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Iceland",
+            "Ireland",
+            "",
+            "Italy",
+            "Kazakhstan",
+            "Latvia",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Malta",
+            "Moldova",
+            "Monaco",
+            "Montenegro",
+            "Netherlands",
+            "North Macedonia",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russia",
+            "San Marino",
+            "Serbia",
+            "Slovakia",
+            "Slovenia",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Turkey",
+            "Ukraine",
+            "United Kingdom",
+            "Vatican City"
+        ],
+        [
+            "Abkhazia",
+            "Kosovo",
+            "Northern Cyprus",
+            "South Ossetia",
+            "Transnistria"
+        ],
+        [
+            "Åland",
+            "Faroe Islands",
+            "Gibraltar",
+            "Guernsey",
+            "Isle of Man",
+            "Jersey",
+            "Svalbard"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+32",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Belgium",
+            "href": null
+        },
+        {
+            "text": "Europe",
+            "href": null
+        },
+        {
+            "text": "Open",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "telephone number",
+            "href": null
+        },
+        {
+            "text": "Belgium",
+            "href": null
+        },
+        {
+            "text": "full number dialing plan",
+            "href": null
+        },
+        {
+            "text": "112",
+            "href": null
+        },
+        {
+            "text": "telephone numbering plan",
+            "href": null
+        },
+        {
+            "text": "landline",
+            "href": null
+        },
+        {
+            "text": "mobile numbers",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Area codes",
+            "href": null
+        },
+        {
+            "text": "Brussels",
+            "href": null
+        },
+        {
+            "text": "Antwerp",
+            "href": null
+        },
+        {
+            "text": "Liège",
+            "href": null
+        },
+        {
+            "text": "Ghent",
+            "href": null
+        },
+        {
+            "text": "Kortrijk",
+            "href": null
+        },
+        {
+            "text": "Mons",
+            "href": null
+        },
+        {
+            "text": "Ostend",
+            "href": null
+        },
+        {
+            "text": "Aalst",
+            "href": null
+        },
+        {
+            "text": "Verviers",
+            "href": null
+        },
+        {
+            "text": "Europe",
+            "href": null
+        },
+        {
+            "text": "North America",
+            "href": null
+        },
+        {
+            "text": "Orange",
+            "href": null
+        },
+        {
+            "text": "Mobistar",
+            "href": null
+        },
+        {
+            "text": "Base",
+            "href": null
+        },
+        {
+            "text": "Proximus",
+            "href": null
+        },
+        {
+            "text": "Telenet",
+            "href": null
+        },
+        {
+            "text": "number portability",
+            "href": null
+        },
+        {
+            "text": "local switches",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Wavre",
+            "href": null
+        },
+        {
+            "text": "Hasselt",
+            "href": null
+        },
+        {
+            "text": "Tongeren",
+            "href": null
+        },
+        {
+            "text": "Diest",
+            "href": null
+        },
+        {
+            "text": "Geel",
+            "href": null
+        },
+        {
+            "text": "Herentals",
+            "href": null
+        },
+        {
+            "text": "Turnhout",
+            "href": null
+        },
+        {
+            "text": "Mechelen",
+            "href": null
+        },
+        {
+            "text": "Leuven",
+            "href": null
+        },
+        {
+            "text": "Tienen",
+            "href": null
+        },
+        {
+            "text": "Waremme",
+            "href": null
+        },
+        {
+            "text": "Brussels",
+            "href": null
+        },
+        {
+            "text": "Antwerp",
+            "href": null
+        },
+        {
+            "text": "Sint-Niklaas",
+            "href": null
+        },
+        {
+            "text": "Liège",
+            "href": null
+        },
+        {
+            "text": "Voeren",
+            "href": null
+        },
+        {
+            "text": "Bruges",
+            "href": null
+        },
+        {
+            "text": "Zeebrugge",
+            "href": null
+        },
+        {
+            "text": "Roeselare",
+            "href": null
+        },
+        {
+            "text": "Dendermonde",
+            "href": null
+        },
+        {
+            "text": "Aalst",
+            "href": null
+        },
+        {
+            "text": "Ninove",
+            "href": null
+        },
+        {
+            "text": "Ronse",
+            "href": null
+        },
+        {
+            "text": "Kortrijk",
+            "href": null
+        },
+        {
+            "text": "Comines-Warneton",
+            "href": null
+        },
+        {
+            "text": "Mouscron",
+            "href": null
+        },
+        {
+            "text": "Ypres",
+            "href": null
+        },
+        {
+            "text": "Veurne",
+            "href": null
+        },
+        {
+            "text": "Ostend",
+            "href": null
+        },
+        {
+            "text": "Bredene",
+            "href": null
+        },
+        {
+            "text": "Gistel",
+            "href": null
+        },
+        {
+            "text": "Chimay",
+            "href": null
+        },
+        {
+            "text": "Bastogne",
+            "href": null
+        },
+        {
+            "text": "Libramont-Chevigny",
+            "href": null
+        },
+        {
+            "text": "Arlon",
+            "href": null
+        },
+        {
+            "text": "La Louvière",
+            "href": null
+        },
+        {
+            "text": "Mons",
+            "href": null
+        },
+        {
+            "text": "Casteau",
+            "href": null
+        },
+        {
+            "text": "Nivelles",
+            "href": null
+        },
+        {
+            "text": "Soignies",
+            "href": null
+        },
+        {
+            "text": "Ath",
+            "href": null
+        },
+        {
+            "text": "Tournai",
+            "href": null
+        },
+        {
+            "text": "Charleroi",
+            "href": null
+        },
+        {
+            "text": "Stavelot",
+            "href": null
+        },
+        {
+            "text": "Namur",
+            "href": null
+        },
+        {
+            "text": "Dinant",
+            "href": null
+        },
+        {
+            "text": "Ciney",
+            "href": null
+        },
+        {
+            "text": "Marche-en-Famenne",
+            "href": null
+        },
+        {
+            "text": "Huy",
+            "href": null
+        },
+        {
+            "text": "Durbuy",
+            "href": null
+        },
+        {
+            "text": "Verviers",
+            "href": null
+        },
+        {
+            "text": "Genk",
+            "href": null
+        },
+        {
+            "text": "Ghent",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "mobile number portability",
+            "href": null
+        },
+        {
+            "text": "GSM",
+            "href": null
+        },
+        {
+            "text": "GSM",
+            "href": null
+        },
+        {
+            "text": "GSM",
+            "href": null
+        },
+        {
+            "text": "GSM",
+            "href": null
+        },
+        {
+            "text": "GSM",
+            "href": null
+        },
+        {
+            "text": "GSM",
+            "href": null
+        },
+        {
+            "text": "GSM",
+            "href": null
+        },
+        {
+            "text": "GSM",
+            "href": null
+        },
+        {
+            "text": "GSM",
+            "href": null
+        },
+        {
+            "text": "GSM",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Machine to machine",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "toll free",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Database with reserved and allocated numbers | BIPT\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"BIPT - Decision of the BIPT Council of 6 September 2011 on the determination of the numbering plan for M2M communication\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "Obtain the operator serving a dial number",
+            "href": null
+        },
+        {
+            "text": "Area Codes in Belgium",
+            "href": null
+        },
+        {
+            "text": "World Telephone Numbering Guide: Belgium",
+            "href": null
+        },
+        {
+            "text": "Belgian Institute for Postal services and Telecommunication",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Europe",
+            "href": null
+        },
+        {
+            "text": "Albania",
+            "href": null
+        },
+        {
+            "text": "Andorra",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Austria",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Belarus",
+            "href": null
+        },
+        {
+            "text": "Belgium",
+            "href": null
+        },
+        {
+            "text": "Bosnia and Herzegovina",
+            "href": null
+        },
+        {
+            "text": "Bulgaria",
+            "href": null
+        },
+        {
+            "text": "Croatia",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "Czech Republic",
+            "href": null
+        },
+        {
+            "text": "Denmark",
+            "href": null
+        },
+        {
+            "text": "Estonia",
+            "href": null
+        },
+        {
+            "text": "Finland",
+            "href": null
+        },
+        {
+            "text": "France",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "Germany",
+            "href": null
+        },
+        {
+            "text": "Greece",
+            "href": null
+        },
+        {
+            "text": "Hungary",
+            "href": null
+        },
+        {
+            "text": "Iceland",
+            "href": null
+        },
+        {
+            "text": "Ireland",
+            "href": null
+        },
+        {
+            "text": "Italy",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "Latvia",
+            "href": null
+        },
+        {
+            "text": "Liechtenstein",
+            "href": null
+        },
+        {
+            "text": "Lithuania",
+            "href": null
+        },
+        {
+            "text": "Luxembourg",
+            "href": null
+        },
+        {
+            "text": "Malta",
+            "href": null
+        },
+        {
+            "text": "Moldova",
+            "href": null
+        },
+        {
+            "text": "Monaco",
+            "href": null
+        },
+        {
+            "text": "Montenegro",
+            "href": null
+        },
+        {
+            "text": "Netherlands",
+            "href": null
+        },
+        {
+            "text": "North Macedonia",
+            "href": null
+        },
+        {
+            "text": "Norway",
+            "href": null
+        },
+        {
+            "text": "Poland",
+            "href": null
+        },
+        {
+            "text": "Portugal",
+            "href": null
+        },
+        {
+            "text": "Romania",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "San Marino",
+            "href": null
+        },
+        {
+            "text": "Serbia",
+            "href": null
+        },
+        {
+            "text": "Slovakia",
+            "href": null
+        },
+        {
+            "text": "Slovenia",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "Sweden",
+            "href": null
+        },
+        {
+            "text": "Switzerland",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Ukraine",
+            "href": null
+        },
+        {
+            "text": "United Kingdom",
+            "href": null
+        },
+        {
+            "text": "Vatican City",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Kosovo",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Transnistria",
+            "href": null
+        },
+        {
+            "text": "Åland",
+            "href": null
+        },
+        {
+            "text": "Faroe Islands",
+            "href": null
+        },
+        {
+            "text": "Gibraltar",
+            "href": null
+        },
+        {
+            "text": "Guernsey",
+            "href": null
+        },
+        {
+            "text": "Isle of Man",
+            "href": null
+        },
+        {
+            "text": "Jersey",
+            "href": null
+        },
+        {
+            "text": "Svalbard",
+            "href": null
+        }
+    ]
+}

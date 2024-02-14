@@ -1,0 +1,2418 @@
+{
+    "tables": [
+        [
+            [
+                "Location of Ireland (dark green)"
+            ],
+            [],
+            [
+                "Ireland"
+            ],
+            [
+                "Europe"
+            ],
+            [
+                "ComReg"
+            ],
+            [
+                "Open"
+            ],
+            [
+                "7–9"
+            ],
+            [
+                "0xx xxx xxxx"
+            ],
+            [],
+            [
+                "+353"
+            ],
+            [
+                "00"
+            ],
+            [
+                "0"
+            ],
+            [
+                "List of Ireland dialing codes"
+            ]
+        ],
+        [
+            [],
+            [
+                "01– single NDC for entire region",
+                "Dublinarea: extends to certain parts of Wicklow, Meath and Kildare."
+            ],
+            [
+                "021to029",
+                "Cork area:021:Cork022:Mallow023:Bandon024:Youghal025:Fermoy026:Macroom027:Bantry028:Skibbereen029:Kanturk"
+            ],
+            [
+                "0402,0404,041to047and049",
+                "Northeast and Midlands:0402:Arklow0404:Wicklow041:Drogheda042:DundalkandCarrickmacross043:Longford044:Mullingar045:Naas046:NavanandEdenderry047:Monaghan049:CavanandOldcastle"
+            ],
+            [
+                "0504,0505,051to053,056to059",
+                "Midlands and Southeast:0504:Thurles0505:Roscrea051:Waterford,New RossandCarrick–on–Suir052:Clonmel053:Wexford056:Kilkenny057:PortlaoiseandTullamore058:Dungarvan059:Carlow,AthyandBaltinglass"
+            ],
+            [
+                "061to069",
+                "Midwest and Southwest:061:LimerickandScarriff062:Tipperary063:Charleville064:Killarney065:Ennis066:Tralee067:Nenagh068:Listowel069:Newcastle West"
+            ],
+            [
+                "071and074",
+                "Northwest071:SligoandCarrick–on–Shannon074:Letterkenny"
+            ],
+            [
+                "090,091,093to099",
+                "West and Midlands090:Athlone,BallinasloeandRoscommon091:Galway093:Tuam094:CastlebarandCastlerea095:Clifden096:Ballina097:Belmullet098:Westport099:Kilronan"
+            ]
+        ],
+        [
+            [],
+            [
+                "083and086",
+                "Three Ireland",
+                "086previously belonged toO2, formerly Digifone, formerly Esat."
+            ],
+            [
+                "085",
+                "eir mobile",
+                "previously known asMeteorand eMobile"
+            ],
+            [
+                "087",
+                "Vodafone Ireland",
+                "formerlyEircell"
+            ]
+        ],
+        [
+            [],
+            [
+                "083",
+                "BlueFace",
+                "Hosted on Three"
+            ],
+            [
+                "085",
+                "GoMo",
+                "Hosted on eir mobile"
+            ],
+            [
+                "087",
+                "An Post Mobile",
+                "Hosted on Vodafone"
+            ],
+            [
+                "Clear Mobile",
+                "Hosted on Vodafone"
+            ],
+            [
+                "089",
+                "48",
+                "Hosted on Three. Numbers begin with2and4"
+            ],
+            [
+                "Tesco Mobile"
+            ],
+            [
+                "Lycamobile",
+                "Hosted on Three. Numbers begin with9"
+            ],
+            [
+                "Virgin Mobile",
+                "Hosted on Three. Numbers begin with60and61"
+            ]
+        ],
+        [
+            [],
+            [
+                "088",
+                "All networks",
+                "Reserved formachine-to-machine(M2M) communications, using the format088 xxxxx xxxxx. This prefix was originally used for theEircellTACSnetwork active from 1985 to 2001."
+            ]
+        ],
+        [
+            [],
+            [
+                "1512",
+                "€0.50 per call",
+                "Premium rate untimed"
+            ],
+            [
+                "1513",
+                "€0.70 per call"
+            ],
+            [
+                "1514",
+                "€0.90 per call"
+            ],
+            [
+                "1515",
+                "€1.20 per call"
+            ],
+            [
+                "1516",
+                "€1.80 per call"
+            ],
+            [
+                "1517",
+                "€2.50 per call"
+            ],
+            [
+                "1518",
+                "€3.50 per call"
+            ],
+            [
+                "1520",
+                "€0.30 per minute",
+                "Premium rate timed"
+            ],
+            [
+                "1530",
+                "€0.50 per minute"
+            ],
+            [
+                "1540",
+                "€0.70 per minute"
+            ],
+            [
+                "1550",
+                "€1.20 per minute"
+            ],
+            [
+                "1560",
+                "€1.80 per minute"
+            ],
+            [
+                "1570",
+                "€2.50 per minute"
+            ],
+            [
+                "1580",
+                "€2.40 per minute"
+            ],
+            [
+                "1590",
+                "€3.50 per minute"
+            ],
+            [
+                "1598",
+                "Premium rate adult non–live"
+            ],
+            [
+                "1599",
+                "Premium rate adult live"
+            ]
+        ],
+        [
+            [],
+            [
+                "51XXX",
+                "Same as local SMS",
+                "Local SMS"
+            ],
+            [
+                "53XXX",
+                "€0.30 per SMS"
+            ],
+            [
+                "58XXX",
+                "variable price – see advertising"
+            ],
+            [
+                "59XXX"
+            ]
+        ],
+        [
+            [],
+            [
+                "1800",
+                "Free",
+                "National freephone / toll free",
+                "Free on all voice services in Ireland. Not reachable outside Ireland."
+            ],
+            [
+                "0818",
+                "Timed",
+                "Charged as a landline call",
+                "Included in call bundles on voice services in Ireland. Called as+353 818from outside Ireland, incurring a higher cost than a normal call to landline or mobile."
+            ],
+            [
+                "00800",
+                "Free",
+                "International freephone / toll free",
+                "Free on all voice services in Ireland. Can be dialled as+800in many countries."
+            ]
+        ],
+        [
+            [],
+            [
+                "AlbaniaAndorraArmeniaAustriaAzerbaijanBelarusBelgiumBosnia and HerzegovinaBulgariaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGeorgiaGermanyGreeceHungaryIcelandIrelandItalyKazakhstanLatviaLiechtensteinLithuaniaLuxembourgMaltaMoldovaMonacoMontenegroNetherlandsNorth MacedoniaNorwayPolandPortugalRomaniaRussiaSan MarinoSerbiaSlovakiaSloveniaSpainSwedenSwitzerlandTurkeyUkraineUnited KingdomVatican City"
+            ],
+            [
+                "AbkhaziaKosovoNorthern CyprusSouth OssetiaTransnistria"
+            ],
+            [
+                "ÅlandFaroe IslandsGibraltarGuernseyIsle of ManJerseySvalbard"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "01 XXX XXXX– Dublin area",
+            "0XX XXX XXXX– All other 7-digit areas",
+            "0XX XXX XXX– 6-digit areas",
+            "0XX XXXXX– 5-digit areas",
+            "0X0X XXXXX– 5-digit areas"
+        ],
+        [
+            "1800 XXX XXX– Freephone/Toll Free",
+            "0818 XXX XXX– Standard Rate"
+        ],
+        [
+            "08X XXX XXXX"
+        ],
+        [
+            "088 XXXXX XXXXX"
+        ],
+        [
+            "01– Greater Dublin Area",
+            "02– Cork",
+            "04– Northeast",
+            "05– Southeast",
+            "06– Midwest and Southwest",
+            "07– Northwest",
+            "09– West"
+        ],
+        [
+            "021:Cork",
+            "022:Mallow",
+            "023:Bandon",
+            "024:Youghal",
+            "025:Fermoy",
+            "026:Macroom",
+            "027:Bantry",
+            "028:Skibbereen",
+            "029:Kanturk"
+        ],
+        [
+            "0402:Arklow",
+            "0404:Wicklow",
+            "041:Drogheda",
+            "042:DundalkandCarrickmacross",
+            "043:Longford",
+            "044:Mullingar",
+            "045:Naas",
+            "046:NavanandEdenderry",
+            "047:Monaghan",
+            "049:CavanandOldcastle"
+        ],
+        [
+            "0504:Thurles",
+            "0505:Roscrea",
+            "051:Waterford,New RossandCarrick–on–Suir",
+            "052:Clonmel",
+            "053:Wexford",
+            "056:Kilkenny",
+            "057:PortlaoiseandTullamore",
+            "058:Dungarvan",
+            "059:Carlow,AthyandBaltinglass"
+        ],
+        [
+            "061:LimerickandScarriff",
+            "062:Tipperary",
+            "063:Charleville",
+            "064:Killarney",
+            "065:Ennis",
+            "066:Tralee",
+            "067:Nenagh",
+            "068:Listowel",
+            "069:Newcastle West"
+        ],
+        [
+            "071:SligoandCarrick–on–Shannon",
+            "074:Letterkenny"
+        ],
+        [
+            "090:Athlone,BallinasloeandRoscommon",
+            "091:Galway",
+            "093:Tuam",
+            "094:CastlebarandCastlerea",
+            "095:Clifden",
+            "096:Ballina",
+            "097:Belmullet",
+            "098:Westport",
+            "099:Kilronan"
+        ],
+        [
+            "03– reserved for future changes in the numbering plan",
+            "07– all except0707,0700,071,074and076are reserved without assigned purpose",
+            "0707– reserved for personal numbering",
+            "0800– reserved"
+        ],
+        [
+            "00– international access",
+            "020 91x xxxx–drama use(although the rest of020is free)",
+            "0700– personal numbering",
+            "076–VoIPservices – (being withdrawn.)",
+            "080– mailbox for landline users (formerly access code for Northern Ireland)",
+            "089 011 0xxx[1]– drama use"
+        ],
+        [
+            "1901– eir",
+            "1902–Digiweb",
+            "1903– Tesco Mobile",
+            "1904–BT Ireland",
+            "1907– Vodafone Ireland",
+            "1908– Virgin Mobile Ireland",
+            "1913– Three Ireland",
+            "1910–Magnet Networks",
+            "1977– NUACOM Ireland"
+        ],
+        [
+            "118xx– Directory enquiries (multiple commercial providers offer a variety of services in this number range)"
+        ],
+        [
+            "Ambulance",
+            "Garda Síochána",
+            "Fire and rescue",
+            "Irish Coast Guard",
+            "Cliff and mountain rescue"
+        ],
+        [
+            "0818– Charged as landline call, and are included in bundled minutes. 6-digit numbers in the format 0818 XXX XXX",
+            "1800– Freephone / toll free (from all Irish mobile and landlines. 6-digit numbers in the format 1800 xxx xxx",
+            "00 800– Freephone / toll free (from all Irish mobile and landlines. 8-digit numbers in the format 00 800 xxxx xxxx"
+        ],
+        [
+            "1891– reduced cost internet access (possibly timed)",
+            "1892– local rate internet access (timed)",
+            "1893– variable cost internet access (timed)"
+        ],
+        [
+            "13xxx– carrier selection (third party long distance, international and internet services). These codes override the default carrier."
+        ],
+        [
+            "199xxx...– network operator-specific engineering codes (undefined length). These codes are generally not published."
+        ],
+        [
+            "199000– reads out the subscriber's telephone number."
+        ],
+        [
+            "19800– international calls",
+            "19822– local calls",
+            "19801– calls to other parts of the Republic of Ireland, Irish mobile numbers and landlines in Northern Ireland."
+        ],
+        [
+            "171– used to access voicemail on all networks: fixed line (POTS and Cable), all mobile operators and many VoIP providers."
+        ],
+        [
+            "141– caller ID default override – withhold caller ID on this call",
+            "142– caller ID default override – present caller ID on this call",
+            "1471– check last missed call. The system will verbally announce details of the last missed call",
+            "#93#– delete missed call information from network memory"
+        ],
+        [
+            "*43#– setup",
+            "*#43#– check status",
+            "#43#– cancel"
+        ],
+        [
+            "R0– reject call (or send to voicemail) and temporarily suspend call waiting service for this call.",
+            "R1– answer waiting call and disconnect current call.",
+            "R2– answer waiting call and place current call on hold/or swap between calls.",
+            "R3– merge both calls into a three–way call."
+        ],
+        [
+            "While on a phone call a subscriber can press theRkey on their phone and dial the number they wish to add to the conversation.",
+            "DialR3to begin conference/three–way call.",
+            "R2allows a subscriber to separate the calls and swap between them."
+        ],
+        [
+            "R– places call on hold. Hang up and telephone will ring until call on hold is picked up again."
+        ],
+        [
+            "*21*(phone number)#– forward all calls to(phone number)",
+            "*#21#– check status",
+            "#21#– deactivate"
+        ],
+        [
+            "*55*[time in 4–digit 24h format]#e.g. for 8:30 am dial*55*0830#",
+            "*#55#– check status",
+            "#55#– cancel"
+        ],
+        [
+            "141– caller ID default override – withhold caller ID on this call",
+            "142– caller ID default override – present caller ID on this call"
+        ],
+        [
+            "*70– immediately followed by(phone number)",
+            "#70– deactivate"
+        ],
+        [
+            "*75– activate when busy",
+            "#75– deactivate when busy",
+            "*77– forward if unanswered",
+            "#77– deactivate if unanswered"
+        ],
+        [
+            "*72– activate",
+            "#72– deactivate"
+        ],
+        [
+            "R1– answer waiting call and disconnect current call.",
+            "R2– answer waiting call and place current call on hold or swap between calls."
+        ],
+        [
+            "*90– activate",
+            "#90– deactivate"
+        ],
+        [
+            "##"
+        ],
+        [
+            "GSM supplementary service codes– All of Ireland's mobile providers use the standard GSM codes to control special services such as call forwarding, barring, call waiting etc."
+        ],
+        [
+            "All local numbers with the area code01changed from 6–digits to 7–digits in five stages between 1990 and 1994:On 2 April 1990, numbers beginning with23,24,26,27,28,70and79were prefixed with6.On 8 April 1991, numbers beginning with8and69were prefixed with2.On 4 April 1992, numbers beginning with4and the remaining 6–digit numbers beginning with2were prefixed with8. Numbers beginning with95and98were prefixed with2.On 24 April 1993, numbers beginning with75,780,781,782,783and784were prefixed with4, while numbers beginning with60,61,68,71,76,77,785and789were prefixed with6, and numbers beginning with72,73,74,786,787and788were prefixed with8.On 16 April 1994, numbers beginning with3were prefixed with8, while numbers beginning with5and9were prefixed with4.",
+            "On 2 April 1990, numbers beginning with23,24,26,27,28,70and79were prefixed with6.",
+            "On 8 April 1991, numbers beginning with8and69were prefixed with2.",
+            "On 4 April 1992, numbers beginning with4and the remaining 6–digit numbers beginning with2were prefixed with8. Numbers beginning with95and98were prefixed with2.",
+            "On 24 April 1993, numbers beginning with75,780,781,782,783and784were prefixed with4, while numbers beginning with60,61,68,71,76,77,785and789were prefixed with6, and numbers beginning with72,73,74,786,787and788were prefixed with8.",
+            "On 16 April 1994, numbers beginning with3were prefixed with8, while numbers beginning with5and9were prefixed with4."
+        ],
+        [
+            "On 2 April 1990, numbers beginning with23,24,26,27,28,70and79were prefixed with6.",
+            "On 8 April 1991, numbers beginning with8and69were prefixed with2.",
+            "On 4 April 1992, numbers beginning with4and the remaining 6–digit numbers beginning with2were prefixed with8. Numbers beginning with95and98were prefixed with2.",
+            "On 24 April 1993, numbers beginning with75,780,781,782,783and784were prefixed with4, while numbers beginning with60,61,68,71,76,77,785and789were prefixed with6, and numbers beginning with72,73,74,786,787and788were prefixed with8.",
+            "On 16 April 1994, numbers beginning with3were prefixed with8, while numbers beginning with5and9were prefixed with4."
+        ],
+        [
+            "All local numbers with the area code021changed from 6–digits to 7–digits in two stages.From September 1998, numbers beginning with40were prefixed with2, while numbers beginning with43and33were prefixed by7.From February 2000, numbers beginning with2,3,5,6,7,8or9were prefixed with4.",
+            "From September 1998, numbers beginning with40were prefixed with2, while numbers beginning with43and33were prefixed by7.",
+            "From February 2000, numbers beginning with2,3,5,6,7,8or9were prefixed with4."
+        ],
+        [
+            "From September 1998, numbers beginning with40were prefixed with2, while numbers beginning with43and33were prefixed by7.",
+            "From February 2000, numbers beginning with2,3,5,6,7,8or9were prefixed with4."
+        ],
+        [
+            "All local numbers with the area code041changed from 5–digit to 7–digit. Numbers in theDroghedaminimum numbering area (MNA) were prefixed by98and in theArdeeMNA by68.",
+            "All local numbers with the area code042changed from 5–digit to 7–digit. Numbers in theDundalkMNA were prefixed by93, in theCarrickmacrossMNA by96and theCastleblayneyMNA by97.",
+            "All local numbers with the area code049changed from 5–digit to 7–digit. Numbers in theCavanMNA were prefixed by43, in theCootehillMNA by55, in theOldcastleMNA by85and theBelturbetMNA by95.",
+            "All local numbers with the area code065changed from 5–digit to 7–digit. Numbers in theEnnisMNA were prefixed by68, in theEnnistymonMNA by70and theKilrushMNA by90.",
+            "All local numbers with the area code066changed from 5–digit to 7–digit. Numbers in theTraleeMNA were prefixed by71, in theDingleMNA by91, in theCahirciveenMNA by94and theKillorglinMNA by97.",
+            "The prefix080was previously used for calls toNorthern Ireland, but this changed to048following theBig Number Change."
+        ],
+        [
+            "Area codes in parts of countiesMeathandOffalywere merged into the single area code046, includingNavan,Nobber,Kells,Trim,EnfieldandEdenderry. The0405area code was abolished. All local numbers became 7–digit.",
+            "All local numbers with the area code056changed from 5–digit to 7–digit. Numbers in theKilkennyMNA were prefixed by77, in theCastlecomerMNA by44and theFreshfordMNA by88.",
+            "Area codes inCounty Carlowand parts of countiesKildare,Kilkenny,LaoisandWicklowwere merged into a new area code059, includingCarlow,Bagenalstown,AthyandBaltinglass. The area codes abolished were0503,0507and0508. All local numbers became 7–digit.",
+            "Area codes inCounty SligoandCounty Leitrimand parts of countiesCavan,DonegalandRoscommonwere merged into the single area code071, includingSligo,Boyle,Carrick-on-Shannon,Drumshanbo,Manorhamilton. The area codes abolished were072,078and079. All local numbers became 7–digit.",
+            "The majority of area codes inCounty Donegalwere merged into the single area code074, includingLetterkenny,Lifford,Ramelton,Buncrana,DungloeandDonegal. The area codes abolished were073,075and077. All local numbers became 7–digit.",
+            "Area codes in parts of countiesGalway,Offaly,Roscommon,WestmeathandLongfordwere merged into a new area code090, includingAthlone,Banagher(North),Ballinasloe,Roscommon,Portumna.[note 1]The area codes abolished were0902,0903and0905. All local numbers became 7–digit.",
+            "Area codes in parts of countiesGalway,Mayo,RoscommonandSligowere merged into the single area code094, includingCastlebar,Swinford,Claremorris,Ballinrobe,CastlereaandBallaghaderreen. The area codes abolished were0907and092. All local numbers became 7–digit."
+        ],
+        [
+            "All local numbers with the area code044changed from 5–digit to 7–digit. Numbers in theRochfortbridgeMNA were prefixed by92, in theMullingarMNA by93and theCastlepollardMNA by96.",
+            "Area codes inCounty Wexfordand parts of countiesCarlowandWicklowwere merged into the single area code053, includingWexford,Enniscorthy,FernsandGorey. The area codes abolished were054and055. All local numbers became 7–digit.",
+            "Area codes in countiesLaoisandOffalyand parts of countiesGalwayandWestmeathwere merged into the single area code057, includingPortlaoise,Abbeyleix,TullamoreandBirr. The area codes abolished were0502,0506and0509. All local numbers became 7–digit."
+        ],
+        [
+            "All local numbers with the area code023changed from 5–digit to 7–digit. Numbers in theBandonMNA beginning with2,3,4,5,7and8were prefixed by88, while numbers beginning with6were prefixed by66.",
+            "All local numbers with the area code043changed from 5–digit to 7–digit. Numbers in theLongfordMNA were prefixed by33and in theEdgeworthstownMNA by66.",
+            "All local numbers with the area code052changed from 5–digit to 7–digit. Numbers in theClonmelMNA were prefixed by61, in theCahirMNA by74and theKillenauleMNA by91.",
+            "All local numbers with the area code064changed from 5–digit to 7–digit. Numbers in theKillarneyMNA were prefixed by66and in theRathmoreMNA by77."
+        ],
+        [
+            "Mobile numbering became 7–digit in the mid–1990s"
+        ],
+        [
+            "1850– Local rate, shared cost, untimed",
+            "1890– Local rate, shared cost, timed",
+            "076or+353 76– VoIP services"
+        ],
+        [
+            "16– former international access code[6]",
+            "03– formerly used for calls to Great Britain. The format was03 + NDC code + local number.[7]",
+            "08– formerly used for Northern Ireland landlines",
+            "084– formerly used for Belfast landlines[8]"
+        ],
+        [
+            "10– national operator assistance (withdrawn in 2007)",
+            "114– international operator assistance (withdrawn in 2007)",
+            "910– operator-assisted calls to some areas without direct dialling (withdrawn in the early 1980s)",
+            "1190–Telecom Éireannnational directory assistance (withdrawn in the early 2000s and replaced with11811, originally190)",
+            "1197– Telecom Éireann UK directory assistance (withdrawn in the early 2000s and replaced with11818, originally197)",
+            "1198– Telecom Éireann international directory assistance (withdrawn in the early 2000s and replaced with11818, originally198)",
+            "191– Telecom Éireann repair services (withdrawn in the late 1990s)",
+            "196– telemessaging services, whereby callers could ask an operator to send a postcard with a printed message (withdrawn in the late 1990s)"
+        ],
+        [
+            "1191– speaking clock (withdrawn on 27 August 2018)"
+        ],
+        [
+            "before 2000:08followed by Northern Irish area code and phone number e.g. Belfast01232 xxx xxxwas reached by dialling08 01232 xxx xxx."
+        ],
+        [
+            "031– London (01)[11]",
+            "032–Birmingham(021)[12]",
+            "033–Edinburgh(031)[12]",
+            "034–Glasgow(041)[12]",
+            "035–Liverpool(051)[12]",
+            "036–Manchester(061)[12]"
+        ],
+        [
+            "List of dialling codes in the Republic of Ireland"
+        ],
+        [
+            "ITU allocations list"
+        ],
+        [
+            "Comreg homepage",
+            "Comreg:Geographic Numbering Areas (pdf)"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Albania",
+            "Andorra",
+            "Armenia",
+            "Austria",
+            "Azerbaijan",
+            "Belarus",
+            "Belgium",
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Estonia",
+            "Finland",
+            "France",
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Iceland",
+            "Ireland",
+            "",
+            "Italy",
+            "Kazakhstan",
+            "Latvia",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Malta",
+            "Moldova",
+            "Monaco",
+            "Montenegro",
+            "Netherlands",
+            "North Macedonia",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russia",
+            "San Marino",
+            "Serbia",
+            "Slovakia",
+            "Slovenia",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Turkey",
+            "Ukraine",
+            "United Kingdom",
+            "Vatican City"
+        ],
+        [
+            "Abkhazia",
+            "Kosovo",
+            "Northern Cyprus",
+            "South Ossetia",
+            "Transnistria"
+        ],
+        [
+            "Åland",
+            "Faroe Islands",
+            "Gibraltar",
+            "Guernsey",
+            "Isle of Man",
+            "Jersey",
+            "Svalbard"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+353",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Ireland",
+            "href": null
+        },
+        {
+            "text": "Europe",
+            "href": null
+        },
+        {
+            "text": "ComReg",
+            "href": null
+        },
+        {
+            "text": "Open",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "List of Ireland dialing codes",
+            "href": null
+        },
+        {
+            "text": "ComReg",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "ComReg",
+            "href": null
+        },
+        {
+            "text": "Machine to Machine",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "List of Irish dialling codes",
+            "href": null
+        },
+        {
+            "text": "Cork",
+            "href": null
+        },
+        {
+            "text": "Limerick",
+            "href": null
+        },
+        {
+            "text": "Galway",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Dublin",
+            "href": null
+        },
+        {
+            "text": "Cork",
+            "href": null
+        },
+        {
+            "text": "Mallow",
+            "href": null
+        },
+        {
+            "text": "Bandon",
+            "href": null
+        },
+        {
+            "text": "Youghal",
+            "href": null
+        },
+        {
+            "text": "Fermoy",
+            "href": null
+        },
+        {
+            "text": "Macroom",
+            "href": null
+        },
+        {
+            "text": "Bantry",
+            "href": null
+        },
+        {
+            "text": "Skibbereen",
+            "href": null
+        },
+        {
+            "text": "Kanturk",
+            "href": null
+        },
+        {
+            "text": "Arklow",
+            "href": null
+        },
+        {
+            "text": "Wicklow",
+            "href": null
+        },
+        {
+            "text": "Drogheda",
+            "href": null
+        },
+        {
+            "text": "Dundalk",
+            "href": null
+        },
+        {
+            "text": "Carrickmacross",
+            "href": null
+        },
+        {
+            "text": "Longford",
+            "href": null
+        },
+        {
+            "text": "Mullingar",
+            "href": null
+        },
+        {
+            "text": "Naas",
+            "href": null
+        },
+        {
+            "text": "Navan",
+            "href": null
+        },
+        {
+            "text": "Edenderry",
+            "href": null
+        },
+        {
+            "text": "Monaghan",
+            "href": null
+        },
+        {
+            "text": "Cavan",
+            "href": null
+        },
+        {
+            "text": "Oldcastle",
+            "href": null
+        },
+        {
+            "text": "Thurles",
+            "href": null
+        },
+        {
+            "text": "Roscrea",
+            "href": null
+        },
+        {
+            "text": "Waterford",
+            "href": null
+        },
+        {
+            "text": "New Ross",
+            "href": null
+        },
+        {
+            "text": "Carrick–on–Suir",
+            "href": null
+        },
+        {
+            "text": "Clonmel",
+            "href": null
+        },
+        {
+            "text": "Wexford",
+            "href": null
+        },
+        {
+            "text": "Kilkenny",
+            "href": null
+        },
+        {
+            "text": "Portlaoise",
+            "href": null
+        },
+        {
+            "text": "Tullamore",
+            "href": null
+        },
+        {
+            "text": "Dungarvan",
+            "href": null
+        },
+        {
+            "text": "Carlow",
+            "href": null
+        },
+        {
+            "text": "Athy",
+            "href": null
+        },
+        {
+            "text": "Baltinglass",
+            "href": null
+        },
+        {
+            "text": "Limerick",
+            "href": null
+        },
+        {
+            "text": "Scarriff",
+            "href": null
+        },
+        {
+            "text": "Tipperary",
+            "href": null
+        },
+        {
+            "text": "Charleville",
+            "href": null
+        },
+        {
+            "text": "Killarney",
+            "href": null
+        },
+        {
+            "text": "Ennis",
+            "href": null
+        },
+        {
+            "text": "Tralee",
+            "href": null
+        },
+        {
+            "text": "Nenagh",
+            "href": null
+        },
+        {
+            "text": "Listowel",
+            "href": null
+        },
+        {
+            "text": "Newcastle West",
+            "href": null
+        },
+        {
+            "text": "Sligo",
+            "href": null
+        },
+        {
+            "text": "Carrick–on–Shannon",
+            "href": null
+        },
+        {
+            "text": "Letterkenny",
+            "href": null
+        },
+        {
+            "text": "Athlone",
+            "href": null
+        },
+        {
+            "text": "Ballinasloe",
+            "href": null
+        },
+        {
+            "text": "Roscommon",
+            "href": null
+        },
+        {
+            "text": "Galway",
+            "href": null
+        },
+        {
+            "text": "Tuam",
+            "href": null
+        },
+        {
+            "text": "Castlebar",
+            "href": null
+        },
+        {
+            "text": "Castlerea",
+            "href": null
+        },
+        {
+            "text": "Clifden",
+            "href": null
+        },
+        {
+            "text": "Ballina",
+            "href": null
+        },
+        {
+            "text": "Belmullet",
+            "href": null
+        },
+        {
+            "text": "Westport",
+            "href": null
+        },
+        {
+            "text": "Kilronan",
+            "href": null
+        },
+        {
+            "text": "ComReg",
+            "href": null
+        },
+        {
+            "text": "here",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "mobile number portability",
+            "href": null
+        },
+        {
+            "text": "Three",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Three Ireland",
+            "href": null
+        },
+        {
+            "text": "O2",
+            "href": null
+        },
+        {
+            "text": "eir mobile",
+            "href": null
+        },
+        {
+            "text": "Meteor",
+            "href": null
+        },
+        {
+            "text": "Vodafone Ireland",
+            "href": null
+        },
+        {
+            "text": "Eircell",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "GoMo",
+            "href": null
+        },
+        {
+            "text": "An Post Mobile",
+            "href": null
+        },
+        {
+            "text": "Clear Mobile",
+            "href": null
+        },
+        {
+            "text": "Tesco Mobile",
+            "href": null
+        },
+        {
+            "text": "Lycamobile",
+            "href": null
+        },
+        {
+            "text": "Virgin Mobile",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "machine-to-machine",
+            "href": null
+        },
+        {
+            "text": "Eircell",
+            "href": null
+        },
+        {
+            "text": "TACS",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "UK numbering plan",
+            "href": null
+        },
+        {
+            "text": "Belfast",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "country code",
+            "href": null
+        },
+        {
+            "text": "E.164",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "drama use",
+            "href": null
+        },
+        {
+            "text": "VoIP",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Digiweb",
+            "href": null
+        },
+        {
+            "text": "BT Ireland",
+            "href": null
+        },
+        {
+            "text": "Magnet Networks",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "999",
+            "href": null
+        },
+        {
+            "text": "112",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Ambulance",
+            "href": null
+        },
+        {
+            "text": "Garda Síochána",
+            "href": null
+        },
+        {
+            "text": "Fire and rescue",
+            "href": null
+        },
+        {
+            "text": "Irish Coast Guard",
+            "href": null
+        },
+        {
+            "text": "Cliff and mountain rescue",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "SMS",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "COVID-19",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "[4]",
+            "href": null
+        },
+        {
+            "text": "Virgin Media Business",
+            "href": null
+        },
+        {
+            "text": "in2tel",
+            "href": null
+        },
+        {
+            "text": "Virgin Media",
+            "href": null
+        },
+        {
+            "text": "eir",
+            "href": null
+        },
+        {
+            "text": "Tesco Mobile",
+            "href": null
+        },
+        {
+            "text": "Three",
+            "href": null
+        },
+        {
+            "text": "Digiweb",
+            "href": null
+        },
+        {
+            "text": "Pure Telecom",
+            "href": null
+        },
+        {
+            "text": "48 months",
+            "href": null
+        },
+        {
+            "text": "Sky",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Carrier preselect",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "OpenEir",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Virgin Media Ireland",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Virgin Media Ireland",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Drogheda",
+            "href": null
+        },
+        {
+            "text": "Ardee",
+            "href": null
+        },
+        {
+            "text": "Dundalk",
+            "href": null
+        },
+        {
+            "text": "Carrickmacross",
+            "href": null
+        },
+        {
+            "text": "Castleblayney",
+            "href": null
+        },
+        {
+            "text": "Cavan",
+            "href": null
+        },
+        {
+            "text": "Cootehill",
+            "href": null
+        },
+        {
+            "text": "Oldcastle",
+            "href": null
+        },
+        {
+            "text": "Belturbet",
+            "href": null
+        },
+        {
+            "text": "Ennis",
+            "href": null
+        },
+        {
+            "text": "Ennistymon",
+            "href": null
+        },
+        {
+            "text": "Kilrush",
+            "href": null
+        },
+        {
+            "text": "Tralee",
+            "href": null
+        },
+        {
+            "text": "Dingle",
+            "href": null
+        },
+        {
+            "text": "Cahirciveen",
+            "href": null
+        },
+        {
+            "text": "Killorglin",
+            "href": null
+        },
+        {
+            "text": "Northern Ireland",
+            "href": null
+        },
+        {
+            "text": "Big Number Change",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Meath",
+            "href": null
+        },
+        {
+            "text": "Offaly",
+            "href": null
+        },
+        {
+            "text": "Navan",
+            "href": null
+        },
+        {
+            "text": "Nobber",
+            "href": null
+        },
+        {
+            "text": "Kells",
+            "href": null
+        },
+        {
+            "text": "Trim",
+            "href": null
+        },
+        {
+            "text": "Enfield",
+            "href": null
+        },
+        {
+            "text": "Edenderry",
+            "href": null
+        },
+        {
+            "text": "Kilkenny",
+            "href": null
+        },
+        {
+            "text": "Castlecomer",
+            "href": null
+        },
+        {
+            "text": "Freshford",
+            "href": null
+        },
+        {
+            "text": "County Carlow",
+            "href": null
+        },
+        {
+            "text": "Kildare",
+            "href": null
+        },
+        {
+            "text": "Kilkenny",
+            "href": null
+        },
+        {
+            "text": "Laois",
+            "href": null
+        },
+        {
+            "text": "Wicklow",
+            "href": null
+        },
+        {
+            "text": "Carlow",
+            "href": null
+        },
+        {
+            "text": "Bagenalstown",
+            "href": null
+        },
+        {
+            "text": "Athy",
+            "href": null
+        },
+        {
+            "text": "Baltinglass",
+            "href": null
+        },
+        {
+            "text": "County Sligo",
+            "href": null
+        },
+        {
+            "text": "County Leitrim",
+            "href": null
+        },
+        {
+            "text": "Cavan",
+            "href": null
+        },
+        {
+            "text": "Donegal",
+            "href": null
+        },
+        {
+            "text": "Roscommon",
+            "href": null
+        },
+        {
+            "text": "Sligo",
+            "href": null
+        },
+        {
+            "text": "Boyle",
+            "href": null
+        },
+        {
+            "text": "Carrick-on-Shannon",
+            "href": null
+        },
+        {
+            "text": "Drumshanbo",
+            "href": null
+        },
+        {
+            "text": "Manorhamilton",
+            "href": null
+        },
+        {
+            "text": "County Donegal",
+            "href": null
+        },
+        {
+            "text": "Letterkenny",
+            "href": null
+        },
+        {
+            "text": "Lifford",
+            "href": null
+        },
+        {
+            "text": "Ramelton",
+            "href": null
+        },
+        {
+            "text": "Buncrana",
+            "href": null
+        },
+        {
+            "text": "Dungloe",
+            "href": null
+        },
+        {
+            "text": "Donegal",
+            "href": null
+        },
+        {
+            "text": "Galway",
+            "href": null
+        },
+        {
+            "text": "Offaly",
+            "href": null
+        },
+        {
+            "text": "Roscommon",
+            "href": null
+        },
+        {
+            "text": "Westmeath",
+            "href": null
+        },
+        {
+            "text": "Longford",
+            "href": null
+        },
+        {
+            "text": "Athlone",
+            "href": null
+        },
+        {
+            "text": "Banagher",
+            "href": null
+        },
+        {
+            "text": "Ballinasloe",
+            "href": null
+        },
+        {
+            "text": "Roscommon",
+            "href": null
+        },
+        {
+            "text": "Portumna",
+            "href": null
+        },
+        {
+            "text": "[note 1]",
+            "href": null
+        },
+        {
+            "text": "Galway",
+            "href": null
+        },
+        {
+            "text": "Mayo",
+            "href": null
+        },
+        {
+            "text": "Roscommon",
+            "href": null
+        },
+        {
+            "text": "Sligo",
+            "href": null
+        },
+        {
+            "text": "Castlebar",
+            "href": null
+        },
+        {
+            "text": "Swinford",
+            "href": null
+        },
+        {
+            "text": "Claremorris",
+            "href": null
+        },
+        {
+            "text": "Ballinrobe",
+            "href": null
+        },
+        {
+            "text": "Castlerea",
+            "href": null
+        },
+        {
+            "text": "Ballaghaderreen",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Rochfortbridge",
+            "href": null
+        },
+        {
+            "text": "Mullingar",
+            "href": null
+        },
+        {
+            "text": "Castlepollard",
+            "href": null
+        },
+        {
+            "text": "County Wexford",
+            "href": null
+        },
+        {
+            "text": "Carlow",
+            "href": null
+        },
+        {
+            "text": "Wicklow",
+            "href": null
+        },
+        {
+            "text": "Wexford",
+            "href": null
+        },
+        {
+            "text": "Enniscorthy",
+            "href": null
+        },
+        {
+            "text": "Ferns",
+            "href": null
+        },
+        {
+            "text": "Gorey",
+            "href": null
+        },
+        {
+            "text": "Laois",
+            "href": null
+        },
+        {
+            "text": "Offaly",
+            "href": null
+        },
+        {
+            "text": "Galway",
+            "href": null
+        },
+        {
+            "text": "Westmeath",
+            "href": null
+        },
+        {
+            "text": "Portlaoise",
+            "href": null
+        },
+        {
+            "text": "Abbeyleix",
+            "href": null
+        },
+        {
+            "text": "Tullamore",
+            "href": null
+        },
+        {
+            "text": "Birr",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Bandon",
+            "href": null
+        },
+        {
+            "text": "Longford",
+            "href": null
+        },
+        {
+            "text": "Edgeworthstown",
+            "href": null
+        },
+        {
+            "text": "Clonmel",
+            "href": null
+        },
+        {
+            "text": "Cahir",
+            "href": null
+        },
+        {
+            "text": "Killenaule",
+            "href": null
+        },
+        {
+            "text": "Killarney",
+            "href": null
+        },
+        {
+            "text": "Rathmore",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[6]",
+            "href": null
+        },
+        {
+            "text": "[7]",
+            "href": null
+        },
+        {
+            "text": "[8]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Telecom Éireann",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[8]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Great Britain",
+            "href": null
+        },
+        {
+            "text": "[9]",
+            "href": null
+        },
+        {
+            "text": "Channel Islands",
+            "href": null
+        },
+        {
+            "text": "Isle of Man",
+            "href": null
+        },
+        {
+            "text": "[7]",
+            "href": null
+        },
+        {
+            "text": "[10]",
+            "href": null
+        },
+        {
+            "text": "director telephone system",
+            "href": null
+        },
+        {
+            "text": "[11]",
+            "href": null
+        },
+        {
+            "text": "Birmingham",
+            "href": null
+        },
+        {
+            "text": "[12]",
+            "href": null
+        },
+        {
+            "text": "Edinburgh",
+            "href": null
+        },
+        {
+            "text": "[12]",
+            "href": null
+        },
+        {
+            "text": "Glasgow",
+            "href": null
+        },
+        {
+            "text": "[12]",
+            "href": null
+        },
+        {
+            "text": "Liverpool",
+            "href": null
+        },
+        {
+            "text": "[12]",
+            "href": null
+        },
+        {
+            "text": "Manchester",
+            "href": null
+        },
+        {
+            "text": "[12]",
+            "href": null
+        },
+        {
+            "text": "[13]",
+            "href": null
+        },
+        {
+            "text": "[14]",
+            "href": null
+        },
+        {
+            "text": "[15]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "List of dialling codes in the Republic of Ireland",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Numbering Conditions of Use and Application Process\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "What are phone-paid/premium rate services?",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "https://www.comreg.ie/media/2021/09/ComReg2189.pdf",
+            "href": null
+        },
+        {
+            "text": "bare URL PDF",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Review of Non-Geographic Numbers\"",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "The Evolution of Geographic Telephone Numbering in Ireland",
+            "href": null
+        },
+        {
+            "text": "ComReg",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Birnbaum's Ireland, 1991",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "Festivals in Great Britain, Northern Ireland & Eire: A List with Forecast Dates and Policies",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "Ireland: A Directory",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Multinational Executive Travel Companion",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Ireland",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Ireland: A Directory",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "c",
+            "href": null
+        },
+        {
+            "text": "d",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Ireland, Administration Yearbook and Diary",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "State Directory",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Benn's Media Directory",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Ireland",
+            "href": null
+        },
+        {
+            "text": "ITU allocations list",
+            "href": null
+        },
+        {
+            "text": "Comreg homepage",
+            "href": null
+        },
+        {
+            "text": "Comreg:Geographic Numbering Areas (pdf)",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Europe",
+            "href": null
+        },
+        {
+            "text": "Albania",
+            "href": null
+        },
+        {
+            "text": "Andorra",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Austria",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Belarus",
+            "href": null
+        },
+        {
+            "text": "Belgium",
+            "href": null
+        },
+        {
+            "text": "Bosnia and Herzegovina",
+            "href": null
+        },
+        {
+            "text": "Bulgaria",
+            "href": null
+        },
+        {
+            "text": "Croatia",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "Czech Republic",
+            "href": null
+        },
+        {
+            "text": "Denmark",
+            "href": null
+        },
+        {
+            "text": "Estonia",
+            "href": null
+        },
+        {
+            "text": "Finland",
+            "href": null
+        },
+        {
+            "text": "France",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "Germany",
+            "href": null
+        },
+        {
+            "text": "Greece",
+            "href": null
+        },
+        {
+            "text": "Hungary",
+            "href": null
+        },
+        {
+            "text": "Iceland",
+            "href": null
+        },
+        {
+            "text": "Ireland",
+            "href": null
+        },
+        {
+            "text": "Italy",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "Latvia",
+            "href": null
+        },
+        {
+            "text": "Liechtenstein",
+            "href": null
+        },
+        {
+            "text": "Lithuania",
+            "href": null
+        },
+        {
+            "text": "Luxembourg",
+            "href": null
+        },
+        {
+            "text": "Malta",
+            "href": null
+        },
+        {
+            "text": "Moldova",
+            "href": null
+        },
+        {
+            "text": "Monaco",
+            "href": null
+        },
+        {
+            "text": "Montenegro",
+            "href": null
+        },
+        {
+            "text": "Netherlands",
+            "href": null
+        },
+        {
+            "text": "North Macedonia",
+            "href": null
+        },
+        {
+            "text": "Norway",
+            "href": null
+        },
+        {
+            "text": "Poland",
+            "href": null
+        },
+        {
+            "text": "Portugal",
+            "href": null
+        },
+        {
+            "text": "Romania",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "San Marino",
+            "href": null
+        },
+        {
+            "text": "Serbia",
+            "href": null
+        },
+        {
+            "text": "Slovakia",
+            "href": null
+        },
+        {
+            "text": "Slovenia",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "Sweden",
+            "href": null
+        },
+        {
+            "text": "Switzerland",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Ukraine",
+            "href": null
+        },
+        {
+            "text": "United Kingdom",
+            "href": null
+        },
+        {
+            "text": "Vatican City",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Kosovo",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Transnistria",
+            "href": null
+        },
+        {
+            "text": "Åland",
+            "href": null
+        },
+        {
+            "text": "Faroe Islands",
+            "href": null
+        },
+        {
+            "text": "Gibraltar",
+            "href": null
+        },
+        {
+            "text": "Guernsey",
+            "href": null
+        },
+        {
+            "text": "Isle of Man",
+            "href": null
+        },
+        {
+            "text": "Jersey",
+            "href": null
+        },
+        {
+            "text": "Svalbard",
+            "href": null
+        }
+    ]
+}

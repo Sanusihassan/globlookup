@@ -1,0 +1,5366 @@
+{
+    "tables": [
+        [
+            [
+                ""
+            ],
+            [
+                "Subsidiary"
+            ],
+            [
+                "Satellite communication"
+            ],
+            [
+                "1979; 45 years ago(1979)"
+            ],
+            [
+                "London, England"
+            ],
+            [
+                "Andrew Sukawaty (chair­person)Rajeev Suri(CEO)"
+            ],
+            [
+                "US$1,465.2million (2018)[1]"
+            ],
+            [
+                "US$288.7million (2018)[1]"
+            ],
+            [
+                "US$125.0million (2018)[1]"
+            ],
+            [
+                "1,500 (2019)[2]"
+            ],
+            [
+                "Viasat"
+            ],
+            [
+                "www.inmarsat.com"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "",
+                "",
+                "Delta 2914",
+                "19 February 1976",
+                "Decommissioned 1997"
+            ],
+            [
+                "",
+                "",
+                "Delta 2914",
+                "14 October 1976",
+                "Transferred to Intelsat in 2004, decommissioned in 2008"
+            ],
+            [
+                "",
+                "",
+                "Delta 2914",
+                "10 June 1976",
+                "Decommissioned"
+            ],
+            [],
+            [
+                "",
+                "",
+                "Ariane 1",
+                "20 December 1981",
+                "Deactivated August 1996"
+            ],
+            [
+                "",
+                "",
+                "Ariane 1",
+                "9 September 1982",
+                "Launch failure"
+            ],
+            [
+                "",
+                "",
+                "Ariane 3",
+                "10 November 1984",
+                "also known as MARECS-B2, deactivated 2002"
+            ],
+            [],
+            [
+                "",
+                "",
+                "Delta II6925",
+                "30 October 1990",
+                "Decommissioned 19 April 2013Previous record holder for mission lifespan[55]"
+            ],
+            [
+                "",
+                "",
+                "Delta II6925",
+                "8 March 1991",
+                "Decommissioned in December 2014World record for mission lifespan[55]"
+            ],
+            [
+                "",
+                "",
+                "Ariane 44L",
+                "16 December 1991",
+                "Decommissioned 2006"
+            ],
+            [
+                "",
+                "",
+                "Ariane 44L",
+                "15 April 1992",
+                "Decommissioned 2012"
+            ],
+            [],
+            [
+                "",
+                "",
+                "Atlas IIA",
+                "3 April 1996",
+                "Reassigned to Maritime safety backup service in 2020"
+            ],
+            [
+                "",
+                "",
+                "Proton-K/DM1",
+                "6 September 1996",
+                "Reassigned to Maritime safety backup service in 2019"
+            ],
+            [
+                "",
+                "178° East",
+                "Atlas IIA",
+                "18 December 1996",
+                "Existing and evolved services only"
+            ],
+            [
+                "",
+                "",
+                "Ariane 44L",
+                "3 June 1997",
+                "Decommissioned 2016"
+            ],
+            [
+                "AOR",
+                "54° West",
+                "Ariane 44LP",
+                "4 February 1998",
+                "Various leases"
+            ],
+            [],
+            [
+                "APAC",
+                "143.5° East",
+                "Atlas V431",
+                "11 March 2005",
+                "BGAN family, SPS and lease services"
+            ],
+            [
+                "IOR",
+                "64° East",
+                "Zenit-3SL",
+                "8 November 2005",
+                "BGAN family, SPS and lease services, FleetBroadband, SwiftBroadbandTransferred from 25° East to 63° East in mid-2015[58]"
+            ],
+            [
+                "AMER",
+                "98° West",
+                "Proton-M/Briz-M",
+                "18 August 2008",
+                "BGAN family and lease services"
+            ],
+            [
+                "EMEA",
+                "25° East",
+                "Ariane 5ECA",
+                "25 July 2013",
+                "BGAN family, SPS and lease services"
+            ],
+            [],
+            [
+                "I-5 Europe, Middle East, Africa",
+                "62.6° East",
+                "Proton-M/Briz-M",
+                "8 December 2013",
+                "Ka-Bandglobal data services, Global Xpress"
+            ],
+            [
+                "I-5 Americas",
+                "55° West",
+                "Proton-M/Briz-M",
+                "2 February 2015",
+                "Ka-Bandglobal data services, Global Xpress"
+            ],
+            [
+                "I-5 Pacific, Asia, West Americas",
+                "179.6° East",
+                "Proton-M/Briz-M",
+                "28 August 2015",
+                "Ka-Bandglobal data services, Global Xpress"
+            ],
+            [
+                "I-5 Europe + in-orbit spare",
+                "56.5° East",
+                "Falcon 9 Full Thrust",
+                "15 May 2017[68]",
+                "Ka-Bandglobal data services, Global Xpress"
+            ],
+            [
+                "Europe and Middle East",
+                "11° East",
+                "Ariane 5ECA",
+                "26 November 2019[54]",
+                "Ka-Bandglobal data services, higher capacity GX satellite after the 4 first generation satellites"
+            ],
+            [],
+            [
+                "Europe",
+                "39° East",
+                "Ariane 5",
+                "28 June 2017",
+                "S-bandservices for European aviation"
+            ],
+            [],
+            [
+                "",
+                "",
+                "H-IIAF45",
+                "22 December 2021"
+            ],
+            [
+                "",
+                "",
+                "Falcon 9 Block 5",
+                "18 February 2023",
+                "Failed in orbit"
+            ]
+        ],
+        [
+            [],
+            [
+                "Satellite televisionSatellite radioSatellite Internet accessAmateur satelliteGround stationHigh-throughput satelliteRelay satelliteTransponderCarriage dispute"
+            ],
+            [
+                "SAT>IPMonoblock LNBDiSEqCUSALSAutomatic Tracking Satellite DishMotor-driven Satellite dishMulti-satelliteSatellite dish(Parabolic antennas)Satellite phoneSatellite modemSatellite data unitSpacebusVery-small-aperture terminal"
+            ],
+            [
+                "DVB-SHS-DMBDVB-RCSDVB-S2DVB-S2XISDB-S3Digital audio radio service"
+            ],
+            [
+                "Astra Digital RadioDirecTVDish NetworkSirius XM HoldingsSky UKAllente1worldspace"
+            ],
+            [
+                "AST SpaceMobileEchoStarEutelsatGlobalstarHispasatHughesInmarsatIntelsatIntersputnikIridiumSED SystemsSESStar OneStarlinkTelesatToowayTurksatViasat"
+            ],
+            [
+                "AirbusBoeingINVAPLockheed MartinNorthrop GrummanSpaceXSSLThales Alenia Space"
+            ],
+            [
+                "Consultative Committee for Space Data SystemsETSI Satellite Digital Radio"
+            ],
+            [
+                "List of communications satellite firstsList of communication satellite companies"
+            ],
+            [
+                "CategoryCommons"
+            ]
+        ],
+        [
+            [],
+            [
+                "BeaconBroadcastingCable protection systemCable TVCommunications satelliteComputer networkData compressionaudioDCTimagevideoDigital mediaInternet videoonline video platformsocial mediastreamingDrumsEdholm's lawElectrical telegraphFaxHeliographsHydraulic telegraphInformation AgeInformation revolutionInternetMass mediaMobile phoneSmartphoneOptical telecommunicationOptical telegraphyPagerPhotophonePrepaid mobile phoneRadioRadiotelephoneSatellite communicationsSemaphorePhryctoriaSemiconductordeviceMOSFETtransistorSmoke signalsTelecommunications historyTelautographTelegraphyTeleprinter(teletype)TelephoneThe Telephone CasesTelevisiondigitalstreamingUndersea telegraph lineVideotelephonyWhistled languageWireless revolution",
+                ""
+            ],
+            [
+                "Nasir AhmedEdwin Howard ArmstrongMohamed M. AtallaJohn Logie BairdPaul BaranJohn BardeenAlexander Graham BellEmile BerlinerTim Berners-LeeFrancis Blake (telephone)Jagadish Chandra BoseCharles BourseulWalter Houser BrattainVint CerfClaude ChappeYogen DalalDaniel Davis Jr.Donald DaviesAmos DolbearThomas EdisonLee de ForestPhilo FarnsworthReginald FessendenElisha GrayOliver HeavisideRobert HookeErna Schneider HooverHarold HopkinsGardiner Greene HubbardInternet pioneersBob KahnDawon KahngCharles K. KaoNarinder Singh KapanyHedy LamarrInnocenzo ManzettiGuglielmo MarconiRobert MetcalfeAntonio MeucciSamuel MorseJun-ichi NishizawaCharles Grafton PageRadia PerlmanAlexander Stepanovich PopovTivadar PuskásJohann Philipp ReisClaude ShannonAlmon Brown StrowgerHenry SuttonCharles Sumner TainterNikola TeslaCamille TissotAlfred VailThomas A. WatsonCharles WheatstoneVladimir K. Zworykin"
+            ],
+            [
+                "Coaxial cableFiber-optic communicationoptical fiberFree-space optical communicationMolecular communicationRadio waveswirelessTransmission linetelecommunication circuit"
+            ],
+            [
+                "BandwidthLinksNodesterminalNetwork switchingcircuitpacketTelephone exchange"
+            ],
+            [
+                "Space-divisionFrequency-divisionTime-divisionPolarization-divisionOrbital angular-momentumCode-division"
+            ],
+            [
+                "Communication protocolComputer networkData transmissionStore and forwardTelecommunications equipment"
+            ],
+            [
+                "Cellular networkEthernetISDNLANMobileNGNPublic Switched TelephoneRadioTelevisionTelexUUCPWANWireless network"
+            ],
+            [
+                "ARPANETBITNETCYCLADESFidoNetInternetInternet2JANETNPL networkToasternetUsenet"
+            ],
+            [
+                "AfricaAmericasNorthSouthAntarcticaAsiaEuropeOceania(Global telecommunications regulation bodies)"
+            ],
+            [
+                "Telecommunication portalCategoryOutlineCommons"
+            ]
+        ],
+        [
+            [],
+            [
+                "Economy of the United KingdomScience and technology in the United Kingdom"
+            ],
+            [
+                "InfrastructureprovidersArqivaBabcock InternationalBT Wholesale and VenturesCityFibreKCOM GroupOpenreachInterxionTelecityGroupTelehouse EuropeServiceprovidersCurrentAndrews & ArnoldAsda MobileBT GroupBT ConsumerBT Business and Public SectorBT Global ServicesEEPlusnetChina MobileCMLinkClaranetColt GroupThe Co-operativeCable & WirelessEntanetInmarsatKCOM GroupEclipse InternetLebaraLycamobileSkySky BroadbandTalkTalkBusinessMobileTVTelecom PlusTescoThreeThree UKSMARTYTruTrunk NetworksLeetlineNo OneVirgin Media O2O2GiffgaffVirgin MediaVirgin Media BusinessVodafoneVodafone UKTalkmobileVoipfoneWightFibreZen InternetDefunctAOLAtlantic Telegraph CompanyBe Un LimitedBonelli's Electric Telegraph CompanyBritish and Irish Magnetic TelegraphCable & Wireless plcCable & Wireless WorldwideDelightElectric Telegraph CompanyEnergisFamilyGeneral Post OfficeGutta Percha CompanyIonicaLondon and Provincial District TelegraphMercuryNational Telephone CompanyNTLOrangeOvivoPost OfficePipexRabbitSainsbury'sStanSubmarine TelegraphTiscali UKT-MobileUniversal Private TelegraphVirgin MobileSuppliersCurrentArm HoldingsIceraMetaswitchSarantelSpirentTelentDefunctCSRGEC PlesseyMarconi CompanyMarconi CommunicationsPacePicoChipStandardOtherCarphone WarehouseHibu",
+                "ArqivaBabcock InternationalBT Wholesale and VenturesCityFibreKCOM GroupOpenreachInterxionTelecityGroupTelehouse Europe",
+                "CurrentAndrews & ArnoldAsda MobileBT GroupBT ConsumerBT Business and Public SectorBT Global ServicesEEPlusnetChina MobileCMLinkClaranetColt GroupThe Co-operativeCable & WirelessEntanetInmarsatKCOM GroupEclipse InternetLebaraLycamobileSkySky BroadbandTalkTalkBusinessMobileTVTelecom PlusTescoThreeThree UKSMARTYTruTrunk NetworksLeetlineNo OneVirgin Media O2O2GiffgaffVirgin MediaVirgin Media BusinessVodafoneVodafone UKTalkmobileVoipfoneWightFibreZen InternetDefunctAOLAtlantic Telegraph CompanyBe Un LimitedBonelli's Electric Telegraph CompanyBritish and Irish Magnetic TelegraphCable & Wireless plcCable & Wireless WorldwideDelightElectric Telegraph CompanyEnergisFamilyGeneral Post OfficeGutta Percha CompanyIonicaLondon and Provincial District TelegraphMercuryNational Telephone CompanyNTLOrangeOvivoPost OfficePipexRabbitSainsbury'sStanSubmarine TelegraphTiscali UKT-MobileUniversal Private TelegraphVirgin Mobile",
+                "Andrews & ArnoldAsda MobileBT GroupBT ConsumerBT Business and Public SectorBT Global ServicesEEPlusnetChina MobileCMLinkClaranetColt GroupThe Co-operativeCable & WirelessEntanetInmarsatKCOM GroupEclipse InternetLebaraLycamobileSkySky BroadbandTalkTalkBusinessMobileTVTelecom PlusTescoThreeThree UKSMARTYTruTrunk NetworksLeetlineNo OneVirgin Media O2O2GiffgaffVirgin MediaVirgin Media BusinessVodafoneVodafone UKTalkmobileVoipfoneWightFibreZen Internet",
+                "AOLAtlantic Telegraph CompanyBe Un LimitedBonelli's Electric Telegraph CompanyBritish and Irish Magnetic TelegraphCable & Wireless plcCable & Wireless WorldwideDelightElectric Telegraph CompanyEnergisFamilyGeneral Post OfficeGutta Percha CompanyIonicaLondon and Provincial District TelegraphMercuryNational Telephone CompanyNTLOrangeOvivoPost OfficePipexRabbitSainsbury'sStanSubmarine TelegraphTiscali UKT-MobileUniversal Private TelegraphVirgin Mobile",
+                "CurrentArm HoldingsIceraMetaswitchSarantelSpirentTelentDefunctCSRGEC PlesseyMarconi CompanyMarconi CommunicationsPacePicoChipStandard",
+                "Arm HoldingsIceraMetaswitchSarantelSpirentTelent",
+                "CSRGEC PlesseyMarconi CompanyMarconi CommunicationsPacePicoChipStandard",
+                "Carphone WarehouseHibu"
+            ],
+            [
+                "ArqivaBabcock InternationalBT Wholesale and VenturesCityFibreKCOM GroupOpenreachInterxionTelecityGroupTelehouse Europe"
+            ],
+            [
+                "CurrentAndrews & ArnoldAsda MobileBT GroupBT ConsumerBT Business and Public SectorBT Global ServicesEEPlusnetChina MobileCMLinkClaranetColt GroupThe Co-operativeCable & WirelessEntanetInmarsatKCOM GroupEclipse InternetLebaraLycamobileSkySky BroadbandTalkTalkBusinessMobileTVTelecom PlusTescoThreeThree UKSMARTYTruTrunk NetworksLeetlineNo OneVirgin Media O2O2GiffgaffVirgin MediaVirgin Media BusinessVodafoneVodafone UKTalkmobileVoipfoneWightFibreZen InternetDefunctAOLAtlantic Telegraph CompanyBe Un LimitedBonelli's Electric Telegraph CompanyBritish and Irish Magnetic TelegraphCable & Wireless plcCable & Wireless WorldwideDelightElectric Telegraph CompanyEnergisFamilyGeneral Post OfficeGutta Percha CompanyIonicaLondon and Provincial District TelegraphMercuryNational Telephone CompanyNTLOrangeOvivoPost OfficePipexRabbitSainsbury'sStanSubmarine TelegraphTiscali UKT-MobileUniversal Private TelegraphVirgin Mobile",
+                "Andrews & ArnoldAsda MobileBT GroupBT ConsumerBT Business and Public SectorBT Global ServicesEEPlusnetChina MobileCMLinkClaranetColt GroupThe Co-operativeCable & WirelessEntanetInmarsatKCOM GroupEclipse InternetLebaraLycamobileSkySky BroadbandTalkTalkBusinessMobileTVTelecom PlusTescoThreeThree UKSMARTYTruTrunk NetworksLeetlineNo OneVirgin Media O2O2GiffgaffVirgin MediaVirgin Media BusinessVodafoneVodafone UKTalkmobileVoipfoneWightFibreZen Internet",
+                "AOLAtlantic Telegraph CompanyBe Un LimitedBonelli's Electric Telegraph CompanyBritish and Irish Magnetic TelegraphCable & Wireless plcCable & Wireless WorldwideDelightElectric Telegraph CompanyEnergisFamilyGeneral Post OfficeGutta Percha CompanyIonicaLondon and Provincial District TelegraphMercuryNational Telephone CompanyNTLOrangeOvivoPost OfficePipexRabbitSainsbury'sStanSubmarine TelegraphTiscali UKT-MobileUniversal Private TelegraphVirgin Mobile"
+            ],
+            [
+                "Andrews & ArnoldAsda MobileBT GroupBT ConsumerBT Business and Public SectorBT Global ServicesEEPlusnetChina MobileCMLinkClaranetColt GroupThe Co-operativeCable & WirelessEntanetInmarsatKCOM GroupEclipse InternetLebaraLycamobileSkySky BroadbandTalkTalkBusinessMobileTVTelecom PlusTescoThreeThree UKSMARTYTruTrunk NetworksLeetlineNo OneVirgin Media O2O2GiffgaffVirgin MediaVirgin Media BusinessVodafoneVodafone UKTalkmobileVoipfoneWightFibreZen Internet"
+            ],
+            [
+                "AOLAtlantic Telegraph CompanyBe Un LimitedBonelli's Electric Telegraph CompanyBritish and Irish Magnetic TelegraphCable & Wireless plcCable & Wireless WorldwideDelightElectric Telegraph CompanyEnergisFamilyGeneral Post OfficeGutta Percha CompanyIonicaLondon and Provincial District TelegraphMercuryNational Telephone CompanyNTLOrangeOvivoPost OfficePipexRabbitSainsbury'sStanSubmarine TelegraphTiscali UKT-MobileUniversal Private TelegraphVirgin Mobile"
+            ],
+            [
+                "CurrentArm HoldingsIceraMetaswitchSarantelSpirentTelentDefunctCSRGEC PlesseyMarconi CompanyMarconi CommunicationsPacePicoChipStandard",
+                "Arm HoldingsIceraMetaswitchSarantelSpirentTelent",
+                "CSRGEC PlesseyMarconi CompanyMarconi CommunicationsPacePicoChipStandard"
+            ],
+            [
+                "Arm HoldingsIceraMetaswitchSarantelSpirentTelent"
+            ],
+            [
+                "CSRGEC PlesseyMarconi CompanyMarconi CommunicationsPacePicoChipStandard"
+            ],
+            [
+                "Carphone WarehouseHibu"
+            ],
+            [
+                "Broadband Stakeholder GroupDefence Science and Technology LaboratoryEuropean Conference of Postal and Telecommunications AdministrationsInternational Telecommunication UnionOfcomPhone-paid Services Authority"
+            ],
+            [
+                "GSM AssociationInternet Service Providers AssociationInternet Telephony Services Providers’ AssociationLONAPLondon Internet ExchangeMaNAPSymbian Foundation"
+            ],
+            [
+                "Akrotiri and DhekeliaAnguillaAntarctica(includingBritish Antarctic Territory)Ascension IslandBermudaBritish Indian Ocean TerritoryBritish Virgin IslandsCayman IslandsFalkland IslandsGibraltarGuernseyIsle of ManJerseyMontserratPitcairn IslandsSaint HelenaSouth Georgia and South Sandwich IslandsTurks and Caicos IslandsTristan da Cunha"
+            ],
+            [
+                "Adastral ParkBritish Approvals Board for TelecommunicationsBritish Telecommunications Act 1981British telephone socketsBT ResearchBT site engineering codeBuzbyCommunications Act 2003Earth stations in UKHull Colour PagesInterception of Communications Act 1985Internet in UKTelegraph ActTelegraph Act 1868Telegraph Act 1885Telephone numbers in UKUK telephone code misconceptionsWeb blocking in UK"
+            ],
+            [
+                "CategoryCommons"
+            ]
+        ],
+        [
+            [
+                "ArqivaBabcock InternationalBT Wholesale and VenturesCityFibreKCOM GroupOpenreachInterxionTelecityGroupTelehouse Europe"
+            ],
+            [
+                "CurrentAndrews & ArnoldAsda MobileBT GroupBT ConsumerBT Business and Public SectorBT Global ServicesEEPlusnetChina MobileCMLinkClaranetColt GroupThe Co-operativeCable & WirelessEntanetInmarsatKCOM GroupEclipse InternetLebaraLycamobileSkySky BroadbandTalkTalkBusinessMobileTVTelecom PlusTescoThreeThree UKSMARTYTruTrunk NetworksLeetlineNo OneVirgin Media O2O2GiffgaffVirgin MediaVirgin Media BusinessVodafoneVodafone UKTalkmobileVoipfoneWightFibreZen InternetDefunctAOLAtlantic Telegraph CompanyBe Un LimitedBonelli's Electric Telegraph CompanyBritish and Irish Magnetic TelegraphCable & Wireless plcCable & Wireless WorldwideDelightElectric Telegraph CompanyEnergisFamilyGeneral Post OfficeGutta Percha CompanyIonicaLondon and Provincial District TelegraphMercuryNational Telephone CompanyNTLOrangeOvivoPost OfficePipexRabbitSainsbury'sStanSubmarine TelegraphTiscali UKT-MobileUniversal Private TelegraphVirgin Mobile",
+                "Andrews & ArnoldAsda MobileBT GroupBT ConsumerBT Business and Public SectorBT Global ServicesEEPlusnetChina MobileCMLinkClaranetColt GroupThe Co-operativeCable & WirelessEntanetInmarsatKCOM GroupEclipse InternetLebaraLycamobileSkySky BroadbandTalkTalkBusinessMobileTVTelecom PlusTescoThreeThree UKSMARTYTruTrunk NetworksLeetlineNo OneVirgin Media O2O2GiffgaffVirgin MediaVirgin Media BusinessVodafoneVodafone UKTalkmobileVoipfoneWightFibreZen Internet",
+                "AOLAtlantic Telegraph CompanyBe Un LimitedBonelli's Electric Telegraph CompanyBritish and Irish Magnetic TelegraphCable & Wireless plcCable & Wireless WorldwideDelightElectric Telegraph CompanyEnergisFamilyGeneral Post OfficeGutta Percha CompanyIonicaLondon and Provincial District TelegraphMercuryNational Telephone CompanyNTLOrangeOvivoPost OfficePipexRabbitSainsbury'sStanSubmarine TelegraphTiscali UKT-MobileUniversal Private TelegraphVirgin Mobile"
+            ],
+            [
+                "Andrews & ArnoldAsda MobileBT GroupBT ConsumerBT Business and Public SectorBT Global ServicesEEPlusnetChina MobileCMLinkClaranetColt GroupThe Co-operativeCable & WirelessEntanetInmarsatKCOM GroupEclipse InternetLebaraLycamobileSkySky BroadbandTalkTalkBusinessMobileTVTelecom PlusTescoThreeThree UKSMARTYTruTrunk NetworksLeetlineNo OneVirgin Media O2O2GiffgaffVirgin MediaVirgin Media BusinessVodafoneVodafone UKTalkmobileVoipfoneWightFibreZen Internet"
+            ],
+            [
+                "AOLAtlantic Telegraph CompanyBe Un LimitedBonelli's Electric Telegraph CompanyBritish and Irish Magnetic TelegraphCable & Wireless plcCable & Wireless WorldwideDelightElectric Telegraph CompanyEnergisFamilyGeneral Post OfficeGutta Percha CompanyIonicaLondon and Provincial District TelegraphMercuryNational Telephone CompanyNTLOrangeOvivoPost OfficePipexRabbitSainsbury'sStanSubmarine TelegraphTiscali UKT-MobileUniversal Private TelegraphVirgin Mobile"
+            ],
+            [
+                "CurrentArm HoldingsIceraMetaswitchSarantelSpirentTelentDefunctCSRGEC PlesseyMarconi CompanyMarconi CommunicationsPacePicoChipStandard",
+                "Arm HoldingsIceraMetaswitchSarantelSpirentTelent",
+                "CSRGEC PlesseyMarconi CompanyMarconi CommunicationsPacePicoChipStandard"
+            ],
+            [
+                "Arm HoldingsIceraMetaswitchSarantelSpirentTelent"
+            ],
+            [
+                "CSRGEC PlesseyMarconi CompanyMarconi CommunicationsPacePicoChipStandard"
+            ],
+            [
+                "Carphone WarehouseHibu"
+            ]
+        ],
+        [
+            [
+                "Andrews & ArnoldAsda MobileBT GroupBT ConsumerBT Business and Public SectorBT Global ServicesEEPlusnetChina MobileCMLinkClaranetColt GroupThe Co-operativeCable & WirelessEntanetInmarsatKCOM GroupEclipse InternetLebaraLycamobileSkySky BroadbandTalkTalkBusinessMobileTVTelecom PlusTescoThreeThree UKSMARTYTruTrunk NetworksLeetlineNo OneVirgin Media O2O2GiffgaffVirgin MediaVirgin Media BusinessVodafoneVodafone UKTalkmobileVoipfoneWightFibreZen Internet"
+            ],
+            [
+                "AOLAtlantic Telegraph CompanyBe Un LimitedBonelli's Electric Telegraph CompanyBritish and Irish Magnetic TelegraphCable & Wireless plcCable & Wireless WorldwideDelightElectric Telegraph CompanyEnergisFamilyGeneral Post OfficeGutta Percha CompanyIonicaLondon and Provincial District TelegraphMercuryNational Telephone CompanyNTLOrangeOvivoPost OfficePipexRabbitSainsbury'sStanSubmarine TelegraphTiscali UKT-MobileUniversal Private TelegraphVirgin Mobile"
+            ]
+        ],
+        [
+            [
+                "Arm HoldingsIceraMetaswitchSarantelSpirentTelent"
+            ],
+            [
+                "CSRGEC PlesseyMarconi CompanyMarconi CommunicationsPacePicoChipStandard"
+            ]
+        ],
+        [
+            [
+                "ISNI"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "Andrew Sukawaty (chair­person)",
+            "Rajeev Suri(CEO)"
+        ],
+        [
+            "870SNAC (Single Network Access Code)"
+        ],
+        [
+            "871Atlantic Ocean Region – East (AOR-E)",
+            "872Pacific Ocean Region (POR)",
+            "873Indian Ocean Region (IOR)",
+            "874Atlantic Ocean Region – West (AOR-W)"
+        ],
+        [
+            "Global Xpress: Since 2015, Inmarsat has offered high throughput services through the Global Xpress network. This service provides an IP based global service of up to 50 Mbit/s downlink and 5 Mbit/s uplink at a latency of 700 ms.[45]Services are provided for maritime, aviation, government and enterprise markets.[73]Global Xpress is supported by the existing BGAN L-band network, and services are offered using a combination of the two networks to increase availability and reliability.[74]In March 2018, Inmarsat partnered with Isotropic Systems to develop all-electronic scanning antenna intended to be used with the Global Xpress network.[25]",
+            "European Aviation Network: Inmarsat offers aviation services through theEuropean Aviation Network, developed in partnership withDeutsche Telekom. The European Aviation Network uses a ground-basedLTEnetwork and an Inmarsat S-band satellite to provide 50Gbit/s capacity to aircraft in European airspace. The project faced a number of legal and regulatory challenges.[75]In October 2017, Inmarsat stated that commercial service would begin in 2018.[76]Construction of the ground network was completed in February 2018,[77]and by mid-2019 the service was offered on over 100 routes from key destinations such as London,Madrid, Barcelona,Athens, Lisbon,Prague, Rome andVienna.[78]As of early 2021, the service has been used on 200,000 flights throughout Europe on flights on 250 aircraft operated by British Airways, Iberia and Vueling.[79]"
+        ],
+        [
+            "BGAN:Broadband Global Area Networkfor use on land. BGAN uses the I-4 satellites to offer a shared-channel IP packet-switched service of up to 800 kbit/s (uplink and downlink speeds may differ and depend on terminal model) and a streaming-IP service from 32 kbit/s up to X-Stream data rate (services depend on terminal model). Most terminals also offer circuit-switched MobileIntegrated Services Digital Network(ISDN) services at 64 kbit/s and even low speed (4.8 kbit/s) voice etc. services. BGAN service is available globally on all I4 satellites.",
+            "FleetBroadband (FB): A maritime service,FleetBroadbandis based on BGAN technology, offering similar services and using the same infrastructure as BGAN. A range of Fleet Broadband user terminals are available, designed for ships.",
+            "SwiftBroadband (SB): An aeronautical service,SwiftBroadbandis based on BGAN technology and offers similar services. SB terminals are designed for commercial, private, and military aircraft."
+        ],
+        [
+            "BGAN M2M: launched in January 2012, is a global, IP-based low-data rate service, designed for high data availability and performance in permanently unmanned environments. With high-frequency, very low-latencydata reporting, BGAN M2M is intended for monitoring fixed assets such as pipelines and oil well heads, or backhauling electricity consumption data within a utility.",
+            "IsatM2M: IsatM2M is a global, short burst data, store and forward service intended to deliver messages of 10.5 or 25.5 bytes in the send direction, and 100 bytes in the receive direction. The service is delivered to market viaSkyWave Mobile CommunicationsandHoneywellGlobal Tracking.",
+            "IsatData Pro: IsatData Pro is a global satellite data service designed for two-way text and data communications to remote assets with message size to mobile: 10 kBytes / from mobile: 6.4 kBytes with typical delivery time of 15 seconds. This service is intended for mission-critical applications for managing trucks, fishing vessels and oil and gas and heavy equipment, text message remote workers and security applications. It is provided by SkyWave Mobile Communications Inc, part ofOrbcomm."
+        ],
+        [
+            "IsatPhone 2: IsatPhone 2 is a mobilesatellite phoneoffering voice telephony. It has a variety of data capabilities, including SMS, short message emailing and GPS look-up-and-send, as well as supporting a data service of up to 20 kbit/s.[83]",
+            "IsatPhone Link: IsatPhone Link is a low-cost, fixed, global satellite phone service. It provides voice connectivity for those working or living in areas without cellular coverage and includes data capabilities.",
+            "FleetPhone: Inmarsat's FleetPhone service is a fixed phone service for use on smaller vessels where voice communications is the primary requirement or on vessels where additional voice lines are needed. It provides a low-cost, global satellite phone service option for those working or sailing outside cellular coverage."
+        ],
+        [
+            "Aeronautical (Classic Aero): provides analogue voice/fax/data services for aircraft. Three levels of terminals, Aero-L (Low Gain Antenna) primarily for packet data includingACARSand ADS, Aero-H (High Gain Antenna) for medium quality voice and fax/data at up to 9600 bit/s, and Aero-I (Intermediate Gain Antenna) for low quality voice and fax/data at up to 2400 bit/s. Note, there are also aircraft rated versions of Inmarsat-C and mini-M/M4. The aircraft version of GAN is called Swift 64 (see below).",
+            "Inmarsat-B: service was retired on 30 December 2016.[85]It provided digital voice services, telex services, medium speed fax/data services at 9.6 kbit/s and high speed data services at 56, 64 or 128 kbit/s. There was also a 'leased' mode for Inmarsat-B available on the spare Inmarsat satellites.",
+            "Inmarsat-C: this is effectively a \"satellite telex\" terminal with low-speed all-digital (transmission bit rate 1200 bit/s and information bit rate of 600 bit/s) store-and-forward, polling etc. capabilities. Certain models of Inmarsat-C terminals are approved for theGlobal Maritime Distress and Safety System(GMDSS) system, equipped withGPS.",
+            "Inmarsat-M: provides voice services at 4.8 kbit/s and medium speed fax/data services at 2.4 kbit/s. It paved the way towards Inmarsat-Mini-M. Service has ended.",
+            "Mini-M: provides voice services at 4.8 kbit/s and medium speed fax/data services at 2.4 kbit/s. One 2.4 kbit/s channel takes up 4.8 kbit/s on the satellite. Service was closed early January 2017",
+            "GAN (Global Area Network): provides a selection of low speed services like voice at 4.8 kbit/s, fax and data at 2.4 kbit/s, ISDN like services at 64 kbit/s (calledMobile ISDN) and shared-channel IP packet-switched data services at 64 kbit/s (called Mobile Packet Data Service or MPDS, formerly Inmarsat Packet Data Service – IPDS). GAN is also known as \"M4\". Service was closed early in January 2017.",
+            "Fleet: a family of networks that includes the Inmarsat-Fleet77, Inmarsat-Fleet55 and Inmarsat-Fleet33 members (The numbers 77, 55 and 33 come from the diameter of the antenna in centimetres). Much like GAN, it provides a selection of low speed services like voice at 4.8 kbit/s, fax/data at 2.4 kbit/s, medium speed services like fax/data at 9.6 kbit/s,ISDNlike services at 64 kbit/s (calledMobile ISDN) and shared-channel IP packet-switched data services at 64 kbit/s (called Mobile Packet Data Service or MPDS - see below). However, not all services are available with all members of the family. The latest service to be supported is Mobile ISDN at 128 kbit/s on Inmarsat-Fleet77 terminals.",
+            "Swift 64:  Similar to GAN, providing voice, low rate fax/data, 64kbit/s ISDN, and MPDS services, for private, business, and commercial aircraft. Swift 64 is often sold in a multi-channel version, to support several times 64kbit/s.",
+            "Inmarsat D/D+/IsatM2M: Inmarsat's pager, although much larger than terrestrial versions. Some units are equipped withGPS. The original Inmarsat-D terminals were one-way (to mobile) pagers. The newer Inmarsat-D+ terminals are the equivalent of a two-way pager. The main use of this technology nowadays is in tracking trucks and buoys andSCADAapplications.",
+            "MPDS (Mobile Packet Data Service):  Previously known as IPDS, this is an IP-based data service in which several users share a 64kbit/s carrier in a manner similar toADSL. MPDS-specific terminals are not sold; rather, this is a service which comes with most terminals that are designed for GAN, Fleet, and Swift64.",
+            "IsatPhone: provides voice services at 4.8 kbit/s and medium speed fax/data services at 2.4 kbit/s. This service emerged from a collaboration agreement withACeS, and is available in the EMEA and APAC satellite regions. Coverage is available in Africa, the Middle-East, Asia and Europe, as well as in maritime areas of the EMEA and APAC coverage."
+        ],
+        [
+            "IRIS is a project to improve tracking of aircraft, and to improve communications between aircraft and air traffic controllers. Inmarsat will provide high capacity satellite communications links for aircraft, and improve detection of aircraft locations in time and space.[104][105]",
+            "ICE (Inmarsat Communications Evolution) is a partnership with industrial partners intended to identify innovative technologies that can expand and enhance the capabilities of the next generation of satellite communications.[106]"
+        ],
+        [
+            "Spaceflight portal"
+        ],
+        [
+            "Mobile-satellite service",
+            "Satellite phone",
+            "AeroMobile",
+            "DVB-SH",
+            "Globalstar",
+            "Globalsat Group",
+            "Intersputnik",
+            "Iridium Communications",
+            "Librestream",
+            "Maritime safety information",
+            "O3b Networks",
+            "OnAir (telecommunications)",
+            "Orbcomm",
+            "Radiotelephone",
+            "SES Broadband for Maritime",
+            "Sky and Space Global",
+            "Thuraya",
+            "Wideband Global SATCOM(WGS)"
+        ],
+        [
+            "Official website"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Satellite television",
+            "Satellite radio",
+            "Satellite Internet access",
+            "Amateur satellite",
+            "Ground station",
+            "High-throughput satellite",
+            "Relay satellite",
+            "Transponder",
+            "Carriage dispute"
+        ],
+        [
+            "SAT>IP",
+            "Monoblock LNB",
+            "DiSEqC",
+            "USALS",
+            "Automatic Tracking Satellite Dish",
+            "Motor-driven Satellite dish",
+            "Multi-satellite",
+            "Satellite dish(Parabolic antennas)",
+            "Satellite phone",
+            "Satellite modem",
+            "Satellite data unit",
+            "Spacebus",
+            "Very-small-aperture terminal"
+        ],
+        [
+            "DVB-SH",
+            "S-DMB",
+            "DVB-RCS",
+            "DVB-S2",
+            "DVB-S2X",
+            "ISDB-S3",
+            "Digital audio radio service"
+        ],
+        [
+            "Astra Digital Radio",
+            "DirecTV",
+            "Dish Network",
+            "Sirius XM Holdings",
+            "Sky UK",
+            "Allente",
+            "1worldspace"
+        ],
+        [
+            "AST SpaceMobile",
+            "EchoStar",
+            "Eutelsat",
+            "Globalstar",
+            "Hispasat",
+            "Hughes",
+            "Inmarsat",
+            "Intelsat",
+            "Intersputnik",
+            "Iridium",
+            "SED Systems",
+            "SES",
+            "Star One",
+            "Starlink",
+            "Telesat",
+            "Tooway",
+            "Turksat",
+            "Viasat"
+        ],
+        [
+            "Airbus",
+            "Boeing",
+            "INVAP",
+            "Lockheed Martin",
+            "Northrop Grumman",
+            "SpaceX",
+            "SSL",
+            "Thales Alenia Space"
+        ],
+        [
+            "Consultative Committee for Space Data Systems",
+            "ETSI Satellite Digital Radio"
+        ],
+        [
+            "List of communications satellite firsts",
+            "List of communication satellite companies"
+        ],
+        [
+            "Category",
+            "Commons"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Beacon",
+            "Broadcasting",
+            "Cable protection system",
+            "Cable TV",
+            "Communications satellite",
+            "Computer network",
+            "Data compressionaudioDCTimagevideo",
+            "audio",
+            "DCT",
+            "image",
+            "video",
+            "Digital mediaInternet videoonline video platformsocial mediastreaming",
+            "Internet video",
+            "online video platform",
+            "social media",
+            "streaming",
+            "Drums",
+            "Edholm's law",
+            "Electrical telegraph",
+            "Fax",
+            "Heliographs",
+            "Hydraulic telegraph",
+            "Information Age",
+            "Information revolution",
+            "Internet",
+            "Mass media",
+            "Mobile phoneSmartphone",
+            "Smartphone",
+            "Optical telecommunication",
+            "Optical telegraphy",
+            "Pager",
+            "Photophone",
+            "Prepaid mobile phone",
+            "Radio",
+            "Radiotelephone",
+            "Satellite communications",
+            "SemaphorePhryctoria",
+            "Phryctoria",
+            "SemiconductordeviceMOSFETtransistor",
+            "device",
+            "MOSFET",
+            "transistor",
+            "Smoke signals",
+            "Telecommunications history",
+            "Telautograph",
+            "Telegraphy",
+            "Teleprinter(teletype)",
+            "Telephone",
+            "The Telephone Cases",
+            "Televisiondigitalstreaming",
+            "digital",
+            "streaming",
+            "Undersea telegraph line",
+            "Videotelephony",
+            "Whistled language",
+            "Wireless revolution"
+        ],
+        [
+            "audio",
+            "DCT",
+            "image",
+            "video"
+        ],
+        [
+            "Internet video",
+            "online video platform",
+            "social media",
+            "streaming"
+        ],
+        [
+            "Smartphone"
+        ],
+        [
+            "Phryctoria"
+        ],
+        [
+            "device",
+            "MOSFET",
+            "transistor"
+        ],
+        [
+            "digital",
+            "streaming"
+        ],
+        [
+            "Nasir Ahmed",
+            "Edwin Howard Armstrong",
+            "Mohamed M. Atalla",
+            "John Logie Baird",
+            "Paul Baran",
+            "John Bardeen",
+            "Alexander Graham Bell",
+            "Emile Berliner",
+            "Tim Berners-Lee",
+            "Francis Blake (telephone)",
+            "Jagadish Chandra Bose",
+            "Charles Bourseul",
+            "Walter Houser Brattain",
+            "Vint Cerf",
+            "Claude Chappe",
+            "Yogen Dalal",
+            "Daniel Davis Jr.",
+            "Donald Davies",
+            "Amos Dolbear",
+            "Thomas Edison",
+            "Lee de Forest",
+            "Philo Farnsworth",
+            "Reginald Fessenden",
+            "Elisha Gray",
+            "Oliver Heaviside",
+            "Robert Hooke",
+            "Erna Schneider Hoover",
+            "Harold Hopkins",
+            "Gardiner Greene Hubbard",
+            "Internet pioneers",
+            "Bob Kahn",
+            "Dawon Kahng",
+            "Charles K. Kao",
+            "Narinder Singh Kapany",
+            "Hedy Lamarr",
+            "Innocenzo Manzetti",
+            "Guglielmo Marconi",
+            "Robert Metcalfe",
+            "Antonio Meucci",
+            "Samuel Morse",
+            "Jun-ichi Nishizawa",
+            "Charles Grafton Page",
+            "Radia Perlman",
+            "Alexander Stepanovich Popov",
+            "Tivadar Puskás",
+            "Johann Philipp Reis",
+            "Claude Shannon",
+            "Almon Brown Strowger",
+            "Henry Sutton",
+            "Charles Sumner Tainter",
+            "Nikola Tesla",
+            "Camille Tissot",
+            "Alfred Vail",
+            "Thomas A. Watson",
+            "Charles Wheatstone",
+            "Vladimir K. Zworykin"
+        ],
+        [
+            "Coaxial cable",
+            "Fiber-optic communicationoptical fiber",
+            "optical fiber",
+            "Free-space optical communication",
+            "Molecular communication",
+            "Radio waveswireless",
+            "wireless",
+            "Transmission linetelecommunication circuit",
+            "telecommunication circuit"
+        ],
+        [
+            "optical fiber"
+        ],
+        [
+            "wireless"
+        ],
+        [
+            "telecommunication circuit"
+        ],
+        [
+            "Bandwidth",
+            "Links",
+            "Nodesterminal",
+            "terminal",
+            "Network switchingcircuitpacket",
+            "circuit",
+            "packet",
+            "Telephone exchange"
+        ],
+        [
+            "terminal"
+        ],
+        [
+            "circuit",
+            "packet"
+        ],
+        [
+            "Space-division",
+            "Frequency-division",
+            "Time-division",
+            "Polarization-division",
+            "Orbital angular-momentum",
+            "Code-division"
+        ],
+        [
+            "Communication protocol",
+            "Computer network",
+            "Data transmission",
+            "Store and forward",
+            "Telecommunications equipment"
+        ],
+        [
+            "Cellular network",
+            "Ethernet",
+            "ISDN",
+            "LAN",
+            "Mobile",
+            "NGN",
+            "Public Switched Telephone",
+            "Radio",
+            "Television",
+            "Telex",
+            "UUCP",
+            "WAN",
+            "Wireless network"
+        ],
+        [
+            "ARPANET",
+            "BITNET",
+            "CYCLADES",
+            "FidoNet",
+            "Internet",
+            "Internet2",
+            "JANET",
+            "NPL network",
+            "Toasternet",
+            "Usenet"
+        ],
+        [
+            "Africa",
+            "AmericasNorthSouth",
+            "North",
+            "South",
+            "Antarctica",
+            "Asia",
+            "Europe",
+            "Oceania",
+            "(Global telecommunications regulation bodies)"
+        ],
+        [
+            "North",
+            "South"
+        ],
+        [
+            "Telecommunication portal",
+            "Category",
+            "Outline",
+            "Commons"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Economy of the United Kingdom",
+            "Science and technology in the United Kingdom"
+        ],
+        [
+            "Arqiva",
+            "Babcock International",
+            "BT Wholesale and Ventures",
+            "CityFibre",
+            "KCOM Group",
+            "Openreach",
+            "Interxion",
+            "TelecityGroup",
+            "Telehouse Europe"
+        ],
+        [
+            "Andrews & Arnold",
+            "Asda Mobile",
+            "BT GroupBT ConsumerBT Business and Public SectorBT Global ServicesEEPlusnet",
+            "BT Consumer",
+            "BT Business and Public Sector",
+            "BT Global Services",
+            "EE",
+            "Plusnet",
+            "China MobileCMLink",
+            "CMLink",
+            "Claranet",
+            "Colt Group",
+            "The Co-operative",
+            "Cable & Wireless",
+            "Entanet",
+            "Inmarsat",
+            "KCOM GroupEclipse Internet",
+            "Eclipse Internet",
+            "Lebara",
+            "Lycamobile",
+            "SkySky Broadband",
+            "Sky Broadband",
+            "TalkTalkBusinessMobileTV",
+            "Business",
+            "Mobile",
+            "TV",
+            "Telecom Plus",
+            "Tesco",
+            "ThreeThree UKSMARTY",
+            "Three UK",
+            "SMARTY",
+            "Tru",
+            "Trunk NetworksLeetlineNo One",
+            "Leetline",
+            "No One",
+            "Virgin Media O2O2GiffgaffVirgin MediaVirgin Media Business",
+            "O2",
+            "Giffgaff",
+            "Virgin MediaVirgin Media Business",
+            "Virgin Media Business",
+            "VodafoneVodafone UKTalkmobile",
+            "Vodafone UK",
+            "Talkmobile",
+            "Voipfone",
+            "WightFibre",
+            "Zen Internet"
+        ],
+        [
+            "BT Consumer",
+            "BT Business and Public Sector",
+            "BT Global Services",
+            "EE",
+            "Plusnet"
+        ],
+        [
+            "CMLink"
+        ],
+        [
+            "Eclipse Internet"
+        ],
+        [
+            "Sky Broadband"
+        ],
+        [
+            "Business",
+            "Mobile",
+            "TV"
+        ],
+        [
+            "Three UK",
+            "SMARTY"
+        ],
+        [
+            "Leetline",
+            "No One"
+        ],
+        [
+            "O2",
+            "Giffgaff",
+            "Virgin MediaVirgin Media Business",
+            "Virgin Media Business"
+        ],
+        [
+            "Virgin Media Business"
+        ],
+        [
+            "Vodafone UK",
+            "Talkmobile"
+        ],
+        [
+            "AOL",
+            "Atlantic Telegraph Company",
+            "Be Un Limited",
+            "Bonelli's Electric Telegraph Company",
+            "British and Irish Magnetic Telegraph",
+            "Cable & Wireless plc",
+            "Cable & Wireless Worldwide",
+            "Delight",
+            "Electric Telegraph Company",
+            "Energis",
+            "Family",
+            "General Post Office",
+            "Gutta Percha Company",
+            "Ionica",
+            "London and Provincial District Telegraph",
+            "Mercury",
+            "National Telephone Company",
+            "NTL",
+            "Orange",
+            "Ovivo",
+            "Post Office",
+            "Pipex",
+            "Rabbit",
+            "Sainsbury's",
+            "Stan",
+            "Submarine Telegraph",
+            "Tiscali UK",
+            "T-Mobile",
+            "Universal Private Telegraph",
+            "Virgin Mobile"
+        ],
+        [
+            "Arm Holdings",
+            "Icera",
+            "Metaswitch",
+            "Sarantel",
+            "Spirent",
+            "Telent"
+        ],
+        [
+            "CSR",
+            "GEC Plessey",
+            "Marconi Company",
+            "Marconi Communications",
+            "Pace",
+            "PicoChip",
+            "Standard"
+        ],
+        [
+            "Carphone Warehouse",
+            "Hibu"
+        ],
+        [
+            "Broadband Stakeholder Group",
+            "Defence Science and Technology Laboratory",
+            "European Conference of Postal and Telecommunications Administrations",
+            "International Telecommunication Union",
+            "Ofcom",
+            "Phone-paid Services Authority"
+        ],
+        [
+            "GSM Association",
+            "Internet Service Providers Association",
+            "Internet Telephony Services Providers’ Association",
+            "LONAP",
+            "London Internet Exchange",
+            "MaNAP",
+            "Symbian Foundation"
+        ],
+        [
+            "Akrotiri and Dhekelia",
+            "Anguilla",
+            "Antarctica(includingBritish Antarctic Territory)",
+            "Ascension Island",
+            "Bermuda",
+            "British Indian Ocean Territory",
+            "British Virgin Islands",
+            "Cayman Islands",
+            "Falkland Islands",
+            "Gibraltar",
+            "Guernsey",
+            "Isle of Man",
+            "Jersey",
+            "Montserrat",
+            "Pitcairn Islands",
+            "Saint Helena",
+            "South Georgia and South Sandwich Islands",
+            "Turks and Caicos Islands",
+            "Tristan da Cunha"
+        ],
+        [
+            "Adastral Park",
+            "British Approvals Board for Telecommunications",
+            "British Telecommunications Act 1981",
+            "British telephone sockets",
+            "BT Research",
+            "BT site engineering code",
+            "Buzby",
+            "Communications Act 2003",
+            "Earth stations in UK",
+            "Hull Colour Pages",
+            "Interception of Communications Act 1985",
+            "Internet in UK",
+            "Telegraph Act",
+            "Telegraph Act 1868",
+            "Telegraph Act 1885",
+            "Telephone numbers in UK",
+            "UK telephone code misconceptions",
+            "Web blocking in UK"
+        ],
+        [
+            "Category",
+            "Commons"
+        ],
+        [
+            "ISNI"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+870",
+            "href": null
+        },
+        {
+            "text": "International Mobile Satellite Organization",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Subsidiary",
+            "href": null
+        },
+        {
+            "text": "Satellite communication",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Rajeev Suri",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "Operating income",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "Net income",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "Parent",
+            "href": null
+        },
+        {
+            "text": "Viasat",
+            "href": null
+        },
+        {
+            "text": "www.inmarsat.com",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "satellite telephone",
+            "href": null
+        },
+        {
+            "text": "natural disaster",
+            "href": null
+        },
+        {
+            "text": "Nias",
+            "href": null
+        },
+        {
+            "text": "Thrane & Thrane A/S",
+            "href": null
+        },
+        {
+            "text": "Denmark",
+            "href": null
+        },
+        {
+            "text": "satellite telecommunications",
+            "href": null
+        },
+        {
+            "text": "geostationary",
+            "href": null
+        },
+        {
+            "text": "telecommunications satellites",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "aid agencies",
+            "href": null
+        },
+        {
+            "text": "terrestrial",
+            "href": null
+        },
+        {
+            "text": "London Stock Exchange",
+            "href": null
+        },
+        {
+            "text": "Apax Partners",
+            "href": null
+        },
+        {
+            "text": "Warburg Pincus",
+            "href": null
+        },
+        {
+            "text": "CPP Investment Board",
+            "href": null
+        },
+        {
+            "text": "Ontario Teachers' Pension Plan",
+            "href": null
+        },
+        {
+            "text": "Viasat",
+            "href": null
+        },
+        {
+            "text": "[4]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "International Mobile Satellite Organization",
+            "href": null
+        },
+        {
+            "text": "intergovernmental organisation",
+            "href": null
+        },
+        {
+            "text": "International Maritime Organization",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "[6]",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "[7]",
+            "href": null
+        },
+        {
+            "text": "International Civil Aviation Organization",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "[6]",
+            "href": null
+        },
+        {
+            "text": "Euston Tower",
+            "href": null
+        },
+        {
+            "text": "[8]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[6]",
+            "href": null
+        },
+        {
+            "text": "[6]",
+            "href": null
+        },
+        {
+            "text": "International Mobile Satellite Organization",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "[9]",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "[6]",
+            "href": null
+        },
+        {
+            "text": "Apax Partners",
+            "href": null
+        },
+        {
+            "text": "Permira",
+            "href": null
+        },
+        {
+            "text": "London Stock Exchange",
+            "href": null
+        },
+        {
+            "text": "[10]",
+            "href": null
+        },
+        {
+            "text": "Harbinger Capital",
+            "href": null
+        },
+        {
+            "text": "[11]",
+            "href": null
+        },
+        {
+            "text": "Stratos Global Corporation",
+            "href": null
+        },
+        {
+            "text": "[12]",
+            "href": null
+        },
+        {
+            "text": "SkyWave Mobile Communications",
+            "href": null
+        },
+        {
+            "text": "[13]",
+            "href": null
+        },
+        {
+            "text": "MacRobert Award",
+            "href": null
+        },
+        {
+            "text": "Broadband Global Area Network",
+            "href": null
+        },
+        {
+            "text": "BGAN",
+            "href": null
+        },
+        {
+            "text": "[14]",
+            "href": null
+        },
+        {
+            "text": "[15]",
+            "href": null
+        },
+        {
+            "text": "Marisat",
+            "href": null
+        },
+        {
+            "text": "[16]",
+            "href": null
+        },
+        {
+            "text": "MARECS",
+            "href": null
+        },
+        {
+            "text": "[17]",
+            "href": null
+        },
+        {
+            "text": "satellite constellation",
+            "href": null
+        },
+        {
+            "text": "[18]",
+            "href": null
+        },
+        {
+            "text": "[19]",
+            "href": null
+        },
+        {
+            "text": "[20]",
+            "href": null
+        },
+        {
+            "text": "Alphasat",
+            "href": null
+        },
+        {
+            "text": "[21]",
+            "href": null
+        },
+        {
+            "text": "Global Xpress",
+            "href": null
+        },
+        {
+            "text": "Ka-band",
+            "href": null
+        },
+        {
+            "text": "[22]",
+            "href": null
+        },
+        {
+            "text": "[23]",
+            "href": null
+        },
+        {
+            "text": "LTE",
+            "href": null
+        },
+        {
+            "text": "[24]",
+            "href": null
+        },
+        {
+            "text": "[25]",
+            "href": null
+        },
+        {
+            "text": "Panasonic Avionics Corporation",
+            "href": null
+        },
+        {
+            "text": "Ka-band",
+            "href": null
+        },
+        {
+            "text": "[26]",
+            "href": null
+        },
+        {
+            "text": "[27]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Analysis of Malaysia Airlines Flight 370 satellite communications",
+            "href": null
+        },
+        {
+            "text": "Malaysia Airlines Flight 370",
+            "href": null
+        },
+        {
+            "text": "Kuala Lumpur",
+            "href": null
+        },
+        {
+            "text": "satellite data unit",
+            "href": null
+        },
+        {
+            "text": "Perth",
+            "href": null
+        },
+        {
+            "text": "Classic Aero",
+            "href": null
+        },
+        {
+            "text": "the search for the aircraft",
+            "href": null
+        },
+        {
+            "text": "[28]",
+            "href": null
+        },
+        {
+            "text": "[29]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Apax Partners",
+            "href": null
+        },
+        {
+            "text": "Warburg Pincus",
+            "href": null
+        },
+        {
+            "text": "CPP Investment Board",
+            "href": null
+        },
+        {
+            "text": "Ontario Teachers' Pension Plan",
+            "href": null
+        },
+        {
+            "text": "[30]",
+            "href": null
+        },
+        {
+            "text": "Bloomberg",
+            "href": null
+        },
+        {
+            "text": "[31]",
+            "href": null
+        },
+        {
+            "text": "[32]",
+            "href": null
+        },
+        {
+            "text": "[33]",
+            "href": null
+        },
+        {
+            "text": "[34]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Viasat",
+            "href": null
+        },
+        {
+            "text": "[35]",
+            "href": null
+        },
+        {
+            "text": "[36]",
+            "href": null
+        },
+        {
+            "text": "Competition and Markets Authority",
+            "href": null
+        },
+        {
+            "text": "[37]",
+            "href": null
+        },
+        {
+            "text": "[38]",
+            "href": null
+        },
+        {
+            "text": "[39]",
+            "href": null
+        },
+        {
+            "text": "[40]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Old Street Roundabout",
+            "href": null
+        },
+        {
+            "text": "London Borough of Islington",
+            "href": null
+        },
+        {
+            "text": "[41]",
+            "href": null
+        },
+        {
+            "text": "Global Maritime Distress and Safety System",
+            "href": null
+        },
+        {
+            "text": "[42]",
+            "href": null
+        },
+        {
+            "text": "Broadband Global Area Network",
+            "href": null
+        },
+        {
+            "text": "General Packet Radio Service",
+            "href": null
+        },
+        {
+            "text": "[43]",
+            "href": null
+        },
+        {
+            "text": "Internet Protocol",
+            "href": null
+        },
+        {
+            "text": "[44]",
+            "href": null
+        },
+        {
+            "text": "[45]",
+            "href": null
+        },
+        {
+            "text": "[46]",
+            "href": null
+        },
+        {
+            "text": "Integrated Services Digital Network",
+            "href": null
+        },
+        {
+            "text": "[47]",
+            "href": null
+        },
+        {
+            "text": "European Aviation Network",
+            "href": null
+        },
+        {
+            "text": "[24]",
+            "href": null
+        },
+        {
+            "text": "[48]",
+            "href": null
+        },
+        {
+            "text": "[49]",
+            "href": null
+        },
+        {
+            "text": "ACeS",
+            "href": null
+        },
+        {
+            "text": "[50]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "I-4 satellite",
+            "href": null
+        },
+        {
+            "text": "[51]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "BGAN",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "I-5 satellites",
+            "href": null
+        },
+        {
+            "text": "[52]",
+            "href": null
+        },
+        {
+            "text": "[53]",
+            "href": null
+        },
+        {
+            "text": "Centre Spatial Guyanais",
+            "href": null
+        },
+        {
+            "text": "Ariane 5",
+            "href": null
+        },
+        {
+            "text": "[54]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "UTC",
+            "href": null
+        },
+        {
+            "text": "Marisat",
+            "href": null
+        },
+        {
+            "text": "Marisat F1",
+            "href": null
+        },
+        {
+            "text": "Delta 2914",
+            "href": null
+        },
+        {
+            "text": "Marisat F2",
+            "href": null
+        },
+        {
+            "text": "Delta 2914",
+            "href": null
+        },
+        {
+            "text": "Marisat F3",
+            "href": null
+        },
+        {
+            "text": "Delta 2914",
+            "href": null
+        },
+        {
+            "text": "MARECS",
+            "href": null
+        },
+        {
+            "text": "MARECS-A",
+            "href": null
+        },
+        {
+            "text": "Ariane 1",
+            "href": null
+        },
+        {
+            "text": "MARECS-B",
+            "href": null
+        },
+        {
+            "text": "Ariane 1",
+            "href": null
+        },
+        {
+            "text": "MARECS-C",
+            "href": null
+        },
+        {
+            "text": "Ariane 3",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-2 F1",
+            "href": null
+        },
+        {
+            "text": "Delta II",
+            "href": null
+        },
+        {
+            "text": "[55]",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-2 F2",
+            "href": null
+        },
+        {
+            "text": "Delta II",
+            "href": null
+        },
+        {
+            "text": "[55]",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-2 F3",
+            "href": null
+        },
+        {
+            "text": "Ariane 4",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-2 F4",
+            "href": null
+        },
+        {
+            "text": "Ariane 4",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-3 F1",
+            "href": null
+        },
+        {
+            "text": "Atlas II",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-3 F2",
+            "href": null
+        },
+        {
+            "text": "Proton-K",
+            "href": null
+        },
+        {
+            "text": "DM1",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-3 F3",
+            "href": null
+        },
+        {
+            "text": "Atlas II",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-3 F4",
+            "href": null
+        },
+        {
+            "text": "Ariane 4",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-3 F5",
+            "href": null
+        },
+        {
+            "text": "Ariane 4",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-4",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-4 F1",
+            "href": null
+        },
+        {
+            "text": "[56]",
+            "href": null
+        },
+        {
+            "text": "Atlas V",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-4 F2",
+            "href": null
+        },
+        {
+            "text": "[57]",
+            "href": null
+        },
+        {
+            "text": "Zenit-3SL",
+            "href": null
+        },
+        {
+            "text": "[58]",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-4 F3",
+            "href": null
+        },
+        {
+            "text": "[59]",
+            "href": null
+        },
+        {
+            "text": "Proton-M",
+            "href": null
+        },
+        {
+            "text": "Briz-M",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-4A F4",
+            "href": null
+        },
+        {
+            "text": "[60]",
+            "href": null
+        },
+        {
+            "text": "Ariane 5",
+            "href": null
+        },
+        {
+            "text": "[61]",
+            "href": null
+        },
+        {
+            "text": "[62]",
+            "href": null
+        },
+        {
+            "text": "[63]",
+            "href": null
+        },
+        {
+            "text": "[64]",
+            "href": null
+        },
+        {
+            "text": "Proton-M",
+            "href": null
+        },
+        {
+            "text": "Briz-M",
+            "href": null
+        },
+        {
+            "text": "Ka-Band",
+            "href": null
+        },
+        {
+            "text": "[65]",
+            "href": null
+        },
+        {
+            "text": "Proton-M",
+            "href": null
+        },
+        {
+            "text": "Briz-M",
+            "href": null
+        },
+        {
+            "text": "Ka-Band",
+            "href": null
+        },
+        {
+            "text": "[66]",
+            "href": null
+        },
+        {
+            "text": "Proton-M",
+            "href": null
+        },
+        {
+            "text": "Briz-M",
+            "href": null
+        },
+        {
+            "text": "Ka-Band",
+            "href": null
+        },
+        {
+            "text": "[67]",
+            "href": null
+        },
+        {
+            "text": "Falcon 9 Full Thrust",
+            "href": null
+        },
+        {
+            "text": "[68]",
+            "href": null
+        },
+        {
+            "text": "Ka-Band",
+            "href": null
+        },
+        {
+            "text": "Ariane 5",
+            "href": null
+        },
+        {
+            "text": "[54]",
+            "href": null
+        },
+        {
+            "text": "Ka-Band",
+            "href": null
+        },
+        {
+            "text": "European Aviation Network",
+            "href": null
+        },
+        {
+            "text": "Inmarsat S EAN (Hellas Sat 3)",
+            "href": null
+        },
+        {
+            "text": "[69]",
+            "href": null
+        },
+        {
+            "text": "Ariane 5",
+            "href": null
+        },
+        {
+            "text": "S-band",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-6",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-6 F1",
+            "href": null
+        },
+        {
+            "text": "[70]",
+            "href": null
+        },
+        {
+            "text": "H-IIA",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-6 F2",
+            "href": null
+        },
+        {
+            "text": "[71]",
+            "href": null
+        },
+        {
+            "text": "Falcon 9 Block 5",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "telephone country code",
+            "href": null
+        },
+        {
+            "text": "[48]",
+            "href": null
+        },
+        {
+            "text": "Chinese mobile phone numbers",
+            "href": null
+        },
+        {
+            "text": "international call",
+            "href": null
+        },
+        {
+            "text": "Mainland China",
+            "href": null
+        },
+        {
+            "text": "[72]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[45]",
+            "href": null
+        },
+        {
+            "text": "[73]",
+            "href": null
+        },
+        {
+            "text": "[74]",
+            "href": null
+        },
+        {
+            "text": "[25]",
+            "href": null
+        },
+        {
+            "text": "European Aviation Network",
+            "href": null
+        },
+        {
+            "text": "Deutsche Telekom",
+            "href": null
+        },
+        {
+            "text": "LTE",
+            "href": null
+        },
+        {
+            "text": "[75]",
+            "href": null
+        },
+        {
+            "text": "[76]",
+            "href": null
+        },
+        {
+            "text": "[77]",
+            "href": null
+        },
+        {
+            "text": "Madrid",
+            "href": null
+        },
+        {
+            "text": "Athens",
+            "href": null
+        },
+        {
+            "text": "Prague",
+            "href": null
+        },
+        {
+            "text": "Vienna",
+            "href": null
+        },
+        {
+            "text": "[78]",
+            "href": null
+        },
+        {
+            "text": "[79]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[80]",
+            "href": null
+        },
+        {
+            "text": "Broadband Global Area Network",
+            "href": null
+        },
+        {
+            "text": "Integrated Services Digital Network",
+            "href": null
+        },
+        {
+            "text": "FleetBroadband",
+            "href": null
+        },
+        {
+            "text": "SwiftBroadband",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[81]",
+            "href": null
+        },
+        {
+            "text": "data reporting",
+            "href": null
+        },
+        {
+            "text": "SkyWave Mobile Communications",
+            "href": null
+        },
+        {
+            "text": "Honeywell",
+            "href": null
+        },
+        {
+            "text": "Orbcomm",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[82]",
+            "href": null
+        },
+        {
+            "text": "satellite phone",
+            "href": null
+        },
+        {
+            "text": "[83]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[84]",
+            "href": null
+        },
+        {
+            "text": "ACARS",
+            "href": null
+        },
+        {
+            "text": "[85]",
+            "href": null
+        },
+        {
+            "text": "Global Maritime Distress and Safety System",
+            "href": null
+        },
+        {
+            "text": "GPS",
+            "href": null
+        },
+        {
+            "text": "Mobile ISDN",
+            "href": null
+        },
+        {
+            "text": "ISDN",
+            "href": null
+        },
+        {
+            "text": "Mobile ISDN",
+            "href": null
+        },
+        {
+            "text": "GPS",
+            "href": null
+        },
+        {
+            "text": "SCADA",
+            "href": null
+        },
+        {
+            "text": "ADSL",
+            "href": null
+        },
+        {
+            "text": "ACeS",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "European Parliament",
+            "href": null
+        },
+        {
+            "text": "European Council",
+            "href": null
+        },
+        {
+            "text": "ICO Global Communications",
+            "href": null
+        },
+        {
+            "text": "EchoStar Mobile",
+            "href": null
+        },
+        {
+            "text": "TerreStar",
+            "href": null
+        },
+        {
+            "text": "[86]",
+            "href": null
+        },
+        {
+            "text": "[87]",
+            "href": null
+        },
+        {
+            "text": "European Commission",
+            "href": null
+        },
+        {
+            "text": "[88]",
+            "href": null
+        },
+        {
+            "text": "[89]",
+            "href": null
+        },
+        {
+            "text": "[90]",
+            "href": null
+        },
+        {
+            "text": "[91]",
+            "href": null
+        },
+        {
+            "text": "S-band",
+            "href": null
+        },
+        {
+            "text": "Ankara",
+            "href": null
+        },
+        {
+            "text": "Thales Alenia Space",
+            "href": null
+        },
+        {
+            "text": "[92]",
+            "href": null
+        },
+        {
+            "text": "Deutsche Telekom",
+            "href": null
+        },
+        {
+            "text": "[93]",
+            "href": null
+        },
+        {
+            "text": "European Aviation Network",
+            "href": null
+        },
+        {
+            "text": "[update]",
+            "href": null
+        },
+        {
+            "text": "Viasat",
+            "href": null
+        },
+        {
+            "text": "[94]",
+            "href": null
+        },
+        {
+            "text": "Belgium",
+            "href": null
+        },
+        {
+            "text": "[95]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Thales Group",
+            "href": null
+        },
+        {
+            "text": "Centre Spatial Guyanais",
+            "href": null
+        },
+        {
+            "text": "Ariane 5",
+            "href": null
+        },
+        {
+            "text": "[54]",
+            "href": null
+        },
+        {
+            "text": "[96]",
+            "href": null
+        },
+        {
+            "text": "[97]",
+            "href": null
+        },
+        {
+            "text": "Arctic region",
+            "href": null
+        },
+        {
+            "text": "[61]",
+            "href": null
+        },
+        {
+            "text": "Highly elliptical orbits",
+            "href": null
+        },
+        {
+            "text": "Space Norway",
+            "href": null
+        },
+        {
+            "text": "Northrop Grumman Innovation Systems",
+            "href": null
+        },
+        {
+            "text": "[98]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Airbus",
+            "href": null
+        },
+        {
+            "text": "[99]",
+            "href": null
+        },
+        {
+            "text": "MHI",
+            "href": null
+        },
+        {
+            "text": "[100]",
+            "href": null
+        },
+        {
+            "text": "Inmarsat-6 F1",
+            "href": null
+        },
+        {
+            "text": "H-IIA",
+            "href": null
+        },
+        {
+            "text": "[101]",
+            "href": null
+        },
+        {
+            "text": "Falcon 9 Block 5",
+            "href": null
+        },
+        {
+            "text": "[102]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Swissto12",
+            "href": null
+        },
+        {
+            "text": "[103]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "ARTES",
+            "href": null
+        },
+        {
+            "text": "[104]",
+            "href": null
+        },
+        {
+            "text": "[105]",
+            "href": null
+        },
+        {
+            "text": "[106]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Iridium",
+            "href": null
+        },
+        {
+            "text": "[107]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Spaceflight portal",
+            "href": null
+        },
+        {
+            "text": "Mobile-satellite service",
+            "href": null
+        },
+        {
+            "text": "Satellite phone",
+            "href": null
+        },
+        {
+            "text": "AeroMobile",
+            "href": null
+        },
+        {
+            "text": "DVB-SH",
+            "href": null
+        },
+        {
+            "text": "Globalstar",
+            "href": null
+        },
+        {
+            "text": "Globalsat Group",
+            "href": null
+        },
+        {
+            "text": "Intersputnik",
+            "href": null
+        },
+        {
+            "text": "Iridium Communications",
+            "href": null
+        },
+        {
+            "text": "Librestream",
+            "href": null
+        },
+        {
+            "text": "Maritime safety information",
+            "href": null
+        },
+        {
+            "text": "O3b Networks",
+            "href": null
+        },
+        {
+            "text": "OnAir (telecommunications)",
+            "href": null
+        },
+        {
+            "text": "Orbcomm",
+            "href": null
+        },
+        {
+            "text": "Radiotelephone",
+            "href": null
+        },
+        {
+            "text": "SES Broadband for Maritime",
+            "href": null
+        },
+        {
+            "text": "Sky and Space Global",
+            "href": null
+        },
+        {
+            "text": "Thuraya",
+            "href": null
+        },
+        {
+            "text": "Wideband Global SATCOM",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "c",
+            "href": null
+        },
+        {
+            "text": "\"Preliminary Full Year Results 2018\"",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Our offices\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Satellites\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Viasat Completes Acquisition of Inmarsat\"",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "c",
+            "href": null
+        },
+        {
+            "text": "d",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "\"Proposed Amendments to the Convention on the International Mobile Satellite Organization (IMSO)\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "c",
+            "href": null
+        },
+        {
+            "text": "d",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Bibcode",
+            "href": null
+        },
+        {
+            "text": "1999ESASP.442..127S",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "ISBN",
+            "href": null
+        },
+        {
+            "text": "978-0-240-51973-9",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Interview with Roy Gibson\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Dollars & Sense\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Private equity orbits Inmarsat\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat buys Stratos Global\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat to take stake in tracking co SkyWave\"",
+            "href": null
+        },
+        {
+            "text": "Reuters",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat grabs the MacRobert engineering prize\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Making things better – finalists announced for Britain's top engineering award\"",
+            "href": null
+        },
+        {
+            "text": "BBC News",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat-A Ends Service After 32 Years\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"The launch of MARECS B2\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat-2 F1, F2, F3, F4\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat C provides two-way data and messaging communication services\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"ESA/Inmarsat agreement to improve satellite mobile phone and data services\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"about-usour-satellites\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Global Xpress\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"GX Aviation\"",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "\"European Aviation Network\"",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat Partners with Isotropic Systems to Develop Next-Gen Ka-band Mobility Antenna\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat and Panasonic partner on in-flight connectivity\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat, Panasonic Announce Strategic Collaboration - Quick Facts\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"UK firm behind Malaysia Airlines flight MH370 breakthrough\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"The Search for MH370\"",
+            "href": null
+        },
+        {
+            "text": "doi",
+            "href": null
+        },
+        {
+            "text": "10.1017/S037346331400068X",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"UK satellite operator Inmarsat agrees US$3.4 billion takeover\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"U.K. Government Set to Approve US$3.4 Billion Inmarsat Buyout\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat rejects activist effort to thwart US$6 billion takeover\"",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat delists from stock exchange after buyout\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Private equity giants take control of Inmarsat after hedge funds fold\"",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Viasat buying Inmarsat in $7.3 billion deal\"",
+            "href": null
+        },
+        {
+            "text": "SpaceNews",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Space broadband outfit Viasat acquires rival Inmarsat\"",
+            "href": null
+        },
+        {
+            "text": "The Register",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"CMA provisionally clears satellite comms deal following in-depth review\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Administrative timetable\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Carlsbad's Viasat boosts satellite Internet footprint globally with completion of Inmarsat acquisition\"",
+            "href": null
+        },
+        {
+            "text": "The San Diego Union-Tribune",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Satellite operators Viasat and Inmarsat complete merger deal\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Privacy Policy",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"GMDSS weather\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"FAQ\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"BGAN-HDR\"",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "\"Enterprise Services\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Global Mobile Broadband\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Transforming satellite newsgathering\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "\"one world, one number\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"BGAN provides 'eyes and ears' for oil rigs\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Low-Cost Hand-Held And Fixed Voice Services From Inmarsat And ACeS - Marine-electronics.eu\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"How the Inmarsat satellite system works\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat Global Xpress Coverage\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Maritime Solution Overview-Shane Rossbacher\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "c",
+            "href": null
+        },
+        {
+            "text": "\"Ariane 5 launches satellites for Egypt, Inmarsat\"",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "\"Airbus-built Inmarsat 2 F2 Satellite Breaks World Record for Mission Lifespan\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat-4 F1\"",
+            "href": null
+        },
+        {
+            "text": "public domain",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"All go for giant comms satellite\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat-4 F2 Satellite Relocating to Cover Middle East and Asia\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"ILS Proton successfully launches Inmarsat-4 F3 satellite\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Flawless launch of Alphasat\"",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "\"Our satellites\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat-5 F1, 2, 3, 4 (GX 1, 2, 3, 4)\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat begins Global Xpress roll-out\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat-5 F1\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat launches second Global Xpress satellite\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"I-5 F3: the mission\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat to purchase fourth Inmarsat-5 satellite from Boeing\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat-5 F4 Mission\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat Confirms Successful Launch\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Satellites\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat confirms successful launch of world's most advanced satellite\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"海事卫星电话1749号段投入使用\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Global Xpress - Seamless Satellite Broadband - Inmarsat\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Global Express\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Belgian court punches hole in Inmarsat's European Aviation Network\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Successful test flight shows EAN on track to launch\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat, Deutsche Telekom complete European Aviation Network\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"European Aviation Network (EAN) inflight broadband now available to thousands of airline passengers\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Europe's Fastest Inflight Wi-Fi Service Expands Coverage\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat services\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"BGAN M2M\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Voice\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"IsatPhone 2 Overview\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"our services at a glance\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat B\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Commission boost for mobile satellite services paves the way for EU - wide high speed data communications\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"New Satellites for Europe: Commission starts selection procedure for operators of pan-European mobile satellite services\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"European Commission paves the way for European mobile satellite services\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Mobile Satellite Services in Europe: Frequently Asked Questions\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat and Solaris win EU spectrum rights\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Pan-European numbers and services\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"EuropaSat / HellasSat 3\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"How we did it: the European Aviation Network is one giant step closer\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"In-flight WiFi battle over Europe takes off\"",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Belgian court punches hole in Inmarsat's European Aviation Network\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat orders fifth Global Xpress satellite from Thales Alenia Space\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat CEO hints at more advanced Global Xpress satellites\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Northrop Grumman to build two triple-payload satellites for Space Norway, SpaceX to launch\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat awards contract to airbus\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"MHI launch first Inmarsat 6 satellite\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat launch initiates a technology refresh\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat-6 F1, F2 (GX 6A, 6B)\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat orders 3 smallsats to bolster L-band safety services\"",
+            "href": null
+        },
+        {
+            "text": "SpaceNews",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Satellite Communication for Air Traffic Management (Iris)\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"ESA Using Inmarsat for Iris to Open up the Skies - Avionics\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"ICE\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Inmarsat Interference Information\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "Official website",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Satellite communications",
+            "href": null
+        },
+        {
+            "text": "Satellite television",
+            "href": null
+        },
+        {
+            "text": "Satellite radio",
+            "href": null
+        },
+        {
+            "text": "Satellite Internet access",
+            "href": null
+        },
+        {
+            "text": "Amateur satellite",
+            "href": null
+        },
+        {
+            "text": "Ground station",
+            "href": null
+        },
+        {
+            "text": "High-throughput satellite",
+            "href": null
+        },
+        {
+            "text": "Relay satellite",
+            "href": null
+        },
+        {
+            "text": "Transponder",
+            "href": null
+        },
+        {
+            "text": "Carriage dispute",
+            "href": null
+        },
+        {
+            "text": "SAT>IP",
+            "href": null
+        },
+        {
+            "text": "Monoblock LNB",
+            "href": null
+        },
+        {
+            "text": "DiSEqC",
+            "href": null
+        },
+        {
+            "text": "USALS",
+            "href": null
+        },
+        {
+            "text": "Automatic Tracking Satellite Dish",
+            "href": null
+        },
+        {
+            "text": "Motor-driven Satellite dish",
+            "href": null
+        },
+        {
+            "text": "Multi-satellite",
+            "href": null
+        },
+        {
+            "text": "Satellite dish",
+            "href": null
+        },
+        {
+            "text": "Parabolic antennas",
+            "href": null
+        },
+        {
+            "text": "Satellite phone",
+            "href": null
+        },
+        {
+            "text": "Satellite modem",
+            "href": null
+        },
+        {
+            "text": "Satellite data unit",
+            "href": null
+        },
+        {
+            "text": "Spacebus",
+            "href": null
+        },
+        {
+            "text": "Very-small-aperture terminal",
+            "href": null
+        },
+        {
+            "text": "Satellite radio",
+            "href": null
+        },
+        {
+            "text": "TV",
+            "href": null
+        },
+        {
+            "text": "DVB-SH",
+            "href": null
+        },
+        {
+            "text": "S-DMB",
+            "href": null
+        },
+        {
+            "text": "DVB-RCS",
+            "href": null
+        },
+        {
+            "text": "DVB-S2",
+            "href": null
+        },
+        {
+            "text": "DVB-S2X",
+            "href": null
+        },
+        {
+            "text": "ISDB-S3",
+            "href": null
+        },
+        {
+            "text": "Digital audio radio service",
+            "href": null
+        },
+        {
+            "text": "Astra Digital Radio",
+            "href": null
+        },
+        {
+            "text": "DirecTV",
+            "href": null
+        },
+        {
+            "text": "Dish Network",
+            "href": null
+        },
+        {
+            "text": "Sirius XM Holdings",
+            "href": null
+        },
+        {
+            "text": "Sky UK",
+            "href": null
+        },
+        {
+            "text": "Allente",
+            "href": null
+        },
+        {
+            "text": "1worldspace",
+            "href": null
+        },
+        {
+            "text": "AST SpaceMobile",
+            "href": null
+        },
+        {
+            "text": "EchoStar",
+            "href": null
+        },
+        {
+            "text": "Eutelsat",
+            "href": null
+        },
+        {
+            "text": "Globalstar",
+            "href": null
+        },
+        {
+            "text": "Hispasat",
+            "href": null
+        },
+        {
+            "text": "Hughes",
+            "href": null
+        },
+        {
+            "text": "Inmarsat",
+            "href": null
+        },
+        {
+            "text": "Intelsat",
+            "href": null
+        },
+        {
+            "text": "Intersputnik",
+            "href": null
+        },
+        {
+            "text": "Iridium",
+            "href": null
+        },
+        {
+            "text": "SED Systems",
+            "href": null
+        },
+        {
+            "text": "SES",
+            "href": null
+        },
+        {
+            "text": "Star One",
+            "href": null
+        },
+        {
+            "text": "Starlink",
+            "href": null
+        },
+        {
+            "text": "Telesat",
+            "href": null
+        },
+        {
+            "text": "Tooway",
+            "href": null
+        },
+        {
+            "text": "Turksat",
+            "href": null
+        },
+        {
+            "text": "Viasat",
+            "href": null
+        },
+        {
+            "text": "Airbus",
+            "href": null
+        },
+        {
+            "text": "Boeing",
+            "href": null
+        },
+        {
+            "text": "INVAP",
+            "href": null
+        },
+        {
+            "text": "Lockheed Martin",
+            "href": null
+        },
+        {
+            "text": "Northrop Grumman",
+            "href": null
+        },
+        {
+            "text": "SpaceX",
+            "href": null
+        },
+        {
+            "text": "SSL",
+            "href": null
+        },
+        {
+            "text": "Thales Alenia Space",
+            "href": null
+        },
+        {
+            "text": "Consultative Committee for Space Data Systems",
+            "href": null
+        },
+        {
+            "text": "ETSI Satellite Digital Radio",
+            "href": null
+        },
+        {
+            "text": "List of communications satellite firsts",
+            "href": null
+        },
+        {
+            "text": "List of communication satellite companies",
+            "href": null
+        },
+        {
+            "text": "Category",
+            "href": null
+        },
+        {
+            "text": "Commons",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telecommunications",
+            "href": null
+        },
+        {
+            "text": "History",
+            "href": null
+        },
+        {
+            "text": "Beacon",
+            "href": null
+        },
+        {
+            "text": "Broadcasting",
+            "href": null
+        },
+        {
+            "text": "Cable protection system",
+            "href": null
+        },
+        {
+            "text": "Cable TV",
+            "href": null
+        },
+        {
+            "text": "Communications satellite",
+            "href": null
+        },
+        {
+            "text": "Computer network",
+            "href": null
+        },
+        {
+            "text": "Data compression",
+            "href": null
+        },
+        {
+            "text": "audio",
+            "href": null
+        },
+        {
+            "text": "DCT",
+            "href": null
+        },
+        {
+            "text": "image",
+            "href": null
+        },
+        {
+            "text": "video",
+            "href": null
+        },
+        {
+            "text": "Digital media",
+            "href": null
+        },
+        {
+            "text": "Internet video",
+            "href": null
+        },
+        {
+            "text": "online video platform",
+            "href": null
+        },
+        {
+            "text": "social media",
+            "href": null
+        },
+        {
+            "text": "streaming",
+            "href": null
+        },
+        {
+            "text": "Drums",
+            "href": null
+        },
+        {
+            "text": "Edholm's law",
+            "href": null
+        },
+        {
+            "text": "Electrical telegraph",
+            "href": null
+        },
+        {
+            "text": "Fax",
+            "href": null
+        },
+        {
+            "text": "Heliographs",
+            "href": null
+        },
+        {
+            "text": "Hydraulic telegraph",
+            "href": null
+        },
+        {
+            "text": "Information Age",
+            "href": null
+        },
+        {
+            "text": "Information revolution",
+            "href": null
+        },
+        {
+            "text": "Internet",
+            "href": null
+        },
+        {
+            "text": "Mass media",
+            "href": null
+        },
+        {
+            "text": "Mobile phone",
+            "href": null
+        },
+        {
+            "text": "Smartphone",
+            "href": null
+        },
+        {
+            "text": "Optical telecommunication",
+            "href": null
+        },
+        {
+            "text": "Optical telegraphy",
+            "href": null
+        },
+        {
+            "text": "Pager",
+            "href": null
+        },
+        {
+            "text": "Photophone",
+            "href": null
+        },
+        {
+            "text": "Prepaid mobile phone",
+            "href": null
+        },
+        {
+            "text": "Radio",
+            "href": null
+        },
+        {
+            "text": "Radiotelephone",
+            "href": null
+        },
+        {
+            "text": "Satellite communications",
+            "href": null
+        },
+        {
+            "text": "Semaphore",
+            "href": null
+        },
+        {
+            "text": "Phryctoria",
+            "href": null
+        },
+        {
+            "text": "Semiconductor",
+            "href": null
+        },
+        {
+            "text": "device",
+            "href": null
+        },
+        {
+            "text": "MOSFET",
+            "href": null
+        },
+        {
+            "text": "transistor",
+            "href": null
+        },
+        {
+            "text": "Smoke signals",
+            "href": null
+        },
+        {
+            "text": "Telecommunications history",
+            "href": null
+        },
+        {
+            "text": "Telautograph",
+            "href": null
+        },
+        {
+            "text": "Telegraphy",
+            "href": null
+        },
+        {
+            "text": "Teleprinter",
+            "href": null
+        },
+        {
+            "text": "Telephone",
+            "href": null
+        },
+        {
+            "text": "The Telephone Cases",
+            "href": null
+        },
+        {
+            "text": "Television",
+            "href": null
+        },
+        {
+            "text": "digital",
+            "href": null
+        },
+        {
+            "text": "streaming",
+            "href": null
+        },
+        {
+            "text": "Undersea telegraph line",
+            "href": null
+        },
+        {
+            "text": "Videotelephony",
+            "href": null
+        },
+        {
+            "text": "Whistled language",
+            "href": null
+        },
+        {
+            "text": "Wireless revolution",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Nasir Ahmed",
+            "href": null
+        },
+        {
+            "text": "Edwin Howard Armstrong",
+            "href": null
+        },
+        {
+            "text": "Mohamed M. Atalla",
+            "href": null
+        },
+        {
+            "text": "John Logie Baird",
+            "href": null
+        },
+        {
+            "text": "Paul Baran",
+            "href": null
+        },
+        {
+            "text": "John Bardeen",
+            "href": null
+        },
+        {
+            "text": "Alexander Graham Bell",
+            "href": null
+        },
+        {
+            "text": "Emile Berliner",
+            "href": null
+        },
+        {
+            "text": "Tim Berners-Lee",
+            "href": null
+        },
+        {
+            "text": "Francis Blake (telephone)",
+            "href": null
+        },
+        {
+            "text": "Jagadish Chandra Bose",
+            "href": null
+        },
+        {
+            "text": "Charles Bourseul",
+            "href": null
+        },
+        {
+            "text": "Walter Houser Brattain",
+            "href": null
+        },
+        {
+            "text": "Vint Cerf",
+            "href": null
+        },
+        {
+            "text": "Claude Chappe",
+            "href": null
+        },
+        {
+            "text": "Yogen Dalal",
+            "href": null
+        },
+        {
+            "text": "Daniel Davis Jr.",
+            "href": null
+        },
+        {
+            "text": "Donald Davies",
+            "href": null
+        },
+        {
+            "text": "Amos Dolbear",
+            "href": null
+        },
+        {
+            "text": "Thomas Edison",
+            "href": null
+        },
+        {
+            "text": "Lee de Forest",
+            "href": null
+        },
+        {
+            "text": "Philo Farnsworth",
+            "href": null
+        },
+        {
+            "text": "Reginald Fessenden",
+            "href": null
+        },
+        {
+            "text": "Elisha Gray",
+            "href": null
+        },
+        {
+            "text": "Oliver Heaviside",
+            "href": null
+        },
+        {
+            "text": "Robert Hooke",
+            "href": null
+        },
+        {
+            "text": "Erna Schneider Hoover",
+            "href": null
+        },
+        {
+            "text": "Harold Hopkins",
+            "href": null
+        },
+        {
+            "text": "Gardiner Greene Hubbard",
+            "href": null
+        },
+        {
+            "text": "Internet pioneers",
+            "href": null
+        },
+        {
+            "text": "Bob Kahn",
+            "href": null
+        },
+        {
+            "text": "Dawon Kahng",
+            "href": null
+        },
+        {
+            "text": "Charles K. Kao",
+            "href": null
+        },
+        {
+            "text": "Narinder Singh Kapany",
+            "href": null
+        },
+        {
+            "text": "Hedy Lamarr",
+            "href": null
+        },
+        {
+            "text": "Innocenzo Manzetti",
+            "href": null
+        },
+        {
+            "text": "Guglielmo Marconi",
+            "href": null
+        },
+        {
+            "text": "Robert Metcalfe",
+            "href": null
+        },
+        {
+            "text": "Antonio Meucci",
+            "href": null
+        },
+        {
+            "text": "Samuel Morse",
+            "href": null
+        },
+        {
+            "text": "Jun-ichi Nishizawa",
+            "href": null
+        },
+        {
+            "text": "Charles Grafton Page",
+            "href": null
+        },
+        {
+            "text": "Radia Perlman",
+            "href": null
+        },
+        {
+            "text": "Alexander Stepanovich Popov",
+            "href": null
+        },
+        {
+            "text": "Tivadar Puskás",
+            "href": null
+        },
+        {
+            "text": "Johann Philipp Reis",
+            "href": null
+        },
+        {
+            "text": "Claude Shannon",
+            "href": null
+        },
+        {
+            "text": "Almon Brown Strowger",
+            "href": null
+        },
+        {
+            "text": "Henry Sutton",
+            "href": null
+        },
+        {
+            "text": "Charles Sumner Tainter",
+            "href": null
+        },
+        {
+            "text": "Nikola Tesla",
+            "href": null
+        },
+        {
+            "text": "Camille Tissot",
+            "href": null
+        },
+        {
+            "text": "Alfred Vail",
+            "href": null
+        },
+        {
+            "text": "Thomas A. Watson",
+            "href": null
+        },
+        {
+            "text": "Charles Wheatstone",
+            "href": null
+        },
+        {
+            "text": "Vladimir K. Zworykin",
+            "href": null
+        },
+        {
+            "text": "Transmissionmedia",
+            "href": null
+        },
+        {
+            "text": "Coaxial cable",
+            "href": null
+        },
+        {
+            "text": "Fiber-optic communication",
+            "href": null
+        },
+        {
+            "text": "optical fiber",
+            "href": null
+        },
+        {
+            "text": "Free-space optical communication",
+            "href": null
+        },
+        {
+            "text": "Molecular communication",
+            "href": null
+        },
+        {
+            "text": "Radio waves",
+            "href": null
+        },
+        {
+            "text": "wireless",
+            "href": null
+        },
+        {
+            "text": "Transmission line",
+            "href": null
+        },
+        {
+            "text": "telecommunication circuit",
+            "href": null
+        },
+        {
+            "text": "Network topology",
+            "href": null
+        },
+        {
+            "text": "Bandwidth",
+            "href": null
+        },
+        {
+            "text": "Links",
+            "href": null
+        },
+        {
+            "text": "Nodes",
+            "href": null
+        },
+        {
+            "text": "terminal",
+            "href": null
+        },
+        {
+            "text": "Network switching",
+            "href": null
+        },
+        {
+            "text": "circuit",
+            "href": null
+        },
+        {
+            "text": "packet",
+            "href": null
+        },
+        {
+            "text": "Telephone exchange",
+            "href": null
+        },
+        {
+            "text": "Multiplexing",
+            "href": null
+        },
+        {
+            "text": "Space-division",
+            "href": null
+        },
+        {
+            "text": "Frequency-division",
+            "href": null
+        },
+        {
+            "text": "Time-division",
+            "href": null
+        },
+        {
+            "text": "Polarization-division",
+            "href": null
+        },
+        {
+            "text": "Orbital angular-momentum",
+            "href": null
+        },
+        {
+            "text": "Code-division",
+            "href": null
+        },
+        {
+            "text": "Communication protocol",
+            "href": null
+        },
+        {
+            "text": "Computer network",
+            "href": null
+        },
+        {
+            "text": "Data transmission",
+            "href": null
+        },
+        {
+            "text": "Store and forward",
+            "href": null
+        },
+        {
+            "text": "Telecommunications equipment",
+            "href": null
+        },
+        {
+            "text": "Types of network",
+            "href": null
+        },
+        {
+            "text": "Cellular network",
+            "href": null
+        },
+        {
+            "text": "Ethernet",
+            "href": null
+        },
+        {
+            "text": "ISDN",
+            "href": null
+        },
+        {
+            "text": "LAN",
+            "href": null
+        },
+        {
+            "text": "Mobile",
+            "href": null
+        },
+        {
+            "text": "NGN",
+            "href": null
+        },
+        {
+            "text": "Public Switched Telephone",
+            "href": null
+        },
+        {
+            "text": "Radio",
+            "href": null
+        },
+        {
+            "text": "Television",
+            "href": null
+        },
+        {
+            "text": "Telex",
+            "href": null
+        },
+        {
+            "text": "UUCP",
+            "href": null
+        },
+        {
+            "text": "WAN",
+            "href": null
+        },
+        {
+            "text": "Wireless network",
+            "href": null
+        },
+        {
+            "text": "Notable networks",
+            "href": null
+        },
+        {
+            "text": "ARPANET",
+            "href": null
+        },
+        {
+            "text": "BITNET",
+            "href": null
+        },
+        {
+            "text": "CYCLADES",
+            "href": null
+        },
+        {
+            "text": "FidoNet",
+            "href": null
+        },
+        {
+            "text": "Internet",
+            "href": null
+        },
+        {
+            "text": "Internet2",
+            "href": null
+        },
+        {
+            "text": "JANET",
+            "href": null
+        },
+        {
+            "text": "NPL network",
+            "href": null
+        },
+        {
+            "text": "Toasternet",
+            "href": null
+        },
+        {
+            "text": "Usenet",
+            "href": null
+        },
+        {
+            "text": "Africa",
+            "href": null
+        },
+        {
+            "text": "Americas",
+            "href": null
+        },
+        {
+            "text": "North",
+            "href": null
+        },
+        {
+            "text": "South",
+            "href": null
+        },
+        {
+            "text": "Antarctica",
+            "href": null
+        },
+        {
+            "text": "Asia",
+            "href": null
+        },
+        {
+            "text": "Europe",
+            "href": null
+        },
+        {
+            "text": "Oceania",
+            "href": null
+        },
+        {
+            "text": "Global telecommunications regulation bodies",
+            "href": null
+        },
+        {
+            "text": "Telecommunication portal",
+            "href": null
+        },
+        {
+            "text": "Category",
+            "href": null
+        },
+        {
+            "text": "Outline",
+            "href": null
+        },
+        {
+            "text": "Commons",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telecommunications industry in the United Kingdom",
+            "href": null
+        },
+        {
+            "text": "Economy of the United Kingdom",
+            "href": null
+        },
+        {
+            "text": "Science and technology in the United Kingdom",
+            "href": null
+        },
+        {
+            "text": "Arqiva",
+            "href": null
+        },
+        {
+            "text": "Babcock International",
+            "href": null
+        },
+        {
+            "text": "BT Wholesale and Ventures",
+            "href": null
+        },
+        {
+            "text": "CityFibre",
+            "href": null
+        },
+        {
+            "text": "KCOM Group",
+            "href": null
+        },
+        {
+            "text": "Openreach",
+            "href": null
+        },
+        {
+            "text": "Interxion",
+            "href": null
+        },
+        {
+            "text": "TelecityGroup",
+            "href": null
+        },
+        {
+            "text": "Telehouse Europe",
+            "href": null
+        },
+        {
+            "text": "Andrews & Arnold",
+            "href": null
+        },
+        {
+            "text": "Asda Mobile",
+            "href": null
+        },
+        {
+            "text": "BT Group",
+            "href": null
+        },
+        {
+            "text": "BT Consumer",
+            "href": null
+        },
+        {
+            "text": "BT Business and Public Sector",
+            "href": null
+        },
+        {
+            "text": "BT Global Services",
+            "href": null
+        },
+        {
+            "text": "EE",
+            "href": null
+        },
+        {
+            "text": "Plusnet",
+            "href": null
+        },
+        {
+            "text": "China Mobile",
+            "href": null
+        },
+        {
+            "text": "CMLink",
+            "href": null
+        },
+        {
+            "text": "Claranet",
+            "href": null
+        },
+        {
+            "text": "Colt Group",
+            "href": null
+        },
+        {
+            "text": "The Co-operative",
+            "href": null
+        },
+        {
+            "text": "Cable & Wireless",
+            "href": null
+        },
+        {
+            "text": "Entanet",
+            "href": null
+        },
+        {
+            "text": "Inmarsat",
+            "href": null
+        },
+        {
+            "text": "KCOM Group",
+            "href": null
+        },
+        {
+            "text": "Eclipse Internet",
+            "href": null
+        },
+        {
+            "text": "Lebara",
+            "href": null
+        },
+        {
+            "text": "Lycamobile",
+            "href": null
+        },
+        {
+            "text": "Sky",
+            "href": null
+        },
+        {
+            "text": "Sky Broadband",
+            "href": null
+        },
+        {
+            "text": "TalkTalk",
+            "href": null
+        },
+        {
+            "text": "Business",
+            "href": null
+        },
+        {
+            "text": "Mobile",
+            "href": null
+        },
+        {
+            "text": "TV",
+            "href": null
+        },
+        {
+            "text": "Telecom Plus",
+            "href": null
+        },
+        {
+            "text": "Tesco",
+            "href": null
+        },
+        {
+            "text": "Three",
+            "href": null
+        },
+        {
+            "text": "Three UK",
+            "href": null
+        },
+        {
+            "text": "SMARTY",
+            "href": null
+        },
+        {
+            "text": "Tru",
+            "href": null
+        },
+        {
+            "text": "Trunk Networks",
+            "href": null
+        },
+        {
+            "text": "Virgin Media O2",
+            "href": null
+        },
+        {
+            "text": "O2",
+            "href": null
+        },
+        {
+            "text": "Giffgaff",
+            "href": null
+        },
+        {
+            "text": "Virgin Media",
+            "href": null
+        },
+        {
+            "text": "Virgin Media Business",
+            "href": null
+        },
+        {
+            "text": "Vodafone",
+            "href": null
+        },
+        {
+            "text": "Vodafone UK",
+            "href": null
+        },
+        {
+            "text": "Talkmobile",
+            "href": null
+        },
+        {
+            "text": "Voipfone",
+            "href": null
+        },
+        {
+            "text": "WightFibre",
+            "href": null
+        },
+        {
+            "text": "Zen Internet",
+            "href": null
+        },
+        {
+            "text": "AOL",
+            "href": null
+        },
+        {
+            "text": "Atlantic Telegraph Company",
+            "href": null
+        },
+        {
+            "text": "Be Un Limited",
+            "href": null
+        },
+        {
+            "text": "Bonelli's Electric Telegraph Company",
+            "href": null
+        },
+        {
+            "text": "British and Irish Magnetic Telegraph",
+            "href": null
+        },
+        {
+            "text": "Cable & Wireless plc",
+            "href": null
+        },
+        {
+            "text": "Cable & Wireless Worldwide",
+            "href": null
+        },
+        {
+            "text": "Delight",
+            "href": null
+        },
+        {
+            "text": "Electric Telegraph Company",
+            "href": null
+        },
+        {
+            "text": "Energis",
+            "href": null
+        },
+        {
+            "text": "Family",
+            "href": null
+        },
+        {
+            "text": "General Post Office",
+            "href": null
+        },
+        {
+            "text": "Gutta Percha Company",
+            "href": null
+        },
+        {
+            "text": "Ionica",
+            "href": null
+        },
+        {
+            "text": "London and Provincial District Telegraph",
+            "href": null
+        },
+        {
+            "text": "Mercury",
+            "href": null
+        },
+        {
+            "text": "National Telephone Company",
+            "href": null
+        },
+        {
+            "text": "NTL",
+            "href": null
+        },
+        {
+            "text": "Orange",
+            "href": null
+        },
+        {
+            "text": "Ovivo",
+            "href": null
+        },
+        {
+            "text": "Post Office",
+            "href": null
+        },
+        {
+            "text": "Pipex",
+            "href": null
+        },
+        {
+            "text": "Rabbit",
+            "href": null
+        },
+        {
+            "text": "Sainsbury's",
+            "href": null
+        },
+        {
+            "text": "Stan",
+            "href": null
+        },
+        {
+            "text": "Submarine Telegraph",
+            "href": null
+        },
+        {
+            "text": "Tiscali UK",
+            "href": null
+        },
+        {
+            "text": "T-Mobile",
+            "href": null
+        },
+        {
+            "text": "Universal Private Telegraph",
+            "href": null
+        },
+        {
+            "text": "Virgin Mobile",
+            "href": null
+        },
+        {
+            "text": "Arm Holdings",
+            "href": null
+        },
+        {
+            "text": "Icera",
+            "href": null
+        },
+        {
+            "text": "Metaswitch",
+            "href": null
+        },
+        {
+            "text": "Sarantel",
+            "href": null
+        },
+        {
+            "text": "Spirent",
+            "href": null
+        },
+        {
+            "text": "Telent",
+            "href": null
+        },
+        {
+            "text": "CSR",
+            "href": null
+        },
+        {
+            "text": "GEC Plessey",
+            "href": null
+        },
+        {
+            "text": "Marconi Company",
+            "href": null
+        },
+        {
+            "text": "Marconi Communications",
+            "href": null
+        },
+        {
+            "text": "Pace",
+            "href": null
+        },
+        {
+            "text": "PicoChip",
+            "href": null
+        },
+        {
+            "text": "Standard",
+            "href": null
+        },
+        {
+            "text": "Carphone Warehouse",
+            "href": null
+        },
+        {
+            "text": "Hibu",
+            "href": null
+        },
+        {
+            "text": "Broadband Stakeholder Group",
+            "href": null
+        },
+        {
+            "text": "Defence Science and Technology Laboratory",
+            "href": null
+        },
+        {
+            "text": "European Conference of Postal and Telecommunications Administrations",
+            "href": null
+        },
+        {
+            "text": "International Telecommunication Union",
+            "href": null
+        },
+        {
+            "text": "Ofcom",
+            "href": null
+        },
+        {
+            "text": "Phone-paid Services Authority",
+            "href": null
+        },
+        {
+            "text": "GSM Association",
+            "href": null
+        },
+        {
+            "text": "Internet Service Providers Association",
+            "href": null
+        },
+        {
+            "text": "Internet Telephony Services Providers’ Association",
+            "href": null
+        },
+        {
+            "text": "LONAP",
+            "href": null
+        },
+        {
+            "text": "London Internet Exchange",
+            "href": null
+        },
+        {
+            "text": "MaNAP",
+            "href": null
+        },
+        {
+            "text": "Symbian Foundation",
+            "href": null
+        },
+        {
+            "text": "Crown Dependencies",
+            "href": null
+        },
+        {
+            "text": "British Overseas Territories",
+            "href": null
+        },
+        {
+            "text": "Akrotiri and Dhekelia",
+            "href": null
+        },
+        {
+            "text": "Anguilla",
+            "href": null
+        },
+        {
+            "text": "Antarctica",
+            "href": null
+        },
+        {
+            "text": "British Antarctic Territory",
+            "href": null
+        },
+        {
+            "text": "Ascension Island",
+            "href": null
+        },
+        {
+            "text": "Bermuda",
+            "href": null
+        },
+        {
+            "text": "British Indian Ocean Territory",
+            "href": null
+        },
+        {
+            "text": "British Virgin Islands",
+            "href": null
+        },
+        {
+            "text": "Cayman Islands",
+            "href": null
+        },
+        {
+            "text": "Falkland Islands",
+            "href": null
+        },
+        {
+            "text": "Gibraltar",
+            "href": null
+        },
+        {
+            "text": "Guernsey",
+            "href": null
+        },
+        {
+            "text": "Isle of Man",
+            "href": null
+        },
+        {
+            "text": "Jersey",
+            "href": null
+        },
+        {
+            "text": "Montserrat",
+            "href": null
+        },
+        {
+            "text": "Pitcairn Islands",
+            "href": null
+        },
+        {
+            "text": "Saint Helena",
+            "href": null
+        },
+        {
+            "text": "South Georgia and South Sandwich Islands",
+            "href": null
+        },
+        {
+            "text": "Turks and Caicos Islands",
+            "href": null
+        },
+        {
+            "text": "Tristan da Cunha",
+            "href": null
+        },
+        {
+            "text": "Adastral Park",
+            "href": null
+        },
+        {
+            "text": "British Approvals Board for Telecommunications",
+            "href": null
+        },
+        {
+            "text": "British Telecommunications Act 1981",
+            "href": null
+        },
+        {
+            "text": "British telephone sockets",
+            "href": null
+        },
+        {
+            "text": "BT Research",
+            "href": null
+        },
+        {
+            "text": "BT site engineering code",
+            "href": null
+        },
+        {
+            "text": "Buzby",
+            "href": null
+        },
+        {
+            "text": "Communications Act 2003",
+            "href": null
+        },
+        {
+            "text": "Earth stations in UK",
+            "href": null
+        },
+        {
+            "text": "Hull Colour Pages",
+            "href": null
+        },
+        {
+            "text": "Interception of Communications Act 1985",
+            "href": null
+        },
+        {
+            "text": "Internet in UK",
+            "href": null
+        },
+        {
+            "text": "Telegraph Act",
+            "href": null
+        },
+        {
+            "text": "Telegraph Act 1868",
+            "href": null
+        },
+        {
+            "text": "Telegraph Act 1885",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in UK",
+            "href": null
+        },
+        {
+            "text": "UK telephone code misconceptions",
+            "href": null
+        },
+        {
+            "text": "Web blocking in UK",
+            "href": null
+        },
+        {
+            "text": "Category",
+            "href": null
+        },
+        {
+            "text": "Commons",
+            "href": null
+        },
+        {
+            "text": "Authority control databases",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "ISNI",
+            "href": null
+        }
+    ]
+}

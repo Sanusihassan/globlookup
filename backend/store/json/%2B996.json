@@ -1,0 +1,1345 @@
+{
+    "tables": [
+        [
+            [
+                "xxxxxx\nXxxxxXxxxx"
+            ],
+            [],
+            [
+                "Kyrgyzstan"
+            ],
+            [
+                "Asia"
+            ],
+            [
+                "closed"
+            ],
+            [],
+            [
+                "+996"
+            ],
+            [
+                "00"
+            ],
+            [
+                "0"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "+996 312 XXXXXX",
+                "Geographic; Bishkek",
+                ""
+            ],
+            [
+                "+996 312 2XXXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 4XXXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 50XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 51XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 52XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 53XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 54XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 55XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 56XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 57XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 58XXXX",
+                "Geographic",
+                "Sky Mobile"
+            ],
+            [
+                "+996 312 59XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 60XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 61XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 62XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 63XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 64XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 65XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 66XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 67XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 68XXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 312 69XXXX",
+                "Geographic; Bishkek",
+                "WinLine"
+            ],
+            [
+                "+996 312 7XXXXX",
+                "Geographic, Bishkek",
+                "Katel"
+            ],
+            [
+                "+996 312 87XXXX",
+                "Geographic; Bishkek",
+                "WinLine"
+            ],
+            [
+                "+996 312 89XXXX",
+                "Geographic; Bishkek",
+                "WinLine"
+            ],
+            [
+                "+996 312 90XXXX",
+                "Geographic; Bishkek",
+                "Saima-Telecom"
+            ],
+            [
+                "+996 312 91XXXX",
+                "Geographic; Bishkek",
+                "Saima-Telecom"
+            ],
+            [
+                "+996 312 92XXXX",
+                "Geographic; Bishkek",
+                "Saima-Telecom"
+            ],
+            [
+                "+996 312 93XXXX",
+                "Geographic; Bishkek",
+                "WinLine"
+            ],
+            [
+                "+996 312 94XXXX",
+                "Geographic; Bishkek",
+                "Mintel"
+            ],
+            [
+                "+996 312 970XXX",
+                "Geographic; Bishkek",
+                "Totel"
+            ],
+            [
+                "+996 312 979XXX",
+                "Geographic; Bishkek",
+                "Netcom"
+            ],
+            [
+                "+996 312 99XXXX",
+                "Geographic; Bishkek",
+                "Tun-Sun"
+            ],
+            [
+                "+996 3131 XXXXX",
+                "Geographic; Belovodskoe (Moskovsky district)",
+                ""
+            ],
+            [
+                "+996 3132 XXXXX",
+                "Geographic; Kant (Issyk-Ata district)",
+                ""
+            ],
+            [
+                "+996 3133 XXXXX",
+                "Geographic; Kara-Balta (Jayl district)",
+                ""
+            ],
+            [
+                "+996 3134 XXXXX",
+                "Geographic; Sokuluk (Sokuluk district)",
+                ""
+            ],
+            [
+                "+996 3135 XXXXX",
+                "Geographic; Kemin (Kemin district)",
+                ""
+            ],
+            [
+                "+996 3137 XXXXX",
+                "Geographic; Kaindy (Panfilov district)",
+                ""
+            ],
+            [
+                "+996 3138 XXXXX",
+                "Geographic; Tokmok (Tokmok district)",
+                ""
+            ],
+            [
+                "+996 3139 XXXXX",
+                "Geographic; Lebedinovka (Alamudun district)",
+                ""
+            ],
+            [
+                "+996 315 2XXXXX",
+                "Geographic; Bishkek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3161 XXXXX",
+                "Geographic; Belovodskoe",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3162 XXXXX",
+                "Geographic; Kant",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3163 XXXXX",
+                "Geographic; Kara-Balta",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3164 XXXXX",
+                "Geographic; Sokuluk",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3165 XXXXX",
+                "Geographic; Kemin",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3166 XXXXX",
+                "Geographic; Lebedinovka",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3167 XXXXX",
+                "Geographic; Kaindy",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3168 XXXXX",
+                "Geographic; Tokmok",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3222 XXXXX",
+                "Geographic; Osh",
+                ""
+            ],
+            [
+                "+996 3230 XXXXX",
+                "Geographic; Eski-Nookat (Nookat district)",
+                ""
+            ],
+            [
+                "+996 3231 XXXXX",
+                "Geographic; Aravan (Aravan district)",
+                ""
+            ],
+            [
+                "+996 3232 XXXXX",
+                "Geographic; Kara-Suu (Kara-Suu district)",
+                ""
+            ],
+            [
+                "+996 3233 XXXXX",
+                "Geographic; Uzgen (Uzgen district)",
+                ""
+            ],
+            [
+                "+996 3234 XXXXX",
+                "Geographic; Gulcha (Alai district)",
+                ""
+            ],
+            [
+                "+996 3237 XXXXX",
+                "Geographic; Daroot-Korgon (Chon-Alai district)",
+                ""
+            ],
+            [
+                "+996 3239 XXXXX",
+                "Geographic; Kara-Kulja (Kara-Kulja district)",
+                ""
+            ],
+            [
+                "+996 3260 2XXXX",
+                "Geographic; Osh",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3261 XXXXX",
+                "Geographic; Aravan",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3262 XXXXX",
+                "Geographic; Gulcha",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3263 XXXXX",
+                "Geographic; Daroot-Korgon",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3264 XXXXX",
+                "Geographic; Kara-Kulja",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3265 XXXXX",
+                "Geographic; Kara-Suu",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3266 XXXXX",
+                "Geographic; Uzgen",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3267 XXXXX",
+                "Geographic; Eski-Nookat",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3422 XXXXX",
+                "Geographic; Talas",
+                ""
+            ],
+            [
+                "+996 3456 XXXXX",
+                "Geographic; Kyzyl-Adyr (Kyzyl-Adyr district)",
+                ""
+            ],
+            [
+                "+996 3457 XXXXX",
+                "Geographic; Bakai-Ata (Bakai-Ata district)",
+                ""
+            ],
+            [
+                "+996 3458 XXXXX",
+                "Geographic; Kok-Oi (Talas district)",
+                ""
+            ],
+            [
+                "+996 3459 XXXXX",
+                "Geographic; Pokrovka (Manas district)",
+                ""
+            ],
+            [
+                "+996 3460 2XXXX",
+                "Geographic; Talas",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3461 XXXXX",
+                "Geographic; Kyzyl-Adyr",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3462 XXXXX",
+                "Geographic; Bakai-Ata",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3463 XXXXX",
+                "Geographic; Kok-Oi",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3464 XXXXX",
+                "Geographic; Pokrovka",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3522 XXXXX",
+                "Geographic; Naryn",
+                ""
+            ],
+            [
+                "+996 3534 XXXXX",
+                "Geographic; At-Bashy (At-Bashy district)",
+                ""
+            ],
+            [
+                "+996 3535 XXXXX",
+                "Geographic; Kochkorka (Kochkor district)",
+                ""
+            ],
+            [
+                "+996 3536 XXXXX",
+                "Geographic; Chaek (Jumgal district)",
+                ""
+            ],
+            [
+                "+996 3537 XXXXX",
+                "Geographic; Baetovo (Ak-Tala district)",
+                ""
+            ],
+            [
+                "+996 3559 XXXXX",
+                "Geographic; Minkush (Minkush district)",
+                ""
+            ],
+            [
+                "+996 3560 2XXXX",
+                "Geographic; Naryn",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3561 XXXXX",
+                "Geographic; At-Bashy",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3562 XXXXX",
+                "Geographic; Baetovo",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3563 XXXXX",
+                "Geographic; Kochkorka",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3564 XXXXX",
+                "Geographic; Minkush",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3565 XXXXX",
+                "Geographic; Chaek",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3622 XXXXX",
+                "Geographic; Batken",
+                ""
+            ],
+            [
+                "+996 3653 XXXXX",
+                "Geographic; Sulukta (City)",
+                ""
+            ],
+            [
+                "+996 3655 XXXXX",
+                "Geographic; Pulgon (Kadamjay district)",
+                ""
+            ],
+            [
+                "+996 3656 XXXXX",
+                "Geographic; Isphana (Laylak district)",
+                ""
+            ],
+            [
+                "+996 3657 XXXXX",
+                "Geographic; Kyzyl-Kiya (City)",
+                ""
+            ],
+            [
+                "+996 3660 2XXXX",
+                "Geographic; Batken",
+                ""
+            ],
+            [
+                "+996 3661 XXXXX",
+                "Geographic; Sulukta",
+                ""
+            ],
+            [
+                "+996 3662 XXXXX",
+                "Geographic; Pulgon",
+                ""
+            ],
+            [
+                "+996 3663 XXXXX",
+                "Geographic; Isphana",
+                ""
+            ],
+            [
+                "+996 3722 XXXXX",
+                "Geographic; Jalal-Abad",
+                ""
+            ],
+            [
+                "+996 3734 XXXXX",
+                "Geographic; Massy (Nooken district)",
+                ""
+            ],
+            [
+                "+996 3736 XXXXX",
+                "Geographic; Bazar-Korgon (Bazar-Korgon district)",
+                ""
+            ],
+            [
+                "+996 3738 XXXXX",
+                "Geographic; Kazarman (Toguz-Toro district)",
+                ""
+            ],
+            [
+                "+996 3741 XXXXX",
+                "Geographic; Ala-Buka (Ala-Buka district)",
+                ""
+            ],
+            [
+                "+996 3742 XXXXX",
+                "Geographic; Kerben (Aksy district)",
+                ""
+            ],
+            [
+                "+996 3743 XXXXX",
+                "Geographic; Kok-Gangak (City)",
+                ""
+            ],
+            [
+                "+996 3744 XXXXX",
+                "Geographic; Mailuu-Suu (City)",
+                ""
+            ],
+            [
+                "+996 3745 XXXXX",
+                "Geographic; Tash-Kumyr (City)",
+                ""
+            ],
+            [
+                "+996 3746 XXXXX",
+                "Geographic; Kara-Kul (City)",
+                ""
+            ],
+            [
+                "+996 3747 XXXXX",
+                "Geographic; Toktogul (Toktogul district)",
+                ""
+            ],
+            [
+                "+996 3748 XXXXX",
+                "Geographic; Suzak (Suzak district)",
+                ""
+            ],
+            [
+                "+996 3749 XXXXX",
+                "Geographic; Chatkal (Jalal-Abad region)",
+                ""
+            ],
+            [
+                "+996 3760 2XXXX",
+                "Geographic; Jalal-Abad",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3761 XXXXX",
+                "Geographic; Ala-Buka",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3762 XXXXX",
+                "Geographic; Bazar-Korgon",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3763 XXXXX",
+                "Geographic; Kazarman",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3764 XXXXX",
+                "Geographic; Kanysh-Kya",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3765 XXXXX",
+                "Geographic; Kara-Kuldja",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3766 XXXXX",
+                "Geographic; Kerben",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3767 XXXXX",
+                "Geographic; Kok-Gangak",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3768 XXXXX",
+                "Geographic; Kochkor-Ata, Massy",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3769 XXXXX",
+                "Geographic; Mailuu-Suu",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3775 XXXXX",
+                "Geographic; Suzak",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3776 XXXXX",
+                "Geographic; Tash-Kumyr",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3777 XXXXX",
+                "Geographic; Toktogul",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3922 XXXXX",
+                "Geographic; Karakol",
+                ""
+            ],
+            [
+                "+996 3941 XXXXX",
+                "Geographic; Kadjy-Sai (Ton district)",
+                ""
+            ],
+            [
+                "+996 3942 XXXXX",
+                "Geographic; Ananevo",
+                ""
+            ],
+            [
+                "+996 3943 XXXXX",
+                "Geographic; Cholpon-Ata (Issyk-Kul district)",
+                ""
+            ],
+            [
+                "+996 3944 XXXXX",
+                "Geographic; Balykchy (City)",
+                ""
+            ],
+            [
+                "+996 3945 XXXXX",
+                "Geographic; Tup (Tup district)",
+                ""
+            ],
+            [
+                "+996 3946 XXXXX",
+                "Geographic; Kyzyl-Suu (Jety-Oguz district)",
+                ""
+            ],
+            [
+                "+996 3947 XXXXX",
+                "Geographic; Bokonbaevo (Ton district)",
+                ""
+            ],
+            [
+                "+996 3960 2XXXX",
+                "Geographic; Karakol",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3961 XXXXX",
+                "Geographic; Kadjy-Sai",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3962 XXXXX",
+                "Geographic; Ananevo",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3963 XXXXX",
+                "Geographic; Cholpon-Ata",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3964 XXXXX",
+                "Geographic; Balykchy",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3965 XXXXX",
+                "Geographic; Tup",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3966 XXXXX",
+                "Geographic; Kyzyl-Suu",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3967 XXXXX",
+                "Geographic; Bokonbaevo",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 3968 XXXXX",
+                "Geographic; Aksuu",
+                "KyrgyzTelecom"
+            ],
+            [
+                "+996 51X XXXXXX",
+                "Mobile",
+                "Katel"
+            ],
+            [
+                "+996 52X XXXXXX",
+                "Satellite",
+                "Ay Sat Systems"
+            ],
+            [
+                "+996 522 7XXXXX",
+                "Satellite",
+                "Ay Sat Systems"
+            ],
+            [
+                "+996 522 8XXXXX",
+                "Satellite",
+                "Ay Sat Systems"
+            ],
+            [
+                "+996 54X XXXXXX",
+                "Mobile",
+                "AkTel (Fonex)"
+            ],
+            [
+                "+996 55X XXXXXX",
+                "Mobile",
+                "BiMoCom (Megacom)"
+            ],
+            [
+                "+996 56X XXXXXX",
+                "Mobile",
+                "Winline"
+            ],
+            [
+                "+996 57X XXXXXX",
+                "Mobile",
+                "Sotel"
+            ],
+            [
+                "+996 609 6XXXXX",
+                "Geographic",
+                "Winline"
+            ],
+            [
+                "+996 612 6XXXXX",
+                "Geographic",
+                "Saima-Telecom"
+            ],
+            [
+                "+996 622 XXXXXX",
+                "Geographic",
+                "Elcat"
+            ],
+            [
+                "+996 623 2XXXXX",
+                "Geographic",
+                "Asiainfo"
+            ],
+            [
+                "+996 624 2XXXXX",
+                "Geographic",
+                "KiterraCom"
+            ],
+            [
+                "+996 70X XXXXXX",
+                "Mobile",
+                "Nur Telecom"
+            ],
+            [
+                "+996 77X XXXXXX",
+                "Mobile",
+                "Sky Mobile"
+            ],
+            [
+                "+996 800XXXXXX",
+                "Freephone",
+                "Home country direct"
+            ],
+            [
+                "101",
+                "Fire Department",
+                ""
+            ],
+            [
+                "102",
+                "Police",
+                ""
+            ],
+            [
+                "103",
+                "Medical Emergency",
+                ""
+            ],
+            [
+                "104",
+                "Gas Emergency",
+                ""
+            ]
+        ],
+        [
+            [],
+            [
+                "AfghanistanArmeniaAzerbaijanBahrainBangladeshBhutanBruneiCambodiaChinaCyprusEast Timor (Timor-Leste)EgyptGeorgiaIndiaIndonesiaIranIraqIsraelJapanJordanKazakhstanNorth KoreaSouth KoreaKuwaitKyrgyzstanLaosLebanonMalaysiaMaldivesMongoliaMyanmarNepalOmanPakistanPhilippinesQatarRussiaSaudi ArabiaSingaporeSri LankaSyriaTajikistanThailandTurkeyTurkmenistanUnited Arab EmiratesUzbekistanVietnamYemen"
+            ],
+            [
+                "AbkhaziaNorthern CyprusPalestineSouth OssetiaTaiwan"
+            ],
+            [
+                "British Indian Ocean TerritoryChristmas IslandCocos (Keeling) IslandsHong KongMacau"
+            ],
+            [
+                "CategoryAsia portal"
+            ]
+        ],
+        [
+            [
+                "",
+                "ThisKyrgyzstan-related article is astub. You can help Wikipedia byexpanding it."
+            ]
+        ],
+        [
+            [
+                "",
+                "This article related totelephone numbersis astub. You can help Wikipedia byexpanding it."
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "+996 XXX XXXXXXfor calls from outsideKyrgyzstan",
+            "0XXX XXXXXXor0XXXX XXXXXfor calls within Kyrgyzstan."
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Afghanistan",
+            "Armenia",
+            "Azerbaijan",
+            "Bahrain",
+            "Bangladesh",
+            "Bhutan",
+            "Brunei",
+            "Cambodia",
+            "China",
+            "Cyprus",
+            "East Timor (Timor-Leste)",
+            "Egypt",
+            "Georgia",
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Israel",
+            "Japan",
+            "Jordan",
+            "Kazakhstan",
+            "North Korea",
+            "South Korea",
+            "Kuwait",
+            "Kyrgyzstan",
+            "Laos",
+            "Lebanon",
+            "Malaysia",
+            "Maldives",
+            "Mongolia",
+            "Myanmar",
+            "Nepal",
+            "Oman",
+            "Pakistan",
+            "Philippines",
+            "Qatar",
+            "Russia",
+            "Saudi Arabia",
+            "Singapore",
+            "Sri Lanka",
+            "Syria",
+            "Tajikistan",
+            "Thailand",
+            "Turkey",
+            "Turkmenistan",
+            "United Arab Emirates",
+            "Uzbekistan",
+            "Vietnam",
+            "Yemen"
+        ],
+        [
+            "Abkhazia",
+            "Northern Cyprus",
+            "Palestine",
+            "South Ossetia",
+            "Taiwan"
+        ],
+        [
+            "British Indian Ocean Territory",
+            "Christmas Island",
+            "Cocos (Keeling) Islands",
+            "Hong Kong",
+            "Macau"
+        ],
+        [
+            "Category",
+            "Asia portal"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+996",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Kyrgyzstan",
+            "href": null
+        },
+        {
+            "text": "Asia",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Kyrgyzstan",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Kyrgyzstan\"",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Asia",
+            "href": null
+        },
+        {
+            "text": "Sovereign states",
+            "href": null
+        },
+        {
+            "text": "Afghanistan",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Bahrain",
+            "href": null
+        },
+        {
+            "text": "Bangladesh",
+            "href": null
+        },
+        {
+            "text": "Bhutan",
+            "href": null
+        },
+        {
+            "text": "Brunei",
+            "href": null
+        },
+        {
+            "text": "Cambodia",
+            "href": null
+        },
+        {
+            "text": "China",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "East Timor (Timor-Leste)",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "India",
+            "href": null
+        },
+        {
+            "text": "Indonesia",
+            "href": null
+        },
+        {
+            "text": "Iran",
+            "href": null
+        },
+        {
+            "text": "Iraq",
+            "href": null
+        },
+        {
+            "text": "Israel",
+            "href": null
+        },
+        {
+            "text": "Japan",
+            "href": null
+        },
+        {
+            "text": "Jordan",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "North Korea",
+            "href": null
+        },
+        {
+            "text": "South Korea",
+            "href": null
+        },
+        {
+            "text": "Kuwait",
+            "href": null
+        },
+        {
+            "text": "Kyrgyzstan",
+            "href": null
+        },
+        {
+            "text": "Laos",
+            "href": null
+        },
+        {
+            "text": "Lebanon",
+            "href": null
+        },
+        {
+            "text": "Malaysia",
+            "href": null
+        },
+        {
+            "text": "Maldives",
+            "href": null
+        },
+        {
+            "text": "Mongolia",
+            "href": null
+        },
+        {
+            "text": "Myanmar",
+            "href": null
+        },
+        {
+            "text": "Nepal",
+            "href": null
+        },
+        {
+            "text": "Oman",
+            "href": null
+        },
+        {
+            "text": "Pakistan",
+            "href": null
+        },
+        {
+            "text": "Philippines",
+            "href": null
+        },
+        {
+            "text": "Qatar",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "Saudi Arabia",
+            "href": null
+        },
+        {
+            "text": "Singapore",
+            "href": null
+        },
+        {
+            "text": "Sri Lanka",
+            "href": null
+        },
+        {
+            "text": "Syria",
+            "href": null
+        },
+        {
+            "text": "Tajikistan",
+            "href": null
+        },
+        {
+            "text": "Thailand",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Turkmenistan",
+            "href": null
+        },
+        {
+            "text": "United Arab Emirates",
+            "href": null
+        },
+        {
+            "text": "Uzbekistan",
+            "href": null
+        },
+        {
+            "text": "Vietnam",
+            "href": null
+        },
+        {
+            "text": "Yemen",
+            "href": null
+        },
+        {
+            "text": "States withlimited recognition",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "Palestine",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Taiwan",
+            "href": null
+        },
+        {
+            "text": "Dependencies",
+            "href": null
+        },
+        {
+            "text": "British Indian Ocean Territory",
+            "href": null
+        },
+        {
+            "text": "Christmas Island",
+            "href": null
+        },
+        {
+            "text": "Cocos (Keeling) Islands",
+            "href": null
+        },
+        {
+            "text": "Hong Kong",
+            "href": null
+        },
+        {
+            "text": "Macau",
+            "href": null
+        },
+        {
+            "text": "Category",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Asia portal",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Kyrgyzstan",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "telephone numbers",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        }
+    ]
+}

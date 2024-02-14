@@ -1,0 +1,819 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Hungary"
+            ],
+            [
+                "Europe"
+            ],
+            [
+                "open"
+            ],
+            [
+                "8 or 9"
+            ],
+            [
+                "(06 1) xxx xxxx / (06 xx) xxx xxx (geographic)06 xx xxx xxxx (mobile)"
+            ],
+            [],
+            [
+                "+36"
+            ],
+            [
+                "00"
+            ],
+            [
+                "06"
+            ]
+        ],
+        [
+            [],
+            [
+                "Yettel Hungary",
+                "20"
+            ],
+            [
+                "Telekom HU",
+                "30"
+            ],
+            [
+                "UPC Mobil and several other providers",
+                "31"
+            ],
+            [
+                "Digi.Mobil HU",
+                "50"
+            ],
+            [
+                "vodafone HU",
+                "70"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlbaniaAndorraArmeniaAustriaAzerbaijanBelarusBelgiumBosnia and HerzegovinaBulgariaCroatiaCyprusCzech RepublicDenmarkEstoniaFinlandFranceGeorgiaGermanyGreeceHungaryIcelandIrelandItalyKazakhstanLatviaLiechtensteinLithuaniaLuxembourgMaltaMoldovaMonacoMontenegroNetherlandsNorth MacedoniaNorwayPolandPortugalRomaniaRussiaSan MarinoSerbiaSlovakiaSloveniaSpainSwedenSwitzerlandTurkeyUkraineUnited KingdomVatican City"
+            ],
+            [
+                "AbkhaziaKosovoNorthern CyprusSouth OssetiaTransnistria"
+            ],
+            [
+                "ÅlandFaroe IslandsGibraltarGuernseyIsle of ManJerseySvalbard"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "112- Emergency number (ambulance, fire brigade, police)",
+            "104- Ambulance",
+            "105- Fire Brigade",
+            "107- Police",
+            "143- Telephone fault reporting",
+            "180- Time service",
+            "188- Roadside assistance",
+            "193- Alarm service",
+            "197- Yellow Pages directory assistance",
+            "198- National directory assistance",
+            "199- International directory assistance"
+        ],
+        [
+            "1area code forBudapest",
+            "20mobile network ofYettel",
+            "21Location independent electronic communications service numbers",
+            "22area code forSzékesfehérvár",
+            "23area code forBiatorbágy",
+            "24area code forSzigetszentmiklós",
+            "25area code forDunaújváros",
+            "26area code forSzentendre",
+            "27area code forVác",
+            "28area code forGödöllő",
+            "29area code forMonor",
+            "30mobile network ofMagyar Telekom",
+            "31UPC Mobil and several smaller mobile services",
+            "32area code forSalgótarján",
+            "33area code forEsztergom",
+            "34area code forTatabánya",
+            "35area code forBalassagyarmat",
+            "36area code forEger",
+            "37area code forGyöngyös",
+            "40retired (previously shared-cost service)",
+            "41retired (previously special services)",
+            "42area code forNyíregyháza",
+            "44area code forMátészalka",
+            "45area code forKisvárda",
+            "46area code forMiskolc",
+            "47area code forSzerencs",
+            "48area code forÓzd",
+            "49area code forMezőkövesd",
+            "50mobile network of Digi Mobil",
+            "51Dial-Up Internet service",
+            "52area code forDebrecen",
+            "53area code forCegléd",
+            "54area code forBerettyóújfalu",
+            "55Test number",
+            "56area code forSzolnok",
+            "57area code forJászberény",
+            "59area code forKarcag",
+            "60reserved/retired - formerWestel 0660mobile network on 450 MHz",
+            "61reserved for later use",
+            "62area code forSzeged",
+            "63area code forSzentes",
+            "66area code forBékéscsaba",
+            "68area code forOrosháza",
+            "69area code forMohács",
+            "70mobile network ofVodafone",
+            "71corporate networks",
+            "72area code forPécs",
+            "73area code forSzigetvár",
+            "74area code forSzekszárd",
+            "75area code forPaks",
+            "76area code forKecskemét",
+            "77area code forKiskunhalas",
+            "78area code forKiskőrös",
+            "79area code forBaja",
+            "80freephone service (national)",
+            "81retired - previously: IN",
+            "82area code forKaposvár",
+            "83area code forKeszthely",
+            "84area code forSiófok",
+            "85area code forMarcali",
+            "87area code forTapolca",
+            "88area code forVeszprém",
+            "89area code forPápa",
+            "90Premium-rate service (national)",
+            "91Premium-rate service (national) - previously: IP VPN",
+            "92area code forZalaegerszeg",
+            "93area code forNagykanizsa",
+            "94area code forSzombathely",
+            "95area code forSárvár",
+            "96area code forGyőr",
+            "99area code forSopron"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Albania",
+            "Andorra",
+            "Armenia",
+            "Austria",
+            "Azerbaijan",
+            "Belarus",
+            "Belgium",
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Estonia",
+            "Finland",
+            "France",
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Hungary",
+            "Iceland",
+            "Ireland",
+            "",
+            "Italy",
+            "Kazakhstan",
+            "Latvia",
+            "Liechtenstein",
+            "Lithuania",
+            "Luxembourg",
+            "Malta",
+            "Moldova",
+            "Monaco",
+            "Montenegro",
+            "Netherlands",
+            "North Macedonia",
+            "Norway",
+            "Poland",
+            "Portugal",
+            "Romania",
+            "Russia",
+            "San Marino",
+            "Serbia",
+            "Slovakia",
+            "Slovenia",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Turkey",
+            "Ukraine",
+            "United Kingdom",
+            "Vatican City"
+        ],
+        [
+            "Abkhazia",
+            "Kosovo",
+            "Northern Cyprus",
+            "South Ossetia",
+            "Transnistria"
+        ],
+        [
+            "Åland",
+            "Faroe Islands",
+            "Gibraltar",
+            "Guernsey",
+            "Isle of Man",
+            "Jersey",
+            "Svalbard"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+36",
+            "href": null
+        },
+        {
+            "text": "Hungary",
+            "href": null
+        },
+        {
+            "text": "Europe",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "dialling",
+            "href": null
+        },
+        {
+            "text": "landline",
+            "href": null
+        },
+        {
+            "text": "Budapest",
+            "href": null
+        },
+        {
+            "text": "mobile",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "Budapest",
+            "href": null
+        },
+        {
+            "text": "Yettel",
+            "href": null
+        },
+        {
+            "text": "Székesfehérvár",
+            "href": null
+        },
+        {
+            "text": "Biatorbágy",
+            "href": null
+        },
+        {
+            "text": "Szigetszentmiklós",
+            "href": null
+        },
+        {
+            "text": "Dunaújváros",
+            "href": null
+        },
+        {
+            "text": "Szentendre",
+            "href": null
+        },
+        {
+            "text": "Vác",
+            "href": null
+        },
+        {
+            "text": "Gödöllő",
+            "href": null
+        },
+        {
+            "text": "Monor",
+            "href": null
+        },
+        {
+            "text": "Magyar Telekom",
+            "href": null
+        },
+        {
+            "text": "Salgótarján",
+            "href": null
+        },
+        {
+            "text": "Esztergom",
+            "href": null
+        },
+        {
+            "text": "Tatabánya",
+            "href": null
+        },
+        {
+            "text": "Balassagyarmat",
+            "href": null
+        },
+        {
+            "text": "Eger",
+            "href": null
+        },
+        {
+            "text": "Gyöngyös",
+            "href": null
+        },
+        {
+            "text": "Nyíregyháza",
+            "href": null
+        },
+        {
+            "text": "Mátészalka",
+            "href": null
+        },
+        {
+            "text": "Kisvárda",
+            "href": null
+        },
+        {
+            "text": "Miskolc",
+            "href": null
+        },
+        {
+            "text": "Szerencs",
+            "href": null
+        },
+        {
+            "text": "Ózd",
+            "href": null
+        },
+        {
+            "text": "Mezőkövesd",
+            "href": null
+        },
+        {
+            "text": "Debrecen",
+            "href": null
+        },
+        {
+            "text": "Cegléd",
+            "href": null
+        },
+        {
+            "text": "Berettyóújfalu",
+            "href": null
+        },
+        {
+            "text": "Szolnok",
+            "href": null
+        },
+        {
+            "text": "Jászberény",
+            "href": null
+        },
+        {
+            "text": "Karcag",
+            "href": null
+        },
+        {
+            "text": "Szeged",
+            "href": null
+        },
+        {
+            "text": "Szentes",
+            "href": null
+        },
+        {
+            "text": "Békéscsaba",
+            "href": null
+        },
+        {
+            "text": "Orosháza",
+            "href": null
+        },
+        {
+            "text": "Mohács",
+            "href": null
+        },
+        {
+            "text": "Vodafone",
+            "href": null
+        },
+        {
+            "text": "Pécs",
+            "href": null
+        },
+        {
+            "text": "Szigetvár",
+            "href": null
+        },
+        {
+            "text": "Szekszárd",
+            "href": null
+        },
+        {
+            "text": "Paks",
+            "href": null
+        },
+        {
+            "text": "Kecskemét",
+            "href": null
+        },
+        {
+            "text": "Kiskunhalas",
+            "href": null
+        },
+        {
+            "text": "Kiskőrös",
+            "href": null
+        },
+        {
+            "text": "Baja",
+            "href": null
+        },
+        {
+            "text": "Kaposvár",
+            "href": null
+        },
+        {
+            "text": "Keszthely",
+            "href": null
+        },
+        {
+            "text": "Siófok",
+            "href": null
+        },
+        {
+            "text": "Marcali",
+            "href": null
+        },
+        {
+            "text": "Tapolca",
+            "href": null
+        },
+        {
+            "text": "Veszprém",
+            "href": null
+        },
+        {
+            "text": "Pápa",
+            "href": null
+        },
+        {
+            "text": "Zalaegerszeg",
+            "href": null
+        },
+        {
+            "text": "Nagykanizsa",
+            "href": null
+        },
+        {
+            "text": "Szombathely",
+            "href": null
+        },
+        {
+            "text": "Sárvár",
+            "href": null
+        },
+        {
+            "text": "Győr",
+            "href": null
+        },
+        {
+            "text": "Sopron",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Yettel Hungary",
+            "href": null
+        },
+        {
+            "text": "Telekom HU",
+            "href": null
+        },
+        {
+            "text": "Digi.Mobil HU",
+            "href": null
+        },
+        {
+            "text": "vodafone HU",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Hungary E164 Numbering Plan\"",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Europe",
+            "href": null
+        },
+        {
+            "text": "Albania",
+            "href": null
+        },
+        {
+            "text": "Andorra",
+            "href": null
+        },
+        {
+            "text": "Armenia",
+            "href": null
+        },
+        {
+            "text": "Austria",
+            "href": null
+        },
+        {
+            "text": "Azerbaijan",
+            "href": null
+        },
+        {
+            "text": "Belarus",
+            "href": null
+        },
+        {
+            "text": "Belgium",
+            "href": null
+        },
+        {
+            "text": "Bosnia and Herzegovina",
+            "href": null
+        },
+        {
+            "text": "Bulgaria",
+            "href": null
+        },
+        {
+            "text": "Croatia",
+            "href": null
+        },
+        {
+            "text": "Cyprus",
+            "href": null
+        },
+        {
+            "text": "Czech Republic",
+            "href": null
+        },
+        {
+            "text": "Denmark",
+            "href": null
+        },
+        {
+            "text": "Estonia",
+            "href": null
+        },
+        {
+            "text": "Finland",
+            "href": null
+        },
+        {
+            "text": "France",
+            "href": null
+        },
+        {
+            "text": "Georgia",
+            "href": null
+        },
+        {
+            "text": "Germany",
+            "href": null
+        },
+        {
+            "text": "Greece",
+            "href": null
+        },
+        {
+            "text": "Hungary",
+            "href": null
+        },
+        {
+            "text": "Iceland",
+            "href": null
+        },
+        {
+            "text": "Ireland",
+            "href": null
+        },
+        {
+            "text": "Italy",
+            "href": null
+        },
+        {
+            "text": "Kazakhstan",
+            "href": null
+        },
+        {
+            "text": "Latvia",
+            "href": null
+        },
+        {
+            "text": "Liechtenstein",
+            "href": null
+        },
+        {
+            "text": "Lithuania",
+            "href": null
+        },
+        {
+            "text": "Luxembourg",
+            "href": null
+        },
+        {
+            "text": "Malta",
+            "href": null
+        },
+        {
+            "text": "Moldova",
+            "href": null
+        },
+        {
+            "text": "Monaco",
+            "href": null
+        },
+        {
+            "text": "Montenegro",
+            "href": null
+        },
+        {
+            "text": "Netherlands",
+            "href": null
+        },
+        {
+            "text": "North Macedonia",
+            "href": null
+        },
+        {
+            "text": "Norway",
+            "href": null
+        },
+        {
+            "text": "Poland",
+            "href": null
+        },
+        {
+            "text": "Portugal",
+            "href": null
+        },
+        {
+            "text": "Romania",
+            "href": null
+        },
+        {
+            "text": "Russia",
+            "href": null
+        },
+        {
+            "text": "San Marino",
+            "href": null
+        },
+        {
+            "text": "Serbia",
+            "href": null
+        },
+        {
+            "text": "Slovakia",
+            "href": null
+        },
+        {
+            "text": "Slovenia",
+            "href": null
+        },
+        {
+            "text": "Spain",
+            "href": null
+        },
+        {
+            "text": "Sweden",
+            "href": null
+        },
+        {
+            "text": "Switzerland",
+            "href": null
+        },
+        {
+            "text": "Turkey",
+            "href": null
+        },
+        {
+            "text": "Ukraine",
+            "href": null
+        },
+        {
+            "text": "United Kingdom",
+            "href": null
+        },
+        {
+            "text": "Vatican City",
+            "href": null
+        },
+        {
+            "text": "Abkhazia",
+            "href": null
+        },
+        {
+            "text": "Kosovo",
+            "href": null
+        },
+        {
+            "text": "Northern Cyprus",
+            "href": null
+        },
+        {
+            "text": "South Ossetia",
+            "href": null
+        },
+        {
+            "text": "Transnistria",
+            "href": null
+        },
+        {
+            "text": "Åland",
+            "href": null
+        },
+        {
+            "text": "Faroe Islands",
+            "href": null
+        },
+        {
+            "text": "Gibraltar",
+            "href": null
+        },
+        {
+            "text": "Guernsey",
+            "href": null
+        },
+        {
+            "text": "Isle of Man",
+            "href": null
+        },
+        {
+            "text": "Jersey",
+            "href": null
+        },
+        {
+            "text": "Svalbard",
+            "href": null
+        }
+    ]
+}

@@ -1,0 +1,1001 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Chad"
+            ],
+            [
+                "Africa"
+            ],
+            [],
+            [
+                "+235"
+            ],
+            [
+                "00"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "22 50 00",
+                "Batha",
+                "Ati/Oum-Hadjer/N’Djaména–BilalaAssinet/Aradj-Djombo/Djedah/Koudjourou"
+            ],
+            [
+                "22 50 01 xx",
+                "Batha"
+            ],
+            [
+                "22 50 02 xx",
+                "Batha"
+            ],
+            [
+                "22 50 03 xx",
+                "Batha"
+            ],
+            [
+                "22 50 04 xx",
+                "Batha"
+            ],
+            [
+                "22 50 10 xx",
+                "Batha"
+            ],
+            [
+                "22 50 11 xx",
+                "Batha"
+            ],
+            [
+                "22 50 12 xx",
+                "Batha"
+            ],
+            [
+                "22 50 13 xx",
+                "Batha"
+            ],
+            [
+                "22 50 14 xx",
+                "Batha"
+            ],
+            [
+                "22 50 20 xx",
+                "Batha"
+            ],
+            [
+                "22 50 21 xx",
+                "Batha"
+            ],
+            [
+                "22 50 22 xx",
+                "Batha"
+            ],
+            [
+                "22 50 23 xx",
+                "Batha"
+            ],
+            [
+                "22 50 24 xx",
+                "Batha"
+            ],
+            [
+                "22 50 25 xx",
+                "B.E.T.",
+                "Faya-Larggeau/Fada/Bardaï/ZouarAouzou/Kalaït/Kouba-Olanga/Koro-Toro/GourOuadi-Nawaï/Ounianga-Kébir/Borkou Yala"
+            ],
+            [
+                "22 50 26 xx",
+                "B.E.T."
+            ],
+            [
+                "22 50 27 xx",
+                "B.E.T."
+            ],
+            [
+                "22 50 28 xx",
+                "B.E.T."
+            ],
+            [
+                "22 50 29 xx",
+                "B.E.T."
+            ],
+            [
+                "22 50 3x xx",
+                "B.E.T."
+            ],
+            [
+                "22 50 4x xx",
+                "Kanem",
+                "Mao/Nokou/Michémiré/Mondo/SalalMoussoro/Chédra/Rig-Rig"
+            ],
+            [
+                "22 50 5x xx",
+                "Kanem"
+            ],
+            [
+                "22 50 6x xx",
+                "Lac",
+                "Bol/Baga/Sola/Doum-Doum/Liwa/Ngouri"
+            ],
+            [
+                "22 50 70 xx",
+                "Lac"
+            ],
+            [
+                "22 50 71 xx",
+                "Lac"
+            ],
+            [
+                "22 50 72 xx",
+                "Lac"
+            ],
+            [
+                "22 50 73 xx",
+                "Lac"
+            ],
+            [
+                "22 50 74 xx",
+                "Lac"
+            ],
+            [
+                "22 50 75 xx",
+                "Guera",
+                "Mongo/Bitkine/Melfi/Mangalmé/Baro/Nyergi/Eref"
+            ],
+            [
+                "22 50 76 xx",
+                "Guera"
+            ],
+            [
+                "22 50 77 xx",
+                "Guera"
+            ],
+            [
+                "22 50 78 xx",
+                "Guera"
+            ],
+            [
+                "22 50 79 xx",
+                "Guera"
+            ],
+            [
+                "22 50 8x xx",
+                "Guera"
+            ],
+            [
+                "22 50 9x xx",
+                "Guera"
+            ],
+            [
+                "22 51 xx xx",
+                "N’Djamena",
+                "Goudji/Ridina"
+            ],
+            [
+                "22 52 xx xx",
+                "N’Djaména Farcha poste 1 & 2",
+                ""
+            ],
+            [
+                "22 53 xx xx",
+                "N’Djaména",
+                "Diguel/Walia/7ème & 8ème Arrondissement"
+            ],
+            [
+                "22 54 00 xx",
+                "Dababa",
+                "Bokoro/Gama/Moïto/Ngoura"
+            ],
+            [
+                "22 54 01 xx",
+                "Dababa"
+            ],
+            [
+                "22 54 02 xx",
+                "Dababa"
+            ],
+            [
+                "22 54 03 xx",
+                "Dababa"
+            ],
+            [
+                "22 54 04 xx",
+                "Dababa"
+            ],
+            [
+                "22 54 05 xx",
+                "Dababa"
+            ],
+            [
+                "22 54 06 xx",
+                "Hadjer Lamis",
+                "Massaguet/Linian/Karal/LoumianMandélia/Koundoul/Mani/Maïlao/Massakori"
+            ],
+            [
+                "22 54 07 xx",
+                "Hadjer Lamis"
+            ],
+            [
+                "22 54 08 xx",
+                "Hadjer Lamis"
+            ],
+            [
+                "22 54 09 xx",
+                "Hadjer Lamis"
+            ],
+            [
+                "22 54 10 xx",
+                "Hadjer Lamis"
+            ],
+            [
+                "22 54 11 xx",
+                "Hadjer Lamis"
+            ],
+            [
+                "22 54 12 xx",
+                "Hadjer Lamis"
+            ],
+            [
+                "22 54 13 xx",
+                "Hadjer Lamis"
+            ],
+            [
+                "22 54 14 xx",
+                "Hadjer Lamis"
+            ],
+            [
+                "22 54 15 xx",
+                "Hadjer Lamis"
+            ],
+            [
+                "22 54 16 xx",
+                "Baguirmi",
+                "Massenya/Bosso/Mbarley/Dour BaliBougeoir/Koubba/Mogo/Bah-Illi"
+            ],
+            [
+                "22 54 17 xx",
+                "Baguirmi"
+            ],
+            [
+                "22 54 18 xx",
+                "Baguirmi"
+            ],
+            [
+                "22 54 19 xx",
+                "Baguirmi"
+            ],
+            [
+                "22 54 20 xx",
+                "Baguirmi"
+            ],
+            [
+                "22 54 21 xx",
+                "Baguirmi"
+            ],
+            [
+                "22 54 22 xx",
+                "Baguirmi"
+            ],
+            [
+                "22 54 23 xx",
+                "Baguirmi"
+            ],
+            [
+                "22 54 24 xx",
+                "Baguirmi"
+            ],
+            [
+                "22 68 0x xx",
+                "Moyen Chari",
+                "Sarh/Kyabé/Moïssala/Koumra/BédjondoBouna/Goundi/Bohobé/Boum-Kébir/RoroMaro/Dembo/Korbol/Bédaya/Békamba"
+            ],
+            [
+                "22 68 1x xx",
+                "Moyen Chari"
+            ],
+            [
+                "22 68 2x xx",
+                "Moyen Chari"
+            ],
+            [
+                "22 68 3x xx",
+                "Moyen Chari"
+            ],
+            [
+                "22 68 40 xx",
+                "Moyen Chari"
+            ],
+            [
+                "22 68 41 xx",
+                "Moyen Chari"
+            ],
+            [
+                "22 68 42 xx",
+                "Moyen Chari"
+            ],
+            [
+                "22 68 43 xx",
+                "Moyen Chari"
+            ],
+            [
+                "22 68 44 xx",
+                "Moyen Chari"
+            ],
+            [
+                "22 68 45 xx",
+                "Salamat",
+                "Am-Timan/Aboudéïa/HarazeManguey/Djouna Takalaou/Darasna"
+            ],
+            [
+                "22 68 46 xx",
+                "Salamat"
+            ],
+            [
+                "22 68 47 xx",
+                "Salamat"
+            ],
+            [
+                "22 68 48 xx",
+                "Salamat"
+            ],
+            [
+                "22 68 49 xx",
+                "Salamat"
+            ],
+            [
+                "22 68 5x xx",
+                "Salamat"
+            ],
+            [
+                "22 68 6x xx",
+                "Ouaddai",
+                "Abéché/Abougoudam/Am-Dam/ChokoyanAbdi/Adré/Goz-Beïda/Koukou Angara Tissé/Addé"
+            ],
+            [
+                "22 68 7x xx",
+                "Ouaddai"
+            ],
+            [
+                "22 68 8x xx",
+                "Ouaddai"
+            ],
+            [
+                "22 68 9x xx",
+                "Biltine",
+                "Biltine/Am-zoer/Arada/Guereda/IribaKoulbous/Tiné/Mayana"
+            ],
+            [
+                "22 69 0x xx",
+                "Logon Occidental",
+                "Mbaïnamar/Moundou/Benoye/Krim-Krim/DéliTapol/Laokassi/Béladja/Bébalem/Saar/Bao"
+            ],
+            [
+                "22 69 1x xx",
+                "Logon Occidental"
+            ],
+            [
+                "22 69 2x xx",
+                "Logon Occidental"
+            ],
+            [
+                "22 69 30 xx",
+                "Logon Occidental"
+            ],
+            [
+                "22 69 31 xx",
+                "Logon Occidental"
+            ],
+            [
+                "22 69 32 xx",
+                "Logon Occidental"
+            ],
+            [
+                "22 69 33 xx",
+                "Logon Occidental"
+            ],
+            [
+                "22 69 34 xx",
+                "Logon Occidental"
+            ],
+            [
+                "22 69 35 xx",
+                "Logone Oriental",
+                "Doba/Bébidja/Bébotto/Bodo/Goré/Kara/DonianYamodo/Mbaïbokoum/Mbaïkoro/Bessao/Lamanaye"
+            ],
+            [
+                "22 69 36 xx",
+                "Logone Oriental"
+            ],
+            [
+                "22 69 37 xx",
+                "Logone Oriental"
+            ],
+            [
+                "22 69 38 xx",
+                "Logone Oriental"
+            ],
+            [
+                "22 69 39 xx",
+                "Logone Oriental"
+            ],
+            [
+                "22 69 4x xx",
+                "Logone Oriental"
+            ],
+            [
+                "22 69 5x xx",
+                "Logone Oriental"
+            ],
+            [
+                "22 69 6x xx",
+                "Mayo Kebbi",
+                "Bongor/Guelendeng/Kim/Rigadja/Pala/GagalLagon/Léré/Torok/Lamé/Guigou/Gounougaya/BinderFianga/Moulkou/Koyom/Eré/Kolobo/Djoumane"
+            ],
+            [
+                "22 69 7x xx",
+                "Mayo Kebbi"
+            ],
+            [
+                "22 69 8x xx",
+                "Mayo Kebbi"
+            ],
+            [
+                "22 69 90 xx",
+                "Mayo Kebbi"
+            ],
+            [
+                "22 69 91 xx",
+                "Mayo Kebbi"
+            ],
+            [
+                "22 69 92 xx",
+                "Mayo Kebbi"
+            ],
+            [
+                "22 69 93 xx",
+                "Tandjile",
+                "Deressia/Dono-manga/Guidari/Ndam/Kélo BéréDafra/Delbian/Laï"
+            ],
+            [
+                "22 69 94 xx",
+                "Tandjile"
+            ],
+            [
+                "22 69 95 xx",
+                "Tandjile"
+            ],
+            [
+                "22 69 96 xx",
+                "Tandjile"
+            ],
+            [
+                "22 69 97 xx",
+                "Tandjile"
+            ],
+            [
+                "22 69 98 xx",
+                "Tandjile"
+            ],
+            [
+                "22 69 99 xx",
+                "Tandjile"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlgeriaAngolaBeninBotswanaBurkina FasoBurundiCameroonCape VerdeCentral African RepublicChadComorosDemocratic Republic of the CongoRepublic of the CongoDjiboutiEgyptEquatorial GuineaEritreaEswatiniEthiopiaGabonThe GambiaGhanaGuineaGuinea-BissauIvory CoastKenyaLesothoLiberiaLibyaMadagascarMalawiMaliMauritaniaMauritiusMoroccoMozambiqueNamibiaNigerNigeriaRwandaSão Tomé and PríncipeSenegalSeychellesSierra LeoneSomaliaSouth AfricaSouth SudanSudanTanzaniaTogoTunisiaUgandaZambiaZimbabwe"
+            ],
+            [
+                "Sahrawi Arab Democratic RepublicSomaliland"
+            ],
+            [
+                "Canary Islands/Ceuta/Melilla(Spain)Madeira(Portugal)Mayotte/Réunion(France)Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)Western Sahara"
+            ]
+        ],
+        [
+            [
+                "",
+                "ThisChad-related article is astub. You can help Wikipedia byexpanding it."
+            ]
+        ],
+        [
+            [
+                "",
+                "This article related totelephone numbersis astub. You can help Wikipedia byexpanding it."
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "yy yy xx xx- Calls withinChad",
+            "+235 yy yy xx xx- Calls from outside Chad"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Algeria",
+            "Angola",
+            "Benin",
+            "Botswana",
+            "Burkina Faso",
+            "Burundi",
+            "Cameroon",
+            "Cape Verde",
+            "Central African Republic",
+            "Chad",
+            "Comoros",
+            "Democratic Republic of the Congo",
+            "Republic of the Congo",
+            "Djibouti",
+            "Egypt",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Eswatini",
+            "Ethiopia",
+            "Gabon",
+            "The Gambia",
+            "Ghana",
+            "Guinea",
+            "Guinea-Bissau",
+            "Ivory Coast",
+            "Kenya",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Madagascar",
+            "Malawi",
+            "Mali",
+            "Mauritania",
+            "Mauritius",
+            "Morocco",
+            "Mozambique",
+            "Namibia",
+            "Niger",
+            "Nigeria",
+            "Rwanda",
+            "São Tomé and Príncipe",
+            "Senegal",
+            "Seychelles",
+            "Sierra Leone",
+            "Somalia",
+            "South Africa",
+            "South Sudan",
+            "Sudan",
+            "Tanzania",
+            "Togo",
+            "Tunisia",
+            "Uganda",
+            "Zambia",
+            "Zimbabwe"
+        ],
+        [
+            "Sahrawi Arab Democratic Republic",
+            "Somaliland"
+        ],
+        [
+            "Canary Islands/Ceuta/Melilla(Spain)",
+            "Madeira(Portugal)",
+            "Mayotte/Réunion(France)",
+            "Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)",
+            "Western Sahara"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+235",
+            "href": null
+        },
+        {
+            "text": "Chad",
+            "href": null
+        },
+        {
+            "text": "Africa",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Chad",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Chad telephone numbering plan 2005-12-29",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "Wayback Machine",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Changes to Chad numbering plan effective 2010-03-15",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Africa",
+            "href": null
+        },
+        {
+            "text": "Algeria",
+            "href": null
+        },
+        {
+            "text": "Angola",
+            "href": null
+        },
+        {
+            "text": "Benin",
+            "href": null
+        },
+        {
+            "text": "Botswana",
+            "href": null
+        },
+        {
+            "text": "Burkina Faso",
+            "href": null
+        },
+        {
+            "text": "Burundi",
+            "href": null
+        },
+        {
+            "text": "Cameroon",
+            "href": null
+        },
+        {
+            "text": "Cape Verde",
+            "href": null
+        },
+        {
+            "text": "Central African Republic",
+            "href": null
+        },
+        {
+            "text": "Chad",
+            "href": null
+        },
+        {
+            "text": "Comoros",
+            "href": null
+        },
+        {
+            "text": "Democratic Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Djibouti",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Equatorial Guinea",
+            "href": null
+        },
+        {
+            "text": "Eritrea",
+            "href": null
+        },
+        {
+            "text": "Eswatini",
+            "href": null
+        },
+        {
+            "text": "Ethiopia",
+            "href": null
+        },
+        {
+            "text": "Gabon",
+            "href": null
+        },
+        {
+            "text": "The Gambia",
+            "href": null
+        },
+        {
+            "text": "Ghana",
+            "href": null
+        },
+        {
+            "text": "Guinea",
+            "href": null
+        },
+        {
+            "text": "Guinea-Bissau",
+            "href": null
+        },
+        {
+            "text": "Ivory Coast",
+            "href": null
+        },
+        {
+            "text": "Kenya",
+            "href": null
+        },
+        {
+            "text": "Lesotho",
+            "href": null
+        },
+        {
+            "text": "Liberia",
+            "href": null
+        },
+        {
+            "text": "Libya",
+            "href": null
+        },
+        {
+            "text": "Madagascar",
+            "href": null
+        },
+        {
+            "text": "Malawi",
+            "href": null
+        },
+        {
+            "text": "Mali",
+            "href": null
+        },
+        {
+            "text": "Mauritania",
+            "href": null
+        },
+        {
+            "text": "Mauritius",
+            "href": null
+        },
+        {
+            "text": "Morocco",
+            "href": null
+        },
+        {
+            "text": "Mozambique",
+            "href": null
+        },
+        {
+            "text": "Namibia",
+            "href": null
+        },
+        {
+            "text": "Niger",
+            "href": null
+        },
+        {
+            "text": "Nigeria",
+            "href": null
+        },
+        {
+            "text": "Rwanda",
+            "href": null
+        },
+        {
+            "text": "São Tomé and Príncipe",
+            "href": null
+        },
+        {
+            "text": "Senegal",
+            "href": null
+        },
+        {
+            "text": "Seychelles",
+            "href": null
+        },
+        {
+            "text": "Sierra Leone",
+            "href": null
+        },
+        {
+            "text": "Somalia",
+            "href": null
+        },
+        {
+            "text": "South Africa",
+            "href": null
+        },
+        {
+            "text": "South Sudan",
+            "href": null
+        },
+        {
+            "text": "Sudan",
+            "href": null
+        },
+        {
+            "text": "Tanzania",
+            "href": null
+        },
+        {
+            "text": "Togo",
+            "href": null
+        },
+        {
+            "text": "Tunisia",
+            "href": null
+        },
+        {
+            "text": "Uganda",
+            "href": null
+        },
+        {
+            "text": "Zambia",
+            "href": null
+        },
+        {
+            "text": "Zimbabwe",
+            "href": null
+        },
+        {
+            "text": "Sahrawi Arab Democratic Republic",
+            "href": null
+        },
+        {
+            "text": "Somaliland",
+            "href": null
+        },
+        {
+            "text": "Canary Islands",
+            "href": null
+        },
+        {
+            "text": "Ceuta",
+            "href": null
+        },
+        {
+            "text": "Melilla",
+            "href": null
+        },
+        {
+            "text": "Madeira",
+            "href": null
+        },
+        {
+            "text": "Mayotte",
+            "href": null
+        },
+        {
+            "text": "Réunion",
+            "href": null
+        },
+        {
+            "text": "Saint Helena and Tristan da Cunha",
+            "href": null
+        },
+        {
+            "text": "Ascension Island",
+            "href": null
+        },
+        {
+            "text": "Western Sahara",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Chad",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "telephone numbers",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        }
+    ]
+}

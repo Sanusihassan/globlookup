@@ -1,0 +1,698 @@
+{
+    "tables": [
+        [
+            [
+                "+882-10",
+                "British Telecommunicationsplc",
+                "Global Office Application"
+            ],
+            [
+                "+882-12",
+                "Verizon(formerlyMCI WorldCom)",
+                "HyperStream International (HSI) Data Network"
+            ],
+            [
+                "+882-13",
+                "TelespazioS.p.A.",
+                "EMS Regional Mobile Satellite System"
+            ],
+            [
+                "+882-15",
+                "Reach (formerlyTelstraITERRA Digital Network)",
+                "Global internationalATMNetwork"
+            ],
+            [
+                "+882-16",
+                "United Arab Emirates Administration",
+                "thurayaRMSS Network"
+            ],
+            [
+                "+882-22",
+                "Cable & Wireless",
+                "Global Network"
+            ],
+            [
+                "+882-23",
+                "SITA-EquantJoint Venture",
+                "Sita-Equant Network"
+            ],
+            [
+                "+882-28",
+                "Deutsche Telekom",
+                "Next Generation Network"
+            ],
+            [
+                "+882-31",
+                "Telekom Malaysia",
+                "Global International ATM Network"
+            ],
+            [
+                "+882-32",
+                "Maritime Communications Partner[2]"
+            ],
+            [
+                "+882-33",
+                "Oration Technologies[3]",
+                "+882-33710710"
+            ],
+            [
+                "+882-34",
+                "Global Networks, Inc.[4]"
+            ],
+            [
+                "+882-35",
+                "Jasper Systems, Inc."
+            ],
+            [
+                "+882-36",
+                "Jersey Telecom"
+            ],
+            [
+                "+882-37",
+                "AT&T Mobility(formerly Cingular Wireless)"
+            ],
+            [
+                "+882-39",
+                "VodafoneMalta"
+            ],
+            [
+                "+882-41",
+                "Intermatica"
+            ],
+            [
+                "+882-45",
+                "Telecom Italia"
+            ],
+            [
+                "+882-46",
+                "tyntec"
+            ],
+            [
+                "+882-47",
+                "TRANSATEL"
+            ],
+            [
+                "+882-48",
+                "Sawatch Limited",
+                "EchoStar Mobile Limited"
+            ],
+            [
+                "+882-49",
+                "Monaco Telecom"
+            ],
+            [
+                "+882-51",
+                "Athalos Global Access Service"
+            ],
+            [
+                "+882-80",
+                "1NCE GmbH"
+            ],
+            [
+                "+882-97",
+                "Smart Communications"
+            ],
+            [
+                "+882-98",
+                "ONAIR N.V.",
+                "SITAGSMservices in aircraft"
+            ],
+            [
+                "+882-99",
+                "Telenor",
+                "Telenor GSM network – services in aircraft"
+            ],
+            [
+                "+883-03",
+                "EMnify GmbH"
+            ],
+            [
+                "+883-100",
+                "MediaLincc Ltd."
+            ],
+            [
+                "+883-110",
+                "Syniverse Technologies (post acquisition of Aicent Ltd.)"
+            ],
+            [
+                "+883-120",
+                "Telenor",
+                "unknown mobile services, requires Telenor invite to be implanted in number range"
+            ],
+            [
+                "+883-130",
+                "France Telecom Orange"
+            ],
+            [
+                "+883-140",
+                "MTT Global Networks"
+            ],
+            [
+                "+883-150",
+                "BodyTrace Netherlands B.V."
+            ],
+            [
+                "+883-160",
+                "DCN Hub ehf"
+            ],
+            [
+                "+883-170",
+                "EMnify GmbH"
+            ],
+            [
+                "+883-180",
+                "Ooredoo"
+            ],
+            [
+                "+883-190",
+                "Com4 Sweden AB"
+            ],
+            [
+                "+883-200",
+                "Manx Telecom Trading Ltd."
+            ],
+            [
+                "+883-210",
+                "Telecom26 AG"
+            ],
+            [
+                "+883-220",
+                "Beezz Communication Solutions Ltd."
+            ],
+            [
+                "+883-230",
+                "SAP"
+            ],
+            [
+                "+883-240",
+                "BICS SA"
+            ],
+            [
+                "+883-260",
+                "Twilio Inc"
+            ],
+            [
+                "+883-5100",
+                "Voxbone",
+                "iNum Initiative[5]– decommissioned in June 2020[6]"
+            ],
+            [
+                "+883-5110",
+                "Bandwidth.com Inc"
+            ],
+            [
+                "+883-5120",
+                "MTX Connect Ltd"
+            ],
+            [
+                "+883-5130",
+                "Sipme Communications"
+            ],
+            [
+                "+883-5140",
+                "Ellipsat Inc"
+            ],
+            [
+                "+883-5150",
+                "Wins Limited"
+            ],
+            [
+                "+883-5160",
+                "MCN Telecom (formerly Tel2tel kft.)[7][8]"
+            ]
+        ],
+        [
+            [
+                "+882-11",
+                "formerlySingapore Telecommunications– Asia Pacific Mobile Telecommunications"
+            ],
+            [
+                "+882-14",
+                "formerlyVerizon/GTEInternational Networks"
+            ],
+            [
+                "+882-17",
+                "formerlyAT&TInternational ATM Network"
+            ],
+            [
+                "+882-18",
+                "formerlyTeledesicGlobal Network"
+            ],
+            [
+                "+882-19",
+                "formerlyTelecom ItaliaGlobal Network"
+            ],
+            [
+                "+882-20",
+                "Asia Cellular Satellite (ACeS)",
+                "Garuda Mobile Telecommunication Satellite System"
+            ],
+            [
+                "+882-21",
+                "formerlyAmeritech– Gateway Global Service, Inc. (AGGSI) network - Now assigned to Thuraya SIM cards."
+            ],
+            [
+                "+882-24",
+                "TeliaSonera",
+                "multinational ATM Network"
+            ],
+            [
+                "+882-25",
+                "formerly Constellation Communications (nowICO)"
+            ],
+            [
+                "+882-26",
+                "formerlySBCCommunications – Global Data Network"
+            ],
+            [
+                "+882-27",
+                "formerlyWilliams Communications"
+            ],
+            [
+                "+882-29",
+                "formerly Q-Tel (NZ) Ltd (formerly World IT)"
+            ],
+            [
+                "+882-40",
+                "Oy Cubio Communications",
+                "Oy Communications"
+            ],
+            [
+                "+882-42",
+                "Seanet Maritime Communications AB[10]",
+                "Global mobile telecommunication operator"
+            ],
+            [
+                "+882-43",
+                "Ukrainian Radiosystems for Beeline"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "Current ITU-T list of E.164 shared country codes in the 881, 882 and 883 range",
+            "List of ITU-T E.164 assigned country codes as of 2016",
+            "iNum OFFICIAL Website",
+            "World Telephone Numbering Guide: Special Services"
+        ],
+        [
+            "Country codes"
+        ],
+        [
+            "Webarchive template wayback links",
+            "CS1 maint: unfit URL",
+            "Articles with short description",
+            "Short description matches Wikidata"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+882",
+            "href": null
+        },
+        {
+            "text": "International Telecommunication Union",
+            "href": null
+        },
+        {
+            "text": "country calling codes",
+            "href": null
+        },
+        {
+            "text": "Satellite telephone",
+            "href": null
+        },
+        {
+            "text": "Global Mobile Satellite System",
+            "href": null
+        },
+        {
+            "text": "Inmarsat",
+            "href": null
+        },
+        {
+            "text": "British Telecom",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "British Telecommunications",
+            "href": null
+        },
+        {
+            "text": "Verizon",
+            "href": null
+        },
+        {
+            "text": "MCI WorldCom",
+            "href": null
+        },
+        {
+            "text": "Telespazio",
+            "href": null
+        },
+        {
+            "text": "Telstra",
+            "href": null
+        },
+        {
+            "text": "ATM",
+            "href": null
+        },
+        {
+            "text": "thuraya",
+            "href": null
+        },
+        {
+            "text": "Cable & Wireless",
+            "href": null
+        },
+        {
+            "text": "SITA",
+            "href": null
+        },
+        {
+            "text": "Equant",
+            "href": null
+        },
+        {
+            "text": "Deutsche Telekom",
+            "href": null
+        },
+        {
+            "text": "Telekom Malaysia",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "[4]",
+            "href": null
+        },
+        {
+            "text": "Jersey Telecom",
+            "href": null
+        },
+        {
+            "text": "AT&T Mobility",
+            "href": null
+        },
+        {
+            "text": "Vodafone",
+            "href": null
+        },
+        {
+            "text": "tyntec",
+            "href": null
+        },
+        {
+            "text": "SITA",
+            "href": null
+        },
+        {
+            "text": "GSM",
+            "href": null
+        },
+        {
+            "text": "Telenor",
+            "href": null
+        },
+        {
+            "text": "MTT Global Networks",
+            "href": null
+        },
+        {
+            "text": "+883-5100",
+            "href": null
+        },
+        {
+            "text": "Voxbone",
+            "href": null
+        },
+        {
+            "text": "iNum Initiative",
+            "href": null
+        },
+        {
+            "text": "[5]",
+            "href": null
+        },
+        {
+            "text": "[6]",
+            "href": null
+        },
+        {
+            "text": "[7]",
+            "href": null
+        },
+        {
+            "text": "[8]",
+            "href": null
+        },
+        {
+            "text": "e164.org",
+            "href": null
+        },
+        {
+            "text": "[9]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Singapore Telecommunications",
+            "href": null
+        },
+        {
+            "text": "Verizon",
+            "href": null
+        },
+        {
+            "text": "GTE",
+            "href": null
+        },
+        {
+            "text": "AT&T",
+            "href": null
+        },
+        {
+            "text": "Teledesic",
+            "href": null
+        },
+        {
+            "text": "Telecom Italia",
+            "href": null
+        },
+        {
+            "text": "ACeS",
+            "href": null
+        },
+        {
+            "text": "Ameritech",
+            "href": null
+        },
+        {
+            "text": "TeliaSonera",
+            "href": null
+        },
+        {
+            "text": "ICO",
+            "href": null
+        },
+        {
+            "text": "SBC",
+            "href": null
+        },
+        {
+            "text": "Williams Communications",
+            "href": null
+        },
+        {
+            "text": "[10]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"BT Price List\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "www.mcp.com",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "Wayback Machine",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "www.oration.gr/index-en.html",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "Wayback Machine",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "www.gni.ch",
+            "href": null
+        },
+        {
+            "text": "Archived",
+            "href": null
+        },
+        {
+            "text": "Wayback Machine",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"iNum Initiative\"",
+            "href": null
+        },
+        {
+            "text": "cite web",
+            "href": null
+        },
+        {
+            "text": "link",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "Voxbone decommissions iNum",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "ITU official website",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "MCN Telecom official website",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"About E164.org\"",
+            "href": null
+        },
+        {
+            "text": "cite web",
+            "href": null
+        },
+        {
+            "text": "link",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "www.seanet.se",
+            "href": null
+        },
+        {
+            "text": "Current ITU-T list of E.164 shared country codes in the 881, 882 and 883 range",
+            "href": null
+        },
+        {
+            "text": "List of ITU-T E.164 assigned country codes as of 2016",
+            "href": null
+        },
+        {
+            "text": "iNum OFFICIAL Website",
+            "href": null
+        },
+        {
+            "text": "World Telephone Numbering Guide: Special Services",
+            "href": null
+        },
+        {
+            "text": "Category",
+            "href": null
+        },
+        {
+            "text": "Country codes",
+            "href": null
+        },
+        {
+            "text": "Webarchive template wayback links",
+            "href": null
+        },
+        {
+            "text": "CS1 maint: unfit URL",
+            "href": null
+        },
+        {
+            "text": "Articles with short description",
+            "href": null
+        },
+        {
+            "text": "Short description matches Wikidata",
+            "href": null
+        }
+    ]
+}

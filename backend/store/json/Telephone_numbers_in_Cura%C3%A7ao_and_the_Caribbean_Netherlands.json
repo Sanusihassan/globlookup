@@ -1,0 +1,1598 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Bonaire",
+                "7xx xxxx717 xxxx (Telbo)750 xxxx (Flamingo TV)700 xxxx (Mobile)701 xxxx (Mobile)795 xxxx (Mobile)796 5hhh (Mobile)"
+            ],
+            [
+                "Curaçao",
+                "4xx xxxx5xx xxxx (mobile)6xx xxxx (mobile)7xx xxxx8xx xxxx"
+            ],
+            [
+                "Sint Maarten(before joining NANP)",
+                "5xx xxxx"
+            ],
+            [
+                "Saba",
+                "416xxxx"
+            ],
+            [
+                "Sint Eustatius",
+                "3xx xxxx"
+            ],
+            [
+                "Aruba(until secession)",
+                "8xx xxxx"
+            ],
+            [
+                "Non-geographic",
+                "1xx xxxx6xx xxxx"
+            ]
+        ],
+        [
+            [],
+            [
+                "British West IndiesDanish West IndiesDutch CaribbeanCaribbean NetherlandsNetherlands AntillesFrench West IndiesWest Indies Federation"
+            ],
+            [
+                "AntillesGreaterAntillesCayman IslandsCubaJamaicaNavassa IslandPuerto RicoHispaniolaDominican RepublicHaitiLesserAntillesLeewardIslandsAnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin IslandsSouthernCaribbeanLeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†LucayanArchipelagoBahamasTurks and Caicos Islands",
+                "GreaterAntillesCayman IslandsCubaJamaicaNavassa IslandPuerto RicoHispaniolaDominican RepublicHaitiLesserAntillesLeewardIslandsAnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin IslandsSouthernCaribbeanLeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "Cayman IslandsCubaJamaicaNavassa IslandPuerto RicoHispaniolaDominican RepublicHaiti",
+                "Dominican RepublicHaiti",
+                "LeewardIslandsAnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin IslandsSouthernCaribbeanLeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "AnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin Islands",
+                "Collectivity of Saint MartinSint Maarten",
+                "British Virgin IslandsU.S. Virgin Islands",
+                "LeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao",
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines",
+                "BahamasTurks and Caicos Islands"
+            ],
+            [
+                "GreaterAntillesCayman IslandsCubaJamaicaNavassa IslandPuerto RicoHispaniolaDominican RepublicHaitiLesserAntillesLeewardIslandsAnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin IslandsSouthernCaribbeanLeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "Cayman IslandsCubaJamaicaNavassa IslandPuerto RicoHispaniolaDominican RepublicHaiti",
+                "Dominican RepublicHaiti",
+                "LeewardIslandsAnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin IslandsSouthernCaribbeanLeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "AnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin Islands",
+                "Collectivity of Saint MartinSint Maarten",
+                "British Virgin IslandsU.S. Virgin Islands",
+                "LeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao",
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines"
+            ],
+            [
+                "Cayman IslandsCubaJamaicaNavassa IslandPuerto RicoHispaniolaDominican RepublicHaiti",
+                "Dominican RepublicHaiti"
+            ],
+            [
+                "Dominican RepublicHaiti"
+            ],
+            [
+                "LeewardIslandsAnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin IslandsSouthernCaribbeanLeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "AnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin Islands",
+                "Collectivity of Saint MartinSint Maarten",
+                "British Virgin IslandsU.S. Virgin Islands",
+                "LeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao",
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines"
+            ],
+            [
+                "AnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin Islands",
+                "Collectivity of Saint MartinSint Maarten",
+                "British Virgin IslandsU.S. Virgin Islands"
+            ],
+            [
+                "Collectivity of Saint MartinSint Maarten"
+            ],
+            [
+                "British Virgin IslandsU.S. Virgin Islands"
+            ],
+            [
+                "LeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao",
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines"
+            ],
+            [
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao"
+            ],
+            [
+                "ArubaBonaire*Curaçao"
+            ],
+            [
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines"
+            ],
+            [
+                "BahamasTurks and Caicos Islands"
+            ],
+            [
+                "Aves IslandSan Andrés and ProvidenciaBajo Nuevo Bank~Serranilla Bank~"
+            ],
+            [
+                "Quintana RooCozumelCentral AmericaBelizeHondurasBay IslandsIzabalLimónCorn IslandsNorth Caribbean CoastSouth Caribbean CoastPanamaSouth AmericaColombian CaribbeanVenezuelan Caribbean",
+                "BelizeHondurasBay IslandsIzabalLimónCorn IslandsNorth Caribbean CoastSouth Caribbean CoastPanama",
+                "Colombian CaribbeanVenezuelan Caribbean"
+            ],
+            [
+                "BelizeHondurasBay IslandsIzabalLimónCorn IslandsNorth Caribbean CoastSouth Caribbean CoastPanama"
+            ],
+            [
+                "Colombian CaribbeanVenezuelan Caribbean"
+            ],
+            [
+                "Bermuda#Costa RicaEl SalvadorGuatemalaNicaraguaYucatán PeninsulaCampechePeténYucatánThe GuianasAmapáFrench GuianaVenezuelan GuayanaGuyanaGuayana EsequibaǂTigri AreaǂSuriname",
+                "CampechePeténYucatán",
+                "AmapáFrench GuianaVenezuelan GuayanaGuyanaGuayana EsequibaǂTigri AreaǂSuriname"
+            ],
+            [
+                "CampechePeténYucatán"
+            ],
+            [
+                "AmapáFrench GuianaVenezuelan GuayanaGuyanaGuayana EsequibaǂTigri AreaǂSuriname"
+            ],
+            [
+                "N.B.:Territories initalicsare parts of transregional sovereign states or non-sovereign dependencies.^These three form theSSS islandsthat with the ABC islands comprise theDutch Caribbean, of which*theBES islandsare not directKingdomconstituents but subsumed with the country of theNetherlands.†Physiographically, thesecontinental islandsare not part of the volcanic Windward Islands arc, although sometimes grouped with them culturally and politically.ǂDisputed territoriesadministered byGuyana.~Disputed territoriesadministered byColombia.#Bermudais an isolatedNorth Atlanticoceanic island, physiographically not part of the Lucayan Archipelago, Antilles, Caribbean Sea nor North American continental nor South American continental islands. It is grouped with theNorthern Americanregion, but occasionally also with the Caribbean region culturally."
+            ]
+        ],
+        [
+            [
+                "GreaterAntillesCayman IslandsCubaJamaicaNavassa IslandPuerto RicoHispaniolaDominican RepublicHaitiLesserAntillesLeewardIslandsAnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin IslandsSouthernCaribbeanLeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "Cayman IslandsCubaJamaicaNavassa IslandPuerto RicoHispaniolaDominican RepublicHaiti",
+                "Dominican RepublicHaiti",
+                "LeewardIslandsAnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin IslandsSouthernCaribbeanLeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "AnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin Islands",
+                "Collectivity of Saint MartinSint Maarten",
+                "British Virgin IslandsU.S. Virgin Islands",
+                "LeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao",
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines"
+            ],
+            [
+                "Cayman IslandsCubaJamaicaNavassa IslandPuerto RicoHispaniolaDominican RepublicHaiti",
+                "Dominican RepublicHaiti"
+            ],
+            [
+                "Dominican RepublicHaiti"
+            ],
+            [
+                "LeewardIslandsAnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin IslandsSouthernCaribbeanLeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "AnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin Islands",
+                "Collectivity of Saint MartinSint Maarten",
+                "British Virgin IslandsU.S. Virgin Islands",
+                "LeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao",
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines"
+            ],
+            [
+                "AnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin Islands",
+                "Collectivity of Saint MartinSint Maarten",
+                "British Virgin IslandsU.S. Virgin Islands"
+            ],
+            [
+                "Collectivity of Saint MartinSint Maarten"
+            ],
+            [
+                "British Virgin IslandsU.S. Virgin Islands"
+            ],
+            [
+                "LeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao",
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines"
+            ],
+            [
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao"
+            ],
+            [
+                "ArubaBonaire*Curaçao"
+            ],
+            [
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines"
+            ],
+            [
+                "BahamasTurks and Caicos Islands"
+            ]
+        ],
+        [
+            [
+                "Cayman IslandsCubaJamaicaNavassa IslandPuerto RicoHispaniolaDominican RepublicHaiti",
+                "Dominican RepublicHaiti"
+            ],
+            [
+                "Dominican RepublicHaiti"
+            ],
+            [
+                "LeewardIslandsAnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin IslandsSouthernCaribbeanLeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "AnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin Islands",
+                "Collectivity of Saint MartinSint Maarten",
+                "British Virgin IslandsU.S. Virgin Islands",
+                "LeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao",
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines"
+            ],
+            [
+                "AnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin Islands",
+                "Collectivity of Saint MartinSint Maarten",
+                "British Virgin IslandsU.S. Virgin Islands"
+            ],
+            [
+                "Collectivity of Saint MartinSint Maarten"
+            ],
+            [
+                "British Virgin IslandsU.S. Virgin Islands"
+            ],
+            [
+                "LeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao",
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines"
+            ],
+            [
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao"
+            ],
+            [
+                "ArubaBonaire*Curaçao"
+            ],
+            [
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines"
+            ]
+        ],
+        [
+            [
+                "Dominican RepublicHaiti"
+            ]
+        ],
+        [
+            [
+                "AnguillaAntigua and BarbudaGuadeloupeLa DésiradeLes SaintesMarie-GalanteMontserratSaba^*Saint BarthélemySaint Kitts and NevisSint Eustatius^*Saint Martin^Collectivity of Saint MartinSint MaartenVirgin IslandsBritish Virgin IslandsU.S. Virgin Islands",
+                "Collectivity of Saint MartinSint Maarten",
+                "British Virgin IslandsU.S. Virgin Islands"
+            ],
+            [
+                "Collectivity of Saint MartinSint Maarten"
+            ],
+            [
+                "British Virgin IslandsU.S. Virgin Islands"
+            ],
+            [
+                "LeewardAntillesInsular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*CuraçaoWindwardIslandsDominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the GrenadinesBarbados†Trinidad and Tobago†",
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao",
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines"
+            ],
+            [
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao"
+            ],
+            [
+                "ArubaBonaire*Curaçao"
+            ],
+            [
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines"
+            ]
+        ],
+        [
+            [
+                "Collectivity of Saint MartinSint Maarten"
+            ],
+            [
+                "British Virgin IslandsU.S. Virgin Islands"
+            ]
+        ],
+        [
+            [
+                "Insular VenezuelaFederal DependenciesNueva EspartaABC islandsArubaBonaire*Curaçao",
+                "ArubaBonaire*Curaçao"
+            ],
+            [
+                "ArubaBonaire*Curaçao"
+            ],
+            [
+                "DominicaGrenadaCarriacou and Petite MartiniqueMartiniqueSaint LuciaSaint Vincent and the Grenadines"
+            ]
+        ],
+        [
+            [
+                "ArubaBonaire*Curaçao"
+            ]
+        ],
+        [
+            [
+                "BelizeHondurasBay IslandsIzabalLimónCorn IslandsNorth Caribbean CoastSouth Caribbean CoastPanama"
+            ],
+            [
+                "Colombian CaribbeanVenezuelan Caribbean"
+            ]
+        ],
+        [
+            [
+                "CampechePeténYucatán"
+            ],
+            [
+                "AmapáFrench GuianaVenezuelan GuayanaGuyanaGuayana EsequibaǂTigri AreaǂSuriname"
+            ]
+        ],
+        [
+            [],
+            [
+                "Antigua and BarbudaBahamasBarbadosBelizeCanadaCosta RicaCubaDominicaDominican RepublicEl SalvadorGrenadaGuatemalaHaitiHondurasJamaicaMexicoNicaraguaPanamaSaint Kitts and NevisSaint LuciaSaint Vincent and the GrenadinesTrinidad and TobagoUnited States"
+            ],
+            [
+                "AnguillaArubaBermudaBonaireBritish Virgin IslandsCayman IslandsCuraçaoGreenlandGuadeloupeMartiniqueMontserratPuerto RicoSaint BarthélemySaint MartinSaint Pierre and MiquelonSabaSint EustatiusSint MaartenTurks and Caicos IslandsUnited States Virgin Islands"
+            ]
+        ],
+        [
+            [],
+            [
+                "ArgentinaBoliviaBrazilChileColombiaEcuadorGuyanaParaguayPeruSurinameUruguayVenezuela"
+            ],
+            [
+                "Falkland IslandsFrench GuianaSouth Georgia and the South Sandwich Islands"
+            ]
+        ],
+        [
+            [
+                "",
+                "ThisCaribbean Netherlands-related article is astub. You can help Wikipedia byexpanding it."
+            ]
+        ],
+        [
+            [
+                "",
+                "ThisCuraçao-related article is astub. You can help Wikipedia byexpanding it."
+            ]
+        ],
+        [
+            [
+                "",
+                "This article related totelephone numbersis astub. You can help Wikipedia byexpanding it."
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "Telephone numbers in Aruba",
+            "Telephone numbers in the Netherlands"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "British West Indies",
+            "Danish West Indies",
+            "Dutch CaribbeanCaribbean NetherlandsNetherlands Antilles",
+            "Caribbean Netherlands",
+            "Netherlands Antilles",
+            "French West Indies",
+            "West Indies Federation"
+        ],
+        [
+            "Caribbean Netherlands",
+            "Netherlands Antilles"
+        ],
+        [
+            "Cayman Islands",
+            "Cuba",
+            "Jamaica",
+            "Navassa Island",
+            "Puerto Rico"
+        ],
+        [
+            "Dominican Republic",
+            "Haiti"
+        ],
+        [
+            "Anguilla",
+            "Antigua and Barbuda",
+            "GuadeloupeLa DésiradeLes SaintesMarie-Galante",
+            "La Désirade",
+            "Les Saintes",
+            "Marie-Galante",
+            "Montserrat",
+            "Saba^*",
+            "Saint Barthélemy",
+            "Saint Kitts and Nevis",
+            "Sint Eustatius^*"
+        ],
+        [
+            "La Désirade",
+            "Les Saintes",
+            "Marie-Galante"
+        ],
+        [
+            "Collectivity of Saint Martin",
+            "Sint Maarten"
+        ],
+        [
+            "British Virgin Islands",
+            "U.S. Virgin Islands"
+        ],
+        [
+            "Insular VenezuelaFederal DependenciesNueva Esparta",
+            "Federal Dependencies",
+            "Nueva Esparta"
+        ],
+        [
+            "Federal Dependencies",
+            "Nueva Esparta"
+        ],
+        [
+            "Aruba",
+            "Bonaire*",
+            "Curaçao"
+        ],
+        [
+            "Dominica",
+            "GrenadaCarriacou and Petite Martinique",
+            "Carriacou and Petite Martinique",
+            "Martinique",
+            "Saint Lucia",
+            "Saint Vincent and the Grenadines"
+        ],
+        [
+            "Carriacou and Petite Martinique"
+        ],
+        [
+            "Barbados†",
+            "Trinidad and Tobago†"
+        ],
+        [
+            "Aves Island",
+            "San Andrés and ProvidenciaBajo Nuevo Bank~Serranilla Bank~",
+            "Bajo Nuevo Bank~",
+            "Serranilla Bank~"
+        ],
+        [
+            "Bajo Nuevo Bank~",
+            "Serranilla Bank~"
+        ],
+        [
+            "Quintana RooCozumel",
+            "Cozumel"
+        ],
+        [
+            "Cozumel"
+        ],
+        [
+            "Belize",
+            "HondurasBay Islands",
+            "Bay Islands",
+            "Izabal",
+            "Limón",
+            "Corn Islands",
+            "North Caribbean Coast",
+            "South Caribbean Coast",
+            "Panama"
+        ],
+        [
+            "Bay Islands"
+        ],
+        [
+            "Colombian Caribbean",
+            "Venezuelan Caribbean"
+        ],
+        [
+            "Bermuda#",
+            "Costa Rica",
+            "El Salvador",
+            "Guatemala",
+            "Nicaragua"
+        ],
+        [
+            "Campeche",
+            "Petén",
+            "Yucatán"
+        ],
+        [
+            "Amapá",
+            "French Guiana",
+            "Venezuelan Guayana",
+            "GuyanaGuayana EsequibaǂTigri Areaǂ",
+            "Guayana Esequibaǂ",
+            "Tigri Areaǂ",
+            "Suriname"
+        ],
+        [
+            "Guayana Esequibaǂ",
+            "Tigri Areaǂ"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Antigua and Barbuda",
+            "Bahamas",
+            "Barbados",
+            "Belize",
+            "Canada",
+            "Costa Rica",
+            "Cuba",
+            "Dominica",
+            "Dominican Republic",
+            "El Salvador",
+            "Grenada",
+            "Guatemala",
+            "Haiti",
+            "Honduras",
+            "Jamaica",
+            "Mexico",
+            "Nicaragua",
+            "Panama",
+            "Saint Kitts and Nevis",
+            "Saint Lucia",
+            "Saint Vincent and the Grenadines",
+            "Trinidad and Tobago",
+            "United States"
+        ],
+        [
+            "Anguilla",
+            "Aruba",
+            "Bermuda",
+            "Bonaire",
+            "British Virgin Islands",
+            "Cayman Islands",
+            "Curaçao",
+            "Greenland",
+            "Guadeloupe",
+            "Martinique",
+            "Montserrat",
+            "Puerto Rico",
+            "Saint Barthélemy",
+            "Saint Martin",
+            "Saint Pierre and Miquelon",
+            "Saba",
+            "Sint Eustatius",
+            "Sint Maarten",
+            "Turks and Caicos Islands",
+            "United States Virgin Islands"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Argentina",
+            "Bolivia",
+            "Brazil",
+            "Chile",
+            "Colombia",
+            "Ecuador",
+            "Guyana",
+            "Paraguay",
+            "Peru",
+            "Suriname",
+            "Uruguay",
+            "Venezuela"
+        ],
+        [
+            "Falkland Islands",
+            "French Guiana",
+            "South Georgia and the South Sandwich Islands"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ]
+    ],
+    "links": [
+        {
+            "text": "Netherlands Antilles",
+            "href": null
+        },
+        {
+            "text": "dissolved",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "Curaçao",
+            "href": null
+        },
+        {
+            "text": "Caribbean Netherlands",
+            "href": null
+        },
+        {
+            "text": "Bonaire",
+            "href": null
+        },
+        {
+            "text": "Sint Eustatius",
+            "href": null
+        },
+        {
+            "text": "Saba",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "Aruba",
+            "href": null
+        },
+        {
+            "text": "Sint Maarten",
+            "href": null
+        },
+        {
+            "text": "297",
+            "href": null
+        },
+        {
+            "text": "North American Numbering Plan",
+            "href": null
+        },
+        {
+            "text": "area code 721",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "International call prefix",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Area code 721",
+            "href": null
+        },
+        {
+            "text": "area code 721",
+            "href": null
+        },
+        {
+            "text": "[4]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Bonaire",
+            "href": null
+        },
+        {
+            "text": "Curaçao",
+            "href": null
+        },
+        {
+            "text": "Sint Maarten",
+            "href": null
+        },
+        {
+            "text": "Saba",
+            "href": null
+        },
+        {
+            "text": "Sint Eustatius",
+            "href": null
+        },
+        {
+            "text": "Aruba",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Aruba",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in the Netherlands",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Bellen naar Curaçao en bellen vanuit Curaçao\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"List of ITU-T Recommendation E.164 assigned country codes\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"PL-418: Introduction of NPA 721 (Sint Maarten)\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"PL-423: Updated Information - Introduction of NPA 721 (Sint Maarten)\"",
+            "href": null
+        },
+        {
+            "text": "the original",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Caribbean",
+            "href": null
+        },
+        {
+            "text": "British West Indies",
+            "href": null
+        },
+        {
+            "text": "Danish West Indies",
+            "href": null
+        },
+        {
+            "text": "Dutch Caribbean",
+            "href": null
+        },
+        {
+            "text": "Caribbean Netherlands",
+            "href": null
+        },
+        {
+            "text": "Netherlands Antilles",
+            "href": null
+        },
+        {
+            "text": "French West Indies",
+            "href": null
+        },
+        {
+            "text": "West Indies Federation",
+            "href": null
+        },
+        {
+            "text": "WestIndies",
+            "href": null
+        },
+        {
+            "text": "Antilles",
+            "href": null
+        },
+        {
+            "text": "GreaterAntilles",
+            "href": null
+        },
+        {
+            "text": "Cayman Islands",
+            "href": null
+        },
+        {
+            "text": "Cuba",
+            "href": null
+        },
+        {
+            "text": "Jamaica",
+            "href": null
+        },
+        {
+            "text": "Navassa Island",
+            "href": null
+        },
+        {
+            "text": "Puerto Rico",
+            "href": null
+        },
+        {
+            "text": "Hispaniola",
+            "href": null
+        },
+        {
+            "text": "Dominican Republic",
+            "href": null
+        },
+        {
+            "text": "Haiti",
+            "href": null
+        },
+        {
+            "text": "LesserAntilles",
+            "href": null
+        },
+        {
+            "text": "LeewardIslands",
+            "href": null
+        },
+        {
+            "text": "Anguilla",
+            "href": null
+        },
+        {
+            "text": "Antigua and Barbuda",
+            "href": null
+        },
+        {
+            "text": "Guadeloupe",
+            "href": null
+        },
+        {
+            "text": "La Désirade",
+            "href": null
+        },
+        {
+            "text": "Les Saintes",
+            "href": null
+        },
+        {
+            "text": "Marie-Galante",
+            "href": null
+        },
+        {
+            "text": "Montserrat",
+            "href": null
+        },
+        {
+            "text": "Saba",
+            "href": null
+        },
+        {
+            "text": "Saint Barthélemy",
+            "href": null
+        },
+        {
+            "text": "Saint Kitts and Nevis",
+            "href": null
+        },
+        {
+            "text": "Sint Eustatius",
+            "href": null
+        },
+        {
+            "text": "Saint Martin",
+            "href": null
+        },
+        {
+            "text": "Collectivity of Saint Martin",
+            "href": null
+        },
+        {
+            "text": "Sint Maarten",
+            "href": null
+        },
+        {
+            "text": "Virgin Islands",
+            "href": null
+        },
+        {
+            "text": "British Virgin Islands",
+            "href": null
+        },
+        {
+            "text": "U.S. Virgin Islands",
+            "href": null
+        },
+        {
+            "text": "SouthernCaribbean",
+            "href": null
+        },
+        {
+            "text": "LeewardAntilles",
+            "href": null
+        },
+        {
+            "text": "Insular Venezuela",
+            "href": null
+        },
+        {
+            "text": "Federal Dependencies",
+            "href": null
+        },
+        {
+            "text": "Nueva Esparta",
+            "href": null
+        },
+        {
+            "text": "ABC islands",
+            "href": null
+        },
+        {
+            "text": "Aruba",
+            "href": null
+        },
+        {
+            "text": "Bonaire",
+            "href": null
+        },
+        {
+            "text": "Curaçao",
+            "href": null
+        },
+        {
+            "text": "WindwardIslands",
+            "href": null
+        },
+        {
+            "text": "Dominica",
+            "href": null
+        },
+        {
+            "text": "Grenada",
+            "href": null
+        },
+        {
+            "text": "Carriacou and Petite Martinique",
+            "href": null
+        },
+        {
+            "text": "Martinique",
+            "href": null
+        },
+        {
+            "text": "Saint Lucia",
+            "href": null
+        },
+        {
+            "text": "Saint Vincent and the Grenadines",
+            "href": null
+        },
+        {
+            "text": "Barbados",
+            "href": null
+        },
+        {
+            "text": "Trinidad and Tobago",
+            "href": null
+        },
+        {
+            "text": "LucayanArchipelago",
+            "href": null
+        },
+        {
+            "text": "Bahamas",
+            "href": null
+        },
+        {
+            "text": "Turks and Caicos Islands",
+            "href": null
+        },
+        {
+            "text": "CaribbeanSea",
+            "href": null
+        },
+        {
+            "text": "Aves Island",
+            "href": null
+        },
+        {
+            "text": "San Andrés and Providencia",
+            "href": null
+        },
+        {
+            "text": "Bajo Nuevo Bank",
+            "href": null
+        },
+        {
+            "text": "Serranilla Bank",
+            "href": null
+        },
+        {
+            "text": "Caribbeancontinentalzone",
+            "href": null
+        },
+        {
+            "text": "Quintana Roo",
+            "href": null
+        },
+        {
+            "text": "Cozumel",
+            "href": null
+        },
+        {
+            "text": "Central America",
+            "href": null
+        },
+        {
+            "text": "Belize",
+            "href": null
+        },
+        {
+            "text": "Honduras",
+            "href": null
+        },
+        {
+            "text": "Bay Islands",
+            "href": null
+        },
+        {
+            "text": "Izabal",
+            "href": null
+        },
+        {
+            "text": "Limón",
+            "href": null
+        },
+        {
+            "text": "Corn Islands",
+            "href": null
+        },
+        {
+            "text": "North Caribbean Coast",
+            "href": null
+        },
+        {
+            "text": "South Caribbean Coast",
+            "href": null
+        },
+        {
+            "text": "Panama",
+            "href": null
+        },
+        {
+            "text": "South America",
+            "href": null
+        },
+        {
+            "text": "Colombian Caribbean",
+            "href": null
+        },
+        {
+            "text": "Venezuelan Caribbean",
+            "href": null
+        },
+        {
+            "text": "Widergroupings",
+            "href": null
+        },
+        {
+            "text": "may include:",
+            "href": null
+        },
+        {
+            "text": "Bermuda",
+            "href": null
+        },
+        {
+            "text": "Costa Rica",
+            "href": null
+        },
+        {
+            "text": "El Salvador",
+            "href": null
+        },
+        {
+            "text": "Guatemala",
+            "href": null
+        },
+        {
+            "text": "Nicaragua",
+            "href": null
+        },
+        {
+            "text": "Yucatán Peninsula",
+            "href": null
+        },
+        {
+            "text": "Campeche",
+            "href": null
+        },
+        {
+            "text": "Petén",
+            "href": null
+        },
+        {
+            "text": "Yucatán",
+            "href": null
+        },
+        {
+            "text": "The Guianas",
+            "href": null
+        },
+        {
+            "text": "Amapá",
+            "href": null
+        },
+        {
+            "text": "French Guiana",
+            "href": null
+        },
+        {
+            "text": "Venezuelan Guayana",
+            "href": null
+        },
+        {
+            "text": "Guyana",
+            "href": null
+        },
+        {
+            "text": "Guayana Esequiba",
+            "href": null
+        },
+        {
+            "text": "Tigri Area",
+            "href": null
+        },
+        {
+            "text": "Suriname",
+            "href": null
+        },
+        {
+            "text": "SSS islands",
+            "href": null
+        },
+        {
+            "text": "Dutch Caribbean",
+            "href": null
+        },
+        {
+            "text": "BES islands",
+            "href": null
+        },
+        {
+            "text": "Kingdom",
+            "href": null
+        },
+        {
+            "text": "Netherlands",
+            "href": null
+        },
+        {
+            "text": "Physiographically",
+            "href": null
+        },
+        {
+            "text": "continental islands",
+            "href": null
+        },
+        {
+            "text": "Disputed territories",
+            "href": null
+        },
+        {
+            "text": "Guyana",
+            "href": null
+        },
+        {
+            "text": "Disputed territories",
+            "href": null
+        },
+        {
+            "text": "Colombia",
+            "href": null
+        },
+        {
+            "text": "Bermuda",
+            "href": null
+        },
+        {
+            "text": "North Atlantic",
+            "href": null
+        },
+        {
+            "text": "oceanic island",
+            "href": null
+        },
+        {
+            "text": "Northern American",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in  North America",
+            "href": null
+        },
+        {
+            "text": "Antigua and Barbuda",
+            "href": null
+        },
+        {
+            "text": "Bahamas",
+            "href": null
+        },
+        {
+            "text": "Barbados",
+            "href": null
+        },
+        {
+            "text": "Belize",
+            "href": null
+        },
+        {
+            "text": "Canada",
+            "href": null
+        },
+        {
+            "text": "Costa Rica",
+            "href": null
+        },
+        {
+            "text": "Cuba",
+            "href": null
+        },
+        {
+            "text": "Dominica",
+            "href": null
+        },
+        {
+            "text": "Dominican Republic",
+            "href": null
+        },
+        {
+            "text": "El Salvador",
+            "href": null
+        },
+        {
+            "text": "Grenada",
+            "href": null
+        },
+        {
+            "text": "Guatemala",
+            "href": null
+        },
+        {
+            "text": "Haiti",
+            "href": null
+        },
+        {
+            "text": "Honduras",
+            "href": null
+        },
+        {
+            "text": "Jamaica",
+            "href": null
+        },
+        {
+            "text": "Mexico",
+            "href": null
+        },
+        {
+            "text": "Nicaragua",
+            "href": null
+        },
+        {
+            "text": "Panama",
+            "href": null
+        },
+        {
+            "text": "Saint Kitts and Nevis",
+            "href": null
+        },
+        {
+            "text": "Saint Lucia",
+            "href": null
+        },
+        {
+            "text": "Saint Vincent and the Grenadines",
+            "href": null
+        },
+        {
+            "text": "Trinidad and Tobago",
+            "href": null
+        },
+        {
+            "text": "United States",
+            "href": null
+        },
+        {
+            "text": "Anguilla",
+            "href": null
+        },
+        {
+            "text": "Aruba",
+            "href": null
+        },
+        {
+            "text": "Bermuda",
+            "href": null
+        },
+        {
+            "text": "Bonaire",
+            "href": null
+        },
+        {
+            "text": "British Virgin Islands",
+            "href": null
+        },
+        {
+            "text": "Cayman Islands",
+            "href": null
+        },
+        {
+            "text": "Curaçao",
+            "href": null
+        },
+        {
+            "text": "Greenland",
+            "href": null
+        },
+        {
+            "text": "Guadeloupe",
+            "href": null
+        },
+        {
+            "text": "Martinique",
+            "href": null
+        },
+        {
+            "text": "Montserrat",
+            "href": null
+        },
+        {
+            "text": "Puerto Rico",
+            "href": null
+        },
+        {
+            "text": "Saint Barthélemy",
+            "href": null
+        },
+        {
+            "text": "Saint Martin",
+            "href": null
+        },
+        {
+            "text": "Saint Pierre and Miquelon",
+            "href": null
+        },
+        {
+            "text": "Saba",
+            "href": null
+        },
+        {
+            "text": "Sint Eustatius",
+            "href": null
+        },
+        {
+            "text": "Sint Maarten",
+            "href": null
+        },
+        {
+            "text": "Turks and Caicos Islands",
+            "href": null
+        },
+        {
+            "text": "United States Virgin Islands",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in South America",
+            "href": null
+        },
+        {
+            "text": "Sovereign states",
+            "href": null
+        },
+        {
+            "text": "Argentina",
+            "href": null
+        },
+        {
+            "text": "Bolivia",
+            "href": null
+        },
+        {
+            "text": "Brazil",
+            "href": null
+        },
+        {
+            "text": "Chile",
+            "href": null
+        },
+        {
+            "text": "Colombia",
+            "href": null
+        },
+        {
+            "text": "Ecuador",
+            "href": null
+        },
+        {
+            "text": "Guyana",
+            "href": null
+        },
+        {
+            "text": "Paraguay",
+            "href": null
+        },
+        {
+            "text": "Peru",
+            "href": null
+        },
+        {
+            "text": "Suriname",
+            "href": null
+        },
+        {
+            "text": "Uruguay",
+            "href": null
+        },
+        {
+            "text": "Venezuela",
+            "href": null
+        },
+        {
+            "text": "Dependencies",
+            "href": null
+        },
+        {
+            "text": "Falkland Islands",
+            "href": null
+        },
+        {
+            "text": "French Guiana",
+            "href": null
+        },
+        {
+            "text": "South Georgia and the South Sandwich Islands",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Caribbean Netherlands",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Curaçao",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "telephone numbers",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        }
+    ]
+}

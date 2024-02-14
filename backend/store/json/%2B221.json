@@ -1,0 +1,1222 @@
+{
+    "tables": [
+        [
+            [],
+            [
+                "Senegal"
+            ],
+            [
+                "Africa"
+            ],
+            [],
+            [
+                "+221"
+            ],
+            [
+                "00"
+            ],
+            [
+                "none"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "Sonatel/Orange",
+                "78",
+                "33"
+            ],
+            [
+                "Sentel/Tigo",
+                "76",
+                "32"
+            ],
+            [
+                "Expresso",
+                "70",
+                "30"
+            ],
+            [
+                "Hayo/CSU",
+                "72",
+                "36"
+            ],
+            [
+                "Sirius Telecoms Afrique",
+                "754, 755, 756",
+                "-"
+            ],
+            [
+                "Origines SA",
+                "757",
+                "-"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "Dakar",
+                "8"
+            ],
+            [
+                "outside Dakar",
+                "9"
+            ]
+        ],
+        [
+            [],
+            [],
+            [],
+            [
+                "70",
+                "10X XXXX",
+                "9",
+                "CDMA Mobile telephony",
+                "Expresso/Sudatel"
+            ],
+            [
+                "70",
+                "20X XXXX",
+                "9",
+                "CDMA Mobile telephony",
+                "Expresso/Sudatel"
+            ],
+            [
+                "70",
+                "50X XXXX",
+                "9",
+                "CDMA Mobile telephony",
+                "Expresso/Sudatel"
+            ],
+            [
+                "70",
+                "60X XXXX",
+                "9",
+                "CDMA Mobile telephony",
+                "Expresso/Sudatel"
+            ],
+            [
+                "75",
+                "4XX XXX",
+                "9",
+                "MVNO",
+                "Non-geographic, Sirius Telecoms Afrique (Promobile)"
+            ],
+            [
+                "75",
+                "5XX XXX",
+                "9",
+                "MVNO",
+                "Non-geographic, Sirius Telecoms Afrique (Promobile)"
+            ],
+            [
+                "75",
+                "6XX XXX",
+                "9",
+                "MVNO",
+                "Non-geographic, Sirius Telecoms Afrique (Promobile)"
+            ],
+            [
+                "75",
+                "7XX XXX",
+                "9",
+                "MVNO",
+                "Non-geographic, Origines SA"
+            ],
+            [
+                "76",
+                "12X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Expresso/Sudatel"
+            ],
+            [
+                "76",
+                "13X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "28X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "29X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "33X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "34X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "38X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "39X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "46X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "47X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "48X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "49X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "51X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "52X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "53X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "58X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "59X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "66X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "67X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "68X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "69X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "74X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "75X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "83X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "84X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "85X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "86X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "87X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "76",
+                "88X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sentel GSM (Tigo)"
+            ],
+            [
+                "77",
+                "10",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "11X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "14X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "15X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "16X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "17X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "18X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "20X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "21X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "22X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "23X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "24X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "25X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "26X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "27X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "30X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "31X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "32X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "33X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "34X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "35X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "36X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "37X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "38X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "40X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "41X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "42X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "43X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "44X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "45X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "46X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "5XX XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "6XX XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "70X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "71X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "72X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "73X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "78X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "79X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "80X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "81X XXXX",
+                "9",
+                "GSM Mobile telephony",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "90X XXXX",
+                "9",
+                "Mobile GSM",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "77",
+                "91X XXXX",
+                "9",
+                "Mobile GSM",
+                "Sonatel Mobiles (Orange)"
+            ],
+            [
+                "30",
+                "10X XXXX",
+                "9",
+                "CDMA Fixed telephony",
+                "Expresso/Sudatel"
+            ],
+            [
+                "33",
+                "81X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "82X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "83X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "84X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "85X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "86X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "87X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "88X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "89X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "92X XXXX",
+                "9",
+                "Satellite Telephony",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "93X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "94X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "95X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "96X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "97X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "98X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "99X XXXX",
+                "9",
+                "Fixed telephony service",
+                "Sonatel"
+            ],
+            [
+                "33",
+                "301 XXXX",
+                "9",
+                "Voice IP",
+                "Sonatel"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlgeriaAngolaBeninBotswanaBurkina FasoBurundiCameroonCape VerdeCentral African RepublicChadComorosDemocratic Republic of the CongoRepublic of the CongoDjiboutiEgyptEquatorial GuineaEritreaEswatiniEthiopiaGabonThe GambiaGhanaGuineaGuinea-BissauIvory CoastKenyaLesothoLiberiaLibyaMadagascarMalawiMaliMauritaniaMauritiusMoroccoMozambiqueNamibiaNigerNigeriaRwandaSão Tomé and PríncipeSenegalSeychellesSierra LeoneSomaliaSouth AfricaSouth SudanSudanTanzaniaTogoTunisiaUgandaZambiaZimbabwe"
+            ],
+            [
+                "Sahrawi Arab Democratic RepublicSomaliland"
+            ],
+            [
+                "Canary Islands/Ceuta/Melilla(Spain)Madeira(Portugal)Mayotte/Réunion(France)Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)Western Sahara"
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "Telecommunications in Senegal"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Algeria",
+            "Angola",
+            "Benin",
+            "Botswana",
+            "Burkina Faso",
+            "Burundi",
+            "Cameroon",
+            "Cape Verde",
+            "Central African Republic",
+            "Chad",
+            "Comoros",
+            "Democratic Republic of the Congo",
+            "Republic of the Congo",
+            "Djibouti",
+            "Egypt",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Eswatini",
+            "Ethiopia",
+            "Gabon",
+            "The Gambia",
+            "Ghana",
+            "Guinea",
+            "Guinea-Bissau",
+            "Ivory Coast",
+            "Kenya",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Madagascar",
+            "Malawi",
+            "Mali",
+            "Mauritania",
+            "Mauritius",
+            "Morocco",
+            "Mozambique",
+            "Namibia",
+            "Niger",
+            "Nigeria",
+            "Rwanda",
+            "São Tomé and Príncipe",
+            "Senegal",
+            "Seychelles",
+            "Sierra Leone",
+            "Somalia",
+            "South Africa",
+            "South Sudan",
+            "Sudan",
+            "Tanzania",
+            "Togo",
+            "Tunisia",
+            "Uganda",
+            "Zambia",
+            "Zimbabwe"
+        ],
+        [
+            "Sahrawi Arab Democratic Republic",
+            "Somaliland"
+        ],
+        [
+            "Canary Islands/Ceuta/Melilla(Spain)",
+            "Madeira(Portugal)",
+            "Mayotte/Réunion(France)",
+            "Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)",
+            "Western Sahara"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+221",
+            "href": null
+        },
+        {
+            "text": "Senegal",
+            "href": null
+        },
+        {
+            "text": "Africa",
+            "href": null
+        },
+        {
+            "text": "Country code",
+            "href": null
+        },
+        {
+            "text": "International access",
+            "href": null
+        },
+        {
+            "text": "Long-distance",
+            "href": null
+        },
+        {
+            "text": "Senegal",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[2]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[3]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Telecommunications in Senegal",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Senegal\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Senegal\"",
+            "href": null
+        },
+        {
+            "text": "^",
+            "href": null
+        },
+        {
+            "text": "\"Senegal\"",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Africa",
+            "href": null
+        },
+        {
+            "text": "Algeria",
+            "href": null
+        },
+        {
+            "text": "Angola",
+            "href": null
+        },
+        {
+            "text": "Benin",
+            "href": null
+        },
+        {
+            "text": "Botswana",
+            "href": null
+        },
+        {
+            "text": "Burkina Faso",
+            "href": null
+        },
+        {
+            "text": "Burundi",
+            "href": null
+        },
+        {
+            "text": "Cameroon",
+            "href": null
+        },
+        {
+            "text": "Cape Verde",
+            "href": null
+        },
+        {
+            "text": "Central African Republic",
+            "href": null
+        },
+        {
+            "text": "Chad",
+            "href": null
+        },
+        {
+            "text": "Comoros",
+            "href": null
+        },
+        {
+            "text": "Democratic Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Djibouti",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Equatorial Guinea",
+            "href": null
+        },
+        {
+            "text": "Eritrea",
+            "href": null
+        },
+        {
+            "text": "Eswatini",
+            "href": null
+        },
+        {
+            "text": "Ethiopia",
+            "href": null
+        },
+        {
+            "text": "Gabon",
+            "href": null
+        },
+        {
+            "text": "The Gambia",
+            "href": null
+        },
+        {
+            "text": "Ghana",
+            "href": null
+        },
+        {
+            "text": "Guinea",
+            "href": null
+        },
+        {
+            "text": "Guinea-Bissau",
+            "href": null
+        },
+        {
+            "text": "Ivory Coast",
+            "href": null
+        },
+        {
+            "text": "Kenya",
+            "href": null
+        },
+        {
+            "text": "Lesotho",
+            "href": null
+        },
+        {
+            "text": "Liberia",
+            "href": null
+        },
+        {
+            "text": "Libya",
+            "href": null
+        },
+        {
+            "text": "Madagascar",
+            "href": null
+        },
+        {
+            "text": "Malawi",
+            "href": null
+        },
+        {
+            "text": "Mali",
+            "href": null
+        },
+        {
+            "text": "Mauritania",
+            "href": null
+        },
+        {
+            "text": "Mauritius",
+            "href": null
+        },
+        {
+            "text": "Morocco",
+            "href": null
+        },
+        {
+            "text": "Mozambique",
+            "href": null
+        },
+        {
+            "text": "Namibia",
+            "href": null
+        },
+        {
+            "text": "Niger",
+            "href": null
+        },
+        {
+            "text": "Nigeria",
+            "href": null
+        },
+        {
+            "text": "Rwanda",
+            "href": null
+        },
+        {
+            "text": "São Tomé and Príncipe",
+            "href": null
+        },
+        {
+            "text": "Senegal",
+            "href": null
+        },
+        {
+            "text": "Seychelles",
+            "href": null
+        },
+        {
+            "text": "Sierra Leone",
+            "href": null
+        },
+        {
+            "text": "Somalia",
+            "href": null
+        },
+        {
+            "text": "South Africa",
+            "href": null
+        },
+        {
+            "text": "South Sudan",
+            "href": null
+        },
+        {
+            "text": "Sudan",
+            "href": null
+        },
+        {
+            "text": "Tanzania",
+            "href": null
+        },
+        {
+            "text": "Togo",
+            "href": null
+        },
+        {
+            "text": "Tunisia",
+            "href": null
+        },
+        {
+            "text": "Uganda",
+            "href": null
+        },
+        {
+            "text": "Zambia",
+            "href": null
+        },
+        {
+            "text": "Zimbabwe",
+            "href": null
+        },
+        {
+            "text": "Sahrawi Arab Democratic Republic",
+            "href": null
+        },
+        {
+            "text": "Somaliland",
+            "href": null
+        },
+        {
+            "text": "Canary Islands",
+            "href": null
+        },
+        {
+            "text": "Ceuta",
+            "href": null
+        },
+        {
+            "text": "Melilla",
+            "href": null
+        },
+        {
+            "text": "Madeira",
+            "href": null
+        },
+        {
+            "text": "Mayotte",
+            "href": null
+        },
+        {
+            "text": "Réunion",
+            "href": null
+        },
+        {
+            "text": "Saint Helena and Tristan da Cunha",
+            "href": null
+        },
+        {
+            "text": "Ascension Island",
+            "href": null
+        },
+        {
+            "text": "Western Sahara",
+            "href": null
+        }
+    ]
+}

@@ -1,0 +1,918 @@
+{
+    "tables": [
+        [
+            [],
+            [],
+            [
+                "ONATEL SA",
+                "60 00 XXXX - 60 99 XXXX"
+            ],
+            [
+                "61 20 XXXX - 61 39 XXXX"
+            ],
+            [
+                "61 60 XXXX - 61 79 XXXX"
+            ],
+            [
+                "61 80 XXXX - 61 99 XXXX"
+            ],
+            [
+                "Telecel FASO SA",
+                "6830 XXXX - 6839 XXXX"
+            ],
+            [
+                "AIRTEL BURKINA FASO S.A.",
+                "65 00 XXXX – 65 09 XXXX"
+            ],
+            [
+                "66 80 XXXX – 66 99 XXXX"
+            ],
+            [
+                "77 40 XXXX - 77 69 XXXX"
+            ],
+            [
+                "77 90 XXXX - 77 99 XXXX"
+            ],
+            [
+                "TELECEL FASO S.A.",
+                "68 00 XXXX - 68 29 XXXX"
+            ],
+            [
+                "79 84 XXXX - 79 99 XXXX"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "TELMOB SA",
+                "70 00 XXXX – 70 05 XXXX"
+            ],
+            [
+                "70 10 XXXX – 70 45 XXXX"
+            ],
+            [
+                "70 50 XXXX – 70 55 XXXX"
+            ],
+            [
+                "70 60 XXXX – 70 99 XXXX"
+            ],
+            [
+                "71 00 XXXX – 71 40 XXXX"
+            ],
+            [
+                "71 81 XXXX – 71 99 XXXX"
+            ],
+            [
+                "72 00 XXXX – 72 19 XXXX"
+            ],
+            [
+                "72 20 XXXX – 72 99 XXXX"
+            ],
+            [
+                "73 00 XXXX – 73 19 XXXX"
+            ],
+            [
+                "73 22 XXXX – 73 41 XXXX"
+            ],
+            [
+                "73.52 XXXX – 73.91 XXXX"
+            ],
+            [
+                "CELTEL BURKINA FASO S.A",
+                "74 00 XXXX – 74 99 XXXX"
+            ],
+            [
+                "75 00 XXXX – 75 19 XXXX"
+            ],
+            [
+                "75 30 XXXX – 75 49 XXXX"
+            ],
+            [
+                "75 60 XXXX – 75 99 XXXX"
+            ],
+            [
+                "76 00 XXXX – 76 28 XXXX"
+            ],
+            [
+                "76 31 XXXX – 76 99 XXXX"
+            ],
+            [
+                "77 20 XXXX – 77 29 XXXX"
+            ],
+            [
+                "AIRTEL BURKINA FASO S.A.",
+                "77 00 XXXX – 77 19 XXXX"
+            ],
+            [
+                "77 30 XXXX – 77 39 XXXX"
+            ],
+            [
+                "TELECEL FASO S.A.",
+                "78 00 XXXX – 78 13 XXXX"
+            ],
+            [
+                "78 37 XXXX – 78 61 XXXX"
+            ],
+            [
+                "78 72.XXXX – 78 79 XXXX"
+            ],
+            [
+                "78 80 XXXX – 78 87 XXXX"
+            ],
+            [
+                "78 90 XXXX – 78 99 XXXX"
+            ],
+            [
+                "79 00 XXXX – 79 09 XXXX"
+            ],
+            [
+                "79 13 XXXX"
+            ],
+            [
+                "79 24 XXXX – 79 68 XXXX"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "1",
+                "-",
+                "20 49 XXXX"
+            ],
+            [
+                "52 XX XX",
+                "20 52 XX XX"
+            ],
+            [
+                "53 XX XX",
+                "20 53 XX XX"
+            ],
+            [
+                "90 XX XX",
+                "20 90 XX XX"
+            ],
+            [
+                "91 XX XX",
+                "20 91 XX XX"
+            ],
+            [
+                "-",
+                "20 96 XXXX"
+            ],
+            [
+                "97 XX XX",
+                "20 97 XX XX"
+            ],
+            [
+                "98 XX XX",
+                "20 98 XX XX"
+            ],
+            [
+                "99 XX XX",
+                "20 99 XX XX"
+            ],
+            [
+                "2",
+                "30 XX XX",
+                "50 30 XX XX"
+            ],
+            [
+                "31 XX XX",
+                "50 31 XX XX"
+            ],
+            [
+                "32 XX XX",
+                "50 32 XX XX"
+            ],
+            [
+                "33 XX XX",
+                "50 33 XX XX"
+            ],
+            [
+                "34 XX XX",
+                "50 34 XX XX"
+            ],
+            [
+                "35 XX XX",
+                "50 35 XX XX"
+            ],
+            [
+                "36 XX XX",
+                "50 36 XX XX"
+            ],
+            [
+                "37 XX XX",
+                "50 37 XX XX"
+            ],
+            [
+                "38 XX XX",
+                "50 38 XX XX"
+            ],
+            [
+                "39 XX XX",
+                "50 39 XX XX"
+            ],
+            [
+                "40 XX XX",
+                "50 40 XX XX"
+            ],
+            [
+                "41 XX XX",
+                "50 41 XX XX"
+            ],
+            [
+                "42 XX XX",
+                "50 42 XX XX"
+            ],
+            [
+                "43 XX XX",
+                "50 43 XX XX"
+            ],
+            [
+                "44 XX XX",
+                "50 44 XX XX"
+            ],
+            [
+                "-",
+                "50 45 XX XX"
+            ],
+            [
+                "-",
+                "50 46 XX XX"
+            ],
+            [
+                "-",
+                "50 47 XX XX"
+            ],
+            [
+                "3",
+                "45 XX XX",
+                "40 45 XX XX"
+            ],
+            [
+                "46 XX XX",
+                "40 46 XX XX"
+            ],
+            [
+                "-",
+                "40 49 XX XX"
+            ],
+            [
+                "55 XX XX",
+                "40 55 XX XX"
+            ],
+            [
+                "70 XX XX",
+                "40 70 XX XX"
+            ],
+            [
+                "71 XX XX",
+                "40 71 XX XX"
+            ],
+            [
+                "77 XX XX",
+                "40 77 XX XX"
+            ],
+            [
+                "79 XX XX",
+                "40 79 XX XX"
+            ]
+        ],
+        [
+            [],
+            [],
+            [
+                "Banfora",
+                "xx88"
+            ],
+            [
+                "Dédougou",
+                "xx52"
+            ],
+            [
+                "Diébougou",
+                "xx86"
+            ],
+            [
+                "Dori",
+                "xx66"
+            ],
+            [
+                "Fada",
+                "4077"
+            ],
+            [
+                "Gaoua",
+                "xx87"
+            ],
+            [
+                "Kantchari",
+                "4079"
+            ],
+            [
+                "Kaya",
+                "4045 or 2049"
+            ],
+            [
+                "Koudougou",
+                "5044"
+            ],
+            [
+                "Koupéla",
+                "4070"
+            ],
+            [
+                "Orodara",
+                "2096"
+            ],
+            [
+                "Ouagadougou",
+                "5030 – 5038"
+            ],
+            [
+                "Ouahigouya",
+                "4055 or xx56"
+            ],
+            [
+                "Tenkodogo",
+                "4071"
+            ],
+            [
+                "Tougan",
+                "2053 or xx54"
+            ],
+            [
+                "",
+                "2052"
+            ],
+            [
+                "",
+                "2090"
+            ],
+            [
+                "",
+                "2091"
+            ],
+            [
+                "",
+                "2097"
+            ],
+            [
+                "",
+                "2098"
+            ],
+            [
+                "",
+                "2099"
+            ],
+            [
+                "",
+                "5039"
+            ],
+            [
+                "",
+                "5040"
+            ],
+            [
+                "",
+                "5041"
+            ],
+            [
+                "",
+                "5042"
+            ],
+            [
+                "",
+                "5043"
+            ],
+            [
+                "",
+                "5046"
+            ],
+            [
+                "",
+                "5047"
+            ],
+            [
+                "",
+                "4046"
+            ]
+        ],
+        [
+            [],
+            [
+                "AlgeriaAngolaBeninBotswanaBurkina FasoBurundiCameroonCape VerdeCentral African RepublicChadComorosDemocratic Republic of the CongoRepublic of the CongoDjiboutiEgyptEquatorial GuineaEritreaEswatiniEthiopiaGabonThe GambiaGhanaGuineaGuinea-BissauIvory CoastKenyaLesothoLiberiaLibyaMadagascarMalawiMaliMauritaniaMauritiusMoroccoMozambiqueNamibiaNigerNigeriaRwandaSão Tomé and PríncipeSenegalSeychellesSierra LeoneSomaliaSouth AfricaSouth SudanSudanTanzaniaTogoTunisiaUgandaZambiaZimbabwe"
+            ],
+            [
+                "Sahrawi Arab Democratic RepublicSomaliland"
+            ],
+            [
+                "Canary Islands/Ceuta/Melilla(Spain)Madeira(Portugal)Mayotte/Réunion(France)Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)Western Sahara"
+            ]
+        ],
+        [
+            [
+                "",
+                "ThisBurkina Faso-related article is astub. You can help Wikipedia byexpanding it."
+            ]
+        ],
+        [
+            [
+                "",
+                "This article related totelephone numbersis astub. You can help Wikipedia byexpanding it."
+            ]
+        ]
+    ],
+    "lists": [
+        [
+            "AB PQ MC DU- Calls withinBurkina Faso",
+            "+226 AB PQ MC DU- Calls from outside Burkina Faso"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "Algeria",
+            "Angola",
+            "Benin",
+            "Botswana",
+            "Burkina Faso",
+            "Burundi",
+            "Cameroon",
+            "Cape Verde",
+            "Central African Republic",
+            "Chad",
+            "Comoros",
+            "Democratic Republic of the Congo",
+            "Republic of the Congo",
+            "Djibouti",
+            "Egypt",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Eswatini",
+            "Ethiopia",
+            "Gabon",
+            "The Gambia",
+            "Ghana",
+            "Guinea",
+            "Guinea-Bissau",
+            "Ivory Coast",
+            "Kenya",
+            "Lesotho",
+            "Liberia",
+            "Libya",
+            "Madagascar",
+            "Malawi",
+            "Mali",
+            "Mauritania",
+            "Mauritius",
+            "Morocco",
+            "Mozambique",
+            "Namibia",
+            "Niger",
+            "Nigeria",
+            "Rwanda",
+            "São Tomé and Príncipe",
+            "Senegal",
+            "Seychelles",
+            "Sierra Leone",
+            "Somalia",
+            "South Africa",
+            "South Sudan",
+            "Sudan",
+            "Tanzania",
+            "Togo",
+            "Tunisia",
+            "Uganda",
+            "Zambia",
+            "Zimbabwe"
+        ],
+        [
+            "Sahrawi Arab Democratic Republic",
+            "Somaliland"
+        ],
+        [
+            "Canary Islands/Ceuta/Melilla(Spain)",
+            "Madeira(Portugal)",
+            "Mayotte/Réunion(France)",
+            "Saint Helena and Tristan da Cunha/Ascension Island(United Kingdom)",
+            "Western Sahara"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ],
+        [
+            "v",
+            "t",
+            "e"
+        ]
+    ],
+    "links": [
+        {
+            "text": "+226",
+            "href": null
+        },
+        {
+            "text": "Country Code",
+            "href": null
+        },
+        {
+            "text": "International Call Prefix",
+            "href": null
+        },
+        {
+            "text": "Trunk Prefix",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "Burkina Faso",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "[1]",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "edit",
+            "href": null
+        },
+        {
+            "text": "a",
+            "href": null
+        },
+        {
+            "text": "b",
+            "href": null
+        },
+        {
+            "text": "c",
+            "href": null
+        },
+        {
+            "text": "Burkina Faso",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "Telephone numbers in Africa",
+            "href": null
+        },
+        {
+            "text": "Algeria",
+            "href": null
+        },
+        {
+            "text": "Angola",
+            "href": null
+        },
+        {
+            "text": "Benin",
+            "href": null
+        },
+        {
+            "text": "Botswana",
+            "href": null
+        },
+        {
+            "text": "Burkina Faso",
+            "href": null
+        },
+        {
+            "text": "Burundi",
+            "href": null
+        },
+        {
+            "text": "Cameroon",
+            "href": null
+        },
+        {
+            "text": "Cape Verde",
+            "href": null
+        },
+        {
+            "text": "Central African Republic",
+            "href": null
+        },
+        {
+            "text": "Chad",
+            "href": null
+        },
+        {
+            "text": "Comoros",
+            "href": null
+        },
+        {
+            "text": "Democratic Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Republic of the Congo",
+            "href": null
+        },
+        {
+            "text": "Djibouti",
+            "href": null
+        },
+        {
+            "text": "Egypt",
+            "href": null
+        },
+        {
+            "text": "Equatorial Guinea",
+            "href": null
+        },
+        {
+            "text": "Eritrea",
+            "href": null
+        },
+        {
+            "text": "Eswatini",
+            "href": null
+        },
+        {
+            "text": "Ethiopia",
+            "href": null
+        },
+        {
+            "text": "Gabon",
+            "href": null
+        },
+        {
+            "text": "The Gambia",
+            "href": null
+        },
+        {
+            "text": "Ghana",
+            "href": null
+        },
+        {
+            "text": "Guinea",
+            "href": null
+        },
+        {
+            "text": "Guinea-Bissau",
+            "href": null
+        },
+        {
+            "text": "Ivory Coast",
+            "href": null
+        },
+        {
+            "text": "Kenya",
+            "href": null
+        },
+        {
+            "text": "Lesotho",
+            "href": null
+        },
+        {
+            "text": "Liberia",
+            "href": null
+        },
+        {
+            "text": "Libya",
+            "href": null
+        },
+        {
+            "text": "Madagascar",
+            "href": null
+        },
+        {
+            "text": "Malawi",
+            "href": null
+        },
+        {
+            "text": "Mali",
+            "href": null
+        },
+        {
+            "text": "Mauritania",
+            "href": null
+        },
+        {
+            "text": "Mauritius",
+            "href": null
+        },
+        {
+            "text": "Morocco",
+            "href": null
+        },
+        {
+            "text": "Mozambique",
+            "href": null
+        },
+        {
+            "text": "Namibia",
+            "href": null
+        },
+        {
+            "text": "Niger",
+            "href": null
+        },
+        {
+            "text": "Nigeria",
+            "href": null
+        },
+        {
+            "text": "Rwanda",
+            "href": null
+        },
+        {
+            "text": "São Tomé and Príncipe",
+            "href": null
+        },
+        {
+            "text": "Senegal",
+            "href": null
+        },
+        {
+            "text": "Seychelles",
+            "href": null
+        },
+        {
+            "text": "Sierra Leone",
+            "href": null
+        },
+        {
+            "text": "Somalia",
+            "href": null
+        },
+        {
+            "text": "South Africa",
+            "href": null
+        },
+        {
+            "text": "South Sudan",
+            "href": null
+        },
+        {
+            "text": "Sudan",
+            "href": null
+        },
+        {
+            "text": "Tanzania",
+            "href": null
+        },
+        {
+            "text": "Togo",
+            "href": null
+        },
+        {
+            "text": "Tunisia",
+            "href": null
+        },
+        {
+            "text": "Uganda",
+            "href": null
+        },
+        {
+            "text": "Zambia",
+            "href": null
+        },
+        {
+            "text": "Zimbabwe",
+            "href": null
+        },
+        {
+            "text": "Sahrawi Arab Democratic Republic",
+            "href": null
+        },
+        {
+            "text": "Somaliland",
+            "href": null
+        },
+        {
+            "text": "Canary Islands",
+            "href": null
+        },
+        {
+            "text": "Ceuta",
+            "href": null
+        },
+        {
+            "text": "Melilla",
+            "href": null
+        },
+        {
+            "text": "Madeira",
+            "href": null
+        },
+        {
+            "text": "Mayotte",
+            "href": null
+        },
+        {
+            "text": "Réunion",
+            "href": null
+        },
+        {
+            "text": "Saint Helena and Tristan da Cunha",
+            "href": null
+        },
+        {
+            "text": "Ascension Island",
+            "href": null
+        },
+        {
+            "text": "Western Sahara",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "Burkina Faso",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        },
+        {
+            "text": "",
+            "href": null
+        },
+        {
+            "text": "telephone numbers",
+            "href": null
+        },
+        {
+            "text": "stub",
+            "href": null
+        },
+        {
+            "text": "expanding it",
+            "href": null
+        },
+        {
+            "text": "v",
+            "href": null
+        },
+        {
+            "text": "t",
+            "href": null
+        },
+        {
+            "text": "e",
+            "href": null
+        }
+    ]
+}
