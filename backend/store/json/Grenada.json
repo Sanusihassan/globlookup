@@ -1,0 +1,46 @@
+{
+  "title": "Area code for Grenada, Carriacou and Petite Martinique",
+  "description": "Area code  473 is the local telephone area code of Grenada, Carriacou and Petite Martinique. The  473 area code, which spells GRE, was created during a split from the original  809 area code which began permissive dialing on  31 October  1997 and ended  31 October  1998.",
+  "coordinates": {
+    "degreesDecimal": "12.117°N  61.667°W",
+    "degreesMinutesSeconds": "12°07′N  61°40′W"
+  },
+  "areaCodes": {
+    "commonCities": [
+      {
+        "city": "North",
+        "codes": ["784"]
+      },
+      {
+        "city": "West",
+        "codes": ["Caribbean Sea"]
+      },
+      {
+        "city": "Area code  473",
+        "codes": []
+      },
+      {
+        "city": "East",
+        "codes": ["Atlantic Ocean"]
+      },
+      {
+        "city": "South",
+        "codes": ["868", "country code +58 in Venezuela"]
+      }
+    ],
+    "additionalInformation": [
+      {
+        "territory": "Saint Vincent and the Grenadines",
+        "codes": ["784"]
+      },
+      {
+        "territory": "Trinidad and Tobago",
+        "codes": ["868"]
+      }
+    ]
+  },
+  "notes": [
+    "The  473 area code has been linked to a form of telephone fraud known as the 'one ring scam'.",
+    "When the victim does this, an automatic $19.95 international call fee is charged to their account, as well as $9.00/min thereafter."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "U.S. Virgin Islands telephone area code",
+  "description": "Area code  340 is the local telephone area code of the U.S. Virgin Islands. The  340 area code was created during a split from the original  809 area code, which began permissive dialing on June  1,  1997, and ended on June  30,  1998. When in the U.S. Virgin Islands, one can dial the seven digits without the area code. When calling to the U.S. Virgin Islands from anywhere in the United States or Canada, dial  1 +  340 + the seven-digit phone number.",
+  "coordinates": {
+    "degreesDecimal": "18.350°N  64.933°W",
+    "degreesMinutesSeconds": "18°21′N  64°56′W"
+  },
+  "areaCodes": {
+    "commonCities": [
+      {
+        "city": "North",
+        "codes": ["441"]
+      },
+      {
+        "city": "West",
+        "codes": ["787", "939"]
+      },
+      {
+        "city": "Area code  340",
+        "codes": []
+      },
+      {
+        "city": "East",
+        "codes": ["284"]
+      },
+      {
+        "city": "South",
+        "codes": ["Caribbean Sea"]
+      }
+    ],
+    "additionalInformation": [
+      {
+        "territory": "Bermuda",
+        "codes": ["441"]
+      },
+      {
+        "territory": "British Virgin Islands",
+        "codes": ["284"]
+      },
+      {
+        "territory": "Puerto Rico",
+        "codes": ["787", "939"]
+      }
+    ]
+  }
+}

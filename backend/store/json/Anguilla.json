@@ -1,0 +1,36 @@
+{
+  "title": "Anguilla telephone area code",
+  "description": "Area code  264 is the telephone area code of Anguilla in the North American Numbering Plan (NANP). The area code was created as a split from the original numbering plan area with area code  809. Permissive dialing started on March  31,  1997, and ended on September  30,  1997. The area code is also represented on the telephone dial by the letter sequence ANG.",
+  "coordinates": {
+    "degreesDecimal": "18.2°N  63.05°W",
+    "degreesMinutesSeconds": "18°12′N  63°03′W"
+  },
+  "areaCodes": {
+    "commonCities": [
+      {
+        "city": "North",
+        "codes": ["Atlantic Ocean"]
+      },
+      {
+        "city": "West",
+        "codes": ["284"]
+      },
+      {
+        "city": "East",
+        "codes": ["Atlantic Ocean"]
+      },
+      {
+        "city": "South",
+        "codes": [
+          "Country code +590 in Saint Martin",
+          "area code  721 in Sint Maarten"
+        ]
+      }
+    ]
+  },
+  "notes": [
+    "In Anguilla, a local telephone number is dialed using the seven digits of the directory number.",
+    "Calls from other NANP countries, including the United States, require dialing  1  264 and the seven-digit number.",
+    "Prior to the  1990s, subscribers in Anguilla dialed just three digits for a local call, and had the only four-digit national number in the  809 area code:  4972."
+  ]
+}
