@@ -1,1 +1,80 @@
-{}
+{
+  "title": "Area code  721",
+  "description": "Area code  721 is the telephone area code in the North American Numbering Plan (NANP) for Sint Maarten, a constituent country of the Kingdom of the Netherlands in the Caribbean. The area code was assigned in  2011 after membership of the country in the NANP became effective. International dialing to the country requires the use of country code  1.",
+  "coordinates": {
+    "degreesDecimal": "18.0290°N  63.0447°W",
+    "degreesMinutesSeconds": "18°01′44″N  63°02′41″W"
+  },
+  "areaCode": "721",
+  "country": "Sint Maarten",
+  "history": "Sint Maarten became a NANP member on  30 September  2011, after having been approved for membership in  2009. Previously, Sint Maarten used the country code  599, originally assigned to the now-dissolved Netherlands Antilles, and still in use by Curaçao and the Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba). The northern French side of the island, known as Saint-Martin, does not use the North American Numbering Plan, and has the country code +590, shared with Guadeloupe and Saint Barthélemy. Calls between the two parts of the island require international calling procedures.",
+  "callingProcedure": "Callers from outside the NANP, including callers from the French side of the island, must dial the international access code (often  00) followed by  1  721. Callers within the NANP dial  1  721 and the seven-digit local telephone number. Call within the country are established with seven-digit dialing of the local telephone number.",
+  "previousCountryCode": "599",
+  "seeAlso": [
+    "List of NANP area codes",
+    "Area codes in the Caribbean",
+    "Telephone numbers in Aruba",
+    "Telephone numbers in Curaçao and the Caribbean Netherlands",
+    "Telephone numbers in the Netherlands"
+  ],
+  "references": [
+    {
+      "source": "NANP Planning Letter  423: Updated Information - Introduction of NPA  721 (Sint Maarten)",
+      "dateRetrieved": "2023-03-01"
+    },
+    {
+      "source": "TelEm Group educating the public about use of  1-721 area code for St. Maarten",
+      "dateRetrieved": "2023-03-01"
+    }
+  ],
+  "officialWebsite": "",
+  "relatedAreaCodes": {
+    "sovereignStates": [
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Canada",
+      "Costa Rica",
+      "Cuba",
+      "Dominica",
+      "Dominican Republic",
+      "El Salvador",
+      "Grenada",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Jamaica",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago",
+      "United States"
+    ],
+    "dependenciesAndOtherTerritories": [
+      "Anguilla",
+      "Aruba",
+      "Bermuda",
+      "Bonaire",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Curaçao",
+      "Greenland",
+      "Guadeloupe",
+      "Martinique",
+      "Montserrat",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saba",
+      "Sint Eustatius",
+      "Sint Maarten",
+      "Turks and Caicos Islands",
+      "United States Virgin Islands"
+    ]
+  }
+}

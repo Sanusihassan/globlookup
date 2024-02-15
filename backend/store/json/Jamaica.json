@@ -1,1 +1,38 @@
-{}
+{
+  "title": "Telephone numbers in Jamaica",
+  "areaCodes": ["876", "658"],
+  "country": "Jamaica",
+  "continent": "North America",
+  "membership": "NANP",
+  "coordinates": {
+    "degreesMinutesSeconds": "18°10′09″N   77°22′11″W",
+    "decimalDegrees": "18.1691°N   77.3698°W"
+  },
+  "areaCodeHistory": {
+    "876": {
+      "createdOn": "May   1,   1997",
+      "reason": "Split from NPA   809",
+      "centralOfficeAssignmentsStarted": "Permissive dialing period from May   1,   1997 to July   31,   1998"
+    },
+    "658": {
+      "scheduledForService": "November   30,   2018",
+      "postponedTo": "April   30,   2019",
+      "tenDigitDialingPermissiveFrom": "May   31,   2019",
+      "tenDigitDialingMandatoryFrom": "March   30,   2019",
+      "first658NumbersAssigned": "May   2023"
+    }
+  },
+  "callingScams": {
+    "876": {
+      "oneRingScam": true
+    }
+  },
+  "relatedAreaCodes": {
+    "North": "+53 in Cuba",
+    "West": "345",
+    "AreaCode": "876/658",
+    "East": "+509 in Haiti",
+    "South": "Caribbean Sea",
+    "Cayman Islands": "345"
+  }
+}

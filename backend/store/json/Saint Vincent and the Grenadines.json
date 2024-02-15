@@ -1,1 +1,65 @@
-{}
+{
+  "title": "Area code  784",
+  "description": "Area code  784 is the local telephone area code of Saint Vincent and the Grenadines. The  784 area code, or \"SVG\", was created during a split from the original  809 area code which began permissive dialing  1 June  1998 and ended  1 June  1999.",
+  "coordinates": {
+    "degreesDecimal": "12.98315°N  61.25977°W",
+    "degreesMinutesSeconds": "12°58′59″N  61°15′35″W"
+  },
+  "areaCode": "784",
+  "country": "Saint Vincent and the Grenadines",
+  "history": "The  784 area code, or \"SVG\", was created during a split from the original  809 area code which began permissive dialing  1 June  1998 and ended  1 June  1999.",
+  "callingProcedure": "When in Saint Vincent and the Grenadines, dial the local seven digit phone number alone.\nWhen calling to Saint Vincent and the Grenadines from anywhere in the United States, Canada, and most other Caribbean islands of the North American Numbering Plan, dial  1 +  784 + the local seven digit phone number.",
+  "previousAreaCode": "809",
+  "seeAlso": ["List of NANP area codes", "Area codes in the Caribbean"],
+  "references": [],
+  "officialWebsite": "",
+  "relatedAreaCodes": {
+    "sovereignStates": [
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Canada",
+      "Costa Rica",
+      "Cuba",
+      "Dominica",
+      "Dominican Republic",
+      "El Salvador",
+      "Grenada",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Jamaica",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago",
+      "United States"
+    ],
+    "dependenciesAndOtherTerritories": [
+      "Anguilla",
+      "Aruba",
+      "Bermuda",
+      "Bonaire",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Curaçao",
+      "Greenland",
+      "Guadeloupe",
+      "Martinique",
+      "Montserrat",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saba",
+      "Sint Eustatius",
+      "Sint Maarten",
+      "Turks and Caicos Islands",
+      "United States Virgin Islands"
+    ]
+  }
+}

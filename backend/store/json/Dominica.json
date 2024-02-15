@@ -1,1 +1,74 @@
-{}
+{
+  "title": "Area code  767",
+  "description": "Area code  767 is the local telephone area code of the Commonwealth of Dominica, within the North American Numbering Plan. Area  767 was created with the start of permissive dialing on  1 October  1997, ending  30 September  1998, as a split from area  809, which formerly covered  19 Caribbean territories. The number  767 corresponds to the letters ROS and may be mnemonic for Roseau, Dominica's capital city.",
+  "coordinates": {
+    "degreesDecimal": "15.45368°N  61.34766°W",
+    "degreesMinutesSeconds": "15°27′13″N  61°20′52″W"
+  },
+  "areaCode": "767",
+  "country": "Dominica",
+  "history": "Area  767 was created with the start of permissive dialing on  1 October  1997, ending  30 September  1998, as a split from area  809, which formerly covered  19 Caribbean territories. The number  767 corresponds to the letters ROS and may be mnemonic for Roseau, Dominica's capital city.",
+  "callingProcedure": "",
+  "previousAreaCode": "809",
+  "seeAlso": [
+    "Area codes in the Caribbean",
+    "List of NANP area codes",
+    "North American Numbering Plan"
+  ],
+  "references": [
+    {
+      "source": "\"767 Area Code - Location, City List, Map & Time Zone\". www.areacodelocations.info. Retrieved  2023-11-16.",
+      "dateRetrieved": "2023-11-16"
+    }
+  ],
+  "officialWebsite": "",
+  "relatedAreaCodes": {
+    "sovereignStates": [
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Canada",
+      "Costa Rica",
+      "Cuba",
+      "Dominica",
+      "Dominican Republic",
+      "El Salvador",
+      "Grenada",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Jamaica",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago",
+      "United States"
+    ],
+    "dependenciesAndOtherTerritories": [
+      "Anguilla",
+      "Aruba",
+      "Bermuda",
+      "Bonaire",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Curaçao",
+      "Greenland",
+      "Guadeloupe",
+      "Martinique",
+      "Montserrat",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saba",
+      "Sint Eustatius",
+      "Sint Maarten",
+      "Turks and Caicos Islands",
+      "United States Virgin Islands"
+    ]
+  }
+}

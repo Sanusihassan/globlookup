@@ -1,1 +1,64 @@
-{}
+{
+  "title": "Telephone numbers in the Dominican Republic",
+  "redirectedFrom": "Telephone numbers in the Dominican Republic",
+  "areaCodes": ["809", "829", "849"],
+  "country": "Dominican Republic",
+  "continent": "North America",
+  "membership": "NANP",
+  "coordinates": {
+    "degreesMinutesSeconds": "19°00′N  70°40′W",
+    "decimalDegrees": "19.000°N  70.667°W"
+  },
+  "areaCodeHistory": {
+    "809": {
+      "assignedIn": "1958",
+      "originallyFor": "Bermuda and the Caribbean islands",
+      "currentUseBy": "Dominican Republic",
+      "splitFrom": "809"
+    },
+    "829": {
+      "addedOn": "January  31,  2005",
+      "centralOfficeAssignmentsStarted": "October  1,  2005",
+      "reason": "Growth of mobile phone communication"
+    },
+    "849": {
+      "assignedOn": "July  1,  2009",
+      "centralOfficeCodeAssignmentsStarted": "2010",
+      "reason": "Continued growth of telecommunication services"
+    }
+  },
+  "callingScams": {
+    "809": {
+      "higherRateInternationalCalls": true,
+      "resurgenceWithWirelessPhones": true
+    },
+    "oneRingScam": {
+      "relatedToWirelessPhones": true,
+      "automaticCallbackNumbers": true,
+      "internationalFees": true
+    }
+  },
+  "seeAlso": [
+    "List of NANP area codes",
+    "Area codes in the Caribbean",
+    "Telecommunications in the Dominican Republic"
+  ],
+  "references": [
+    "Area code  809 (2/Jan)",
+    "NANPA Planning Letter No. PL-NANP-103 (1997-11-21)",
+    "NANPA Planning Letter No. PL-338 (2004-08-02)",
+    "NANPA Planning Letter No. PL-387R1 (2009-04-14)",
+    "New area code  849 begins February  15 in Dominican Republic",
+    "FCC Consumer Advisory:  809 Phone Scam - Beware",
+    "BBB Warns of One Ring Cell Phone Scam"
+  ],
+  "relatedAreaCodes": {
+    "North": "649",
+    "West": "Country code +509 in Haiti",
+    "AreaCode": "809/829/849",
+    "East": "787/939",
+    "South": "Caribbean Sea",
+    "Puerto Rico": "787/939",
+    "Turks and Caicos Islands": "649"
+  }
+}

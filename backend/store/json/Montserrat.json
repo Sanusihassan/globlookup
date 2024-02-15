@@ -1,1 +1,42 @@
-{}
+{
+  "title": "Area code  664",
+  "description": "Area code  664 is the North American Numbering Plan area code for Montserrat, a British Overseas Territory in the Caribbean. The digits of the area code translate to MNI in the alphanumeric mapping on telephone dials. The area code was created in a split of area code  809, with a permissive dialing period from  1 July  1996 to  1 June  1997.",
+  "coordinates": {
+    "degreesDecimal": "17.61250°N  62.28139°W",
+    "degreesMinutesSeconds": "17°36′45″N  62°16′53″W"
+  },
+  "areaCodes": {
+    "commonCities": [
+      {
+        "city": "North",
+        "codes": ["268", "869"]
+      },
+      {
+        "city": "West",
+        "codes": ["Caribbean Sea"]
+      },
+      {
+        "city": "Area code  664",
+        "codes": ["664"]
+      },
+      {
+        "city": "East",
+        "codes": ["268"]
+      },
+      {
+        "city": "South",
+        "codes": ["Country code +590 in Guadeloupe"]
+      }
+    ],
+    "additionalInformation": [
+      {
+        "territory": "Saint Kitts and Nevis",
+        "codes": ["869"]
+      },
+      {
+        "territory": "Antigua and Barbuda",
+        "codes": ["268"]
+      }
+    ]
+  }
+}

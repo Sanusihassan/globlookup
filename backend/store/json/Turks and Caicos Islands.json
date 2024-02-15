@@ -1,1 +1,42 @@
-{}
+{
+  "title": "Area code  649",
+  "description": "Area code  649 is the local telephone area code of the Turks and Caicos Islands. Area  649 was created in a split from the original area code  809. It became effective  1 June  1997 and mandatory on  31 May  1998.",
+  "coordinates": {
+    "degreesDecimal": "21.817°N  71.800°W",
+    "degreesMinutesSeconds": "21°49′N  71°48′W"
+  },
+  "areaCodes": {
+    "commonCities": [
+      {
+        "city": "North",
+        "codes": ["+1242"]
+      },
+      {
+        "city": "West",
+        "codes": ["Country Code +53 in Cuba"]
+      },
+      {
+        "city": "Area code  649",
+        "codes": []
+      },
+      {
+        "city": "East",
+        "codes": ["Atlantic Ocean"]
+      },
+      {
+        "city": "South",
+        "codes": ["+1809", "+1829", "+1849", "CC +509 in Haiti"]
+      }
+    ],
+    "additionalInformation": [
+      {
+        "territory": "Bahamas",
+        "codes": ["242"]
+      },
+      {
+        "territory": "Dominican Republic",
+        "codes": ["809", "829", "849"]
+      }
+    ]
+  }
+}

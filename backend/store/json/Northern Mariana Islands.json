@@ -1,1 +1,42 @@
-{}
+{
+  "title": "Area code 670",
+  "description": "The area code  670 is the telephone area code in the North American Numbering Plan (NANP) for the U.S. Commonwealth of the Northern Mariana Islands (CNMI). It was created with the start of permissive dialing on July  1,  1997. With the end of permissive dialing on July  1,  1998, it replaced the previous International Telecommunication Union country code +670, which is now used by East Timor.",
+  "coordinates": {
+    "degreesDecimal": "15.183°N  145.750°E",
+    "degreesMinutesSeconds": "15°11′N  145°45′E"
+  },
+  "areaCodes": {
+    "commonCities": [
+      {
+        "city": "North",
+        "codes": ["Pacific Ocean"]
+      },
+      {
+        "city": "West",
+        "codes": ["Pacific Ocean"]
+      },
+      {
+        "city": "Area code   670",
+        "codes": ["670"]
+      },
+      {
+        "city": "East",
+        "codes": ["Pacific Ocean", "808"]
+      },
+      {
+        "city": "South",
+        "codes": ["671"]
+      }
+    ],
+    "additionalInformation": [
+      {
+        "territory": "Hawaii",
+        "codes": ["808"]
+      },
+      {
+        "territory": "Guam",
+        "codes": ["671"]
+      }
+    ]
+  }
+}

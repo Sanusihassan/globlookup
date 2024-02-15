@@ -1,1 +1,30 @@
-{}
+{
+  "title": "Global Mobile Satellite System (GMSS)",
+  "description": "The Global Mobile Satellite System (GMSS) consists of several satellite phone providers serving private customers. It can be compared to PLMN (wireless telephony carriers) and PSTN (traditional wire-based telephony). As of 2023, ranges of numbers have been assigned to two GMSS carriers: Iridium Satellite LLC and Globalstar. In 1996, the ITU introduced country code +881 for direct international dialing of phones on GMSS providers. Inmarsat had already been allocated country code +870. The next digit following the country code is allocated (two at a time) to a particular GMSS carrier.",
+  "carriers": [
+    {
+      "name": "Iridium",
+      "codes": ["+881 6", "+881 7"]
+    },
+    {
+      "name": "Globalstar",
+      "codes": ["+881 8", "+881 9"]
+    }
+  ],
+  "references": [
+    {
+      "number": 1,
+      "citation": "ITU-T SG2 NCT: E.164 country code 881 plus two 1-digit ICs"
+    },
+    {
+      "number": 2,
+      "citation": "ITU-T E.164 International Shared Country Codes. ITU. Retrieved 21 August 2023."
+    }
+  ],
+  "notes": [
+    "Inmarsat is primarily a maritime service and is not generally considered part of the GMSS.",
+    "Globalstar usually allocates subscribers with a local number in the country they are based rather than using their GMSS country code.",
+    "Iridium also uses an Arizona-based access number to call Iridium phones for those unwilling or unable to call the usually expensive GMSS number directly.",
+    "Thuraya has been assigned +882-16, within the +882 range for International Networks."
+  ]
+}
