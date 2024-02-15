@@ -1,1 +1,78 @@
-{}
+{
+  "title": "Area code  758",
+  "description": "Area code  758 is the local telephone area code of Saint Lucia. The  758 area code, or \"(SLU)\", was created during a split from the original  809 area code which began permissive dialing on  1 July  1996 and ended  1 January  1997.",
+  "coordinates": {
+    "degreesDecimal": "13.88333°N  60.96667°W",
+    "degreesMinutesSeconds": "13°53′00″N  60°58′00″W"
+  },
+  "areaCode": "758",
+  "country": "Saint Lucia",
+  "history": "The  758 area code, or \"(SLU)\", was created during a split from the original  809 area code which began permissive dialing on  1 July  1996 and ended  1 January  1997.",
+  "callingProcedure": "When in Saint Lucia, use the seven digits alone. When calling to Saint Lucia from anywhere in the United States or Canada simply dial  1 (758) + seven digit phone number.",
+  "previousAreaCode": "809",
+  "seeAlso": [
+    "List of NANP area codes",
+    "North American Numbering Plan",
+    "Area codes in the Caribbean"
+  ],
+  "references": [
+    {
+      "source": "FaxUSA: A Directory of Facsimile Numbers for Businesses and Organizations Nationwide",
+      "dateRetrieved": "1997"
+    },
+    {
+      "source": "Caribbean Basin Profile",
+      "dateRetrieved": "1998"
+    }
+  ],
+  "officialWebsite": "",
+  "relatedAreaCodes": {
+    "sovereignStates": [
+      "Antigua and Barbuda",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Canada",
+      "Costa Rica",
+      "Cuba",
+      "Dominica",
+      "Dominican Republic",
+      "El Salvador",
+      "Grenada",
+      "Guatemala",
+      "Haiti",
+      "Honduras",
+      "Jamaica",
+      "Mexico",
+      "Nicaragua",
+      "Panama",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago",
+      "United States"
+    ],
+    "dependenciesAndOtherTerritories": [
+      "Anguilla",
+      "Aruba",
+      "Bermuda",
+      "Bonaire",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Curaçao",
+      "Greenland",
+      "Guadeloupe",
+      "Martinique",
+      "Montserrat",
+      "Puerto Rico",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Saba",
+      "Sint Eustatius",
+      "Sint Maarten",
+      "Turks and Caicos Islands",
+      "United States Virgin Islands"
+    ]
+  }
+}

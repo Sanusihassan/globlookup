@@ -1,1 +1,54 @@
-{}
+{
+  "title": "Trinidad & Tobago's telephone area code under the North American Numbering Plan",
+  "description": "The area code  868 is assigned to Trinidad and Tobago, a member of the North American Numbering Plan (NANP). The telephone numbering plan for the country is known as the National Numbering Plan.",
+  "coordinates": {
+    "degreesMinutesSeconds": "10°36′N  61°6′W",
+    "decimalDegrees": "10.600°N  61.100°W"
+  },
+  "areaCode": "868",
+  "country": "Trinidad and Tobago",
+  "continent": "North America",
+  "membership": "NANP",
+  "type": "Closed",
+  "format": "+1  868 nxx xxxx",
+  "accessCodes": {
+    "countryCode": "+1",
+    "internationalAccess": "011",
+    "longDistance": "1"
+  },
+  "history": {
+    "created": "1 June  1997",
+    "permissiveDialingEnded": "31 May  1998",
+    "splitFrom": "(809)"
+  },
+  "dialingProcedures": {
+    "fromNANP": {
+      "regularSevenDigitDialing": "1 +  868 + seven digit phone number"
+    },
+    "fromOutsideNANP": {
+      "internationalDialingPrefix": "00 +  1 +  868 + local seven digit phone number"
+    },
+    "withinTrinidadAndTobago": {
+      "sevenDigitDialing": "seven digit phone number"
+    }
+  },
+  "emergencyServices": {
+    "nationalOperationsCentre": "911",
+    "policeForce": "999",
+    "ambulance": "811",
+    "fire": "990",
+    "informationDirectoryAssistance": ["6411", "611"],
+    "operator": "0"
+  },
+  "operator": "",
+  "notes": [],
+  "relatedAreaCodes": {
+    "North": "246",
+    "West": "Country code +58 in Venezuela",
+    "AreaCode": "868",
+    "East": "Atlantic Ocean",
+    "South": "Country code +58 in Venezuela",
+    "Barbados": "246",
+    "Grenada": "473"
+  }
+}

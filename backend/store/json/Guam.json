@@ -1,1 +1,42 @@
-{}
+{
+  "title": "Area code   671",
+  "description": "The area code   671 is the telephone area code in the North American Numbering Plan (NANP) for the U.S. territory of Guam. It was created with the start of permissive dialing on July   1,   1997. With the end of permissive dialing on July   1,   1998, it replaced the previous International Telecommunication Union country code +671.",
+  "coordinates": {
+    "degreesDecimal": "13.443667°N  144.793722°E",
+    "degreesMinutesSeconds": "13°26′37.2″N  144°47′37.4″E"
+  },
+  "areaCodes": {
+    "commonCities": [
+      {
+        "city": "North",
+        "codes": ["670"]
+      },
+      {
+        "city": "West",
+        "codes": ["Pacific Ocean"]
+      },
+      {
+        "city": "Area code   671",
+        "codes": ["671"]
+      },
+      {
+        "city": "East",
+        "codes": ["Pacific Ocean", "808"]
+      },
+      {
+        "city": "South",
+        "codes": ["Pacific Ocean", "+691"]
+      }
+    ],
+    "additionalInformation": [
+      {
+        "territory": "Hawaii",
+        "codes": ["808"]
+      },
+      {
+        "territory": "Northern Mariana Islands",
+        "codes": ["670"]
+      }
+    ]
+  }
+}

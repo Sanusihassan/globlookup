@@ -1,1 +1,92 @@
-{}
+{
+  "title": "Area code  684",
+  "description": "Area code  684 is a telephone area code in the North American Numbering Plan (NANP) for American Samoa. The numbering plan area comprises the seven islands of Tutuila, Aunuʻu, Ofu, Olosega, Taʻū, Swains Island, and Rose Atoll.",
+  "coordinates": {
+    "degreesDecimal": "-14.3°S  170.7°W",
+    "degreesMinutesSeconds": "14°18′S  170°42′W"
+  },
+  "areaCodes": {
+    "commonCities": [
+      {
+        "city": "North",
+        "codes": ["Pacific Ocean", "808"]
+      },
+      {
+        "city": "West",
+        "codes": ["+685"]
+      },
+      {
+        "city": "Area code  684",
+        "codes": ["684"]
+      },
+      {
+        "city": "East",
+        "codes": ["Pacific Ocean"]
+      },
+      {
+        "city": "South",
+        "codes": ["Pacific Ocean", "+683"]
+      }
+    ],
+    "additionalInformation": [
+      {
+        "territory": "Hawaii",
+        "codes": ["808"]
+      }
+    ]
+  },
+  "centralOffices": [
+    {
+      "code": "622",
+      "location": "Fagaitua",
+      "company": "ASTCA"
+    },
+    {
+      "code": "633",
+      "location": "Fagatogo",
+      "company": "ASTCA"
+    },
+    {
+      "code": "644",
+      "location": "Satala",
+      "company": "ASTCA"
+    },
+    {
+      "code": "655",
+      "location": "Ofu",
+      "company": "ASTCA"
+    },
+    {
+      "code": "677",
+      "location": "Tau",
+      "company": "ASTCA"
+    },
+    {
+      "code": "688",
+      "location": "Leone",
+      "company": "ASTCA"
+    },
+    {
+      "code": "699",
+      "location": "Tafuna",
+      "company": "ASTCA"
+    },
+    {
+      "code": "691",
+      "location": "Olotele/Aoloau",
+      "company": "ASTCA"
+    },
+    {
+      "code": "733",
+      "location": "Cellular",
+      "company": "ASTCA"
+    },
+    {
+      "code": "258",
+      "location": "PCS",
+      "company": "BLUE SKY"
+    }
+  ],
+  "history": "Previous to joining the North American Numbering Plan, American Samoa used the ITU country code  684. It became the only area south of the equator that is part of the NANP. The entry of American Samoa into the North American Numbering Plan was authorized by the FCC on December  24,  2002. Area code  684 was assigned on January  24,  2003. The area code was installed on October  2,  2004, when a six-month permissive dialing period started, and central office codes were available for order. All calls within the numbering plan area are local calls, dialed with seven digits, or with the prefix  0 and the area code. The long-distance access code is  1.",
+  "dialing": "All calls within the numbering plan area are local calls, dialed with seven digits, or with the prefix  0 and the area code. The long-distance access code is  1."
+}

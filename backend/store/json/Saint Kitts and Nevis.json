@@ -1,1 +1,47 @@
-{}
+{
+  "title": "Saint Kitts and Nevis's telephone area code under the North American Numbering Plan",
+  "description": "The area code  869 is the local telephone area code of Saint Kitts and Nevis. The  869 area code was created during a split from the original (809) area code which began permissive dialing on  1 October  1996 and ended  31 March  1997.",
+  "coordinates": {
+    "degreesMinutesSeconds": "17°20′N  62°45′W",
+    "decimalDegrees": "17.333°N  62.750°W"
+  },
+  "areaCode": "869",
+  "country": "Saint Kitts and Nevis",
+  "continent": "North America",
+  "membership": "NANP",
+  "type": "Closed",
+  "format": "+1   869 nxx xxxx",
+  "accessCodes": {
+    "countryCode": "+1",
+    "internationalAccess": "011",
+    "longDistance": "1"
+  },
+  "history": {
+    "created": "1 October   1996",
+    "permissiveDialingEnded": "31 March   1997",
+    "splitFrom": "(809)"
+  },
+  "dialingProcedures": {
+    "fromNANP": {
+      "regularSevenDigitDialing": "1 +   869 + seven digit phone number"
+    },
+    "fromOutsideNANP": {
+      "internationalDialingPrefix": "00 +   1 +   869 + local seven digit phone number"
+    },
+    "withinSaintKittsAndNevis": {
+      "sevenDigitDialing": "seven digit phone number"
+    }
+  },
+  "emergencyServices": {},
+  "operator": "",
+  "notes": ["This article related to a telephone area code is a stub."],
+  "relatedAreaCodes": {
+    "North": "Country code +599 in Sint Eustatius",
+    "West": "Caribbean Sea",
+    "AreaCode": "869",
+    "East": "268",
+    "South": "664",
+    "Montserrat": "664",
+    "Antigua and Barbuda": "268"
+  }
+}
